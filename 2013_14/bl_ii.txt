@@ -1,0 +1,123 @@
+######################################################
+# Österreichische Bundesliga 2013/14 -  Frühjahr
+
+
+22. Runde // Sa.+So.
+
+08.02.2014  SV Ried              SC Wiener Neustadt  
+08.02.2014  Wolfsberger AC       FC Wacker Innsbruck  
+08.02.2014  Rapid Wien           Austria Wien  
+08.02.2014  RB Salzburg          SV Grödig  
+08.02.2014  FC Admira Wacker     Sturm Graz  
+
+23. Runde // Sa.+So.
+
+15.02.2014  SV Grödig            Wolfsberger AC  
+15.02.2014  FC Wacker Innsbruck  SV Ried  
+15.02.2014  Sturm Graz           RB Salzburg  
+15.02.2014  Austria Wien         SC Wiener Neustadt  
+15.02.2014  FC Admira Wacker     Rapid Wien  
+
+24. Runde // Sa.+So.
+
+22.02.2014  SV Ried              Sturm Graz  
+22.02.2014  Wolfsberger AC       Austria Wien  
+22.02.2014  Rapid Wien           SV Grödig  
+22.02.2014  SC Wiener Neustadt   FC Wacker Innsbruck  
+22.02.2014  RB Salzburg          FC Admira Wacker  
+
+25. Runde // Sa.+So.
+
+01.03.2014  SV Grödig            SC Wiener Neustadt  
+01.03.2014  Sturm Graz           Wolfsberger AC  
+01.03.2014  RB Salzburg          Rapid Wien  
+01.03.2014  Austria Wien         FC Wacker Innsbruck  
+01.03.2014  FC Admira Wacker     SV Ried  
+
+26. Runde // Sa.+So.
+
+08.03.2014  SV Ried              RB Salzburg  
+08.03.2014  FC Wacker Innsbruck  Rapid Wien  
+08.03.2014  Wolfsberger AC       FC Admira Wacker  
+08.03.2014  SC Wiener Neustadt   Sturm Graz  
+08.03.2014  Austria Wien         SV Grödig  
+
+27. Runde // Sa.+So.
+
+15.03.2014  SV Grödig            FC Wacker Innsbruck  
+15.03.2014  Sturm Graz           Austria Wien  
+15.03.2014  Rapid Wien           SV Ried  
+15.03.2014  RB Salzburg          Wolfsberger AC  
+15.03.2014  FC Admira Wacker     SC Wiener Neustadt  
+
+28. Runde // Sa.+So.
+
+22.03.2014  SV Ried              SV Grödig  
+22.03.2014  Sturm Graz           FC Wacker Innsbruck  
+22.03.2014  Rapid Wien           Wolfsberger AC  
+22.03.2014  RB Salzburg          SC Wiener Neustadt  
+22.03.2014  FC Admira Wacker     Austria Wien  
+
+29. Runde // Mi.
+
+26.03.2014  Wolfsberger AC       SV Ried  
+26.03.2014  SV Grödig            Sturm Graz  
+26.03.2014  SC Wiener Neustadt   Rapid Wien  
+26.03.2014  Austria Wien         RB Salzburg  
+26.03.2014  FC Wacker Innsbruck  FC Admira Wacker  
+
+30. Runde // Sa.+So.
+
+29.03.2014  FC Admira Wacker     SV Grödig  
+29.03.2014  RB Salzburg          FC Wacker Innsbruck  
+29.03.2014  Rapid Wien           Sturm Graz  
+29.03.2014  Wolfsberger AC       SC Wiener Neustadt  
+29.03.2014  SV Ried              Austria Wien  
+
+31. Runde // Sa.+So.
+
+05.04.2014  SC Wiener Neustadt   SV Ried  
+05.04.2014  FC Wacker Innsbruck  Wolfsberger AC  
+05.04.2014  Austria Wien         Rapid Wien  
+05.04.2014  SV Grödig            RB Salzburg  
+05.04.2014  Sturm Graz           FC Admira Wacker  
+
+32. Runde // Sa.+So.
+
+12.04.2014  Wolfsberger AC       SV Grödig  
+12.04.2014  SV Ried              FC Wacker Innsbruck  
+12.04.2014  RB Salzburg          Sturm Graz  
+12.04.2014  SC Wiener Neustadt   Austria Wien  
+12.04.2014  Rapid Wien           FC Admira Wacker  
+
+33. Runde // Sa.+So.
+
+19.04.2014  Sturm Graz           SV Ried  
+19.04.2014  Austria Wien         Wolfsberger AC  
+19.04.2014  SV Grödig            Rapid Wien  
+19.04.2014  FC Wacker Innsbruck  SC Wiener Neustadt  
+19.04.2014  FC Admira Wacker     RB Salzburg  
+
+34. Runde // Sa.+So.
+
+26.04.2014  SC Wiener Neustadt   SV Grödig  
+26.04.2014  Wolfsberger AC       Sturm Graz  
+26.04.2014  Rapid Wien           RB Salzburg  
+26.04.2014  FC Wacker Innsbruck  Austria Wien  
+26.04.2014  SV Ried              FC Admira Wacker  
+
+35. Runde // Sa.+So.
+
+03.05.2014  RB Salzburg          SV Ried  
+03.05.2014  Rapid Wien           FC Wacker Innsbruck  
+03.05.2014  FC Admira Wacker     Wolfsberger AC  
+03.05.2014  Sturm Graz           SC Wiener Neustadt  
+03.05.2014  SV Grödig            Austria Wien  
+
+36. Runde // Sa.+So.
+
+10.05.2014  FC Wacker Innsbruck  SV Grödig  
+10.05.2014  Austria Wien         Sturm Graz  
+10.05.2014  SV Ried              Rapid Wien  
+10.05.2014  Wolfsberger AC       RB Salzburg  
+10.05.2014  SC Wiener Neustadt   FC Admira Wacker  

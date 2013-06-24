@@ -1,15 +1,31 @@
 ########################
-# Erste Liga 2012/13
+# Erste Liga 2013/14
 #
 #  10 Teams
 
-ksv,       Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, Erste Liga/Stmk., KSV, city:kapfenberg
-altach,    SCR Altach,           Erste Liga/Vbg.,  ALT, city:altach
+mattersburg, SV Mattersburg,     Erste Liga/Bgld.,  SVM,  city:mattersburg   # from Bundesliga
+
+altach,    SCR Altach|SC Rheindorf Altach,        Erste Liga/Vbg.,  ALT, city:altach
 austrial,  SC Austria Lustenau|Austria Lustenau,  Erste Liga/Vbg.,  LUS, city:lustenau
 stpoelten, SKN St. Pölten,       Erste Liga/NÖ,    POE, city:stpoelten
-linz,      FC Blau-Weiß Linz,    Erste Liga/OÖ,    BWL, city:linz
-groedig,   SV Grödig,            Erste Liga/Sbg.,  GRO, city:groedig
-lustenau,  FC Lustenau 1907|FC Lustenau,     Erste Liga/Vbg.,  LUS, city:lustenau
-vienna,    Vienna FC 1894|First Vienna FC 1894,       Erste Liga/Wien,  VIE, city:wien
-hartberg,  TSV Hartberg,         Erste Liga/Stmk., HAR, city:hartberg
+ksv,       Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, Erste Liga/Stmk., KSV, city:kapfenberg
 horn,      SV Horn,              Erste Liga/NÖ,    HOR, city:horn
+hartberg,  TSV Hartberg,         Erste Liga/Stmk., HAR, city:hartberg
+vienna,    Vienna FC 1894|First Vienna FC 1894,       Erste Liga/Wien,  VIE, city:wien
+
+parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919, Erste Liga/Bgld.,  PAR   city:parndorf  # from Regionalliga Ost/Bgld.
+
+liefering,   FC Liefering,                              Erste Liga/Sbg.,   LIE,  city:salzburg  # from Regionalliga West - Liefering - Stadtteil von Salzburg
+
+
+# NB: 2013/14
+# bundesliga:
+# - new team SV Mattersburg
+# - old team (moved to teams.1)  SV Grödig
+#
+#  erste liga:
+# - new team  SC/ESV Parndorf 1919
+#             FC Liefering
+# - old team (moved to teams.3) FC Blau-Weiß Linz
+#                               FC Lustenau 1907
+

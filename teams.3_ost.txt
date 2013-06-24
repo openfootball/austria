@@ -1,0 +1,28 @@
+## Regional Liga Ost
+
+fac,         Floridsdorfer AC|FAC Team für Wien, www.fac.at,        Regionalliga Ost/Wien, FAC
+wienersk,    Wiener SK|Wiener Sportklub,  www.wienersportklub.at,   Regionalliga Ost/Wien, WIE
+viktoria,    Wiener Viktoria|SC Wiener Viktoria,                    Regionalliga Ost/Wien, VIK
+
+sollenau,    1. SC Sollenau|SC Sollenau,  www.sc-sollenau.at,   Regionalliga Ost/NÖ,    SOL
+amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
+retz,        SC Retz,   www.sc-retz.at,            Regionalliga Ost/NÖ,    RET
+schwechat,   SV Schwechat,         Regionalliga Ost/NÖ,  SCH
+
+oberwart,    SV Oberwart,          Regionalliga Ost/Bgld., OBE
+stegersbach, SV Stegersbach,       Regionalliga Ost/Bgld., STE
+
+
+
+## More:
+# - FK Austria Wien II
+# - FC Admira Wacker II
+# - SV Mattersburg II
+# - SK Rapid Wien II
+# 
+
+
+##  Wikipedia de:
+# fac:      Floridsdorfer_AC
+# wienersk: Wiener_Sportklub
+# sollenau: 1._SC_Sollenau
