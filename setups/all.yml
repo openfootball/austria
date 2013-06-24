@@ -12,11 +12,11 @@ leagues:
 
 teams:
 - at-austria!/teams
-- at-austria!/teams.2
-- at-austria!/teams.3_ost
-- at-austria!/teams.3_mitte
-- at-austria!/teams.3_west
-- at-austria!/teams.x
+- at-austria!/teams_2
+- at-austria!/teams_3_ost
+- at-austria!/teams_3_mitte
+- at-austria!/teams_3_west
+- at-austria!/teams_x
 
 
 ############################
@@ -28,9 +28,9 @@ teams:
 
 2012_13:
   at.2012/13: at-austria!/2012_13/bl,at-austria!/2012_13/bl_ii
-  at.2.2012/13: at-austria!/2012_13/l1
+  at.2.2012/13: at-austria!/2012_13/el
   at.cup.2012/13: at-austria!/2012_13/cup
 
 2013_14:
   at.2013/14: at-austria!/2013_14/bl,at-austria!/2013_14/bl_ii
-  at.2.2012/13: at-austria!/2013_14/l1
+  at.2.2012/13: at-austria!/2013_14/el
