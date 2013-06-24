@@ -37,7 +37,7 @@ Sa, 20.07.2013 19.00  SC Wiener Neustadt   RB Salzburg
 ~~~
 
 
-## Command Line Tool - Build Your Own `football.db` Copy
+## Build Your Own `football.db` Copy
 
 To build your own `football.db` copy from the plain text fixtures
 use the sportdb command line tool. Example:
@@ -54,8 +54,8 @@ Step 3:  Let's build the `football.db`
 
     $ sportdb setup --include ./at-austria --worldinclude ./world.db
 
-That's it. For more see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby)
-for more.
+That's it. For more
+see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
 
 
 
@@ -66,20 +66,20 @@ for more.
 Try the `football.db` Web Admin app running on Heroku
 [`footballdb.herokuapp.com/at`](http://footballdb.herokuapp.com/at).
 
-### Österreichische Bundesliga
+### Österreichische (Austrian) Bundesliga
 
-Official Site -> [`bundesliga.at`](http://bundesliga.at)
+Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 
 - Teams: 10
-- Matches: 180 (=36 Rounds x 5 Matches)
-- Rounds: 36 (each 5 Matches)
+- Matches: 180 (=36 (9x4) rounds x 5 matches)
+- Rounds: 36 (=9x4 - each 5 matches)
 
 ### Wikipedia
 
-- [Österreichische_Fußballmeisterschaft_2013/14](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2013/14)
-- [Österreichische_Fußballmeisterschaft_2012/13](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
+- [Österreichische_Fußballmeisterschaft_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2013/14)
+- [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 
-### Sport Newspapers
+### Sports Newspapers
 
 - Sport Woche (1x week)
 - Sport Zeitung (1x week)
