@@ -2,7 +2,8 @@
 # all
 
 seasons:
-- at-austria!/seasons
+- at-austria!/setups/data/seasons
+
 
 leagues:
 - at-austria!/leagues
