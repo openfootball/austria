@@ -24,14 +24,14 @@ teams:
 # fixtures
 
 2011_12:
-  at-austria!/2011_12/bl
-  at-austria!/2011_12/cup
+- at-austria!/2011_12/bl
+- at-austria!/2011_12/cup
 
 2012_13:
-  at-austria!/2012_13/bl
-  at-austria!/2012_13/el
-  at-austria!/2012_13/cup
+- at-austria!/2012_13/bl
+- at-austria!/2012_13/el
+- at-austria!/2012_13/cup
 
 2013_14:
-  at-austria!/2013_14/bl
-  at-austria!/2013_14/el
+- at-austria!/2013_14/bl
+- at-austria!/2013_14/el
