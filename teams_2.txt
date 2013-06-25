@@ -13,7 +13,7 @@ horn,      SV Horn,              Erste Liga/NÖ,    HOR, city:horn
 hartberg,  TSV Hartberg,         Erste Liga/Stmk., HAR, city:hartberg
 vienna,    Vienna FC 1894|First Vienna FC 1894,       Erste Liga/Wien,  VIE, city:wien
 
-parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919, Erste Liga/Bgld.,  PAR   city:parndorf  # from Regionalliga Ost/Bgld.
+parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919, Erste Liga/Bgld.,  PAR,  city:parndorf  # from Regionalliga Ost/Bgld.
 
 liefering,   FC Liefering,                              Erste Liga/Sbg.,   LIE,  city:salzburg  # from Regionalliga West - Liefering - Stadtteil von Salzburg
 

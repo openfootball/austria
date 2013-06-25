@@ -9,6 +9,10 @@ start_at: 2013-07-20
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
+fixtures:
+- bl
+- bl_ii
+
 
 ########
 # 10 Bundeliga Teams
