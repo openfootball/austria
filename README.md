@@ -107,9 +107,6 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 - [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
 
-
-- [Football_in_Austria](http://en.wikipedia.org/wiki/Football_in_Austria)
-
 ### ÖFB Cup
 
 - Teams: 64
@@ -122,6 +119,11 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichischer_Fußball-Cup_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2013/14)
 - [Österreichischer_Fußball-Cup_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2012/13)
 - [Österreichischer_Fußball-Cup_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2011/12)
+
+
+### Wikipedia
+
+- [Football_in_Austria](http://en.wikipedia.org/wiki/Football_in_Austria)
 
 
 ### Sports Newspapers
