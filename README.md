@@ -74,10 +74,23 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - Matches: 180 (=36 (9x4) rounds x 5 matches)
 - Rounds: 36 (=9x4 - each 5 matches)
 
-### Wikipedia
+#### Wikipedia
 
 - [Österreichische_Fußballmeisterschaft_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2013/14)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
+- [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
+
+
+### ÖFB Cup
+
+- Teams: 64
+
+#### Wikipedia
+
+- [Österreichischer_Fußball-Cup_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2011/12)
+- [Österreichischer_Fußball-Cup_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2012/13)
+- [Österreichischer_Fußball-Cup_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2013/14)
+
 
 ### Sports Newspapers
 

@@ -3,14 +3,17 @@
 #
 #  10 Teams
 
-mattersburg, SV Mattersburg,     Erste Liga/Bgld.,  SVM,  city:mattersburg   # from Bundesliga
+# NB: use three letter codes from bundesliga.at
+
+
+mattersburg, SV Mattersburg,     Erste Liga/Bgld.,  MAT,  city:mattersburg   # from Bundesliga
 
 altach,    SCR Altach|SC Rheindorf Altach,        Erste Liga/Vbg.,  ALT, city:altach
-austrial,  SC Austria Lustenau|Austria Lustenau,  Erste Liga/Vbg.,  LUS, city:lustenau
-stpoelten, SKN St. Pölten,       Erste Liga/NÖ,    POE, city:stpoelten
+austrial,  SC Austria Lustenau|Austria Lustenau,  Erste Liga/Vbg.,  ALU, city:lustenau
+stpoelten, SKN St. Pölten,       Erste Liga/NÖ,    SKN, city:stpoelten
 ksv,       Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, Erste Liga/Stmk., KSV, city:kapfenberg
-horn,      SV Horn,              Erste Liga/NÖ,    HOR, city:horn
-hartberg,  TSV Hartberg,         Erste Liga/Stmk., HAR, city:hartberg
+horn,      SV Horn,              Erste Liga/NÖ,    SVH, city:horn
+hartberg,  TSV Hartberg,         Erste Liga/Stmk., HTB, city:hartberg
 vienna,    Vienna FC 1894|First Vienna FC 1894,       Erste Liga/Wien,  VIE, city:wien
 
 parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919, Erste Liga/Bgld.,  PAR,  city:parndorf  # from Regionalliga Ost/Bgld.

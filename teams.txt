@@ -4,17 +4,19 @@
 # 10 Teams
 #
 
-austria,     FK Austria Wien|Austria Wien,       FAK,  city:wien
+# NB: use three letter codes from bundesliga.at
+
+austria,     FK Austria Wien|Austria Wien,       AUS,  city:wien
 salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,     RBS,  city:salzburg
 rapid,       SK Rapid Wien|Rapid Wien,            RAP,  city:wien
 sturm,       SK Sturm Graz|Sturm Graz,           STU,  city:graz
 wac,         Wolfsberger AC|RZ Pellets WAC,      WAC,  city:wolfsberg
 ried,        SV Ried|SV Josko Ried|SV Josko Fenster Ried,      RIE, city:ried
 admira,      FC Admira Wacker|Admira Wacker|FC Admira Wacker Mödling,   ADM, city:moedling
-innsbruck,   FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck,    IBK, city:innsbruck
+innsbruck,   FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck,    FCW, city:innsbruck
 wrneustadt,  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, WRN,  city:wrneustadt
 
-groedig,     SV Grödig,                          GRO, city:groedig
+groedig,     SV Grödig,                          SVG, city:groedig
 
 # NB: 2013/14
 # new team                     SV Grödig

@@ -1,15 +1,12 @@
-##################################
+####################
 # ÖFB Cup 2012/13
-#
-# see de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2012/13
-
 
 
 ### todo: how to mark "plain" round as knockoff k.o round in text??
 ## add property to *.yml ?
 
 
-1. Runde (Knockout)   //  Fr-So 13.-15. Juli 2012
+1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012
 
 2012-07-12 19:00  FAC Team für Wien - SCR Altach  0:1
 
@@ -28,7 +25,7 @@
 2012-07-14 18:00  SC Ostbahn XI - Wolfsberger AC       1:8
 2012-07-14 18:00  SV Oberwart - FK Austria Wien       1:3
 2012-07-14 18:00  DSV Leoben - SV Mattersburg        1:3
-2012-07-14 18:00  SC Retz - SC Austria Lustenau        1:7  ## todo: check name - is SV Retz??
+2012-07-14 18:00  SC Retz - SC Austria Lustenau        1:7
 2012-07-14 18:30  SC Bregenz - Kapfenberger SV       1:2
 2012-07-14 19:00  FC Kufstein - SV Ried      1:4
 2012-07-15 10:30  FC Wolfurt - SC Wiener Neustadt       2:2 2:4nV
@@ -85,17 +82,18 @@
 
 (4) Viertelfinale  //  Di+Mi 16.+17. April 2013
 
-2013-04-16 18:00    Rapid Wien   -    FC Pasching
-2013-04-16 20:30    FC Wacker Innsbruck  -  RB Salzburg
+2013-04-16 18:00    Rapid Wien           0:1  FC Pasching
+2013-04-16 20:30    FC Wacker Innsbruck  0:3  RB Salzburg
 
-2013-04-17 18:00    Wolfsberger AC   -  Austria Wien
-2013-04-17 20:20    SV Ried      -   LASK Linz
-
-
+2013-04-17 18:00    Wolfsberger AC       1:2  Austria Wien
+2013-04-17 20:20    SV Ried              1:1 2:1nV   LASK Linz
 
 
 (5) Halbfinale     //  Di+Mi 7.+8. Mai 2013
 
+2013-05-07   RB Salzburg  1:2  FC Pasching
+2013-05-08   SV Ried      1:3  Austria Wien
 
 (6) Finale         //  Do 30. Mai 2013
 
+2013-05-30 16:30    Austria Wien  0:1  FC Pasching     
