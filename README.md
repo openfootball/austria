@@ -11,12 +11,15 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data for Austria (Österreich) / Europe. Events include:
 
-| I   |  Österr. Bundesliga              |  10 Clubs     |
-| II  |  Erste Liga (1. Liga)            |  10 Clubs     |
-| III |  Regionalliga Ost, Mitte, West   |  3 x 16 Clubs |
+| Level |                                  |               |
+| ----- | -------------------------------- | ------------- |
+| I     |  Österr. Bundesliga              |  10 Clubs     |
+| II    |  Erste Liga (1. Liga)            |  10 Clubs     |
+| III   |  Regionalliga Ost, Mitte, West   |  3 x 16 Clubs |
 
 
-| ÖFB (Austrian) Cup              | Cup     |
+-  ÖFB (Austrian) Cup
+
 
 Example:
 
@@ -76,15 +79,18 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - Matches: 180  (=36 (9x4) rounds x 5 matches)
 - Rounds: 36 (=9x4 - each 5 matches)
 
+| Level |                   |                |
+| ----- | ------------------- | -------------- |
+|   I   | Österr. Bundesliga  | 10 Clubs       |
+|       |   ↓↑ 1 club                          |
+|   II  | Erste Liga          | 10 Clubs       |
+|       |   ↓↑ 1-2 clubs                       |
+|       |   ↑ 0-1 club                |   ↑ 0-1 club                     |     ↑ 0-1 club                 |
+|   III | Regionalliga Ost | 16 Clubs |   Regionalliga Mitte | 16 Clubs  |   Regionalliga West | 16 Clubs |
+|       |   ↓ 2-5 clubs               |   ↓ 2-5 clubs                    |     ↓ 2-5 clubs                |
 
-| I   | Österr. Bundesliga  | 10 Clubs       |
-|     |   ↓↑ 1 club                          |
-| II  | Erste Liga          | 10 Clubs       |
-|     |   ↓↑ 1-2 clubs                       |
-|     |   ↑ 0-1 club                |   ↑ 0-1 club                     |     ↑ 0-1 club                 |
-| III | Regionalliga Ost | 16 Clubs |   Regionalliga Mitte | 16 Clubs  |   Regionalliga West | 16 Clubs |
-|     |   ↓ 2-5 clubs               |   ↓ 2-5 clubs                    |     ↓ 2-5 clubs                |
 
+| ---- | ------------------- | -------------- |
 | IV   | Landesliga Burgenland        | 16 clubs | ↑ 1 club |
 |      | Landesliga Niederösterreich  | 16 clubs | ↑ 1 club |
 |      | Wiener Stadtliga             | 16 clubs | ↑ 1 club |
