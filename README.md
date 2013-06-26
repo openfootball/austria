@@ -23,7 +23,7 @@ Free open public domain football data for Austria (Österreich) / Europe. Events
 Example:
 
 ~~~
-### Bundesliga Teams
+### Österr. Bundesliga Teams
 
 austria,     FK Austria Wien|Austria Wien,                   AUS,  city:wien
 salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
@@ -31,7 +31,7 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ~~~
 
 ~~~
-### Bundesliga 2013/14
+### Österr. Bundesliga 2013/14
 
 1. Runde  //  Sa+So 20.+21. Jul 2013
 
@@ -106,6 +106,7 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichische_Fußballmeisterschaft_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2013/14)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 - [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
+
 
 - [Football_in_Austria](http://en.wikipedia.org/wiki/Football_in_Austria)
 
