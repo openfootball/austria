@@ -11,17 +11,19 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data for Austria (Österreich) / Europe. Events include:
 
-- Österr. Bundesliga
-- Erste Liga (1. Liga)
-- Regionalliga Ost/Mitte/West
-- ÖFB Cup
+| I   |  Österr. Bundesliga              |  10 Clubs     |
+| II  |  Erste Liga (1. Liga)            |  10 Clubs     |
+| III |  Regionalliga Ost, Mitte, West   |  3 x 16 Clubs |
+
+
+| ÖFB (Austrian) Cup              | Cup     |
 
 Example:
 
 ~~~
 ### Bundesliga Teams
 
-austria,     FK Austria Wien|Austria Wien,                   FAK,  city:wien
+austria,     FK Austria Wien|Austria Wien,                   AUS,  city:wien
 salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ...
 ~~~
@@ -71,8 +73,30 @@ Try the `football.db` Web Admin app running on Heroku
 Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 
 - Teams: 10
-- Matches: 180 (=36 (9x4) rounds x 5 matches)
+- Matches: 180  (=36 (9x4) rounds x 5 matches)
 - Rounds: 36 (=9x4 - each 5 matches)
+
+
+| I   | Österr. Bundesliga  | 10 Clubs       |
+|     |   ↓↑ 1 club                          |
+| II  | Erste Liga          | 10 Clubs       |
+|     |   ↓↑ 1-2 clubs                       |
+|     |   ↑ 0-1 club                |   ↑ 0-1 club                     |     ↑ 0-1 club                 |
+| III | Regionalliga Ost | 16 Clubs |   Regionalliga Mitte | 16 Clubs  |   Regionalliga West | 16 Clubs |
+|     |   ↓ 2-5 clubs               |   ↓ 2-5 clubs                    |     ↓ 2-5 clubs                |
+
+| IV   | Landesliga Burgenland        | 16 clubs | ↑ 1 club |
+|      | Landesliga Niederösterreich  | 16 clubs | ↑ 1 club |
+|      | Wiener Stadtliga             | 16 clubs | ↑ 1 club |
+
+|      | Landesliga Steiermark        | 16 clubs | ↑ 1 club |
+|      | Landesliga Oberösterreich    | 14 clubs | ↑ 1 club |
+|      | Landesliga Kärnten           | 16 clubs | ↑ 1 club |
+
+|      | Landesliga Salzburg          | 16 clubs | ↑ 1 club |
+|      | Tiroler Liga                 | 16 clubs | ↑ 1 club |
+|      | Landesliga Vorarlberg        | 14 clubs | ↑ 1 club |
+
 
 #### Wikipedia
 
@@ -80,16 +104,20 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 - [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
 
+- [Football_in_Austria](http://en.wikipedia.org/wiki/Football_in_Austria)
 
 ### ÖFB Cup
 
 - Teams: 64
 
+ÖFB = Österreichischer Fußball-Bund (Austrian Football Association)
+
+
 #### Wikipedia
 
-- [Österreichischer_Fußball-Cup_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2011/12)
-- [Österreichischer_Fußball-Cup_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2012/13)
 - [Österreichischer_Fußball-Cup_2013/14 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2013/14)
+- [Österreichischer_Fußball-Cup_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2012/13)
+- [Österreichischer_Fußball-Cup_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2011/12)
 
 
 ### Sports Newspapers
