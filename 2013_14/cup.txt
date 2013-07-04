@@ -1,0 +1,76 @@
+####################
+# ÖFB Cup 2013/14
+
+
+### todo: how to mark "plain" round as knockoff k.o round in text??
+## add property to *.yml ?
+
+
+1. Runde (Knockout)   //  Fr-So 12.-14. Juli 2013
+
+## 2013-07-12   SAK Klagenfurt  -  Union Vöcklamarkt  # RL-RL
+## 2013-07-12   SC Leopoldsdorf i. Mfd.  -  SC/ESV Parndorf 1919  # L5-RL
+
+2013-07-12   FC Dornbirn 1913  -  First Vienna FC 1894
+2013-07-12   DSV Leoben  -  KSV 1919
+2013-07-12   SV Wals–Grünau  -  SKN St. Pölten
+2013-07-12   SV Lafnitz  -  SCR Altach
+
+## 2013-07-13   SC Pinkafeld  - TSV Neumarkt   # L5-RL
+
+2013-07-13   Dornbirner SV  -  FC Kitzbühel
+2013-07-13   FC Hard   - SV Horn
+
+## 2013-07-13   SC Retz  -  SK Vorwärts Steyr   # RL-RL
+## 2013-07-13   FC St. Veit  -  FC Lankowitz    # LL-L5
+
+2013-07-13   SC Schwaz  -  Wolfsberger AC
+
+## 2013-07-13   SC Mannsdorf  -  FC Gratkorn    # LL-RL
+
+2013-07-13   TSV St. Johann im Pongau -  FC Pasching   # RL-RL  - Ausnahme - Cup Sieger!
+2013-07-13   SV Stegersbach  -  SC Austria Lustenau
+
+## 2013-07-13   SV Schwechat  -  SC Kalsdorf   # RL-RL
+
+2013-07-13   1. SC Sollenau  -  Wiener SK   # RL-RL  - Ausnahme - Wiener SK!
+
+## 2013-07-13   FAC Team für Wien  -  FC Kufstein  #  RL-RL
+
+2013-07-13   SV Austria Salzburg  -  SV Grödig
+2013-07-13   SV Oberwart  -  FK Austria Wien
+2013-07-13   ASV Draßburg  -  SC Wiener Neustadt
+2013-07-13   Union St. Florian  -  FC RB Salzburg
+2013-07-13   SC Team Wiener Linien  -  SK Sturm Graz
+
+## 2013-07-13   ATSV Ober-Grafendorf  -  SKU Amstetten   # LL-RL
+## 2013-07-13   SK Austria Klagenfurt  -  SC Wiener Viktoria  # RL-LL
+
+2013-07-13   SC Bregenz  -  SV Ried
+
+## 2013-07-13   Villacher SV  -  WSG Wattens
+
+2013-07-13   SV Seekirchen 1945  -  FC Admira Wacker Mödling
+2013-07-13   FC Blau Weiß Linz  -  SV Mattersburg
+2013-07-13   ASK Bad Vöslau  -  TSV Hartberg
+
+2013-07-14   LASK Linz  -  SK Rapid Wien
+2013-07-14   USV Allerheiligen  -  FC Wacker Innsbruck
+
+
+
+
+2. Runde (Knockout)  //  Di+Mi 24.+25. Sep 2013
+
+
+(3) Achtelfinale   //  Di+Mi 29.+30. Okt 2013
+
+
+(4) Viertelfinale  //  Di+Mi 15.+16. April 2014
+
+
+(5) Halbfinale     //  Di+Mi 6.+7. Mai 2014
+
+
+(6) Finale         //  So 18. Mai 2014
+

@@ -1,0 +1,75 @@
+##################################
+# ÖFB Cup 2013/14
+
+league: at.cup
+season: 2013/14
+start_at: 2013-07-12
+team3: false      # no game for 3rd/4th place
+
+
+teams:
+- austria      # -- 10 Bundeliga Teams
+- salzburg
+- rapid
+- sturm
+- wac
+- ried
+- wrneustadt
+- innsbruck
+- admira
+- groedig
+- mattersburg    # -- 10-1 Erste Liga Teams  ( minus FC Liefering)
+- altach
+- austrial
+- stpoelten
+- ksv
+- horn
+- hartberg
+- parndorf
+- vienna
+- lask         # -- 2 Relegationsverlierer
+- linz
+- oberwart     # (B) -- Regionalliga
+- stegersbach  # (B)
+- amstetten       # (NÖ)
+- obergrafendorf  # (NÖ)
+- retz            # (NÖ)
+- sollenau        # (NÖ)
+- fac             # (W)
+- schwechat       # (NÖ)  - is W??
+- wienersk        # (W)
+- pasching        # (OÖ)
+- stflorian       # (OÖ)
+- voecklamarkt    # (OÖ)
+- klagenfurt      # (K)
+- austriak        # (K)
+- allerheiligen   # (ST)
+- leoben          # (ST)
+- gratkorn        # (ST)
+- kalsdorf        # (ST)
+- neumarkt        # (S)
+- stjohann        # (S)
+- seekirchen      # (S)
+- walsgruenau     # (S)
+- schwaz          # (T)
+- wattens         # (T)
+- bregenz         # (V)
+- dornbirn        # (V)
+- hard            # (V)
+- pinkafeld       # (B)    -- Landesliga
+- stveit          # (K)
+- badvoeslau      # (NÖ)
+- mannsdorf       # (NÖ)
+- lankowitz       # (ST)
+- kitzbuehel      # (T)
+- viktoria        # (W)
+- drassburg       # (B)    -- Landes-Cup Sieger
+- vsv             # (K)
+- leopoldsdorf    # (NÖ)
+- steyr           # (OÖ)
+- austrias        # (S)
+- lafnitz         # (ST)
+- kufstein        # (T)
+- dornbirnersv    # (V)
+- wienerlinien    # (W)
+

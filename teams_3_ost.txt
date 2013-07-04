@@ -9,6 +9,8 @@ sollenau,    1. SC Sollenau|SC Sollenau,  www.sc-sollenau.at,   Regionalliga Ost
 amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
 retz,        SC Retz,   www.sc-retz.at,            Regionalliga Ost/NÖ,    RET
 schwechat,   SV Schwechat,         Regionalliga Ost/NÖ,  SCH
+obergrafendorf, ATSV Ober-Grafendorf, Regionalliga Ost/NÖ 
+
 
 oberwart,    SV Oberwart,          Regionalliga Ost/Bgld., OBE
 stegersbach, SV Stegersbach,       Regionalliga Ost/Bgld., STE

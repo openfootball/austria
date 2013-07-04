@@ -4,6 +4,10 @@ austrias,     SV Austria Salzburg,   Regionalliga West/Sbg.,  AUS
 stjohann,     TSV St. Johann,        Regionalliga West/Sbg.,  STJ
 salzburgii,   FC RB Juniors Salzburg|FC Red Bull Salzburg II,  Regionalliga West/Sbg.
 
+neumarkt,     TSV Neumarkt am Wallersee,   Regionalliga West/Sbg.
+seekirchen,   SV Seekirchen 1945,  Regionalliga West/Sbg.
+walsgruenau,  SV Wals-Grünau,  Regionalliga West/Sbg.
+
 kufstein, FC Kufstein,      Regionalliga West/Tirol, KUF
 wattens,  WSG Wattens,      Regionalliga West/Tirol, WAT
 schwaz,   SC Schwaz,        Regionalliga West/Tirol, SCH

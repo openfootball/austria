@@ -25,3 +25,23 @@ gaflenz,       SV Gaflenz,            Landesliga/NÖ,    GAF
 ardagger,      Ardagger SCU,          Landesliga/NÖ,    ARD
 rohrendorf,    SC Rohrendorf,         2. Landesliga West/NÖ, ROH
 heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
+
+
+steyr, SK Vorwärts Steyr  # (OÖ)
+
+pinkafeld,  SC Pinkafeld  # (B)
+drassburg,  ASV Draßburg  # (B)
+
+stveit,    FC St. Veit    # (K)
+
+mannsdorf, SC Mannsdorf   # (NÖ)
+leopoldsdorf, SC Leopoldsdorf  # (NÖ)
+
+lankowitz, FC Lankowitz   # (ST)
+lafnitz,   SV Lafnitz     # (ST)
+
+kitzbuehel, FC Kitzbühel  # (T)
+
+dornbirnersv, Dornbirner SV  # (V)
+
+wienerlinien, Team Wiener Linien  # (W)
