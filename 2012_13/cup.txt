@@ -8,63 +8,63 @@
 
 1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012
 
-2012-07-12 19:00  FAC Team für Wien - SCR Altach  0:1
+2012-07-12 19:00  FAC Team für Wien   0:1   SCR Altach
 
-2012-07-13 19:00  Deutschlandsberger SC  - TSV Hartberg         1:2
-2012-07-13 19:00  FC Gratkorn - FC Wacker Innsbruck     0:0 0:0nV 4:5iE
-2012-07-13 19:00  SC-ESV Parndorf 1919 - FC Admira Wacker Mödling      0:3
-2012-07-13 19:00  Union Vöcklamarkt - FC Lustenau 07  3:4
-2012-07-13 19:00  WSG Wattens - SK Sturm Graz       0:1
-2012-07-13 19:15  FC Pinzgau Saalfelden - SV Grödig       0:4
-2012-07-13 19:30  Union St. Florian - FC Blau-Weiß Linz     2:1
-2012-07-13 19:30  SK Austria Klagenfurt - SV Horn      3:2
-2012-07-13 20:00  Grazer AK - First Vienna FC 1894         2:2 3:2nV
-2012-07-13 20:30  Wiener Sportklub - FC Red Bull Salzburg     0:2
+2012-07-13 19:00  Deutschlandsberger SC   1:2  TSV Hartberg
+2012-07-13 19:00  FC Gratkorn             0:0 0:0nV 4:5iE   FC Wacker Innsbruck
+2012-07-13 19:00  SC-ESV Parndorf 1919    0:3  FC Admira Wacker Mödling
+2012-07-13 19:00  Union Vöcklamarkt       3:4  FC Lustenau 07
+2012-07-13 19:00  WSG Wattens             0:1  SK Sturm Graz
+2012-07-13 19:15  FC Pinzgau Saalfelden   0:4  SV Grödig
+2012-07-13 19:30  Union St. Florian       2:1  FC Blau-Weiß Linz
+2012-07-13 19:30  SK Austria Klagenfurt   3:2  SV Horn
+2012-07-13 20:00  Grazer AK               2:2 3:2nV   First Vienna FC 1894
+2012-07-13 20:30  Wiener Sportklub        0:2  FC Red Bull Salzburg
 
-2012-07-14 17:00  ASK Bad Vöslau - SKN St. Pölten     1:0
-2012-07-14 18:00  SC Ostbahn XI - Wolfsberger AC       1:8
-2012-07-14 18:00  SV Oberwart - FK Austria Wien       1:3
-2012-07-14 18:00  DSV Leoben - SV Mattersburg        1:3
-2012-07-14 18:00  SC Retz - SC Austria Lustenau        1:7
-2012-07-14 18:30  SC Bregenz - Kapfenberger SV       1:2
-2012-07-14 19:00  FC Kufstein - SV Ried      1:4
-2012-07-15 10:30  FC Wolfurt - SC Wiener Neustadt       2:2 2:4nV
-2012-07-15 18:00  SV Heiligenkreuz - SK Rapid Wien 0:5
+2012-07-14 17:00  ASK Bad Vöslau    1:0   SKN St. Pölten
+2012-07-14 18:00  SC Ostbahn XI     1:8   Wolfsberger AC
+2012-07-14 18:00  SV Oberwart       1:3   FK Austria Wien
+2012-07-14 18:00  DSV Leoben        1:3   SV Mattersburg
+2012-07-14 18:00  SC Retz           1:7   SC Austria Lustenau
+2012-07-14 18:30  SC Bregenz        1:2   Kapfenberger SV
+2012-07-14 19:00  FC Kufstein       1:4   SV Ried
+2012-07-15 10:30  FC Wolfurt        2:2 2:4nV   SC Wiener Neustadt
+2012-07-15 18:00  SV Heiligenkreuz  0:5   SK Rapid Wien
 
 
-#  2012-07-13 18:30  FC Hard - SC Schwaz   1:0
-#  2012-07-13 19:00  FC Pasching - Sportverein Austria Salzburg    2:1
-#  2012-07-13 19:00  SC Kalsdorf - SV Wallern    3:1
-#  2012-07-13 19:00  Villacher SV - FC Rohrendorf/Gedersdorf         4:2
-#  2012-07-13 19:30  SKU Amstetten - SV Schwechat   0:1
-#  2012-07-13 19:30  Salzburger AK 1914 - USV Allerheiligen         0:5
-#  2012-07-14 17:00  SV Stegersbach - SV Reutte  2:2 3:2nV
-#  2012-07-14 17:00  SV Grün-Weiß Micheldorf - SC Wiener Viktoria   0:1
-#  2012-07-14 18:00  SAK Klagenfurt - TSV St. Johann im Pongau   1:2
-#  2012-07-14 18:00  LASK Linz - SV Spittal/Drau       7:0
-#  2012-07-14 18:00  SV Gaflenz - 1. SC Sollenau   1:2
-#  2012-07-14 19:00  SCU Ardagger - FC Dornbirn    2:2 2:3nV
+#  2012-07-13 18:30  FC Hard        1:0   SC Schwaz
+#  2012-07-13 19:00  FC Pasching    2:1   Sportverein Austria Salzburg
+#  2012-07-13 19:00  SC Kalsdorf    3:1   SV Wallern
+#  2012-07-13 19:00  Villacher SV   4:2   FC Rohrendorf/Gedersdorf
+#  2012-07-13 19:30  SKU Amstetten  0:1   SV Schwechat
+#  2012-07-13 19:30  Salzburger AK 1914  0:5  USV Allerheiligen
+#  2012-07-14 17:00  SV Stegersbach  2:2 3:2nV  SV Reutte
+#  2012-07-14 17:00  SV Grün-Weiß Micheldorf  0:1  SC Wiener Viktoria
+#  2012-07-14 18:00  SAK Klagenfurt  1:2  TSV St. Johann im Pongau
+#  2012-07-14 18:00  LASK Linz   7:0   SV Spittal/Drau
+#  2012-07-14 18:00  SV Gaflenz  1:2   1. SC Sollenau
+#  2012-07-14 19:00  SCU Ardagger  2:2 2:3nV  FC Dornbirn
 
 
 2. Runde (Knockout)  //  Di+Mi 25.+26. Sep 2012
 
-2012-09-24 19:00  SC Kalsdorf - TSV Hartberg     3:0
-2012-09-25 16:00  SC Wiener Viktoria - Kapfenberger SV 1919   2:2 3:3nV 7:4iE
-2012-09-25 16:30  FC Hard -  SCR Altach        0:3
-2012-09-25 18:00  SV Stegersbach - RB Salzburg    1:3
-2012-09-25 19:00  FC Pasching - Austria Lustenau  1:1 3:2nV
-2012-09-25 19:00  SG Austria Klagenfurt - FC Admira Wacker     0:0 2:0nV
-2012-09-25 19:00  SV Schwechat - Sturm Graz   0:5
-2012-09-25 19:00  LASK Linz - SV Grödig          2:0
-2012-09-25 19:00  TSV St. Johann - FC Lustenau      0:3
-2012-09-25 19:00  SC Sollenau - FC Wacker Innsbruck    1:1 1:5nV
-2012-09-25 19:00  Villacher SV - SC Wiener Neustadt        3:1
-2012-09-25 20:30  FC Dornbirn - Austria Wien       2:3
+2012-09-24 19:00  SC Kalsdorf   3:0   TSV Hartberg
+2012-09-25 16:00  SC Wiener Viktoria   2:2 3:3nV 7:4iE  Kapfenberger SV 1919
+2012-09-25 16:30  FC Hard       0:3   SCR Altach
+2012-09-25 18:00  SV Stegersbach   1:3  RB Salzburg
+2012-09-25 19:00  FC Pasching   1:1 3:2nV   Austria Lustenau
+2012-09-25 19:00  SG Austria Klagenfurt  0:0 2:0nV  FC Admira Wacker
+2012-09-25 19:00  SV Schwechat    0:5   Sturm Graz
+2012-09-25 19:00  LASK Linz       2:0   SV Grödig
+2012-09-25 19:00  TSV St. Johann  0:3   FC Lustenau
+2012-09-25 19:00  SC Sollenau    1:1 1:5nV   FC Wacker Innsbruck
+2012-09-25 19:00  Villacher SV   3:1   SC Wiener Neustadt
+2012-09-25 20:30  FC Dornbirn    2:3   Austria Wien
 
-2012-09-26 16:00  ASK Bad Vöslau - SV Mattersburg     2:3
-2012-09-26 19:00  Union St. Florian - SV Ried      1:1 1:1nV 5:6iE
-2012-09-26 19:00  USV Allerheiligen - Rapid Wien  1:4
-2012-09-26 20:20  Grazer AK - Wolfsberger AC           0:6
+2012-09-26 16:00  ASK Bad Vöslau   2:3   SV Mattersburg
+2012-09-26 19:00  Union St. Florian   1:1 1:1nV 5:6iE   SV Ried
+2012-09-26 19:00  USV Allerheiligen   1:4   Rapid Wien
+2012-09-26 20:20  Grazer AK           0:6   Wolfsberger AC
 
 
 (3) Achtelfinale   //  Di+Mi 30.+31. Okt 2012
