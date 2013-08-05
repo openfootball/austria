@@ -17,12 +17,12 @@ pinzgau,  FC Pinzgau Saalfelden,    PIN   # from  Regionalliga West/Sbg.
 wolfurt,       FC Wolfurt,            Vorarlberg Liga,  WOL
 reutte,        SV Reutte,             Tirol Liga,       REU
 spittal,       SV Spittal/Drau,       Kärntner Liga,    SPI
-sak,           SAK 1914,              Salzburger Liga,  SAK
+sak,           SAK 1914|Salzburger AK 1914,   Salzburger Liga,  SAK
 dsc,           Deutschlandsberger SC, Landesliga/Stmk., DSC
-micheldorf,    SV Micheldorf,         OÖ Liga,          MIC
+micheldorf,    SV Micheldorf|SV Grün-Weiß Micheldorf,         OÖ Liga,          MIC
 badvoeslau,    ASK Bad Vöslau,        Landesliga/NÖ,    VOE
 gaflenz,       SV Gaflenz,            Landesliga/NÖ,    GAF
-ardagger,      Ardagger SCU,          Landesliga/NÖ,    ARD
+ardagger,      Ardagger SCU|SCU Ardagger,       Landesliga/NÖ,    ARD
 rohrendorf,    SC Rohrendorf,         2. Landesliga West/NÖ, ROH
 heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
 
