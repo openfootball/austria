@@ -65,11 +65,6 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ## Links
 
-### Web Admin App
-
-Try the `football.db` Web Admin app running on Heroku
-[`footballdb.herokuapp.com/at`](http://footballdb.herokuapp.com/at).
-
 ### Österreichische (Austrian) Bundesliga
 
 Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
@@ -107,11 +102,11 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 - [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
 
-### ÖFB Cup
+### ÖFB [^1] Cup
 
-- Teams: 64
+- 64 Teams
 
-ÖFB = Österreichischer Fußball-Bund (Austrian Football Association)
+[^1]: ÖFB = Österreichischer Fußball-Bund (Austrian Football Association)
 
 
 #### Wikipedia
@@ -129,7 +124,7 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 ### Sports Newspapers
 
 - Sport Woche (1x week)
-- Sport Zeitung (1x week)
+- Sport Zeitung (1x week - ~30.000 Issues/Auflage - Euro 1.95 ??)
 
 
 
