@@ -1,10 +1,6 @@
 ####
 # all
 
-seasons:
-- at-austria!/setups/data/seasons
-
-
 leagues:
 - at-austria!/leagues
 
