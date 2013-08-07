@@ -43,24 +43,8 @@ Sa, 20.07.2013 19.00  SC Wiener Neustadt   RB Salzburg
 
 ## Build Your Own `football.db` Copy
 
-To build your own `football.db` copy from the plain text fixtures
-use the sportdb command line tool. Example:
-
-Step 1:  Get a copy of the `world.db` fixtures
-
-    $ git clone git://github.com/geraldb/world.db.git
-
-Step 2:  Get a copy the `at-austria` fixtures
-
-    $ git clone git://github.com/openfootball/at-austria.git
-
-Step 3:  Let's build the `football.db`
-
-    $ sportdb setup --include ./at-austria --worldinclude ./world.db
-
-That's it. For more
-see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
-
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
 ## Links
@@ -102,11 +86,11 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 - [Österreichische_Fußballmeisterschaft_2012/13 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13)
 - [Österreichische_Fußballmeisterschaft_2011/12 (de)](http://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12)
 
-### ÖFB [^1] Cup
+### ÖFB¹ Cup
 
 - 64 Teams
 
-[^1]: ÖFB = Österreichischer Fußball-Bund (Austrian Football Association)
+¹: ÖFB = Österreichischer Fußball-Bund (Austrian Football Association)
 
 
 #### Wikipedia
@@ -123,8 +107,8 @@ Official Site - [`bundesliga.at` (de)](http://bundesliga.at)
 
 ### Sports Newspapers
 
-- Sport Woche (1x week)
-- Sport Zeitung (1x week - ~30.000 Issues/Auflage - Euro 1.95 ??)
+- Sport Woche (1x week, Di.,   € 1.90; Abo € 49.90/Year)
+- Sport Zeitung (1x week, Di., ~30.000 Issues/Auflage - € 1.80; Abo € 69.90/Year)
 
 
 
