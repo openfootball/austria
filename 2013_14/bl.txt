@@ -64,11 +64,10 @@ So, 25.08.2013 16.30   Wolfsberger AC    1:4     Austria Wien
 
 7. Runde // Sa.+So.
  
-Sa, 31.08.2013 16.30  Sturm Graz        4:1       Wolfsberger AC
-Sa, 31.08.2013 19.00  SV Grödig         3:6       SC Wiener Neustadt
+Sa, 31.08.2013 16.30  Sturm Graz        4:1      Wolfsberger AC
+Sa, 31.08.2013 19.00  SV Grödig         3:6      SC Wiener Neustadt
 Sa, 31.08.2013 19.00  Austria Wien      1:1      FC Wacker Innsbruck
-Sa, 31.08.2013 19.00  FC Admira Wacker  1:4   SV Ried
-
+Sa, 31.08.2013 19.00  FC Admira Wacker  1:4      SV Ried
 So, 01.09.2013 16.30   RB Salzburg      1:1      Rapid Wien
 
 
@@ -106,11 +105,11 @@ So, 01.09.2013 16.30   RB Salzburg      1:1      Rapid Wien
 
 12. Runde // Sa.+So.
  
-19.10.2013  FC Admira Wacker     SV Grödig
-19.10.2013  RB Salzburg          FC Wacker Innsbruck
-19.10.2013  Rapid Wien           Sturm Graz
-19.10.2013  Wolfsberger AC       SC Wiener Neustadt
-19.10.2013  SV Ried              Austria Wien
+19.10.2013  FC Admira Wacker 0:4    SV Grödig
+19.10.2013  RB Salzburg      6:0    FC Wacker Innsbruck
+19.10.2013  Rapid Wien       2:2    Sturm Graz
+19.10.2013  Wolfsberger AC   1:1    SC Wiener Neustadt
+19.10.2013  SV Ried          1:1    Austria Wien
 
 13. Runde // Sa.+So.
  
