@@ -85,13 +85,13 @@
 2013-10-28  SC Kalsdorf          0:4  SKN St. Pölten
 2013-10-28  SV Horn              5:4  SC/ESV Parndorf
 
-2013-10-29  SAK Klagenfurt       -  SV Ried
-2013-10-29  FC Pasching          -  Wolfsberger AC
-2013-10-29  FC Admira Wacker     -  First Vienna FC 1894
-2013-10-29  SKU Amstetten        -  SV Mattersburg
-2013-10-29  KSV 1919             -  FC RB Salzburg
+2013-10-29  SAK Klagenfurt       0:1  SV Ried
+2013-10-29  FC Pasching          2:2 2:4nV  Wolfsberger AC
+2013-10-29  FC Admira Wacker     3:1  First Vienna FC 1894
+2013-10-29  SKU Amstetten        2:0  SV Mattersburg
+2013-10-29  KSV 1919             1:7  FC RB Salzburg
 
-2013-10-30  SC Austria Lustenau  -  SK Sturm Graz
+2013-10-30  SC Austria Lustenau  0:4  SK Sturm Graz
 
 
 (4) Viertelfinale  //  Di+Mi 15.+16. April 2014
