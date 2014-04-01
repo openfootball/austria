@@ -2,6 +2,3 @@
 # Österreichische Erste Liga (1. Liga) 2013/14
 
 
-# add fixtures here
-
-
