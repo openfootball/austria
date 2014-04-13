@@ -104,10 +104,10 @@
 
 32. Runde // Sa.+So.
 
-(Sa) 12.04.  Wolfsberger AC       SV Grödig
-(Sa) 12.04.  SV Ried              FC Wacker Innsbruck
-(Sa) 12.04.  RB Salzburg          Sturm Graz
-(Sa) 12.04.  Rapid Wien           FC Admira Wacker
+(Sa) 12.04.  Wolfsberger AC       1:2 SV Grödig
+(Sa) 12.04.  SV Ried              1:2 FC Wacker Innsbruck
+(Sa) 12.04.  RB Salzburg          1:2 Sturm Graz
+(Sa) 12.04.  Rapid Wien           0:0 FC Admira Wacker
 
 (So) 13.04.  SC Wiener Neustadt   Austria Wien
 
