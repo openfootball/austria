@@ -114,10 +114,10 @@
 
 33. Runde // Sa.+So.
 
-(Sa) 19.04.  Sturm Graz           SV Ried
-(Sa) 19.04.  Austria Wien         Wolfsberger AC
-(Sa) 19.04.  FC Wacker Innsbruck  SC Wiener Neustadt
-(Sa) 19.04.  FC Admira Wacker     RB Salzburg
+(Sa) 19.04.  Sturm Graz           2:1 SV Ried
+(Sa) 19.04.  Austria Wien         3:1 Wolfsberger AC
+(Sa) 19.04.  FC Wacker Innsbruck  3:1 SC Wiener Neustadt
+(Sa) 19.04.  FC Admira Wacker     2:3 RB Salzburg
 
 (So) 20.04.  SV Grödig            Rapid Wien
 
