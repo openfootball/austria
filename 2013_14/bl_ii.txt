@@ -124,10 +124,10 @@
 
 34. Runde // Sa.+So.
 
-(Sa) 26.04.  SC Wiener Neustadt   SV Grödig
-(Sa) 26.04.  Rapid Wien           RB Salzburg
-(Sa) 26.04.  FC Wacker Innsbruck  Austria Wien
-(Sa) 26.04.  SV Ried              FC Admira Wacker
+(Sa) 26.04.  SC Wiener Neustadt   1:3 SV Grödig
+(Sa) 26.04.  Rapid Wien           2:1 RB Salzburg
+(Sa) 26.04.  FC Wacker Innsbruck  1:1 Austria Wien
+(Sa) 26.04.  SV Ried              3:0 FC Admira Wacker
 
 (So) 27.04.  Wolfsberger AC       Sturm Graz
 
