@@ -31,12 +31,19 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ~~~
 
 ~~~
-### Österr. Bundesliga 2013/14
+### Österr. Bundesliga 2014/15
 
-1. Runde  //  Sa+So 20.+21. Jul 2013
+1. Runde
 
-Sa, 20.07.2013 16.30  Austria Wien         FC Admira Wacker
-Sa, 20.07.2013 19.00  SC Wiener Neustadt   RB Salzburg
+[Sa 19.7.]
+16.30   RB Salzburg       -  Rapid Wien  
+19.00   SV Ried           -  SC Wiener Neustadt 
+19.00   FC Admira Wacker  -  Wolfsberger AC  
+19.00   SCR Altach        -  Sturm Graz  
+
+[So 20.7.]
+16.30   Austria Wien      -  SV Grödig
+
 ...
 ~~~
 

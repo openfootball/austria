@@ -1,15 +1,6 @@
 ###################################################
-# Österreichische Bundesliga 2014/15  - Rückrunde
+# Österreichische Bundesliga 2014/15 -  Frühjahr
 
-
-19. Runde
-
-[Sa 13.12.]
-  RB Salzburg       - Rapid Wien
-  Austria Wien      - SV Grödig
-  SV Ried           - SC Wiener Neustadt
-  FC Admira Wacker  - Wolfsberger AC
-  SCR Altach        - Sturm Graz
 
 20. Runde
 
@@ -22,19 +13,21 @@
 
 21. Runde
 
-(Sa) 21.02.   SV Grödig        - Wolfsberger AC  
-(Sa) 21.02.   Austria Wien     - SCR Altach  
-(Sa) 21.02.   Sturm Graz       - SC Wiener Neustadt  
-(Sa) 21.02.   SV Ried          - RB Salzburg  
-(Sa) 21.02.   FC Admira Wacker - Rapid Wien  
+[Sa 21.2.]
+  SV Grödig          - Wolfsberger AC
+  Austria Wien       - SCR Altach
+  Sturm Graz         - SC Wiener Neustadt
+  SV Ried            - RB Salzburg
+  FC Admira Wacker   - Rapid Wien
 
 22. Runde
 
-(Sa) 28.02.   RB Salzburg        - SV Grödig  
-(Sa) 28.02.   Rapid Wien         - Sturm Graz  
-(Sa) 28.02.   SV Ried            - FC Admira Wacker  
-(Sa) 28.02.   SC Wiener Neustadt - Austria Wien  
-(Sa) 28.02.   SCR Altach         - Wolfsberger AC  
+[Sa 28.2.]
+  RB Salzburg        - SV Grödig  
+  Rapid Wien         - Sturm Graz  
+  SV Ried            - FC Admira Wacker  
+  SC Wiener Neustadt - Austria Wien  
+  SCR Altach         - Wolfsberger AC  
 
 23. Runde
 
