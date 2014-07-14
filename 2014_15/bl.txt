@@ -1,0 +1,169 @@
+######################################
+# Österreichische Bundesliga 2014/15
+
+
+1. Runde
+
+[Sa 19.7.]
+16.30   RB Salzburg       -  Rapid Wien  
+19.00   SV Ried           -  SC Wiener Neustadt  
+19.00   FC Admira Wacker  -  Wolfsberger AC  
+19.00   SCR Altach        -  Sturm Graz  
+
+[So 20.7.]
+16.30   Austria Wien      -  SV Grödig
+
+
+2. Runde
+ 
+[Sa 26.7.]
+16.30   Wolfsberger AC      -  Austria Wien  
+19.00   Rapid Wien          -  SV Ried  
+19.00   SC Wiener Neustadt  -  RB Salzburg  
+19.00   SCR Altach          -  FC Admira Wacker  
+
+[So 27.7.]
+16.30   SV Grödig           -  Sturm Graz  
+
+
+3. Runde
+
+[Sa 2.8.]
+16.00   FC Admira Wacker    -  Rapid Wien  
+19.00   SV Grödig           -  Wolfsberger AC  
+19.00   Austria Wien        -  SCR Altach  
+19.00   Sturm Graz          -  SC Wiener Neustadt  
+
+[So 3.8.]
+16.00   SV Ried  RB Salzburg  
+
+
+4. Runde
+ 
+[Sa 9.8.]
+16.30   RB Salzburg  -  SV Grödig  
+19.00   Rapid Wien   -  Sturm Graz  
+19.00   SV Ried      -  FC Admira Wacker  
+19.00   SCR Altach   -  Wolfsberger AC  
+
+[So 10.8.]
+16.30   SC Wiener Neustadt  -  Austria Wien  
+
+
+5. Runde
+ 
+16.08. (Sa)  Rapid Wien  SCR Altach  
+16.08. (Sa)  SV Grödig  SC Wiener Neustadt  
+16.08. (Sa)  Sturm Graz  Austria Wien  
+16.08. (Sa)  Wolfsberger AC  SV Ried  
+16.08. (Sa)  FC Admira Wacker  RB Salzburg  
+
+
+6. Runde 
+
+23.08. (Sa)  RB Salzburg  SCR Altach  
+23.08. (Sa)  SC Wiener Neustadt  FC Admira Wacker  
+23.08. (Sa)  Sturm Graz  Wolfsberger AC  
+23.08. (Sa)  SV Ried  SV Grödig  
+
+24.08. (So)  Austria Wien  Rapid Wien  
+
+
+7. Runde 7
+ 
+30.08. (Sa)  RB Salzburg  Sturm Graz  
+30.08. (Sa)  SCR Altach  SV Ried  
+30.08. (Sa)  Wolfsberger AC  SC Wiener Neustadt  
+30.08. (Sa)  FC Admira Wacker  Austria Wien  
+
+31.08. (So)  Rapid Wien  SV Grödig  
+
+
+8. Runde
+ 
+13.09. (Sa)  SV Grödig  SCR Altach  
+13.09. (Sa)  Austria Wien  SV Ried  
+13.09. (Sa)  Sturm Graz  FC Admira Wacker  
+13.09. (Sa)  Wolfsberger AC  RB Salzburg  
+13.09. (Sa)  SC Wiener Neustadt  Rapid Wien  
+
+9. Runde
+
+20.09. (Sa)  RB Salzburg  Austria Wien  
+20.09. (Sa)  Rapid Wien  Wolfsberger AC  
+20.09. (Sa)  SV Ried  Sturm Graz  
+20.09. (Sa)  FC Admira Wacker  SV Grödig  
+20.09. (Sa)  SCR Altach  SC Wiener Neustadt  
+
+10. Runde
+
+27.09. (Sa)  Rapid Wien  RB Salzburg  
+27.09. (Sa)  SV Grödig  Austria Wien  
+27.09. (Sa)  Sturm Graz  SCR Altach  
+27.09. (Sa)  Wolfsberger AC  FC Admira Wacker  
+27.09. (Sa)  SC Wiener Neustadt  SV Ried  
+
+11. Runde
+
+04.10. (Sa)  RB Salzburg  SC Wiener Neustadt  
+04.10. (Sa)  Austria Wien  Wolfsberger AC  
+04.10. (Sa)  Sturm Graz  SV Grödig  
+04.10. (Sa)  SV Ried  Rapid Wien  
+04.10. (Sa)  FC Admira Wacker  SCR Altach  
+
+12. Runde
+
+18.10. (Sa)  RB Salzburg  SV Ried  
+18.10. (Sa)  Rapid Wien  FC Admira Wacker  
+18.10. (Sa)  Wolfsberger AC  SV Grödig  
+18.10. (Sa)  SC Wiener Neustadt  Sturm Graz  
+18.10. (Sa)  SCR Altach  Austria Wien  
+
+13. Runde
+
+25.10. (Sa)  SV Grödig  RB Salzburg  
+25.10. (Sa)  Austria Wien  SC Wiener Neustadt  
+25.10. (Sa)  Sturm Graz  Rapid Wien  
+25.10. (Sa)  Wolfsberger AC  SCR Altach  
+25.10. (Sa)  FC Admira Wacker  SV Ried  
+
+14. Runde
+
+01.11. (Sa)  RB Salzburg  FC Admira Wacker  
+01.11. (Sa)  Austria Wien  Sturm Graz  
+01.11. (Sa)  SV Ried  Wolfsberger AC  
+01.11. (Sa)  SC Wiener Neustadt  SV Grödig  
+01.11. (Sa)  SCR Altach  Rapid Wien  
+
+15. Runde
+
+08.11. (Sa)  Rapid Wien  Austria Wien  
+08.11. (Sa)  SV Grödig  SV Ried  
+08.11. (Sa)  Wolfsberger AC  Sturm Graz  
+08.11. (Sa)  FC Admira Wacker  SC Wiener Neustadt  
+08.11. (Sa)  SCR Altach  RB Salzburg  
+
+16. Runde
+
+22.11. (Sa)  SV Grödig  Rapid Wien  
+22.11. (Sa)  Austria Wien  FC Admira Wacker  
+22.11. (Sa)  Sturm Graz  RB Salzburg  
+22.11. (Sa)  SV Ried  SCR Altach  
+22.11. (Sa)  SC Wiener Neustadt  Wolfsberger AC  
+
+17. Runde
+
+29.11. (Sa)  RB Salzburg  Wolfsberger AC  
+29.11. (Sa)  Rapid Wien  SC Wiener Neustadt  
+29.11. (Sa)  SV Ried  Austria Wien  
+29.11. (Sa)  FC Admira Wacker  Sturm Graz  
+29.11. (Sa)  SCR Altach  SV Grödig  
+
+18. Runde
+
+06.12. (Sa)  SV Grödig  FC Admira Wacker  
+06.12. (Sa)  Austria Wien  RB Salzburg  
+06.12. (Sa)  Sturm Graz  SV Ried  
+06.12. (Sa)  Wolfsberger AC  Rapid Wien  
+06.12. (Sa)  SC Wiener Neustadt  SCR Altach  
+
