@@ -1,0 +1,18 @@
+############################
+#   Vorarlberg (Vbg.)
+
+hard,     FC Hard,                       Regionalliga West/Vbg.,  HAR
+bregenz,  SC Bregenz,                    Regionalliga West/Vbg.,  BRE
+dornbirn, FC Dornbirn 1913|FC Dornbirn,  Regionalliga West/Vbg.,  DOR
+
+
+###################
+# More
+
+wolfurt,       FC Wolfurt,            Vorarlberg Liga,  WOL
+dornbirnersv, Dornbirner SV
+
+
+## - check if still exists? disolved?  move to teams_xxx.txt ??
+lustenau,  FC Lustenau 1907|FC Lustenau,   LUS, city:lustenau   # from Erste Liga/Vbg.
+

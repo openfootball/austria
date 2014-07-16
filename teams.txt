@@ -68,8 +68,9 @@
   Volksfestplatz 2 // 4910 Ried im Innkreis
   city:ried
 
-[innsbruck]
-  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck,  1913,  FCW
-  www.fc-wacker-innsbruck.at
-  Stadionstraße 1b // 6020 Innsbruck
-  city:innsbruck
+[altach]
+  SCR Altach|SC Rheindorf Altach, ALT
+  // Altach
+  city:altach
+  ## from Erste Liga/Vbg
+

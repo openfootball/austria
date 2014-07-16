@@ -1,0 +1,15 @@
+###########################
+#   Kärnten (Ktn.)
+
+vsv,           Villacher SV,            Regionalliga Mitte/Ktn., VSV
+klagenfurt,    SAK Klagenfurt|SAK Celovec/Klagenfurt,  Regionalliga Mitte/Ktn., CEL
+austriak,      SK Austria Klagenfurt|SG Austria Klagenfurt,  Regionalliga Mitte/Ktn., KLA
+
+
+#############
+# More
+
+spittal,       SV Spittal/Drau,       Kärntner Liga,    SPI
+
+stveit,    FC St. Veit
+

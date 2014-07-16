@@ -1,0 +1,12 @@
+########################
+#   Tirol
+
+kufstein, FC Kufstein,      Regionalliga West/Tirol, KUF
+wattens,  WSG Wattens,      Regionalliga West/Tirol, WAT
+schwaz,   SC Schwaz,        Regionalliga West/Tirol, SCH
+
+reutte,        SV Reutte,             Tirol Liga,       REU
+
+
+kitzbuehel, FC Kitzbühel  # (T)
+

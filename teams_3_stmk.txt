@@ -1,0 +1,20 @@
+###########################
+#   Steiermark (Stmk.)
+
+kalsdorf,      SC Kalsdorf,            Regionalliga Mitte/Stmk., KAL
+gratkorn,      FC Gratkorn,            Regionalliga Mitte/Stmk., GRA
+allerheiligen, SV Allerheiligen|USV Allerheiligen,       Regionalliga Mitte/Stmk., ALL
+
+
+##############
+# More
+
+gak,           Grazer AK,           GAK   # from Regionalliga Mitte/Stmk.
+leoben,        DSV Leoben,          LEO   # from Regionalliga Mitte/Stmk.
+
+dsc,           Deutschlandsberger SC, Landesliga/Stmk., DSC
+
+lankowitz, FC Lankowitz
+lafnitz,   SV Lafnitz
+
+

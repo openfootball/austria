@@ -1,0 +1,29 @@
+############################
+#   Wien
+
+# from Erste Liga/Wien
+vienna,    Vienna FC 1894|First Vienna FC 1894,   VIE, city:wien
+
+
+wienersk,    Wiener SK|Wiener Sportklub,  www.wienersportklub.at,   Regionalliga Ost/Wien, WIE
+viktoria,    Wiener Viktoria|SC Wiener Viktoria,                    Regionalliga Ost/Wien, VIK
+
+#####################
+# More
+
+ostbahn,     SC Ostbahn XI,         OST   # from Regionalliga Ost/Wien
+
+wienerlinien, Team Wiener Linien
+
+
+
+## More:
+# - FK Austria Wien II  (same as FK Austria Wien Amat. | Amateure ???)  -- add!
+# - SK Rapid Wien II
+# 
+
+
+##  Wikipedia de:
+# fac:      Floridsdorfer_AC
+# wienersk: Wiener_Sportklub
+

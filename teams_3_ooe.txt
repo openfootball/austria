@@ -1,0 +1,18 @@
+#################################
+#  Oberösterreich (OÖ)
+
+linz,          FC Blau-Weiß Linz,      Regionalliga Mitte/OÖ,    BWL, city:linz
+pasching,      FC Pasching,            Regionalliga Mitte/OÖ,   PAS
+voecklamarkt,  Vöcklamarkt|Union Vöcklamarkt,     Regionalliga Mitte/OÖ,  VOE
+stflorian,     St. Florian|Union St. Florian,     Regionalliga Mitte/OÖ,  STF
+wallern,       Wallern|SV Wallern,                Regionalliga Mitte/OÖ,  WAL
+
+
+################
+# More
+
+micheldorf,    SV Micheldorf|SV Grün-Weiß Micheldorf,         OÖ Liga,   MIC
+
+steyr, SK Vorwärts Steyr
+
+

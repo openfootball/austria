@@ -1,0 +1,33 @@
+#############################
+#   Niederösterreich (NÖ)
+
+sollenau,    1. SC Sollenau|SC Sollenau,  www.sc-sollenau.at,   Regionalliga Ost/NÖ,    SOL
+amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
+retz,        SC Retz,   www.sc-retz.at,            Regionalliga Ost/NÖ,    RET
+schwechat,   SV Schwechat,         Regionalliga Ost/NÖ,  SCH
+obergrafendorf, ATSV Ober-Grafendorf, Regionalliga Ost/NÖ 
+
+
+####################
+#  More
+
+badvoeslau,    ASK Bad Vöslau,        Landesliga/NÖ,    VOE
+gaflenz,       SV Gaflenz,            Landesliga/NÖ,    GAF
+ardagger,      Ardagger SCU|SCU Ardagger,       Landesliga/NÖ,    ARD
+rohrendorf,    SC Rohrendorf,         2. Landesliga West/NÖ, ROH
+heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
+
+
+mannsdorf, SC Mannsdorf
+leopoldsdorf, SC Leopoldsdorf
+
+
+
+## More:
+# - FC Admira Wacker II
+# 
+
+
+##  Wikipedia de:
+# sollenau: 1._SC_Sollenau
+

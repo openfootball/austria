@@ -1,0 +1,21 @@
+##################################
+#   Burgenland (Bgld.)
+
+# from Erste Liga/Bgld. was  Regionalliga Ost/Bgld.
+parndorf,    SC/ESV Parndorf 1919|SC-ESV Parndorf 1919|SC/ESV Parndorf,  PAR,  city:parndorf
+
+oberwart,    SV Oberwart,          Regionalliga Ost/Bgld., OBE
+stegersbach, SV Stegersbach,       Regionalliga Ost/Bgld., STE
+
+
+##################
+# More
+
+pinkafeld,  SC Pinkafeld
+drassburg,  ASV Draßburg
+
+
+
+## More:
+# - SV Mattersburg II
+# 
