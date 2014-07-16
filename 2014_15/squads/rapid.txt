@@ -1,28 +1,31 @@
+##########################
+#   Rapid Wien 2014/15
 
-(1)   Ján Novota  (SVK)        G    ## DAC Dunajská Streda
-(21)  Tobias Knoflach         G    ## First Vienna
-(29)  Marko Marić             G    ## -
+(1)   Ján Novota  (SVK)        GK   2011-   ## DAC Dunajská Streda
+(21)  Tobias Knoflach          GK   2014-  ## First Vienna
+(29)  Marko Marić              GK   2013-  ## Rapid Amateure
 
 
-(3)   Brian Behrendt  (GER)    D   ##  Hamburg
-(4)   Thomas Schrammel         D   ##  SV Ried
-(6)   Mario Sonnleitner        D   ##   Sturm Graz
-(17)  Christopher Dibon       D   ## RB Salzburg
-(20)  Maximilian Hofmann      D    ## Wienerberg
-(22)  Mario Pavelić           D    ## Neusiedl/See
-(23)  Stefan Stangl           D    ## Wiener Neustadt
-(36)  Michael Schimpelsberger  D    ## FC Twente
+(3)   Brian Behrendt  (GER)    DF  2013-  ##  Hamburg  -- check SV Horn ??
+(4)   Thomas Schrammel         DF  2011-  ##  SV Ried
+(6)   Mario Sonnleitner        DF  2010-  ##   Sturm Graz
+(17)  Christopher Dibon        DF  2013-  ## RB Salzburg
+(20)  Maximilian Hofmann       DF  2013-  ## Wienerberg
+(22)  Mario Pavelić            DF  2013-  ## Neusiedl/See
+(23)  Stefan Stangl            DF  2014-  ## Wr Neustadt
+(36)  Michael Schimpelsberger  DF  2011-  ## FC Twente
 
-(5)   Thanos Petsos   (GRE)    M   ##  Greuther Fürth
-(7)   Philipp Schobesberger    M   ##   Pasching
-(8)   Stefan Schwab            M   ##  Admira Wacker Mödling
-(10)  Louis Schaub            M   ##  -
-(11)  Steffen Hofmann  (GER)  M  ## 1860 Munich
-(15)  Srdjan Grahovac  (BIH)  M   ## Borac Banja Luka
-(25)  Dominik Wydra           M    ## Wiener Viktoria
-(26)  Lukas Grozurek          M    ## Wiener SK
-(27)  Andreas Kuen            M    ## Wacker Innsbruck
+(5)   Thanos Petsos   (GRE)    MF  2013-  ##  Greuther Fürth
+(7)   Philipp Schobesberger    MF  2014-  ## FC Pasching
+(8)   Stefan Schwab            MF  2014-  ##  Admira Wacker
+(10)  Louis Schaub             MF  2012-  ##  Rapid Amateure
+(11)  Steffen Hofmann  (GER)   MF  2006-  ## 1860 Munich
+(15)  Srdjan Grahovac  (BIH)   MF  2014-  ## Borac Banja Luka
+(25)  Dominik Wydra            MF  2012-  ## Wiener Viktoria
+(26)  Lukas Grozurek           MF  2012-  ## Wiener SK
+(27)  Andreas Kuen             MF  2014-  ## Wacker Innsbruck
 
-(9)   Robert Berič  (SVN)     F   ##  Sturm Graz
-(33)  Deni Alar              F    ## Kapfenberg
-(34)  Dominik Starkl         F    ## St. Pölten
+(9)   Robert Berič  (SVN)      FW  2014-  ##  Sturm Graz
+(33)  Deni Alar                FW  2011-  ## Kapfenberg
+(34)  Dominik Starkl           FW  2013-  ## St. Pölten
+
