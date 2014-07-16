@@ -1,0 +1,53 @@
+####################
+# ÖFB Cup 2014/15
+
+### todo: how to mark "plain" round as knockoff k.o round in text??
+## add property to *.yml ?
+
+
+1. Runde (Knockout) //  11.-13. Juli 2014
+
+[Fr 11.7.]
+  18.00  Hard - Ritzing  1:2 (1:1)
+  19.00  Kalsdorf - TSV Hartberg  5:6iE 2:2nV (1:1, 1:1)
+  19.00  SC Weiz - Wolfsburger AC  2:4 (1:2)
+  19.00  Wattens - SCR Altach  2:4nV (1:1, 1:1)
+  19.00  ATSV Wolfsberg - Dornbirn  2:1 (1:1)
+  19.00  Wallern - St. Florian  6:4iE 1:1nV (0:0, 0:0)
+  19.00  Parndorf - SV Ried  2:3 (1:2)
+  19.00  Schwaz - SK Sturm Graz  1:4 (0:1)
+  19.00  SV Seekirchen - LASK Linz  1:4 (0:0)
+  19.30  Kottingbrunn - KSV 1919  0:7 (0:2)
+  19.30  Austria Klagenfurt - Vorwärts Steyr  1:3 (1:1)
+  19.30  Amstetten SKU - SK Rapid Wien  0:1nV (0:0, 0:0)
+  19.30  Lendorf - FC Admira Wacker  0:7 (0:1)
+  19.30  Schwechat SV - FAC Team Für Wien  1:4 (1:2)
+  20.30  Vienna - FK Austria Wien  0:6 (0:2)
+
+[Sa 12.7.]
+  15.30  Ober-Grafendorf - FC Lankowitz  1:4 (0:3)
+  16.00  Sollenau - FC RB Salzburg  1:10 (1:5)
+  16.30  Gurten - SC Wr Neustadt  0:6 (0:2)
+  17.00  Kitzbühel - Retz  5:1 (0:0)
+  17.00  Wiener SK - SC Austria Lustenau  3:2 (0:0)
+  17.00  Hohenems - USC Eugendorf  5:1 (4:1)
+  17.00  Wimpassing - SV Horn  0:3 (0:2)
+  17.00  Donaufeld - FC Wacker Innsbruck  1:3nV (1:1, 0:0)
+  17.00  Höchst - SV Mattersburg  1:2 (0:1)
+  17.30  TSV St. Johann - Spratzern  3:0 (2:0)
+  18.00  Neusiedl am See - TSV Neumarkt  5:1 (2:0)
+  18.30  Micheldorf - Allerheiligen  2:1 (1:0)
+  18.30  SAK - Lafnitz  1:4 (0:2)
+
+[So 13.7.]
+  10.30  FC Gleisdorf 09 - Kufstein  1:2 (0:0)
+  16.30  Admira Technopool - SKN St. Pölten  0:8 (0:3)
+  16.45  Leobendorf - SV Grödig  1:7 (0:3)
+
+[Mi 16.7.]
+  19.33  SV Austria Salzburg - BW Linz
+
+
+
+2. Runde (Knockout) // 23.+24. Sept 2014 (Auslosung am 3. Aug 2014)
+
