@@ -3,8 +3,11 @@
 
 league: at
 season: 2011/12
-start_at: 2012-04-07
+start_at: 2012-04-07     ## fix: use 2011 start date
 
+fixtures:
+- bl
+- bl_ii
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 

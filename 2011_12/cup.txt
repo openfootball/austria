@@ -1,22 +1,26 @@
-#################################
+#####################
 # ÖFB Cup 2011/12
 
 
 (1) Viertelfinale   //   Di+Mi 10.+11. April 2012
 
-10.04.2012 18.00   SV Grödig   2:3   SV Ried
-11.04.2012 18.00   SC Austria Lustenau   1:2  FK Austria Wien
-11.04.2012 19.00   FC Red Bull Salzburg  4:1  FC Red Bull Salzburg II
-11.04.2012 19.00   SK Sturm Graz  2:2  2:4nV  TSV Hartberg
-
+[Di 10.4.]
+  18.00   SV Grödig   2:3   SV Ried
+[Mi 11.4.]
+  18.00   SC Austria Lustenau   1:2  FK Austria Wien
+  19.00   FC Red Bull Salzburg  4:1  FC Red Bull Salzburg II
+  19.00   SK Sturm Graz   2:2  2:4nV  TSV Hartberg
 
 (2) Halbfinale      //   Di+Mi 1.+2. Mai 2012
 
-01.05.2012 18.00   TSV Hartberg   0:1   FC Red Bull Salzburg
-02.05.2012 20.30   SV Ried        2:0   FK Austria Wien
+[Di 1.5.]
+  18.00   TSV Hartberg   0:1   FC Red Bull Salzburg
+[Mi 2.5.]
+  20.30   SV Ried        2:0   FK Austria Wien
 
 
 (3) Finale          //   So 20. Mai 2012
 
-20.05.2012 16.00   FC Red Bull Salzburg   3:0   SV Ried
+[So 20.5.]
+  16.00   FC Red Bull Salzburg   3:0   SV Ried
 
