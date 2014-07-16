@@ -1,0 +1,28 @@
+
+(1)   Ján Novota  (SVK)        G    ## DAC Dunajská Streda
+(21)  Tobias Knoflach         G    ## First Vienna
+(29)  Marko Marić             G    ## -
+
+
+(3)   Brian Behrendt  (GER)    D   ##  Hamburg
+(4)   Thomas Schrammel         D   ##  SV Ried
+(6)   Mario Sonnleitner        D   ##   Sturm Graz
+(17)  Christopher Dibon       D   ## RB Salzburg
+(20)  Maximilian Hofmann      D    ## Wienerberg
+(22)  Mario Pavelić           D    ## Neusiedl/See
+(23)  Stefan Stangl           D    ## Wiener Neustadt
+(36)  Michael Schimpelsberger  D    ## FC Twente
+
+(5)   Thanos Petsos   (GRE)    M   ##  Greuther Fürth
+(7)   Philipp Schobesberger    M   ##   Pasching
+(8)   Stefan Schwab            M   ##  Admira Wacker Mödling
+(10)  Louis Schaub            M   ##  -
+(11)  Steffen Hofmann  (GER)  M  ## 1860 Munich
+(15)  Srdjan Grahovac  (BIH)  M   ## Borac Banja Luka
+(25)  Dominik Wydra           M    ## Wiener Viktoria
+(26)  Lukas Grozurek          M    ## Wiener SK
+(27)  Andreas Kuen            M    ## Wacker Innsbruck
+
+(9)   Robert Berič  (SVN)     F   ##  Sturm Graz
+(33)  Deni Alar              F    ## Kapfenberg
+(34)  Dominik Starkl         F    ## St. Pölten

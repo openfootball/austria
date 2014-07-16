@@ -1,0 +1,32 @@
+
+(13)  Heinz Lindner             G  ## -
+(31)  Osman Hadzikić  (BIH)     G  ##  Schwechat
+(77)  Tino Casali               G  ##    AKA Kärnten
+
+(4)   Vanče Šikov         (MKD)   D      ##  Volyn Lutsk
+(5)   Philipp Koblischek          D      ##  - 
+(8)   Jens Stryger Larsen (DEN)   D      ##  FC Nordsjælland
+(14)  Manuel Ortlechner           D   ## Austria Kärnten
+(15)  Christian Ramsebner         D   ##  Wiener Neustadt
+(18)  Sebastian Wimmer            D   ## LASK Linz
+(29)  Markus Suttner              D  ##  -
+(30)  Fabian Koch                 D  ##   Wacker Innsbruck
+(39)  Petar Gluhaković            D  ##   First Vienna
+
+(6)   Mario Leitgeb               M      ##  Grödig
+(7)   Marco Meilinger             M      ##  RB Salzburg
+(10)  Alexander Grünwald          M      ##  Wiener Neustadt
+(17)  Florian Mader               M    ##   SV Ried
+(20)  Alexander Gorgon            M   ## - 
+(21)  Sascha Horvath              M   ## -
+(22)  Bernhard Luxbacher          M  ##  Stadlau
+(23)  David de Paula  (ESP)       M  ## Wolfsberger AC
+(25)  James Holland  (AUS)        M  ##   AZ Alkmaar
+(28)  Daniel Royer                M   ##  Hannover 96
+(34)  Peter Michorl               M   ## - 
+(35)  Thomas Salamon              M  ##  Grödig
+(36)  Tarkan Serbest              M   ##  Donau
+
+(9)   Martin Harrer               F      ##  Köflach
+(11)  Ola Kamara  (NOR)           F      ##  Ried
+(24)  Roman Kienast               F  ##  Sturm Graz
