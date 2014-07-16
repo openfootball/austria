@@ -1,12 +1,7 @@
 #######################
-# Bundesliga 2013/14
+# Bundesliga 2014/15
 
 # 10 Teams
-
-# NB: 2013/14
-#
-# new team                    |  SV Grödig
-# old team (moved to teams_2) |  SV Mattersburg
 
 # NB: use three letter codes from bundesliga.at
 
@@ -74,3 +69,8 @@
   city:altach
   ## from Erste Liga/Vbg
 
+
+# NB: 2013/14
+#
+# new team                    |  SV Grödig
+# old team (moved to teams_2) |  SV Mattersburg

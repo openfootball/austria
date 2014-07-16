@@ -9,19 +9,19 @@
 
 [Fr 11.7.]
   18.00  Hard - Ritzing  1:2 (1:1)
-  19.00  Kalsdorf - TSV Hartberg  5:6iE 2:2nV (1:1, 1:1)
+  19.00  Kalsdorf - TSV Hartberg  5:6 i.E. 2:2 n.V. (1:1, 1:1)
   19.00  SC Weiz - Wolfsburger AC  2:4 (1:2)
-  19.00  Wattens - SCR Altach  2:4nV (1:1, 1:1)
+  19.00  Wattens - SCR Altach  2:4 n.V. (1:1, 1:1)
   19.00  ATSV Wolfsberg - Dornbirn  2:1 (1:1)
-  19.00  Wallern - St. Florian  6:4iE 1:1nV (0:0, 0:0)
+  19.00  Wallern - St. Florian  6:4 i.E. 1:1 n.V. (0:0, 0:0)
   19.00  Parndorf - SV Ried  2:3 (1:2)
   19.00  Schwaz - SK Sturm Graz  1:4 (0:1)
   19.00  SV Seekirchen - LASK Linz  1:4 (0:0)
   19.30  Kottingbrunn - KSV 1919  0:7 (0:2)
   19.30  Austria Klagenfurt - Vorwärts Steyr  1:3 (1:1)
-  19.30  Amstetten SKU - SK Rapid Wien  0:1nV (0:0, 0:0)
+  19.30  Amstetten SKU - SK Rapid Wien  0:1 n.V. (0:0, 0:0)
   19.30  Lendorf - FC Admira Wacker  0:7 (0:1)
-  19.30  Schwechat SV - FAC Team Für Wien  1:4 (1:2)
+  19.30  Schwechat SV - Floridsdorfer AC   1:4 (1:2)
   20.30  Vienna - FK Austria Wien  0:6 (0:2)
 
 [Sa 12.7.]
@@ -32,12 +32,12 @@
   17.00  Wiener SK - SC Austria Lustenau  3:2 (0:0)
   17.00  Hohenems - USC Eugendorf  5:1 (4:1)
   17.00  Wimpassing - SV Horn  0:3 (0:2)
-  17.00  Donaufeld - FC Wacker Innsbruck  1:3nV (1:1, 0:0)
+  17.00  Donaufeld - FC Wacker Innsbruck  1:3 n.V. (1:1, 0:0)
   17.00  Höchst - SV Mattersburg  1:2 (0:1)
   17.30  TSV St. Johann - Spratzern  3:0 (2:0)
   18.00  Neusiedl am See - TSV Neumarkt  5:1 (2:0)
   18.30  Micheldorf - Allerheiligen  2:1 (1:0)
-  18.30  SAK - Lafnitz  1:4 (0:2)
+  18.30  SAK Klagenfurt - Lafnitz  1:4 (0:2)
 
 [So 13.7.]
   10.30  FC Gleisdorf 09 - Kufstein  1:2 (0:0)
@@ -45,9 +45,19 @@
   16.45  Leobendorf - SV Grödig  1:7 (0:3)
 
 [Mi 16.7.]
-  19.33  SV Austria Salzburg - BW Linz
+  19.33  SV Austria Salzburg  - BW Linz  2:0 (1:0)
 
 
 
-2. Runde (Knockout) // 23.+24. Sept 2014 (Auslosung am 3. Aug 2014)
+2. Runde (Knockout) // 23.+24. Sep 2014 (Auslosung am 3. Aug 2014)
+
+Achtelfinale    // 28.+29. Okt 2014 (Auslosung am 28. Sep 2014)
+
+Viertelfinale   // 7.+8. Apr 2015 (Auslosung am 2. Nov 2014)
+
+Halbfinale      // 28.+29. Apr 2015 (Auslosung am 12. Apr 2015)
+
+Finale          // 3. oder 4. Juni 2015 
+
+## H1 - H2  @ Klagenfurt
 
