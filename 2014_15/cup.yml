@@ -1,0 +1,26 @@
+#################################
+# ÖFB Cup 2014/15
+
+league: at.cup
+season: 2014/15
+start_at: 2014-07-11
+team3: false       # no game for 3rd/4th place
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+#############
+# 64 Teams
+
+teams:
+- salzburg  # bundesliga teams
+- austria
+- rapid
+- sturm
+- groedig
+- ried
+- wrneustadt
+- ksv
+- mattersburg
+- admira
+### add missing teams!!!! erste liga etc.
