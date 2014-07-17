@@ -13,3 +13,5 @@ spittal,       SV Spittal/Drau,       Kärntner Liga,    SPI
 
 stveit,    FC St. Veit
 
+wolfsberg, ATSV Wolfsberg, www.atsvwolfsberg.at
+lendorf,   FC Lendorf

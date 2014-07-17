@@ -13,9 +13,18 @@ stegersbach, SV Stegersbach,       Regionalliga Ost/Bgld., STE
 
 pinkafeld,  SC Pinkafeld
 drassburg,  ASV Draßburg
+wimpassing, SV Wimpassing
+ritzing,    SC Ritzing,  www.sc-ritzing.at
+neusiedl,   SC Neusiedl am See 1919|Neusiedl am See
 
 
 
-## More:
-# - SV Mattersburg II
-# 
+########################
+# II/Juniors/Amateure
+
+mattersburgii, SV Mattersburg II|SV Mattersburg Amateure
+
+
+######################
+# wikipedia de:
+#   SC_Ritzing

@@ -1,7 +1,11 @@
 ##############################
 #   Austria Wien 2014/2015
+#
+#  sources:
+#    de.wikipedia.org/wiki/FK_Austria_Wien#Bundesligamannschaft
 
-(13)  Heinz Lindner             GK   2009- ##  Austria Amat.
+
+(13)  Heinz Lindner             GK   2009- ##  AKA Austria Wien
 (31)  Osman Hadzikić  (BIH)     GK   2014- ##  Schwechat
 (77)  Tino Casali               GK   2014- ##  AKA Kärnten
 

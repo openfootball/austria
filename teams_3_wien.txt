@@ -16,14 +16,15 @@ ostbahn,     SC Ostbahn XI,         OST   # from Regionalliga Ost/Wien
 wienerlinien, Team Wiener Linien
 
 
+########################
+# II/Juniors/Amateure
 
-## More:
-# - FK Austria Wien II  (same as FK Austria Wien Amat. | Amateure ???)  -- add!
-# - SK Rapid Wien II
-# 
+austriaii, FK Austria Wien II|Austria Wien Amat.|Ausstria Wien Amateure 
+rapidii,   SK Rapid Wien II|SK Rapid Amateure
+
 
 
 ##  Wikipedia de:
-# fac:      Floridsdorfer_AC
-# wienersk: Wiener_Sportklub
+#    Floridsdorfer_AC
+#    Wiener_Sportklub
 

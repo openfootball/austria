@@ -5,7 +5,7 @@ sollenau,    1. SC Sollenau|SC Sollenau,  www.sc-sollenau.at,   Regionalliga Ost
 amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
 retz,        SC Retz,   www.sc-retz.at,            Regionalliga Ost/NÖ,    RET
 schwechat,   SV Schwechat,         Regionalliga Ost/NÖ,  SCH
-obergrafendorf, ATSV Ober-Grafendorf, Regionalliga Ost/NÖ 
+obergrafendorf, ATSV Ober-Grafendorf|Ober-Grafendorf, Regionalliga Ost/NÖ 
 
 
 ####################
@@ -20,14 +20,19 @@ heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
 
 mannsdorf, SC Mannsdorf
 leopoldsdorf, SC Leopoldsdorf
+leobendorf, SV Leobendorf
+kottingsbrunn, ASK Kottingsbrunn
+spratzern, ASV Spratzern
 
 
+########################
+# II/Juniors/Amateure
 
-## More:
-# - FC Admira Wacker II
-# 
+admiraii,    FC Admira Wacker II|Admira Juniors
+stpoeltenii, SKN St.Pölten Juniors
 
 
+######################
 ##  Wikipedia de:
-# sollenau: 1._SC_Sollenau
+# 1._SC_Sollenau
 
