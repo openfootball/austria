@@ -1,76 +1,81 @@
 #######################
 # Bundesliga 2014/15
+#
+# - 10 Teams
 
-# 10 Teams
 
-# NB: use three letter codes from bundesliga.at
+# note: use three letter codes from bundesliga.at
 
 
 [austria]
   FK Austria Wien|Austria Wien,  1911,  AUS
-  www.fk-austria.at
   Fischhofgasse 12 // 1100 Wien
-  city:wien
+  www.fk-austria.at
+  de.wikipedia: FK_Austria_Wien
 
 [rapid]
   SK Rapid Wien|Rapid Wien,   1899,  RAP
-  www.skrapid.at
   Keisslergasse 3 // 1140 Wien
-  city:wien
+  www.skrapid.at
+  de.wikipedia: SK_Rapid_Wien
 
 
 [admira]
   FC Admira Wacker|Admira Wacker|FC Admira Wacker Mödling, 1905,  ADM
+  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf   ##  city:moedling  (NÖ) Niederösterreich
   www.admirawacker.at
-  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf
-  city:moedling
+  de.wikipedia: FC_Admira_Wacker_Mödling
 
 [wrneustadt]
   SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, 1908, WRN
+  Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
   www.scwn.at
-  Giltschwertgasse 81 // 2700 Wiener Neustadt
-  city:wrneustadt
+  de.wikipedia: SC_Wiener_Neustadt
 
 
 [salzburg]
   FC RB Salzburg|RB Salzburg|Red Bull Salzburg, 1933, RBS
+  Stadionstraße 2/3 // 5071 Wals-Siezenheim   ##  city:salzburg    (S) Salzburg
   www.redbulls.com/soccer/salzburg
-  Stadionstraße 2/3 // 5071 Wals-Siezenheim
-  city:salzburg
+  de.wikipedia: FC_Red_Bull_Salzburg
 
 [groedig]
   SV Grödig,  1948, SVG
+  Prötschhofstrasse 26 // 5082 Grödig      # (S) Salzburg
   www.sv-groedig.at
-  Prötschhofstrasse 26 // 5082 Grödig
-  city:groedig
+  de.wikipedia: SV_Grödig
 
 
 [sturm]
   SK Sturm Graz|Sturm Graz, 1909, STU
+  Sternäckerweg 118 // 8042 Graz         # (ST) Steiermark
   www.sksturm.at
-  Sternäckerweg 118 // 8042 Graz
-  city:graz
+  de.wikipedia: SK_Sturm_Graz
 
 [wac]
-  Wolfsberger AC|RZ Pellets WAC,   1931, WAC
+  Wolfsberger AC|RZ Pellets WAC|Wolfsberger Athletik Club,   1931, WAC
+  Don Bosco Weg 1 // 9400 Wolfsberg        # (K) Kärtnen
   www.rzpelletswac.at
-  Don Bosco Weg 1 // 9400 Wolfsberg
-  city:wolfsberg
+  de.wikipedia: Wolfsberger_AC
+
 
 [ried]
   SV Ried|SV Josko Ried|SV Josko Fenster Ried,  1912,    RIE
+  Volksfestplatz 2 // 4910 Ried im Innkreis   # (OÖ) Oberösterreich
   www.svried.at
-  Volksfestplatz 2 // 4910 Ried im Innkreis
-  city:ried
+  de.wikipedia: SV_Ried
 
 [altach]
-  SCR Altach|SC Rheindorf Altach, ALT
-  // Altach
-  city:altach
-  ## from Erste Liga/Vbg
+  SCR Altach|SC Rheindorf Altach|Sportclub Rheindorf Altach, 1929, ALT
+  Schnabelholz 1 // 6844 Altach       # (V) Vorarlberg
+  www.scra.at
+  de.wikipedia: SC_Rheindorf_Altach  
 
 
-# NB: 2013/14
-#
-# new team                    |  SV Grödig
-# old team (moved to teams_2) |  SV Mattersburg
+# note:
+#  2014/15
+#   new team                    |  SCR Altach
+#   old team (moved to teams_2) |  FC Wacker Innsbruck
+#  2013/14
+#   new team                    |  SV Grödig
+#   old team (moved to teams_2) |  SV Mattersburg

@@ -12,6 +12,10 @@ dornbirn, FC Dornbirn 1913|FC Dornbirn,  Regionalliga West/Vbg.,  DOR
 wolfurt,       FC Wolfurt,            Vorarlberg Liga,  WOL
 dornbirnersv, Dornbirner SV
 
+hoechst, FC Höchst|Höchst
+
+hohenems, VfB Hohenems
+
 
 ## - check if still exists? disolved?  move to teams_xxx.txt ??
 lustenau,  FC Lustenau 1907|FC Lustenau,   LUS, city:lustenau   # from Erste Liga/Vbg.

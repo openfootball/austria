@@ -2,10 +2,11 @@
 #   Salzburg (Sbg.)
 
 austrias,     SV Austria Salzburg,   Regionalliga West/Sbg.,  AUS
-stjohann,     TSV St. Johann,        Regionalliga West/Sbg.,  STJ
+stjohann,     TSV St. Johann|TSV St. Johann Pongau,     Regionalliga West/Sbg.,  STJ
 
-neumarkt,     TSV Neumarkt am Wallersee,   Regionalliga West/Sbg.
-seekirchen,   SV Seekirchen 1945,  Regionalliga West/Sbg.
+
+neumarkt,     TSV Neumarkt am Wallersee|TSV Neumarkt,   Regionalliga West/Sbg.
+seekirchen,   SV Seekirchen 1945|SV Seekirchen,  Regionalliga West/Sbg.
 walsgruenau,  SV Wals-Grünau,  Regionalliga West/Sbg.
 
 
@@ -16,6 +17,8 @@ walsgruenau,  SV Wals-Grünau,  Regionalliga West/Sbg.
 pinzgau,  FC Pinzgau Saalfelden,    PIN   # from  Regionalliga West/Sbg.
 
 sak,      SAK 1914|Salzburger AK 1914,   Salzburger Liga,  SAK
+
+eugendorf, USC Eugendorf
 
 
 ########################

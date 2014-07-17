@@ -3,7 +3,7 @@
 
 vsv,           Villacher SV,            Regionalliga Mitte/Ktn., VSV
 klagenfurt,    SAK Klagenfurt|SAK Celovec/Klagenfurt,  Regionalliga Mitte/Ktn., CEL
-austriak,      SK Austria Klagenfurt|SG Austria Klagenfurt,  Regionalliga Mitte/Ktn., KLA
+austriak,      SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A. Klagenfurt,  Regionalliga Mitte/Ktn., KLA
 
 
 #############
@@ -15,3 +15,4 @@ stveit,    FC St. Veit
 
 wolfsberg, ATSV Wolfsberg, www.atsvwolfsberg.at
 lendorf,   FC Lendorf
+

@@ -3,6 +3,8 @@
 
 kalsdorf,      SC Kalsdorf,            Regionalliga Mitte/Stmk., KAL
 gratkorn,      FC Gratkorn,            Regionalliga Mitte/Stmk., GRA
+
+## check  - in use USV Allerheitligen ??? remove/cleanup??
 allerheiligen, SV Allerheiligen|USV Allerheiligen,       Regionalliga Mitte/Stmk., ALL
 
 
@@ -16,5 +18,9 @@ dsc,           Deutschlandsberger SC, Landesliga/Stmk., DSC
 
 lankowitz, FC Lankowitz
 lafnitz,   SV Lafnitz
+
+gleisdorf,  FC Gleisdorf 09|FC Gleisdorf
+weiz,       SC Weiz
+
 
 

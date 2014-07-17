@@ -2,10 +2,10 @@
 #  Oberösterreich (OÖ)
 
 linz,          FC Blau-Weiß Linz|BW Linz,      Regionalliga Mitte/OÖ,    BWL, city:linz
-pasching,      FC Pasching,            Regionalliga Mitte/OÖ,   PAS
-voecklamarkt,  Vöcklamarkt|Union Vöcklamarkt,     Regionalliga Mitte/OÖ,  VOE
-stflorian,     St. Florian|Union St. Florian,     Regionalliga Mitte/OÖ,  STF
-wallern,       Wallern|SV Wallern,                Regionalliga Mitte/OÖ,  WAL
+pasching,      FC Pasching|Pasching,            Regionalliga Mitte/OÖ,   PAS
+voecklamarkt,  Union Vöcklamarkt|Vöcklamarkt,     Regionalliga Mitte/OÖ,  VOE
+stflorian,     Union St. Florian|St. Florian,     Regionalliga Mitte/OÖ,  STF
+wallern,       SV Wallern|Wallern,                Regionalliga Mitte/OÖ,  WAL
 
 
 ################
@@ -14,7 +14,7 @@ wallern,       Wallern|SV Wallern,                Regionalliga Mitte/OÖ,  WAL
 micheldorf,    SV Micheldorf|SV Grün-Weiß Micheldorf,         OÖ Liga,   MIC
 
 steyr, SK Vorwärts Steyr|Vorwärts Steyr
-gurten, Union Gurten, www.union-gurten.at
+gurten, Union Gurten|Gurten, www.union-gurten.at
 
 
 
