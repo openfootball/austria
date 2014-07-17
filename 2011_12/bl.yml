@@ -1,15 +1,17 @@
 ###########################################
 # Österreichische Bundesliga 2011/12
+#
+# - de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12
 
 league: at
 season: 2011/12
-start_at: 2012-04-07     ## fix: use 2011 start date
+start_at: 2011-07-16
+
+# note: timezone for games (play_at) is *always* CET (central european time)
 
 fixtures:
 - bl
 - bl_ii
-
-# note: timezone for games (play_at) is *always* CET (central european time)
 
 ######################
 # 10 teams
@@ -25,5 +27,4 @@ teams:
 - mattersburg
 - wrneustadt
 - ksv
-
 

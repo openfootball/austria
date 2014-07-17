@@ -20,8 +20,8 @@
   www.svm.at
   de.wikipedia: SV_Mattersburg
 
-[austrial]
-  SC Austria Lustenau|Austria Lustenau,  ALU
+[alustenau]
+  SC Austria Lustenau|Austria Lustenau|A. Lustenau,  ALU
   Erste Liga/Vbg.
   city:lustenau
 

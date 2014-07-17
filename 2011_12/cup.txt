@@ -2,7 +2,7 @@
 # ÖFB Cup 2011/12
 
 
-(1) Viertelfinale
+Viertelfinale
 
 [Di 10.4.]
   18.00   SV Grödig   2:3   SV Ried
@@ -11,7 +11,7 @@
   19.00   FC RB Salzburg  4:1  FC RB Salzburg II
   19.00   SK Sturm Graz   2:4 n.V. (2:2, )  TSV Hartberg
 
-(2) Halbfinale
+Halbfinale
 
 [Di 1.5.]
   18.00   TSV Hartberg   0:1   FC RB Salzburg
@@ -19,7 +19,7 @@
   20.30   SV Ried        2:0   FK Austria Wien
 
 
-(3) Finale
+Finale
 
 [So 20.5.]
   16.00   FC RB Salzburg   3:0   SV Ried
