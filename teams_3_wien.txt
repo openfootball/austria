@@ -1,14 +1,24 @@
 ############################
 #   Wien
 
+
 # from Erste Liga/Wien
-vienna,    Vienna FC 1894|First Vienna FC 1894,   VIE, city:wien
+[vienna]
+  Vienna FC 1894|First Vienna FC 1894,  VIE
+  // Wien
+
+[wienersk]
+  Wiener SK|Wiener Sportklub, WIE
+  Regionalliga Ost/Wien 
+  www.wienersportklub.at
+  de.wikipedia: Wiener_Sportklub
+
 
 schwechat,   SV Schwechat,  SCH
 
+viktoria,    Wiener Viktoria|SC Wiener Viktoria,  Regionalliga Ost/Wien, VIK
 
-wienersk,    Wiener SK|Wiener Sportklub,  www.wienersportklub.at,   Regionalliga Ost/Wien, WIE
-viktoria,    Wiener Viktoria|SC Wiener Viktoria,                    Regionalliga Ost/Wien, VIK
+
 
 #####################
 # More
@@ -28,9 +38,4 @@ donaufeld,  SR Donaufeld|Donaufeld
 austriaii, FK Austria Wien II|Austria Wien Amat.|Austria Wien A.|Ausstria Wien Amateure 
 rapidii,   SK Rapid Wien II|SK Rapid Amateure
 
-
-
-##  Wikipedia de:
-#    Floridsdorfer_AC
-#    Wiener_Sportklub
 

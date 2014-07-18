@@ -4,7 +4,13 @@
 
 ## note: SV Schwechat moved to Wien
 
-sollenau,    1. SC Sollenau|SC Sollenau,  www.sc-sollenau.at,   Regionalliga Ost/NÖ,    SOL
+[sollenau]
+  1. SC Sollenau|SC Sollenau, SOL
+  Regionalliga Ost/NÖ
+  www.sc-sollenau.at
+  de.wikipedia: 1._SC_Sollenau
+
+
 amstetten,   SKU Amstetten,        Regionalliga Ost/NÖ,    AMS
 retz,        SC Retz,   www.sc-retz.at,            Regionalliga Ost/NÖ,    RET
 obergrafendorf, ATSV Ober-Grafendorf|Ober-Grafendorf, Regionalliga Ost/NÖ 
@@ -32,9 +38,4 @@ spratzern, ASV Spratzern
 
 admiraii,    FC Admira Wacker II|Admira Juniors
 stpoeltenii, SKN St.Pölten Juniors
-
-
-######################
-##  Wikipedia de:
-# 1._SC_Sollenau
 

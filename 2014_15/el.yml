@@ -1,0 +1,24 @@
+#################################################
+# Österreichische Erste Liga (1. Liga) 2014/15
+
+league: at.2
+season: 2014/15
+start_at: 2014-07-18
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+########
+# 10 Teams
+
+teams:
+- innsbruck
+- alustenau
+- liefering
+- stpoelten
+- ksv
+- mattersburg
+- horn
+- hartberg
+- fac
+- lask

@@ -1,7 +1,12 @@
 #################################
 #  Oberösterreich (OÖ)
 
-linz,          FC Blau-Weiß Linz|BW Linz,      Regionalliga Mitte/OÖ,    BWL, city:linz
+[linz]
+  FC Blau-Weiß Linz|BW Linz, BWL
+  Regionalliga Mitte/OÖ
+  // Linz
+
+
 pasching,      FC Pasching|Pasching,            Regionalliga Mitte/OÖ,   PAS
 voecklamarkt,  Union Vöcklamarkt|Vöcklamarkt,     Regionalliga Mitte/OÖ,  VOE
 stflorian,     Union St. Florian|St. Florian,     Regionalliga Mitte/OÖ,  STF

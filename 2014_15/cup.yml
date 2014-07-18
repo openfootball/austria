@@ -13,7 +13,7 @@ team3: false       # no game for 3rd/4th place
 # 64 Teams
 
 teams:
-- salzburg  # bundesliga teams
+- salzburg   # bundesliga teams (10)
 - austria
 - rapid
 - sturm
@@ -23,4 +23,57 @@ teams:
 - ksv
 - mattersburg
 - admira
-### add missing teams!!!! erste liga etc.
+- innsbruck   # erste liga teams (9)  - excl. FC Liefering
+- alustenau
+- stpoelten
+- ksv
+- mattersburg
+- horn
+- hartberg
+- fac
+- lask
+- parndorf    # burgenland (4)
+- wimpassing
+- ritzing
+- neusiedl
+- schwechat   # wien (5)
+- vienna
+- technopooladmira
+- donaufeld
+- wienersk
+- sollenau    # niederösterreich (7)
+- leobendorf
+- kottingsbrunn
+- retz
+- obergrafendorf
+- amstetten
+- spratzern
+- wallern    # oberösterreich (6)
+- gurten
+- linz
+- steyr
+- stflorian
+- micheldorf
+- seekirchen   # salzburg (5)
+- neumarkt
+- asalzburg
+- stjohann
+- eugendorf
+- lafnitz    # steiermark (6)
+- gleisdorf 
+- weiz
+- lankowitz
+- kalsdorf
+- allerheiligen
+- klagenfurt  # kärnten (4)
+- aklagenfurt
+- wolfsberg
+- lendorf
+- kufstein   # tirol (4)
+- schwaz
+- kitzbuehel
+- wattens
+- hard       # vorarlberg (4)
+- dornbirn
+- hoechst
+- hohenems

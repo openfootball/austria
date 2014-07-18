@@ -4,8 +4,7 @@
 kalsdorf,      SC Kalsdorf,            Regionalliga Mitte/Stmk., KAL
 gratkorn,      FC Gratkorn,            Regionalliga Mitte/Stmk., GRA
 
-## check  - in use USV Allerheitligen ??? remove/cleanup??
-allerheiligen, SV Allerheiligen|USV Allerheiligen,       Regionalliga Mitte/Stmk., ALL
+allerheiligen, SV Allerheiligen|Allerheiligen,       Regionalliga Mitte/Stmk., ALL
 
 
 ##############

@@ -1,5 +1,5 @@
-##################################
-# ÖFB Cup 2013/14
+###########################
+#   ÖFB Cup 2013/14
 
 league: at.cup
 season: 2013/14
@@ -29,47 +29,46 @@ teams:
 - vienna
 - lask         # -- 2 Relegationsverlierer
 - linz
-- oberwart     # (B) -- Regionalliga
-- stegersbach  # (B)
+- oberwart        # (B) -- Regionalliga, Landesliga u Landes-Cup Sieger
+- stegersbach     # (B)
+- pinkafeld       # (B)
+- drassburg       # (B)
 - amstetten       # (NÖ)
 - obergrafendorf  # (NÖ)
 - retz            # (NÖ)
 - sollenau        # (NÖ)
+- badvoeslau      # (NÖ)
+- mannsdorf       # (NÖ)
+- leopoldsdorf    # (NÖ)
 - fac             # (W)
-- schwechat       # (NÖ)  - is W??
+- schwechat       # (W)
 - wienersk        # (W)
+- viktoria        # (W)
+- wienerlinien    # (W)
 - pasching        # (OÖ)
 - stflorian       # (OÖ)
 - voecklamarkt    # (OÖ)
+- steyr           # (OÖ)
 - klagenfurt      # (K)
 - aklagenfurt     # (K)
+- stveit          # (K)
+- vsv             # (K)
 - allerheiligen   # (ST)
 - leoben          # (ST)
 - gratkorn        # (ST)
 - kalsdorf        # (ST)
+- lankowitz       # (ST)
+- lafnitz         # (ST)
 - neumarkt        # (S)
 - stjohann        # (S)
 - seekirchen      # (S)
 - walsgruenau     # (S)
+- asalzburg       # (S)
 - schwaz          # (T)
 - wattens         # (T)
+- kitzbuehel      # (T)
+- kufstein        # (T)
 - bregenz         # (V)
 - dornbirn        # (V)
-- hard            # (V)
-- pinkafeld       # (B)    -- Landesliga
-- stveit          # (K)
-- badvoeslau      # (NÖ)
-- mannsdorf       # (NÖ)
-- lankowitz       # (ST)
-- kitzbuehel      # (T)
-- viktoria        # (W)
-- drassburg       # (B)    -- Landes-Cup Sieger
-- vsv             # (K)
-- leopoldsdorf    # (NÖ)
-- steyr           # (OÖ)
-- asalzburg       # (S)
-- lafnitz         # (ST)
-- kufstein        # (T)
 - dornbirnersv    # (V)
-- wienerlinien    # (W)
-
+- hard            # (V)

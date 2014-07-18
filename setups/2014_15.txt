@@ -22,5 +22,6 @@ at-austria!/teams_3_wien
 
 # - Fixtures
 at-austria!/2014_15/bl
+at-austria!/2014_15/el
 at-austria!/2014_15/cup
 

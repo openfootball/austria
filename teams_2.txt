@@ -7,59 +7,75 @@
 
 
 [innsbruck]
-  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck, FCW, 1913
+  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck, 1913, FCW
   Erste Liga/Tirol
   Stadionstraße 1b // 6020 Innsbruck
   www.fc-wacker-innsbruck.at
   de.wikipedia: FC_Wacker_Innsbruck_(2002)
 
 [mattersburg]
-  SV Mattersburg|Sportvereinigung Mattersburg,  MAT, 1922
+  SV Mattersburg|Sportvereinigung Mattersburg,  1922, MAT
   Erste Liga/Bgld.   # from Bundesliga 2013/14
   Michael Koch Straße 50 // 7210 Mattersburg
   www.svm.at
   de.wikipedia: SV_Mattersburg
 
 [alustenau]
-  SC Austria Lustenau|Austria Lustenau|A. Lustenau,  ALU
+  SC Austria Lustenau|Austria Lustenau|A. Lustenau, 1914, ALU
   Erste Liga/Vbg.
-  city:lustenau
+  // Lustenau
+  www.austria-lustenau.at
+  de.wikipedia: SC_Austria_Lustenau
 
 [stpoelten]
-  SKN St. Pölten,  SKN
+  SKN St. Pölten|Sportklub Niederösterreich St. Pölten, 2000, SKN
   Erste Liga/NÖ
-  city:stpoelten
+  // St. Pölten
+  www.skn-stpoelten.at
+  de.wikipedia: SKN_St._Pölten
 
 [horn]
-  SV Horn,  SVH
+  SV Horn,  1922, SVH
   Erste Liga/NÖ
-  city:horn
+  // Horn
+  www.svhorn.at
+  de.wikipedia: SV_Horn
 
 
 [ksv]
   Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, KSV
   Erste Liga/Stmk.
-  city:kapfenberg
+  // Kapfenberg
+  www.ksv1919.at
+  de.wikipedia: Kapfenberger_SV
 
 [hartberg]
-  TSV Hartberg, HTB
+  TSV Hartberg|Turn- und Sportverein Hartberg, 1946, HTB
   Erste Liga/Stmk.
-  city:hartberg
+  // Hartberg
+  www.tsv-hartberg-fussball.at
+  de.wikipedia: TSV_Hartberg
 
 
 [liefering]
-  FC Liefering, LIE
+  FC Liefering, 1947, FCL     ## LIE
   Erste Liga/Sbg.
-  city:salzburg   # from Regionalliga West - Liefering - Stadtteil von Salzburg
+  // Salzburg     # from Regionalliga West - Liefering - Stadtteil von Salzburg
+  de.wikipedia: FC_Liefering
 
 [fac]
-  Floridsdorfer AC|FAC Team für Wien, FAC
+  Floridsdorfer AC|FAC Team für Wien, 1904, FAC
   Erste Liga/Wien
+  // Wien
   www.fac.at
+  de.wikipedia: Floridsdorfer_AC
 
 [lask]
-  LASK Linz,  LAS
+  LASK Linz, 1899, ASK   ## LAS
+  // Linz
   Erste Liga/OÖ
+  www.lask.at
+  de.wikipedia: LASK_Linz
 
 
 # note:
