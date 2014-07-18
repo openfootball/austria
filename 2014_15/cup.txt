@@ -15,24 +15,24 @@
   19.00  ATSV Wolfsberg - Dornbirn  2:1 (1:1)
   19.00  Wallern - St. Florian  6:4 i.E. 1:1 n.V. (0:0, 0:0)
   19.00  Parndorf - SV Ried  2:3 (1:2)
-  19.00  Schwaz - SK Sturm Graz  1:4 (0:1)
+  19.00  Schwaz -  Sturm Graz  1:4 (0:1)
   19.00  SV Seekirchen - LASK Linz  1:4 (0:0)
   19.30  ASK Kottingbrunn - KSV 1919  0:7 (0:2)
   19.30  Austria Klagenfurt - Vorwärts Steyr  1:3 (1:1)
-  19.30  Amstetten SKU - SK Rapid Wien  0:1 n.V. (0:0, 0:0)
-  19.30  Lendorf - FC Admira Wacker  0:7 (0:1)
+  19.30  Amstetten SKU -  Rapid Wien  0:1 n.V. (0:0, 0:0)
+  19.30  Lendorf - Admira Wacker  0:7 (0:1)
   19.30  Schwechat SV - Floridsdorfer AC   1:4 (1:2)
-  20.30  Vienna - FK Austria Wien  0:6 (0:2)
+  20.30  Vienna - Austria Wien  0:6 (0:2)
 
 [Sa 12.7.]
   15.30  Ober-Grafendorf - FC Lankowitz  1:4 (0:3)
-  16.00  Sollenau - FC RB Salzburg  1:10 (1:5)
-  16.30  Gurten - SC Wr Neustadt  0:6 (0:2)
+  16.00  Sollenau -  RB Salzburg  1:10 (1:5)
+  16.30  Gurten -  Wr Neustadt  0:6 (0:2)
   17.00  Kitzbühel - SC Retz  5:1 (0:0)
-  17.00  Wiener SK - SC Austria Lustenau  3:2 (0:0)
+  17.00  Wiener SK -  Austria Lustenau  3:2 (0:0)
   17.00  Hohenems - USC Eugendorf  5:1 (4:1)
   17.00  Wimpassing - SV Horn  0:3 (0:2)
-  17.00  Donaufeld - FC Wacker Innsbruck  1:3 n.V. (1:1, 0:0)
+  17.00  Donaufeld -  Wacker Innsbruck  1:3 n.V. (1:1, 0:0)
   17.00  Höchst - SV Mattersburg  1:2 (0:1)
   17.30  TSV St. Johann - ASV Spratzern  3:0 (2:0)
   18.00  Neusiedl am See - TSV Neumarkt  5:1 (2:0)
@@ -45,7 +45,7 @@
   16.45  SV Leobendorf - SV Grödig  1:7 (0:3)
 
 [Mi 16.7.]
-  19.33  SV Austria Salzburg  - BW Linz  2:0 (1:0)
+  19.33  Austria Salzburg  - BW Linz  2:0 (1:0)
 
 
 

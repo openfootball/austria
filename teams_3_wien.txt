@@ -25,7 +25,7 @@ viktoria,    Wiener Viktoria|SC Wiener Viktoria,  Regionalliga Ost/Wien, VIK
 
 ostbahn,     SC Ostbahn XI,         OST   # from Regionalliga Ost/Wien
 
-wienerlinien, Team Wiener Linien
+wienerlinien, Team Wiener Linien|SC Team Wiener Linien
 
 technopooladmira,  Technopool Admira      ## check what liga ??
 

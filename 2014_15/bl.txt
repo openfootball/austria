@@ -6,8 +6,8 @@
 
 [Sa 19.7.]
   16.30   RB Salzburg       -  Rapid Wien
-  19.00   SV Ried           -  SC Wiener Neustadt
-  19.00   FC Admira Wacker  -  Wolfsberger AC
+  19.00   SV Ried           -  Wiener Neustadt
+  19.00   Admira Wacker     -  Wolfsberger AC
   19.00   SCR Altach        -  Sturm Graz
 [So 20.7.]
   16.30   Austria Wien      -  SV Grödig
@@ -17,45 +17,45 @@
 [Sa 26.7.]
   16.30   Wolfsberger AC      -  Austria Wien
   19.00   Rapid Wien          -  SV Ried
-  19.00   SC Wiener Neustadt  -  RB Salzburg
-  19.00   SCR Altach          -  FC Admira Wacker
+  19.00   Wiener Neustadt     -  RB Salzburg
+  19.00   SCR Altach          -  Admira Wacker
 [So 27.7.]
   16.30   SV Grödig           -  Sturm Graz
 
 3. Runde
 
 [Sa 2.8.]
-  16.00   FC Admira Wacker    -  Rapid Wien
+  16.00   Admira Wacker       -  Rapid Wien
   19.00   SV Grödig           -  Wolfsberger AC
   19.00   Austria Wien        -  SCR Altach
-  19.00   Sturm Graz          -  SC Wiener Neustadt
+  19.00   Sturm Graz          -  Wiener Neustadt
 [So 3.8.]
-  16.00   SV Ried  RB Salzburg
+  16.00   SV Ried             -  RB Salzburg
 
 4. Runde
  
 [Sa 9.8.]
-  16.30   RB Salzburg  -  SV Grödig
-  19.00   Rapid Wien   -  Sturm Graz
-  19.00   SV Ried      -  FC Admira Wacker
-  19.00   SCR Altach   -  Wolfsberger AC
+  16.30   RB Salzburg      -  SV Grödig
+  19.00   Rapid Wien       -  Sturm Graz
+  19.00   SV Ried          -  Admira Wacker
+  19.00   SCR Altach       -  Wolfsberger AC
 [So 10.8.]
-  16.30   SC Wiener Neustadt  -  Austria Wien
+  16.30   Wiener Neustadt  -  Austria Wien
 
 5. Runde
  
 [Sa 16.8.]
   Rapid Wien  SCR Altach
-  SV Grödig  SC Wiener Neustadt
+  SV Grödig  Wiener Neustadt
   Sturm Graz  Austria Wien
   Wolfsberger AC  SV Ried
-  FC Admira Wacker  RB Salzburg
+  Admira Wacker  RB Salzburg
 
 6. Runde 
 
 [Sa 23.8.]
   RB Salzburg  SCR Altach
-  SC Wiener Neustadt  FC Admira Wacker
+  Wiener Neustadt  Admira Wacker
   Sturm Graz  Wolfsberger AC
   SV Ried  SV Grödig
 [So 24.8.]
@@ -66,8 +66,8 @@
 [Sa 30.8.]
   RB Salzburg  Sturm Graz  
   SCR Altach  SV Ried  
-  Wolfsberger AC  SC Wiener Neustadt  
-  FC Admira Wacker  Austria Wien  
+  Wolfsberger AC  Wiener Neustadt  
+  Admira Wacker  Austria Wien  
 [So 31.8.]
   Rapid Wien  SV Grödig  
 
@@ -76,9 +76,9 @@
 [Sa 13.9.] 
   SV Grödig  SCR Altach  
   Austria Wien  SV Ried  
-  Sturm Graz  FC Admira Wacker  
+  Sturm Graz  Admira Wacker  
   Wolfsberger AC  RB Salzburg  
-  SC Wiener Neustadt  Rapid Wien  
+  Wiener Neustadt  Rapid Wien  
 
 9. Runde
 
@@ -86,8 +86,8 @@
   RB Salzburg  Austria Wien  
   Rapid Wien  Wolfsberger AC  
   SV Ried  Sturm Graz  
-  FC Admira Wacker  SV Grödig  
-  SCR Altach  SC Wiener Neustadt  
+  Admira Wacker  SV Grödig  
+  SCR Altach  Wiener Neustadt  
 
 10. Runde
 
@@ -95,43 +95,43 @@
   Rapid Wien  RB Salzburg  
   SV Grödig  Austria Wien  
   Sturm Graz  SCR Altach  
-  Wolfsberger AC  FC Admira Wacker  
-  SC Wiener Neustadt  SV Ried  
+  Wolfsberger AC  Admira Wacker  
+  Wiener Neustadt  SV Ried  
 
 11. Runde
 
 [Sa 4.10.]
-  RB Salzburg  SC Wiener Neustadt  
+  RB Salzburg  Wiener Neustadt  
   Austria Wien  Wolfsberger AC  
   Sturm Graz  SV Grödig  
   SV Ried  Rapid Wien  
-  FC Admira Wacker  SCR Altach  
+  Admira Wacker  SCR Altach  
 
 12. Runde
 
 [Sa 18.10.]
   RB Salzburg  SV Ried  
-  Rapid Wien  FC Admira Wacker  
+  Rapid Wien  Admira Wacker  
   Wolfsberger AC  SV Grödig  
-  SC Wiener Neustadt  Sturm Graz  
+  Wiener Neustadt  Sturm Graz  
   SCR Altach  Austria Wien  
 
 13. Runde
 
 [Sa 25.10.]
   SV Grödig  RB Salzburg  
-  Austria Wien  SC Wiener Neustadt  
+  Austria Wien  Wiener Neustadt  
   Sturm Graz  Rapid Wien  
   Wolfsberger AC  SCR Altach  
-  FC Admira Wacker  SV Ried  
+  Admira Wacker  SV Ried  
 
 14. Runde
 
 [Sa 1.11.]
-  RB Salzburg  FC Admira Wacker  
+  RB Salzburg  Admira Wacker  
   Austria Wien  Sturm Graz  
   SV Ried  Wolfsberger AC  
-  SC Wiener Neustadt  SV Grödig  
+  Wiener Neustadt  SV Grödig  
   SCR Altach  Rapid Wien  
 
 15. Runde
@@ -140,42 +140,42 @@
   Rapid Wien  Austria Wien  
   SV Grödig  SV Ried  
   Wolfsberger AC  Sturm Graz  
-  FC Admira Wacker  SC Wiener Neustadt  
+  Admira Wacker  Wiener Neustadt  
   SCR Altach  RB Salzburg  
 
 16. Runde
 
 [Sa 22.11.]
   SV Grödig  Rapid Wien  
-  Austria Wien  FC Admira Wacker  
+  Austria Wien  Admira Wacker  
   Sturm Graz  RB Salzburg  
   SV Ried  SCR Altach  
-  SC Wiener Neustadt  Wolfsberger AC  
+  Wiener Neustadt  Wolfsberger AC  
 
 17. Runde
 
 [Sa 29.11.]
   RB Salzburg  Wolfsberger AC  
-  Rapid Wien  SC Wiener Neustadt  
+  Rapid Wien  Wiener Neustadt  
   SV Ried  Austria Wien  
-  FC Admira Wacker  Sturm Graz  
+  Admira Wacker  Sturm Graz  
   SCR Altach  SV Grödig  
 
 18. Runde
 
 [Sa 6.12.]
-  SV Grödig          - FC Admira Wacker  
-  Austria Wien       - RB Salzburg  
-  Sturm Graz         - SV Ried  
-  Wolfsberger AC     - Rapid Wien  
-  SC Wiener Neustadt - SCR Altach  
+  SV Grödig          - Admira Wacker
+  Austria Wien       - RB Salzburg
+  Sturm Graz         - SV Ried
+  Wolfsberger AC     - Rapid Wien
+  Wiener Neustadt    - SCR Altach
 
 19. Runde
 
 [Sa 13.12.]
   RB Salzburg        - Rapid Wien
   Austria Wien       - SV Grödig
-  SV Ried            - SC Wiener Neustadt
-  FC Admira Wacker   - Wolfsberger AC
+  SV Ried            - Wiener Neustadt
+  Admira Wacker      - Wolfsberger AC
   SCR Altach         - Sturm Graz
 

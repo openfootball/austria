@@ -5,10 +5,10 @@
 29. Runde
 
 [Sa 7.4.]
-  16.00   RB Salzburg       2:0   FC Wacker Innsbruck
+  16.00   RB Salzburg       2:0   Wacker Innsbruck
   18.30   SV Ried           0:1   Austria Wien
   18.30   Kapfenberger SV   2:3   Admira Wacker
-  18.30   Rapid Wien        2:1   SC Wiener Neustadt
+  18.30   Rapid Wien        2:1   Wiener Neustadt
 [So 8.4.]
   16.00   SV Mattersburg    0:2   Sturm Graz
 
@@ -16,8 +16,8 @@
 30. Runde
 
 [Sa 14.4.]
-  16.00   SC Wiener Neustadt   0:0   Kapfenberger SV
-  18.30   Admira Wacker        1:1   FC Wacker Innsbruck
+  16.00   Wiener Neustadt      0:0   Kapfenberger SV
+  18.30   Admira Wacker        1:1   Wacker Innsbruck
   18.30   Sturm Graz           2:2   RB Salzburg
   18.30   SV Ried              2:0   SV Mattersburg
 [So 15.4.]
@@ -27,7 +27,7 @@
 31. Runde
 
 [Sa 21.4.]
-  16.00   FC Wacker Innsbruck    2:0   SC Wiener Neustadt
+  16.00   Wacker Innsbruck       2:0   Wiener Neustadt
   18.30   Kapfenberger SV        1:0   Austria Wien
   18.30   SV Mattersburg         1:2   Admira Wacker
   18.30   RB Salzburg            2:0   SV Ried
@@ -38,8 +38,8 @@
 32. Runde
 
 [Sa 28.4.]
-  16.00   Austria Wien         3:0   FC Wacker Innsbruck
-  18.30   SC Wiener Neustadt   1:4   Admira Wacker
+  16.00   Austria Wien         3:0   Wacker Innsbruck
+  18.30   Wiener Neustadt      1:4   Admira Wacker
   18.30   SV Mattersburg       0:1   RB Salzburg
   18.30   Sturm Graz           2:1   Kapfenberger SV
 [So 29.4.]
@@ -49,10 +49,10 @@
 33. Runde
 
 [Sa 5.5.]
-  16.00   SC Wiener Neustadt      0:0   Sturm Graz
+  16.00   Wiener Neustadt         0:0   Sturm Graz
   18.30   Admira Wacker           3:2   Austria Wien
   18.30   Kapfenberger SV         0:0   SV Ried
-  18.30   FC Wacker Innsbruck     3:6   SV Mattersburg
+  18.30   Wacker Innsbruck        3:6   SV Mattersburg
 [So 6.5.]
   16.00   Rapid Wien              0:1   RB Salzburg
 
@@ -61,8 +61,8 @@
 
 [Do 10.5.]
   18.30   RB Salzburg        2:0   Kapfenberger SV
-  20.30   Austria Wien       3:1   SC Wiener Neustadt
-  20.30   SV Ried            1:1   FC Wacker Innsbruck
+  20.30   Austria Wien       3:1   Wiener Neustadt
+  20.30   SV Ried            1:1   Wacker Innsbruck
   20.30   SV Mattersburg     0:1   Rapid Wien
   20.30   Sturm Graz         0:3   Admira Wacker
 
@@ -71,8 +71,8 @@
 
 [So 13.5.]
   16.00   Kapfenberger SV       0:2   Rapid Wien
-  16.00   FC Wacker Innsbruck   1:1   Sturm Graz
-  16.00   SC Wiener Neustadt    1:5   RB Salzburg
+  16.00   Wacker Innsbruck      1:1   Sturm Graz
+  16.00   Wiener Neustadt       1:5   RB Salzburg
   16.00   Admira Wacker         1:1   SV Ried
   16.00   Austria Wien          1:0   SV Mattersburg
 
@@ -80,8 +80,8 @@
 36. Runde
 
 [Do 17.5.]
-  16.00   Rapid Wien       2:0   FC Wacker Innsbruck
-  16.00   SV Ried          2:2   SC Wiener Neustadt
+  16.00   Rapid Wien       2:0   Wacker Innsbruck
+  16.00   SV Ried          2:2   Wiener Neustadt
   16.00   SV Mattersburg   2:0   Kapfenberger SV
   16.00   Sturm Graz       3:1   Austria Wien
   16.00   RB Salzburg      2:0   Admira Wacker

@@ -1,7 +1,7 @@
 ###########################
 #   Salzburg (Sbg.)
 
-asalzburg,    SV Austria Salzburg|A. Salzburg,   Regionalliga West/Sbg.,  AUS
+asalzburg,    SV Austria Salzburg|Austria Salzburg|A. Salzburg,   Regionalliga West/Sbg.,  AUS
 stjohann,     TSV St. Johann|TSV St. Johann Pongau,     Regionalliga West/Sbg.,  STJ
 
 
@@ -24,4 +24,5 @@ eugendorf, USC Eugendorf
 ########################
 # II/Juniors/Amateure
 
-salzburgii,   FC RB Juniors Salzburg|FC Red Bull Salzburg II,  Regionalliga West/Sbg.
+salzburgii,   FC RB Juniors Salzburg|FC Red Bull Salzburg II|RB Salzburg II,  Regionalliga West/Sbg.
+
