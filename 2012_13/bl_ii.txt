@@ -8,14 +8,14 @@
   SV Ried     Wacker Innsbruck   3:0
   Rapid Wien     Austria Wien    1:2
   SV Mattersburg    Sturm Graz    0:0
-  Admira Wacker    Wiener Neustadt  1:2
+  Admira Wacker    Wr. Neustadt  1:2
 [Mi 6.3.]
   Wolfsberger AC     RB Salzburg   1:1   # note: postponed/verschoben
 
 22. Runde
 
 [Sa 23.2.]
-  Wiener Neustadt    SV Ried  0:0
+  Wr. Neustadt    SV Ried  0:0
   Sturm Graz     Wolfsberger AC    1:3
   RB Salzburg    Rapid Wien     3:3
   Austria Wien    Admira Wacker    4:0
@@ -27,7 +27,7 @@
 [Di 26.2.]
   SV Ried     Austria Wien    1:3
   Rapid Wien     Sturm Graz   1:1
-  Wacker Innsbruck    Wiener Neustadt    1:0
+  Wacker Innsbruck    Wr. Neustadt    1:0
 [Mi 13.3.]
   Wolfsberger AC    SV Mattersburg  1:0   # note: postponed/verschoben
   Admira Wacker     RB Salzburg   1:1   # note: postponed/verschoben
@@ -36,7 +36,7 @@
 
 [Sa 2.3.]
   Sturm Graz     Admira Wacker      1:2
-  RB Salzburg    Wiener Neustadt    3:1
+  RB Salzburg    Wr. Neustadt    3:1
   Austria Wien    Wacker Innsbruck  4:0
   SV Mattersburg    SV Ried         1:0
   Wolfsberger AC    Rapid Wien      2:1
@@ -44,7 +44,7 @@
 25. Runde
 
 [Sa 9.3.]
-  Wiener Neustadt   Austria Wien   0:0
+  Wr. Neustadt   Austria Wien   0:0
   SV Ried   Sturm Graz             1:2
   Rapid Wien   SV Mattersburg      2:2
   Admira Wacker   Wolfsberger AC   0:1
@@ -57,7 +57,7 @@
   Rapid Wien   Admira Wacker        1:1
   Sturm Graz   Wacker Innsbruck     3:2
   RB Salzburg   SV Ried             2:2
-  Wolfsberger AC   Wiener Neustadt  1:1
+  Wolfsberger AC   Wr. Neustadt  1:1
 [So 17.3.]
   SV Mattersburg   Austria Wien     0:4
 
@@ -66,7 +66,7 @@
 [Sa 30.3.]
   Admira Wacker   SV Mattersburg     1:0
   SV Ried   Rapid Wien               3:2
-  Wiener Neustadt   Sturm Graz       1:0
+  Wr. Neustadt   Sturm Graz       1:0
   Wacker Innsbruck   Wolfsberger AC  2:3
 [So 31.3.]
   Austria Wien   RB Salzburg         1:1
@@ -76,7 +76,7 @@
 [Sa 6.4.]
   RB Salzburg   Sturm Graz           3:0
   Wacker Innsbruck   Rapid Wien      1:1
-  Wiener Neustadt   SV Mattersburg   0:0
+  Wr. Neustadt   SV Mattersburg   0:0
   Austria Wien   Wolfsberger AC      0:4
   SV Ried   Admira Wacker            4:1
 
@@ -84,7 +84,7 @@
 
 [Sa 13.4.]
   Wolfsberger AC   SV Ried           1:3
-  Rapid Wien   Wiener Neustadt       2:0
+  Rapid Wien   Wr. Neustadt       2:0
   SV Mattersburg   RB Salzburg       1:2
   Sturm Graz   Austria Wien          1:1
   Admira Wacker   Wacker Innsbruck  4:3
@@ -96,12 +96,12 @@
   Austria Wien   Rapid Wien          2:2
   Sturm Graz   SV Mattersburg        2:2
   RB Salzburg   Wolfsberger AC       6:2
-  Wiener Neustadt   Admira Wacker    3:0
+  Wr. Neustadt   Admira Wacker    3:0
 
 31. Runde
 
 [Sa 27.4.]
-  SV Ried   Wiener Neustadt          2:1
+  SV Ried   Wr. Neustadt          2:1
   Wolfsberger AC   Sturm Graz        3:0
   Rapid Wien   RB Salzburg           1:3
   Admira Wacker   Austria Wien       0:2
@@ -112,7 +112,7 @@
 [Sa 4.5.]
   Austria Wien   SV Ried              3:1
   Sturm Graz   Rapid Wien             1:3
-  Wiener Neustadt   Wacker Innsbruck  2:2
+  Wr. Neustadt   Wacker Innsbruck  2:2
   SV Mattersburg   Wolfsberger AC     3:1
   RB Salzburg   Admira Wacker         2:1
 
@@ -120,7 +120,7 @@
 
 [Sa 11.5.]
   Admira Wacker    Sturm Graz       3:0
-  Wiener Neustadt   RB Salzburg     0:6
+  Wr. Neustadt   RB Salzburg     0:6
   Wacker Innsbruck   Austria Wien   0:3
   SV Ried   SV Mattersburg          1:1
   Rapid Wien   Wolfsberger AC       0:0
@@ -129,7 +129,7 @@
 
 [Sa 18.5.]
   Sturm Graz   SV Ried              3:1
-  Austria Wien   Wiener Neustadt    3:1
+  Austria Wien   Wr. Neustadt    3:1
   SV Mattersburg   Rapid Wien       2:0
   RB Salzburg   Wacker Innsbruck    3:1
   Wolfsberger AC   Admira Wacker    0:0
@@ -141,13 +141,13 @@
   SV Ried   RB Salzburg             2:2
   Admira Wacker   Rapid Wien        0:2
   Austria Wien   SV Mattersburg     4:0
-  Wiener Neustadt   Wolfsberger AC  2:0
+  Wr. Neustadt   Wolfsberger AC  2:0
 
 36. Runde
 
 [So 26.5.]
   Rapid Wien   SV Ried               3:0
-  Sturm Graz   Wiener Neustadt       0:3
+  Sturm Graz   Wr. Neustadt       0:3
   RB Salzburg   Austria Wien         3:0
   Wolfsberger AC   Wacker Innsbruck  2:3
   SV Mattersburg   Admira Wacker     0:1

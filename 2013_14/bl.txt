@@ -6,7 +6,7 @@
 
 [Sa 20.7.]
   16.30  Austria Wien         2:0  Admira Wacker
-  19.00  Wiener Neustadt      1:5  RB Salzburg
+  19.00  Wr. Neustadt         1:5  RB Salzburg
   19.00  SV Grödig            0:0  SV Ried
   19.00  Wolfsberger AC       2:2  Rapid Wien
 [So 21.7.]
@@ -16,7 +16,7 @@
 2. Runde
 
 [Sa 27.7.]
-  16.30  Rapid Wien           4:0  Wiener Neustadt
+  16.30  Rapid Wien           4:0  Wr. Neustadt
   19.00  Admira Wacker        1:2  Wacker Innsbruck
   19.00  SV Ried              1:0  Wolfsberger AC
   19.00  RB Salzburg          5:1  Austria Wien
@@ -27,7 +27,7 @@
 3. Runde
 
 [Sa 3.8.]
-  16.30  Wiener Neustadt      2:1  Wolfsberger AC
+  16.30  Wr. Neustadt         2:1  Wolfsberger AC
   19.00  SV Grödig            7:1  Admira Wacker
   19.00  Wacker Innsbruck     1:1  RB Salzburg
   19.00  Austria Wien         3:3  SV Ried
@@ -39,7 +39,7 @@
 
 [Sa 10.8.]
   16.30  Wolfsberger AC       1:1  Wacker Innsbruck
-  19.00  SV Ried              1:1  Wiener Neustadt
+  19.00  SV Ried              1:1  Wr. Neustadt
   19.00  RB Salzburg          4:1  SV Grödig
   19.00  Admira Wacker        1:1  Sturm Graz
 [So 11.8.]
@@ -52,7 +52,7 @@
   16.30  Sturm Graz           1:1  RB Salzburg
   19.00  SV Grödig            4:3  Wolfsberger AC
   19.00  Wacker Innsbruck     2:3  SV Ried
-  19.00  Austria Wien         5:0  Wiener Neustadt
+  19.00  Austria Wien         5:0  Wr. Neustadt
 [So 18.8.]
   16.30  Admira Wacker     2:0  Rapid Wien
 
@@ -61,7 +61,7 @@
 
 [Sa 24.8.] 
   16.30  SV Ried              3:0  Sturm Graz
-  19.00  Wiener Neustadt      1:1  Wacker Innsbruck
+  19.00  Wr. Neustadt         1:1  Wacker Innsbruck
   16.30  Wolfsberger AC       1:4  Austria Wien
 [So 25.8.]
   19.00  Rapid Wien           0:1  SV Grödig
@@ -72,7 +72,7 @@
 
 [Sa 31.8.]
   16.30  Sturm Graz           4:2  Wolfsberger AC
-  19.00  SV Grödig            3:6  Wiener Neustadt
+  19.00  SV Grödig            3:6  Wr. Neustadt
   19.00  Austria Wien         1:1  Wacker Innsbruck
   19.00  Admira Wacker        1:4  SV Ried
 [So 1.9.]
@@ -84,7 +84,7 @@
 [Sa 14.9.]
   Wacker Innsbruck    0:4  Rapid Wien
   Wolfsberger AC      3:1  Admira Wacker
-  Wiener Neustadt     1:3  Sturm Graz
+  Wr. Neustadt        1:3  Sturm Graz
   Austria Wien        2:3  SV Grödig
 [So 15.9.]
   SV Ried             0:5  RB Salzburg
@@ -95,7 +95,7 @@
 [Sa 21.9.]
   SV Grödig           3:3  Wacker Innsbruck
   Sturm Graz          1:2  Austria Wien
-  Admira Wacker       0:3  Wiener Neustadt
+  Admira Wacker       0:3  Wr. Neustadt
 [So 22.9.]
   Rapid Wien          2:0  SV Ried
   RB Salzburg         2:2  Wolfsberger AC
@@ -109,7 +109,7 @@
   Rapid Wien          2:4  Wolfsberger AC
   Admira Wacker       1:0  Austria Wien
 [So 29.9.]
-  RB Salzburg         8:1  Wiener Neustadt
+  RB Salzburg         8:1  Wr. Neustadt
 
 
 11. Runde
@@ -120,7 +120,7 @@
   Wacker Innsbruck    3:3  Admira Wacker
 [So 6.10.]
   Austria Wien        1:2  RB Salzburg
-  Wiener Neustadt     0:0  Rapid Wien
+  Wr. Neustadt        0:0  Rapid Wien
 
 
 12. Runde
@@ -128,7 +128,7 @@
 [Sa 19.10.]
   Admira Wacker       0:4  SV Grödig
   RB Salzburg         6:0  Wacker Innsbruck
-  Wolfsberger AC      1:1  Wiener Neustadt
+  Wolfsberger AC      1:1  Wr. Neustadt
   SV Ried             1:1  Austria Wien
 [So 20.10.]
   Rapid Wien          2:2  Sturm Graz
@@ -137,7 +137,7 @@
 13. Runde
 
 [Sa 26.10.]
-  Wiener Neustadt     3:3  SV Ried
+  Wr. Neustadt        3:3  SV Ried
   Wacker Innsbruck    1:2  Wolfsberger AC
   Sturm Graz          0:2  Admira Wacker
 [So 27.10.]
@@ -153,14 +153,14 @@
   RB Salzburg         1:0  Sturm Graz
   Rapid Wien          4:2  Admira Wacker
 [So 3.11.]
-  Wiener Neustadt  0:3  Austria Wien
+  Wr. Neustadt        0:3  Austria Wien
 
 
 15. Runde
 
 [Sa 9.11.]
   Austria Wien         1:0  Wolfsberger AC
-  Wacker Innsbruck     4:0  Wiener Neustadt
+  Wacker Innsbruck     4:0  Wr. Neustadt
 [So 10.11.]
   SV Grödig            2:2  Rapid Wien
   Admira Wacker        3:1  RB Salzburg
@@ -171,7 +171,7 @@
 16. Runde
 
 [Sa 23.11.]
-  Wiener Neustadt      0:2  SV Grödig
+  Wr. Neustadt         0:2  SV Grödig
   Wacker Innsbruck     0:5  Austria Wien
   SV Ried              2:2  Admira Wacker
 [So 24.11.]
@@ -184,7 +184,7 @@
 
 [Sa 30.11.]
   Admira Wacker        3:0  Wolfsberger AC
-  Sturm Graz           2:3  Wiener Neustadt
+  Sturm Graz           2:3  Wr. Neustadt
   SV Grödig            1:0  Austria Wien
 [So 1.12.]
   RB Salzburg          4:0  SV Ried
@@ -199,7 +199,7 @@
   Wacker Innsbruck     5:3  SV Grödig
   SV Ried              2:0  Rapid Wien
   Wolfsberger AC       1:2  RB Salzburg
-  Wiener Neustadt      1:0  Admira Wacker
+  Wr. Neustadt         1:0  Admira Wacker
 
 
 19. Runde
@@ -211,7 +211,7 @@
 [So 8.12.]
   Wolfsberger AC       2:1  Rapid Wien
 [So 2.2.]
-  Wiener Neustadt      1:5  RB Salzburg   ## -- postponed from Sa 7.12.
+  Wr. Neustadt         1:5  RB Salzburg   ## -- postponed from Sa 7.12.
 
 
 20. Runde
@@ -222,7 +222,7 @@
   Admira Wacker        3:0  Wacker Innsbruck
 [So 15.12.]
   RB Salzburg          4:0  Austria Wien
-  Rapid Wien           0:0  Wiener Neustadt
+  Rapid Wien           0:0  Wr. Neustadt
 
 
 21. Runde
@@ -233,6 +233,6 @@
 [Mi 18.12.]
   Wacker Innsbruck     0:1  RB Salzburg
   Sturm Graz           2:0  Rapid Wien
-  Wiener Neustadt      1:1  Wolfsberger AC
+  Wr. Neustadt         1:1  Wolfsberger AC
   Austria Wien         1:1  SV Ried
 
