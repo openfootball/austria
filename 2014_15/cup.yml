@@ -14,20 +14,20 @@ team3: false       # no game for 3rd/4th place
 
 teams:
 - salzburg   # bundesliga teams (10)
-- austria
 - rapid
-- sturm
 - groedig
+- austria
+- sturm
 - ried
+- wac
 - wrneustadt
-- ksv
-- mattersburg
 - admira
+- altach
 - innsbruck   # erste liga teams (9)  - excl. FC Liefering
+- mattersburg
 - alustenau
 - stpoelten
 - ksv
-- mattersburg
 - horn
 - hartberg
 - fac
