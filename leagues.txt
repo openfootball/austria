@@ -13,12 +13,59 @@ at.3.west,  Österr. Regionalliga West
 ###
 # 9 leagues (one per bundesland/state)
 
-at.4.w,     Wiener Stadtliga
-at.4.n,     Landesliga Niederösterreich
-at.4.b,     Landesliga Burgenland|Burgendland Liga|Burgenlandliga
-at.4.st,    Steirische Landesliga|Landesliga Steiermark
-at.4.o,     Landesliga Oberösterreich|OÖ Liga
-at.4.k,     Kärtner Liga|Landesliga Kärnten
-at.4.s,     Salzburger Liga|Landesliga Salzburg
-at.4.t,     Tiroler Liga|Tirol Liga
-at.4.v,     Vorarlberg Liga|Vorarlbergliga
+#
+# add .ost .mitte .west to key ?? why? why not??
+
+### Regionalliga Ost
+at.4.ost.w,     Wiener Stadtliga
+at.4.ost.n,     Landesliga Niederösterreich
+at.4.ost.b,     Landesliga Burgenland|Burgendland Liga|Burgenlandliga
+
+### Regionalliga Mitte
+at.4.mitte.st,  Steirische Landesliga|Landesliga Steiermark
+at.4.mitte.o,   Landesliga Oberösterreich|OÖ Liga
+at.4.mitte.k,   Kärtner Liga|Landesliga Kärnten
+
+### Regionalliga West
+at.4.west.s,    Salzburger Liga|Landesliga Salzburg
+at.4.west.t,    Tiroler Liga|Tirol Liga
+at.4.west.v,    Vorarlberg Liga|Vorarlbergliga
+
+
+#### todo: move to leagues_noe.txt 
+
+#### Landesliga Niederösterreich
+at.5.n.ost,   2. Landesliga Ost (NÖ)
+at.5.n.west,  2. Landesliga West (NÖ)
+
+##### 2. Landesliga Ost (NÖ)
+at.6.n.ost.sso,  Gebietsliga Süd/Südost (NÖ)
+at.6.n.ost.nnw,  Gebietsliga Nord/Nordwest (NÖ)
+
+##### 2. Landesliga West (NÖ)
+at.6.n.west.w,   Gebietsliga West (NÖ)
+at.6.n.west.nww, Gebietsliga Nordwest/Waldviertel (NÖ)
+
+###### Gebietsliga Süd/Südost (NÖ)
+at.7.n.ost.sso.s, 1. Klasse Süd (NÖ)
+at.7.n.ost.sso.o, 1. Klasse Ost (NÖ)
+
+###### Gebietsliga Nord/Nordwest (NÖ)
+at.7.n.ost.nnw.n,  1. Klasse Nord (NÖ)
+at.7.n.ost.nnw.nw, 1. Klasse Nordwest (NÖ)
+
+###### Gebietsliga West (NÖ)
+at.7.n.west.w.w,  1. Klasse West (NÖ)
+at.7.n.west.w.wm, 1. Klasse West-Mitte (NÖ)
+
+###### Gebietsliga Nordwest/Waldviertel (NÖ)
+at.7.n.west.nww.nwm, 1. Klasse Nordwest-Mitte (NÖ)
+at.7.n.west.nww.w,   1. Klasse Waldviertel (NÖ)
+
+######## 1. Klasse Nordwest-Mitte (NÖ)
+at.8.n.west.nww.nwm.wachau,      2. Klasse Wachau (NÖ)
+at.8.n.west.nww.nwm.schmidatal,  2. Klasse Schmidatal (NÖ)
+
+
+
+
