@@ -25,9 +25,3 @@ neusiedl,   SC Neusiedl am See 1919|Neusiedl am See
   de.wikipedia: SC_Ritzing
 
 
-
-########################
-# II/Juniors/Amateure
-
-mattersburgii, SV Mattersburg II|SV Mattersburg Amateure
-

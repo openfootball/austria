@@ -15,10 +15,14 @@
 
 [mattersburg]
   SV Mattersburg|Sportvereinigung Mattersburg,  1922, MAT
-  Erste Liga/Bgld.   # from Bundesliga 2013/14
+  Erste Liga/Bgld.
   Michael Koch Straße 50 // 7210 Mattersburg
   www.svm.at
   de.wikipedia: SV_Mattersburg
+
+[mattersburgii]
+  SV Mattersburg II|SV Mattersburg Amateure
+
 
 [alustenau]
   SC Austria Lustenau|Austria Lustenau|A. Lustenau, 1914, ALU
@@ -33,6 +37,10 @@
   // St. Pölten
   www.skn-stpoelten.at
   de.wikipedia: SKN_St._Pölten
+
+[stpoeltenii]
+  SKN St.Pölten Juniors
+
 
 [horn]
   SV Horn,  1922, SVH
@@ -80,19 +88,8 @@
 
 # note:
 #  2014/15
-#   bundesliga:
-#    - new team                    | FC Wacker Innsbruck
-#    - old team (moved to teams_1) | SCR Altach
-#   erste liga:
-#     - new team   LASK Linz
-#                  Floridsdorfer AC
-#     - old team  (moved to teams_3)   ???
+#    ++ LASK Linz,  Floridsdorfer AC
+#    -- (moved to teams_3)   ???
 #  2013/14
-#   bundesliga:
-#    - new team                    | SV Mattersburg
-#    - old team (moved to teams_1) | SV Grödig
-#   erste liga:
-#    - new team  SC/ESV Parndorf 1919
-#                FC Liefering
-#    - old team (moved to teams_3) FC Blau-Weiß Linz
-#                                  FC Lustenau 1907
+#    ++ SC/ESV Parndorf 1919, FC Liefering
+#    -- (moved to teams_3)  FC Blau-Weiß Linz,  FC Lustenau 1907

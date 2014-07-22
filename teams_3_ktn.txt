@@ -9,7 +9,7 @@ aklagenfurt,   SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A.
 #############
 # More
 
-spittal,       SV Spittal/Drau,       Kärntner Liga,    SPI
+spittal,   SV Spittal/Drau,       Kärntner Liga,    SPI
 
 stveit,    FC St. Veit
 

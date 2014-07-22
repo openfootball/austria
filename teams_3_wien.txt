@@ -8,7 +8,7 @@
   // Wien
 
 [wienersk]
-  Wiener SK|Wiener Sportklub, WIE
+  Wr. Sportklub|Wiener SK|Wiener Sportklub, WIE
   Regionalliga Ost/Wien 
   www.wienersportklub.at
   de.wikipedia: Wiener_Sportklub
@@ -30,12 +30,3 @@ wienerlinien, Team Wiener Linien|SC Team Wiener Linien
 technopooladmira,  Technopool Admira      ## check what liga ??
 
 donaufeld,  SR Donaufeld|Donaufeld
-
-
-########################
-# II/Juniors/Amateure
-
-austriaii, FK Austria Wien II|Austria Wien Amat.|Austria Wien A.|Ausstria Wien Amateure 
-rapidii,   SK Rapid Wien II|SK Rapid Amateure
-
-

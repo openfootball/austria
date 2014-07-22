@@ -20,9 +20,3 @@ sak,      SAK 1914|Salzburger AK 1914,   Salzburger Liga,  SAK
 
 eugendorf, USC Eugendorf
 
-
-########################
-# II/Juniors/Amateure
-
-salzburgii,   FC RB Juniors Salzburg|FC Red Bull Salzburg II|RB Salzburg II,  Regionalliga West/Sbg.
-

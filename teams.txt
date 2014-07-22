@@ -13,11 +13,17 @@
   www.fk-austria.at
   de.wikipedia: FK_Austria_Wien
 
+[austriaii]
+  FK Austria Wien II|Austria Wien Amat.|Austria Wien A.|Ausstria Wien Amateure 
+
 [rapid]
   SK Rapid Wien|Rapid Wien,   1899,  RAP
   Keisslergasse 3 // 1140 Wien
   www.skrapid.at
   de.wikipedia: SK_Rapid_Wien
+
+[rapidii]
+  SK Rapid Wien II|SK Rapid Amateure
 
 
 [admira]
@@ -25,6 +31,10 @@
   Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf   ##  city:moedling  (NÖ) Niederösterreich
   www.admirawacker.at
   de.wikipedia: FC_Admira_Wacker_Mödling
+
+[admiraii]
+  FC Admira Wacker II|Admira Juniors
+
 
 [wrneustadt]
   SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, 1908, WRN
@@ -38,6 +48,11 @@
   Stadionstraße 2/3 // 5071 Wals-Siezenheim   ##  city:salzburg    (S) Salzburg
   www.redbulls.com/soccer/salzburg
   de.wikipedia: FC_Red_Bull_Salzburg
+
+[salzburgii]
+  FC RB Juniors Salzburg|FC Red Bull Salzburg II|RB Salzburg II
+  Regionalliga West/Sbg.
+
 
 [groedig]
   SV Grödig,  1948, SVG
@@ -74,8 +89,9 @@
 
 # note:
 #  2014/15
-#   new team                    |  SCR Altach
-#   old team (moved to teams_2) |  FC Wacker Innsbruck
+#   ++   SCR Altach
+#   --   FC Wacker Innsbruck
 #  2013/14
-#   new team                    |  SV Grödig
-#   old team (moved to teams_2) |  SV Mattersburg
+#   ++   SV Grödig
+#   --   SV Mattersburg
+

@@ -32,10 +32,3 @@ leobendorf, SV Leobendorf
 kottingsbrunn, ASK Kottingsbrunn
 spratzern, ASV Spratzern
 
-
-########################
-# II/Juniors/Amateure
-
-admiraii,    FC Admira Wacker II|Admira Juniors
-stpoeltenii, SKN St.Pölten Juniors
-
