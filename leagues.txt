@@ -18,16 +18,16 @@ at.3.west,  Österr. Regionalliga West
 
 ### Regionalliga Ost
 at.4.ost.w,     Wiener Stadtliga
-at.4.ost.n,     Landesliga Niederösterreich
+at.4.ost.n,     Landesliga Niederösterreich|1. Niederösterreichische Landesliga
 at.4.ost.b,     Landesliga Burgenland|Burgendland Liga|Burgenlandliga
 
 ### Regionalliga Mitte
 at.4.mitte.st,  Steirische Landesliga|Landesliga Steiermark
-at.4.mitte.o,   Landesliga Oberösterreich|OÖ Liga
+at.4.mitte.o,   Landesliga Oberösterreich|OÖ Liga|Oberösterreich Liga
 at.4.mitte.k,   Kärtner Liga|Landesliga Kärnten
 
 ### Regionalliga West
-at.4.west.s,    Salzburger Liga|Landesliga Salzburg
+at.4.west.s,    Salzburger Liga|Landesliga Salzburg|1. Salzburger Landesliga
 at.4.west.t,    Tiroler Liga|Tirol Liga
 at.4.west.v,    Vorarlberg Liga|Vorarlbergliga
 
