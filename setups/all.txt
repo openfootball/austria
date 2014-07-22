@@ -3,6 +3,8 @@
 
 # - Leagues
 at-austria!/leagues
+at-austria!/leagues_noe
+
 
 # - Teams
 at-austria!/teams
