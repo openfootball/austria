@@ -97,11 +97,11 @@ from the plain text data sets. [More »](http://openfootball.github.io/build.htm
 
 Build the database for all Austrian clubs, leagues and seasons:
 
-    rake build DATA=at
+    $ rake build DATA=at
 
 Build the database for the 2014/15 season:
 
-    rake build DATA=at_2014_15
+    $ rake build DATA=at_2014_15
 
 
 
