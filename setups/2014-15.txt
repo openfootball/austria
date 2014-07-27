@@ -1,9 +1,9 @@
 ########################
-# Austria All Fixtures
+# bl n cup 2014/15
 
-# - Leagues
+
+# Leagues
 at-austria!/leagues
-at-austria!/leagues_noe
 
 
 # - Clubs
@@ -21,22 +21,6 @@ at-austria!/clubs_3_wien
 
 
 # - Fixtures
-
-# 2011/12
-at-austria!/2011-12/1-bundesliga
-at-austria!/2011-12/cup
-
-# 2012/13
-at-austria!/2012-13/1-bundesliga
-at-austria!/2012-13/2-liga1
-at-austria!/2012-13/cup
-
-# 2013/14
-at-austria!/2013-14/1-bundesliga
-at-austria!/2013-14/2-liga1
-at-austria!/2013-14/cup
-
-# 2014/15
 at-austria!/2014-15/1-bundesliga
 at-austria!/2014-15/2-liga1
 at-austria!/2014-15/cup

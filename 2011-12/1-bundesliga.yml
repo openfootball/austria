@@ -10,8 +10,8 @@ start_at: 2011-07-16
 # note: timezone for games (play_at) is *always* CET (central european time)
 
 fixtures:
-- bl
-- bl_ii
+- 1-bundesliga-i
+- 1-bundesliga-ii
 
 ######################
 # 10 teams
