@@ -88,10 +88,21 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ~~~
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `austria.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `austria.db` copy
 from the plain text data sets. [More »](http://openfootball.github.io/build.html)
+
+### Examples
+
+Build the database for all Austrian clubs, leagues and seasons:
+
+    rake build DATA=at
+
+Build the database for the 2014/15 season:
+
+    rake build DATA=at_2014_15
+
 
 
 ## Questions? Comments?
@@ -99,3 +110,4 @@ from the plain text data sets. [More »](http://openfootball.github.io/build.htm
 Send them along to the
 [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
 Thanks!
+
