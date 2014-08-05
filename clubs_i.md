@@ -25,6 +25,8 @@ allow  ; or || or :: as record/line separators
   use * or   only for official language alternatives e.g. french and flemish e.g for brussels * br..
   
   -- find another symbol/symbols ??? any candidates ?? ()
+  
+   allow de.wikipedia:  short format emoji e.g. :de:
 
  -->
 
@@ -46,7 +48,7 @@ allow  ; or || or :: as record/line separators
 FK Austria Wien | Austria Wien  
 Fischhofgasse 12 // 1100 Wien  
 www.fk-austria.at    
-de.wikipedia: FK_Austria_Wien
+:de: FK_Austria_Wien
 
 #### FK Austria Wien II     {#austriaii}
 
@@ -58,7 +60,7 @@ Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 Rapid Wien  
 Keisslergasse 3 // 1140 Wien   
 www.skrapid.at                 
-de.wikipedia: SK_Rapid_Wien
+:de: SK_Rapid_Wien
 
 #### SK Rapid Wien II  {#rapidii}
 
