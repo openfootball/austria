@@ -43,9 +43,9 @@ allow  ; or || or :: as record/line separators
 
 ### FK Austria Wien  (1911),  AUS   {#austria}
 
-FK Austria Wien | Austria Wien   ||
-Fischhofgasse 12 // 1100 Wien    ::
-www.fk-austria.at                ;
+FK Austria Wien | Austria Wien  
+Fischhofgasse 12 // 1100 Wien  
+www.fk-austria.at    
 de.wikipedia: FK_Austria_Wien
 
 #### FK Austria Wien II     {#austriaii}
@@ -55,9 +55,9 @@ Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 
 ### SK Rapid Wien (1899), RAP    {#rapid}
 
-Rapid Wien   ||
-Keisslergasse 3 // 1140 Wien   ::
-www.skrapid.at                 ;
+Rapid Wien  
+Keisslergasse 3 // 1140 Wien   
+www.skrapid.at                 
 de.wikipedia: SK_Rapid_Wien
 
 #### SK Rapid Wien II  {#rapidii}
@@ -67,9 +67,9 @@ SK Rapid Amateure
 
 ### FC Admira Wacker Mödling (1905), ADM   {#admira}
 
-FC Admira Wacker | Admira Wacker   ||
-Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf       --- use city:moedling ??  (NÖ) Niederösterreich   ::
-www.admirawacker.at    ;
+FC Admira Wacker | Admira Wacker   
+Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf       --- use city:moedling ??  (NÖ) Niederösterreich   
+www.admirawacker.at    
 de.wikipedia: FC_Admira_Wacker_Mödling
 
 ####  FC Admira Wacker II  {#admiraii}
@@ -79,9 +79,9 @@ Admira Juniors
 
 ### SC Wiener Neustadt  (1908), WRN  {#wrneustadt}
 
-Wiener Neustadt | Wr. Neustadt    ||
-Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich   ::
-www.scwn.at   ;
+Wiener Neustadt | Wr. Neustadt
+Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich
+www.scwn.at
 de.wikipedia: SC_Wiener_Neustadt
 
 
