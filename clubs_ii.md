@@ -22,7 +22,7 @@ try a new alternative format using markdown
 
 
 
-# Bundesliga 2014/15 Football Clubs
+# Bundesliga 2014/15
 
 
 <!--
