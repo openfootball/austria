@@ -45,18 +45,21 @@ allow  ; or || or :: as record/line separators
 
 ### FK Austria Wien  (1911),  AUS   {#austria}
 
+:id: austria  
 FK Austria Wien | Austria Wien  
 Fischhofgasse 12 // 1100 Wien  
-www.fk-austria.at    
+:link: www.fk-austria.at    
 :de: FK_Austria_Wien
 
 #### FK Austria Wien II     {#austriaii}
 
+:id: austriaii  
 Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 
 
 ### SK Rapid Wien (1899), RAP    {#rapid}
 
+:id: rapid
 Rapid Wien  
 Keisslergasse 3 // 1140 Wien   
 www.skrapid.at                 
