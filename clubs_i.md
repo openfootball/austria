@@ -27,6 +27,8 @@ allow  ; or || or :: as record/line separators
   -- find another symbol/symbols ??? any candidates ?? ()
   
    allow de.wikipedia:  short format emoji e.g. :de:
+    use :id: or :hash: for alternative id format
+    use :link: for link ?
 
  -->
 
@@ -45,23 +47,20 @@ allow  ; or || or :: as record/line separators
 
 ### FK Austria Wien  (1911),  AUS   {#austria}
 
-:id: austria  
 FK Austria Wien | Austria Wien  
-:bus: Fischhofgasse 12 // 1100 Wien  
-:link: www.fk-austria.at    
+Fischhofgasse 12 // 1100 Wien  
+www.fk-austria.at    
 :de: FK_Austria_Wien
 
 #### FK Austria Wien II     {#austriaii}
 
-:id: austriaii  
 Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 
 
 ### SK Rapid Wien (1899), RAP    {#rapid}
 
-:hash: rapid
 Rapid Wien  
-:bus: Keisslergasse 3 // 1140 Wien   
+Keisslergasse 3 // 1140 Wien   
 www.skrapid.at                 
 :de: SK_Rapid_Wien
 
@@ -84,9 +83,9 @@ Admira Juniors
 
 ### SC Wiener Neustadt  (1908), WRN  {#wrneustadt}
 
-Wiener Neustadt | Wr. Neustadt
-:bus: Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich
-:link: www.scwn.at
+Wiener Neustadt | Wr. Neustadt  
+Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich  
+www.scwn.at  
 :de: de.wikipedia: SC_Wiener_Neustadt
 
 
