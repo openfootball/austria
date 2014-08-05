@@ -50,7 +50,7 @@ allow  ; or || or :: as record/line separators
 FK Austria Wien | Austria Wien  
 Fischhofgasse 12 // 1100 Wien  
 www.fk-austria.at    
-:de: FK_Austria_Wien
+de.wikipedia: FK_Austria_Wien
 
 #### FK Austria Wien II     {#austriaii}
 
@@ -62,7 +62,7 @@ Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 Rapid Wien  
 Keisslergasse 3 // 1140 Wien   
 www.skrapid.at                 
-:de: SK_Rapid_Wien
+de.wikipedia: SK_Rapid_Wien
 
 #### SK Rapid Wien II  {#rapidii}
 
@@ -86,7 +86,7 @@ Admira Juniors
 Wiener Neustadt | Wr. Neustadt  
 Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich  
 www.scwn.at  
-:de: de.wikipedia: SC_Wiener_Neustadt
+de.wikipedia: SC_Wiener_Neustadt
 
 
 ### FC RB Salzburg  (1933), RBS   {#salzburg}
@@ -105,7 +105,7 @@ Regionalliga West/Sbg.
 
 ### SV Grödig (1948), SVG   {#groedig}
 
-Prötschhofstrasse 26 // 5082 Grödig      --- (S) Salzburg
+Prötschhofstrasse 26 // 5082 Grödig      --- (S) Salzburg  
 www.sv-groedig.at  
 de.wikipedia: SV_Grödig
 
@@ -113,15 +113,15 @@ de.wikipedia: SV_Grödig
 ### SK Sturm Graz (1909), STU   {#sturm}
 
 Sturm Graz
-Sternäckerweg 118 // 8042 Graz         --- (ST) Steiermark
+Sternäckerweg 118 // 8042 Graz         --- (ST) Steiermark  
 www.sksturm.at  
 de.wikipedia: SK_Sturm_Graz
 
 
 ### Wolfsberger AC (1931), WAC  {#wac}
 
-RZ Pellets WAC | Wolfsberger Athletik Club
-Don Bosco Weg 1 // 9400 Wolfsberg        --- (K) Kärtnen
+RZ Pellets WAC | Wolfsberger Athletik Club  
+Don Bosco Weg 1 // 9400 Wolfsberg        --- (K) Kärtnen  
 www.rzpelletswac.at  
 de.wikipedia: Wolfsberger_AC
 
