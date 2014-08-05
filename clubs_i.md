@@ -47,7 +47,7 @@ allow  ; or || or :: as record/line separators
 
 :id: austria  
 FK Austria Wien | Austria Wien  
-Fischhofgasse 12 // 1100 Wien  
+:bus: Fischhofgasse 12 // 1100 Wien  
 :link: www.fk-austria.at    
 :de: FK_Austria_Wien
 
@@ -59,9 +59,9 @@ Austria Wien Amat. | Austria Wien A. | Ausstria Wien Amateure
 
 ### SK Rapid Wien (1899), RAP    {#rapid}
 
-:id: rapid
+:hash: rapid
 Rapid Wien  
-Keisslergasse 3 // 1140 Wien   
+:bus: Keisslergasse 3 // 1140 Wien   
 www.skrapid.at                 
 :de: SK_Rapid_Wien
 
@@ -85,21 +85,21 @@ Admira Juniors
 ### SC Wiener Neustadt  (1908), WRN  {#wrneustadt}
 
 Wiener Neustadt | Wr. Neustadt
-Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich
-www.scwn.at
-de.wikipedia: SC_Wiener_Neustadt
+:bus: Giltschwertgasse 81 // 2700 Wiener Neustadt     --- (NÖ) Niederösterreich
+:link: www.scwn.at
+:de: de.wikipedia: SC_Wiener_Neustadt
 
 
 ### FC RB Salzburg  (1933), RBS   {#salzburg}
 
-RB Salzburg | Red Bull Salzburg   ||
-Stadionstraße 2/3 // 5071 Wals-Siezenheim     ---  use city:salzburg  ??   (S) Salzburg   ::
-www.redbulls.com/soccer/salzburg  ;
+RB Salzburg | Red Bull Salzburg  
+Stadionstraße 2/3 // 5071 Wals-Siezenheim     ---  use city:salzburg  ??   (S) Salzburg   
+www.redbulls.com/soccer/salzburg   
 de.wikipedia: FC_Red_Bull_Salzburg
 
 #### FC RB Juniors Salzburg  {#salzburgii}
 
-FC Red Bull Salzburg II | RB Salzburg II   ||
+FC Red Bull Salzburg II | RB Salzburg II  
 Regionalliga West/Sbg.
 
 
@@ -107,44 +107,39 @@ Regionalliga West/Sbg.
 ### SV Grödig (1948), SVG   {#groedig}
 
 Prötschhofstrasse 26 // 5082 Grödig      --- (S) Salzburg
-
-www.sv-groedig.at  ;
+www.sv-groedig.at  
 de.wikipedia: SV_Grödig
 
 
 ### SK Sturm Graz (1909), STU   {#sturm}
 
 Sturm Graz
-
 Sternäckerweg 118 // 8042 Graz         --- (ST) Steiermark
-
-www.sksturm.at ;
+www.sksturm.at  
 de.wikipedia: SK_Sturm_Graz
 
 
 ### Wolfsberger AC (1931), WAC  {#wac}
 
 RZ Pellets WAC | Wolfsberger Athletik Club
-
 Don Bosco Weg 1 // 9400 Wolfsberg        --- (K) Kärtnen
-
-www.rzpelletswac.at ;
+www.rzpelletswac.at  
 de.wikipedia: Wolfsberger_AC
 
 
 ### SV Ried  (1912), RIE  {#ried}
 
-SV Josko Ried | SV Josko Fenster Ried   ||
-Volksfestplatz 2 // 4910 Ried im Innkreis   --- (OÖ) Oberösterreich  ||
-www.svried.at   ;
+SV Josko Ried | SV Josko Fenster Ried  
+Volksfestplatz 2 // 4910 Ried im Innkreis   --- (OÖ) Oberösterreich  
+www.svried.at   
 de.wikipedia: SV_Ried
 
 
 ### SCR Altach 1929, ALT  {#altach}
 
-SC Rheindorf Altach | Sportclub Rheindorf Altach   ||
-Schnabelholz 1 // 6844 Altach       --- (V) Vorarlberg     ||
-www.scra.at   ;
+SC Rheindorf Altach | Sportclub Rheindorf Altach    
+Schnabelholz 1 // 6844 Altach       --- (V) Vorarlberg     
+www.scra.at   
 de.wikipedia: SC_Rheindorf_Altach
 
 
