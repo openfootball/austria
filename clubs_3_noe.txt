@@ -32,3 +32,24 @@ leobendorf, SV Leobendorf
 kottingsbrunn, ASK Kottingsbrunn
 spratzern, ASV Spratzern
 
+
+
+###############
+#  add Gebietsliga NW/Wald.   //  6-noe-nordwest-waldviertel
+
+hornii, Horn Amateure   ## todo: move hornii to club2 ??
+
+guntersdorf, SC Guntersdorf|Guntersdorf
+echsenbach,  SC Echsenbach|Echsenbach    ### SC Hartl Haus
+stmartin,    SC St. Martin|St. Martin
+weissenkirchen, SC Weißenkirchen|Weißenkirchen
+rehberg,    SV Rehberg|Rehberg
+sieghartskirchen, SV Sieghartskirchen|Sieghartskirchen
+zwentendorf, SV Zwentendorf|Zwentendorf
+altenwoerth, USC Altenwörth|Altenwörth
+Grafenwoerth, USC Grafenwörth|Grafenwörth
+kirchbergw, USC Kirchberg/W.|Kirchberg/W.
+schweiggers, USC Schweiggers|Schweiggers
+grossgerungs, USV Groß Gerungs|Groß Gerungs
+langenlois, USV Langenlois|Langenlois
+
