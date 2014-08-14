@@ -24,7 +24,7 @@
   16.30   Wolfsberger AC      4:0  Austria Wien
   19.00   Rapid Wien          1:0  SV Ried
   19.00   Wr. Neustadt        0:5  RB Salzburg
-  19.00   SCR Altach          -  Admira Wacker
+  19.00   SCR Altach          0:2  Admira Wacker
 [So 27.7.]
   16.30   SV Grödig           2:1  Sturm Graz
 
@@ -41,12 +41,12 @@
 4. Runde
  
 [Sa 9.8.]
-  16.30   RB Salzburg        8:0  SV Grödig
-  19.00   Rapid Wien         1:1  Sturm Graz
-  19.00   SV Ried            1:1  Admira Wacker
-  19.00   SCR Altach         1:2  Wolfsberger AC
+  16.30   RB Salzburg         8:0  SV Grödig
+  19.00   Rapid Wien          1:1  Sturm Graz
+  19.00   SV Ried             1:1  Admira Wacker
+  19.00   SCR Altach          1:2  Wolfsberger AC
 [So 10.8.]
-  16.30   Wr. Neustadt       2:2  Austria Wien
+  16.30   Wr. Neustadt        2:2  Austria Wien
 
 5. Runde
  
