@@ -21,7 +21,7 @@
 [Sa 23.8.]
   17.30   SC Guntersdorf        4:0  USV Groß Gerungs
   17.30   USC Altenwörth        2:0  SC Echsenbach
-  19.00   Horn Amateure         2:3  SV Sieghartskirchen 
+  19.00   Horn Amateure         2:3  SV Sieghartskirchen
   19.00   USV Langenlois        3:1  USC Kirchberg/W.
   19.30   USC Schweiggers       1:2  SV Rehberg
 [So 24.8.]
@@ -38,7 +38,7 @@
 [Sa 30.8.]
   17.00   SC St. Martin         2:0  Horn Amateure
   17.00   SV Rehberg            1:0  USC Altenwörth
-[So 31.8.]    
+[So 31.8.]
   16.30   USV Groß Gerungs      1:1  SV Zwentendorf
   17.00   SC Echsenbach         2:2  USV Langenlois
 

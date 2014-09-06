@@ -23,134 +23,134 @@
 22. Runde
 
 [Sa 28.2.]
-  RB Salzburg        - SV Grödig  
-  Rapid Wien         - Sturm Graz  
-  SV Ried            - Admira Wacker  
-  Wr. Neustadt       - Austria Wien  
-  SCR Altach         - Wolfsberger AC  
+  RB Salzburg        - SV Grödig
+  Rapid Wien         - Sturm Graz
+  SV Ried            - Admira Wacker
+  Wr. Neustadt       - Austria Wien
+  SCR Altach         - Wolfsberger AC
 
 23. Runde
 
 [Di 3.3.]
-  Rapid Wien  SCR Altach  
-  SV Grödig  Wr. Neustadt  
-  Sturm Graz  Austria Wien  
-  Wolfsberger AC  SV Ried  
-  Admira Wacker  RB Salzburg  
+  Rapid Wien  SCR Altach
+  SV Grödig  Wr. Neustadt
+  Sturm Graz  Austria Wien
+  Wolfsberger AC  SV Ried
+  Admira Wacker  RB Salzburg
 
 24. Runde
 
 [Sa 7.3.]
-  RB Salzburg  SCR Altach  
-  Austria Wien  Rapid Wien  
-  Sturm Graz  Wolfsberger AC  
-  SV Ried  SV Grödig  
-  Wr. Neustadt  Admira Wacker  
+  RB Salzburg  SCR Altach
+  Austria Wien  Rapid Wien
+  Sturm Graz  Wolfsberger AC
+  SV Ried  SV Grödig
+  Wr. Neustadt  Admira Wacker
 
 25. Runde
 
 [Sa 14.3.]
-  RB Salzburg  Sturm Graz  
-  Rapid Wien  SV Grödig  
-  Wolfsberger AC  Wr. Neustadt  
-  Admira Wacker  Austria Wien  
-  SCR Altach  SV Ried  
+  RB Salzburg  Sturm Graz
+  Rapid Wien  SV Grödig
+  Wolfsberger AC  Wr. Neustadt
+  Admira Wacker  Austria Wien
+  SCR Altach  SV Ried
 
 26. Runde
 
 [Sa 21.3.]
-  SV Grödig  SCR Altach  
-  Austria Wien  SV Ried  
-  Sturm Graz  Admira Wacker  
-  Wolfsberger AC  RB Salzburg  
-  Wr. Neustadt  Rapid Wien  
+  SV Grödig  SCR Altach
+  Austria Wien  SV Ried
+  Sturm Graz  Admira Wacker
+  Wolfsberger AC  RB Salzburg
+  Wr. Neustadt  Rapid Wien
 
 27. Runde
 
-[Sa 4.4.] 
-  RB Salzburg  Austria Wien  
-  Rapid Wien  Wolfsberger AC  
-  SV Ried  Sturm Graz  
-  Admira Wacker  SV Grödig  
-  SCR Altach  Wr. Neustadt  
+[Sa 4.4.]
+  RB Salzburg  Austria Wien
+  Rapid Wien  Wolfsberger AC
+  SV Ried  Sturm Graz
+  Admira Wacker  SV Grödig
+  SCR Altach  Wr. Neustadt
 
 28. Runde
 
-[Sa 11.4.] 
-  Rapid Wien  RB Salzburg  
-  SV Grödig  Austria Wien  
-  Sturm Graz  SCR Altach  
-  Wolfsberger AC  Admira Wacker  
-  Wr. Neustadt  SV Ried  
+[Sa 11.4.]
+  Rapid Wien  RB Salzburg
+  SV Grödig  Austria Wien
+  Sturm Graz  SCR Altach
+  Wolfsberger AC  Admira Wacker
+  Wr. Neustadt  SV Ried
 
 29. Runde
 
-[Sa 18.4.] 
-  RB Salzburg  Wr. Neustadt  
-  Austria Wien  Wolfsberger AC  
-  Sturm Graz  SV Grödig  
-  SV Ried  Rapid Wien  
-  Admira Wacker  SCR Altach  
+[Sa 18.4.]
+  RB Salzburg  Wr. Neustadt
+  Austria Wien  Wolfsberger AC
+  Sturm Graz  SV Grödig
+  SV Ried  Rapid Wien
+  Admira Wacker  SCR Altach
 
 30. Runde
 
-[Sa 25.4.] 
-  RB Salzburg  SV Ried  
-  Rapid Wien  Admira Wacker  
-  Wolfsberger AC  SV Grödig  
-  Wr. Neustadt  Sturm Graz  
-  SCR Altach  Austria Wien  
+[Sa 25.4.]
+  RB Salzburg  SV Ried
+  Rapid Wien  Admira Wacker
+  Wolfsberger AC  SV Grödig
+  Wr. Neustadt  Sturm Graz
+  SCR Altach  Austria Wien
 
 31. Runde
 
-[Sa 2.5.] 
-  SV Grödig  RB Salzburg  
-  Austria Wien  Wr. Neustadt  
-  Sturm Graz  Rapid Wien  
-  Wolfsberger AC  SCR Altach  
-  Admira Wacker  SV Ried  
+[Sa 2.5.]
+  SV Grödig  RB Salzburg
+  Austria Wien  Wr. Neustadt
+  Sturm Graz  Rapid Wien
+  Wolfsberger AC  SCR Altach
+  Admira Wacker  SV Ried
 
 32. Runde
 
-[Sa 9.5.] 
-  RB Salzburg  Admira Wacker  
-  Austria Wien  Sturm Graz  
-  SV Ried  Wolfsberger AC  
-  Wr. Neustadt  SV Grödig  
-  SCR Altach  Rapid Wien  
+[Sa 9.5.]
+  RB Salzburg  Admira Wacker
+  Austria Wien  Sturm Graz
+  SV Ried  Wolfsberger AC
+  Wr. Neustadt  SV Grödig
+  SCR Altach  Rapid Wien
 
 33. Runde
 
-[Sa 16.5.] 
-  Rapid Wien  Austria Wien  
-  SV Grödig  SV Ried  
-  Wolfsberger AC  Sturm Graz  
-  Admira Wacker  Wr. Neustadt  
-  SCR Altach  RB Salzburg  
+[Sa 16.5.]
+  Rapid Wien  Austria Wien
+  SV Grödig  SV Ried
+  Wolfsberger AC  Sturm Graz
+  Admira Wacker  Wr. Neustadt
+  SCR Altach  RB Salzburg
 
 34. Runde
 
-[Di 19.5.] 
-  SV Grödig  Rapid Wien  
-  Austria Wien  Admira Wacker  
-  Sturm Graz  RB Salzburg  
-  SV Ried  SCR Altach  
-  Wr. Neustadt  Wolfsberger AC  
+[Di 19.5.]
+  SV Grödig  Rapid Wien
+  Austria Wien  Admira Wacker
+  Sturm Graz  RB Salzburg
+  SV Ried  SCR Altach
+  Wr. Neustadt  Wolfsberger AC
 
 35. Runde
 
-[So 24.5.] 
-  RB Salzburg  Wolfsberger AC  
-  Rapid Wien  Wr. Neustadt  
-  SV Ried  Austria Wien  
-  Admira Wacker  Sturm Graz  
-  SCR Altach  SV Grödig  
+[So 24.5.]
+  RB Salzburg  Wolfsberger AC
+  Rapid Wien  Wr. Neustadt
+  SV Ried  Austria Wien
+  Admira Wacker  Sturm Graz
+  SCR Altach  SV Grödig
 
 36. Runde
 
 [So 31.5.]
-  SV Grödig  Admira Wacker  
-  Austria Wien  RB Salzburg  
-  Sturm Graz  SV Ried  
-  Wolfsberger AC  Rapid Wien  
+  SV Grödig  Admira Wacker
+  Austria Wien  RB Salzburg
+  Sturm Graz  SV Ried
+  Wolfsberger AC  Rapid Wien
   Wr. Neustadt  SCR Altach
