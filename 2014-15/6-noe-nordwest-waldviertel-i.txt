@@ -29,7 +29,7 @@
   17.30   SV Zwentendorf        0:4  USC Grafenwörth
 
 
-3. Runde 3
+3. Runde
 
 [Fr 29.8.]
   20.00   USC Kirchberg/W.      0:2  SC Guntersdorf
@@ -56,17 +56,115 @@
   16.30   SC Guntersdorf        3:1  SV Zwentendorf
   16.30   SC Weißenkirchen      0:1  USV Groß Gerungs
 
+
 5. Runde
 
 [Fr 12.9.]
   16.30   USV Groß Gerungs      1:2  Horn Amateure
-  20.00   SV Sieghartskirchen – USV Langenlois
+  20.00   SV Sieghartskirchen    –   USV Langenlois
   20.00   USC Grafenwörth       3:0  USC Schweiggers
 [Sa 13.9.]
-  15.00   SC St. Martin – USC Altenwörth
-  16.30   SV Zwentendorf – SC Weißenkirchen
+  15.00   SC St. Martin          –   USC Altenwörth
+  16.30   SV Zwentendorf         –   SC Weißenkirchen
   16.30   SV Rehberg            4:0  USC Kirchberg/W.
 [So 14.9.]
-  16.30   SC Echsenbach – SC Guntersdorf
+  16.30   SC Echsenbach          –   SC Guntersdorf
 
+
+6. Runde
+
+[Fr 19.9.]
+  19.00   USC Kirchberg/W. – SV Sieghartskirchen
+[Sa 20.9.]     
+  16.00   SC Guntersdorf – SC Weißenkirchen
+  16.00   USC Altenwörth – USC Grafenwörth
+  18.00   USV Langenlois – SC St. Martin
+  19.30   USC Schweiggers – USV Groß Gerungs
+[So 21.9.]     
+  16.00   Horn Amateure – SV Zwentendorf
+  16.00   SC Echsenbach – SV Rehberg
+
+
+7. Runde
+
+[Fr 26.9.]
+  20.00   USC Grafenwörth – USV Langenlois
+  20.00   SV Sieghartskirchen – SC Echsenbach
+[Sa 27.9.]
+  16.00   SV Rehberg – SC Guntersdorf
+[So 28.9.]    
+  16.00   SV Zwentendorf – USC Schweiggers
+  16.00   SC St. Martin – Kirchberg/W
+  16.00   USV Groß Gerungs – USC Altenwörth
+  16.00   SC Weißenkirchen – Horn Amateure
+
+
+8. Runde
+
+[Fr 3.10.]
+  20.00   USC Schweiggers – SC Weißenkirchen
+[Sa 4.10.]
+  15.30   SV Rehberg – SV Sieghartskirchen
+  15.30   USC Altenwörth – SV Zwentendorf
+  15.30   SC Guntersdorf – Horn Amateure
+  17.00   USV Langenlois – USV Groß Gerungs
+[So 5.10.]
+  11.00   USC Kirchberg/W. – USC Grafenwörth
+  15.30   SC Echsenbach – SC St. Martin
+
+
+9. Runde
+
+[Fr 10.10.]
+  20.00   SV Sieghartskirchen – SC Guntersdorf
+  20.00   USC Grafenwörth – SC Echsenbach
+[Sa 11.10.]
+  15.30   SV Zwentendorf – USV Langenlois
+  15.30   SC St. Martin – SV Rehberg
+  15.30   USV Groß Gerungs – Kirchberg/W
+  15.30   Horn Amateure – USC Schweiggers
+[So 12.10.]
+  15.30   SC Weißenkirchen – USC Altenwörth
+
+
+10. Runde
+
+[Fr 17.10.]
+  20.00   SV Sieghartskirchen – SC St. Martin
+[Sa 18.10.]
+  15.00   USC Altenwörth – Horn Amateure
+  15.00   SV Rehberg – USC Grafenwörth
+  15.00   SC Guntersdorf – USC Schweiggers
+  17.00   USV Langenlois – SC Weißenkirchen
+[So 19.10.] 
+  15.00   USC Kirchberg/W. – SV Zwentendorf
+  15.00   SC Echsenbach – USV Groß Gerungs
+
+
+11. Runde
+
+[Fr 24.10.]
+  20.00   USC Grafenwörth – SV Sieghartskirchen
+[Sa 25.10.]
+  14.00   SC St. Martin – SC Guntersdorf
+  15.00   Horn Amateure – USV Langenlois
+  15.00   SC Weißenkirchen – Kirchberg/W
+  17.00   USC Schweiggers – USC Altenwörth
+[So 26.10.]
+  14.00   SV Zwentendorf – SC Echsenbach
+  14.00   USV Groß Gerungs – SV Rehberg
+
+
+12. Runde
+
+[Fr 31.10.]
+  18.00   USC Kirchberg/W. – Horn Amateure
+  20.00   USV Langenlois – USC Schweiggers
+[Sa 1.11.]
+  14.00   SC Guntersdorf – USC Altenwörth
+[So 2.11.]
+  14.00   SV Sieghartskirchen – USV Groß Gerungs
+  14.00   SC Echsenbach – SC Weißenkirchen
+  14.00   SC St. Martin – USC Grafenwörth
+  14.00   SV Rehberg – SV Zwentendorf
 
