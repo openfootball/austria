@@ -25,6 +25,8 @@
 
 3.Runde
 
+Fr,01.08.2014
+
          Floridsdorfer AC 2:1 SV Horn
          FC Liefering     2:0 Austira Lustenau
          Kapfenberger SV  0:0 Wacker Innsbruck
@@ -33,13 +35,17 @@
          
 4.Runde
 
+Di,05.08.2014
+
          SV Mattersburg   4:0 SKN St.Pölten
          Floridsdorfer AC 2:2 Kapfenberger SV
          SV Horn          3:0 TSV Hartberg
          Austria Lustenau 1:2 LASK Linz
          Wacker Innsbruck 0:1 FC Liefering
          
-5.Runde 
+5.Runde
+
+Fr,08.08.2014
 
          Austria Lustenau 5:0 TSV Hartberg
          LASK Linz        1:0 SV Mattersburg
@@ -49,6 +55,8 @@
          
 6.Runde 
 
+Fr,15.08.2014
+
          Floridsdorfer AC 0:1 SKN St.Pölten
          FC Liefering     3:2 Kapfenberger SV
          SV Mattersburg   2:0 Austria Lustenau
@@ -57,6 +65,8 @@
          
 7.Runde
 
+Fr,22.08.2014
+
          Austria Lustenau 0:1 SV Horn
          LASK Linz        2:0 FC Liefering
          SV Mattersburg   2:0 Floridsdorfer AC
@@ -64,3 +74,46 @@
          SKN St.Pölten    0:1 Wacker Innsbruck
          
 8.Runde
+
+Fr,29.08.2014
+
+         Floridsdorfer AC 3:2 TSV Hartberg
+         SKN St.Pölten    1:1 Austria Lustenau
+         FC Liefering     4:1 SV Horn
+         Kapfenberger SV  2:2 SV Mattersburg
+         Wacker Innsbruck 1:0 LASK Linz
+         
+9.Runde
+
+Fr,12.09.2014
+
+         SV Horn          0:3 Wacker Innsbruck
+         Austria Lustenau 1:3 Kapfenberger SV
+         SV Mattersburg   3:6 FC Liefering
+         TSV Hartberg     1:0 SKN St.Pölten
+         LASK Linz        5:1 Floridsdorfer AC
+         
+10.Runde
+
+Di,16.09.2014
+
+         Floridsdorfer AC 3:3 Austria Lustenau
+         SV Horn          1:0 SKN St.Pölten
+         FC Liefering     0:3 TSV Hartberg
+         Wacker Innsbruck 1:1 SV Mattersburg
+         Kapfenberger SV  1:1 LASK Linz
+         
+11.Runde
+
+Fr.19.09.2014
+
+         Floridsdorfer AC 2:2 FC Liefering
+         SKN St.Pölten    1:0 Kapfenberger SV
+         Austria Lustenau 1:1 Wacker Innsbruck
+         TSV Hartberg     2:2 LASK Linz
+         SV Mattersburg   2:0 SV Horn
+         
+12.Runde
+
+Fr,26.09.2014
+
