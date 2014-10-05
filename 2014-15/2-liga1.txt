@@ -127,11 +127,11 @@ Fr,26.09.2014
 
 Fr,03.10.2014
 
-         SKN St.Pölten     : SV Mattersburg
-         LASK Linz         : Austria Lustenau
-         FC Liefering      : Wacker Innsbruck
-         TSV Hartberg      : SV Horn
-         Kapfenberger SV   : Floridsdorfer AC
+         SKN St.Pölten    0:2 SV Mattersburg
+         LASK Linz        3:1 Austria Lustenau
+         FC Liefering     4:1 Wacker Innsbruck
+         TSV Hartberg     3:1 SV Horn
+         Kapfenberger SV  0:0 Floridsdorfer AC
          
 14.Runde
 
