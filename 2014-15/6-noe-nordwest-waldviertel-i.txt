@@ -135,7 +135,7 @@
   15.00   USC Altenwörth        0:1  Horn Amateure
   15.00   SV Rehberg            3:0  USC Grafenwörth
   15.00   SC Guntersdorf        1:1  USC Schweiggers
-  17.00   USV Langenlois – SC Weißenkirchen
+  17.00   USV Langenlois        4:3  SC Weißenkirchen
 [So 19.10.] 
   15.00   USC Kirchberg/W.      3:0  SV Zwentendorf
   15.00   SC Echsenbach         3:5  USV Groß Gerungs
@@ -168,3 +168,13 @@
   14.00   SC St. Martin         2:1  USC Grafenwörth
   14.00   SV Rehberg            3:2  SV Zwentendorf
 
+13.Runde
+(Sa.08.11.)
+
+USC Grafenwörth                 0:0  SC Guntersdorf
+USC Altenwörth  USV Langenlois
+USC Schweiggers USC Kirchberg/W.
+SC Weißenkirchen SV Rehberg
+SV Zwentendorf SV Sieghartskirchen
+Horn Amateure  SC Echsenbach
+USV Groß Gerungs SC St. Martin
