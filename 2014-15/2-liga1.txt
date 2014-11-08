@@ -177,11 +177,11 @@ Di,04.11.2014
 
 Fr,07.11.2014
 
-        Floridsdorfer AC   : LASK Linz
-        SKN St.Pölten      : TSV Hartberg
-        FC Liefering       : SV Mattersburg
-        Wacker Innsbruck   : SV Horn
-        Kapfenberger SV    : Austria Lustenau
+        Floridsdorfer AC  0:0 LASK Linz
+        SKN St.Pölten     1:0 TSV Hartberg
+        FC Liefering      3:1 SV Mattersburg
+        Wacker Innsbruck  2:0 SV Horn
+        Kapfenberger SV   1:1 Austria Lustenau
         
 19.Runde 
 
