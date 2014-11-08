@@ -105,7 +105,7 @@ Di,16.09.2014
          
 11.Runde
 
-Fr.19.09.2014
+Fr,19.09.2014
 
          Floridsdorfer AC 2:2 FC Liefering
          SKN St.Pölten    1:0 Kapfenberger SV
@@ -155,7 +155,7 @@ Di,21.10.2014
          
 16.Runde
 
-Fr.24.10.2014
+Fr,24.10.2014
 
          Floridsdorfer AC 2:2 SV Mattersburg
          SV Horn          1:0 Austria Lustenau
