@@ -22,7 +22,8 @@
   18.30  FC Liefering     1:1 Floridsdorfer AC
 [Mo 28.7.]
   19.30  Kapfenberger SV  2:2 SKN St. Pölten
-
+  
+  
 3.Runde
 
 Fr,01.08.2014
@@ -32,6 +33,7 @@ Fr,01.08.2014
          Kapfenberger SV  0:0 Wacker Innsbruck
          TSV Hartberg     0:4 SV Mattersburg
          SKN St.Pölten    1:0 LASK Linz
+         
          
 4.Runde
 
@@ -43,6 +45,7 @@ Di,05.08.2014
          Austria Lustenau 1:2 LASK Linz
          Wacker Innsbruck 0:1 FC Liefering
          
+         
 5.Runde
 
 Fr,08.08.2014
@@ -52,6 +55,7 @@ Fr,08.08.2014
          Kapfenberger SV  0:0 SV Horn
          Wacker Innsbruck 2:1 Floridsdorfer AC
          SKN St.Pölten    2:3 FC Liefering
+         
          
 6.Runde 
 
@@ -63,6 +67,7 @@ Fr,15.08.2014
          TSV Hartberg     0:3 Wacker Innsbruck
          SV Horn          0:2 LASK Linz
          
+         
 7.Runde
 
 Fr,22.08.2014
@@ -72,6 +77,7 @@ Fr,22.08.2014
          SV Mattersburg   2:0 Floridsdorfer AC
          TSV Hartberg     1:3 Kapfenberger SV
          SKN St.Pölten    0:1 Wacker Innsbruck
+         
          
 8.Runde
 
@@ -83,6 +89,7 @@ Fr,29.08.2014
          Kapfenberger SV  2:2 SV Mattersburg
          Wacker Innsbruck 1:0 LASK Linz
          
+         
 9.Runde
 
 Fr,12.09.2014
@@ -92,6 +99,7 @@ Fr,12.09.2014
          SV Mattersburg   3:6 FC Liefering
          TSV Hartberg     1:0 SKN St.Pölten
          LASK Linz        5:1 Floridsdorfer AC
+         
          
 10.Runde
 
@@ -103,6 +111,7 @@ Di,16.09.2014
          Wacker Innsbruck 1:1 SV Mattersburg
          Kapfenberger SV  1:1 LASK Linz
          
+         
 11.Runde
 
 Fr,19.09.2014
@@ -112,6 +121,7 @@ Fr,19.09.2014
          Austria Lustenau 1:1 Wacker Innsbruck
          TSV Hartberg     2:2 LASK Linz
          SV Mattersburg   2:0 SV Horn
+         
          
 12.Runde
 
@@ -123,6 +133,7 @@ Fr,26.09.2014
          SV Mattersburg   1:0 TSV Hartberg
          LASK Linz        2:1 SKN St.Pölten
          
+         
 13.Runde
 
 Fr,03.10.2014
@@ -132,6 +143,7 @@ Fr,03.10.2014
          FC Liefering     4:1 Wacker Innsbruck
          TSV Hartberg     3:1 SV Horn
          Kapfenberger SV  0:0 Floridsdorfer AC
+         
          
 14.Runde
 
@@ -143,6 +155,7 @@ Fr,17.10.2014
          SV Mattersburg   0:1 LASK Linz
          TSV Hartberg     0:1 Austria Lustenau
          
+         
 15.Runde
 
 Di,21.10.2014
@@ -152,6 +165,7 @@ Di,21.10.2014
          LASK Linz        2:0 SV Horn
          Wacker Innsbruck 2:0 TSV Hartberg
          Kapfenberger SV  0:1 FC Liefering
+         
          
 16.Runde
 
@@ -163,6 +177,7 @@ Fr,24.10.2014
          Wacker Innsbruck 0:1 SKN St.Pölten
          Kapfenberger SV  1:0 TSV Hartberg
          
+         
 17.Runde
 
 Di,04.11.2014
@@ -172,6 +187,7 @@ Di,04.11.2014
         LASK Linz         4:1 Wacker Innsbruck
         SV Mattersburg    4:2 Kapfenberger SV
         TSV Hartberg      1:1 Floridsdorfer AC
+        
         
 18.Runde
 
@@ -183,6 +199,7 @@ Fr,07.11.2014
         Wacker Innsbruck  2:0 SV Horn
         Kapfenberger SV   1:1 Austria Lustenau
         
+        
 19.Runde 
 
 Fr,21.11.2014
@@ -192,6 +209,7 @@ Fr,21.11.2014
         LASK Linz          : Kapfenberger SV
         SV Mattersburg     : Wacker Innsbruck
         TSV Hartberg       : FC Liefering
+        
         
 20.Runde
 
