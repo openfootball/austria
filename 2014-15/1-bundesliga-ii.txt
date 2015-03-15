@@ -6,7 +6,7 @@
 
 [Sa 14.2.]
   Rapid Wien      3-0       SV Ried
-  SV Grödig        11.3   Sturm Graz
+  SV Grödig       0-2       Sturm Graz
   Wolfsberger AC  1-0       Austria Wien
   Wr. Neustadt    0-2       RB Salzburg
   SCR Altach      2-0       Admira Wacker
@@ -51,10 +51,10 @@
 
 [Sa 14.3.]
   RB Salzburg  Sturm Graz
-  Rapid Wien  SV Grödig
-  Wolfsberger AC  Wr. Neustadt
-  Admira Wacker  Austria Wien
-  SCR Altach  SV Ried
+  Rapid Wien     4-0     SV Grödig
+  Wolfsberger AC 2-0     Wr. Neustadt
+  Admira Wacker  1-1     Austria Wien
+  SCR Altach     2-1     SV Ried
 
 26. Runde
 
