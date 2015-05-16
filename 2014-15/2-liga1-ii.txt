@@ -136,7 +136,7 @@ LASK Linz          2-2 SV Mattersburg
 (Di.12.05.2015)
 
 SV Mattersburg     1-1 Austria Lustenau 
-SKN St. Pölten     3-1 Floridsdorfer Ac
+SKN St. Pölten     3-1 Floridsdorfer AC
 SV Horn            2-0 LASK Linz
 FC Liefering       1-4 Kapfenberger SV 
 TSV Hartberg       2-2 Wacker Innsbruck
@@ -146,11 +146,11 @@ TSV Hartberg       2-2 Wacker Innsbruck
 
 (Fr.15.05.2015)
 
-Wacker Innsbruck SKN St. Pölten
-Austria Lustenau SV Horn
-Kapfenberger SV TSV Hartberg
-Floridsdorfer Ac SV Mattersburg
-LASK Linz FC Liefering
+Wacker Innsbruck   0-0 SKN St. Pölten
+Austria Lustenau   0-0 SV Horn
+Kapfenberger SV    0-1 TSV Hartberg
+Floridsdorfer AC   0-1 SV Mattersburg
+LASK Linz          1-1 FC Liefering
 
 
 35. Runde
