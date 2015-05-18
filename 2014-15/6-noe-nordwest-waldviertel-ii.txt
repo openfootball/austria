@@ -107,11 +107,11 @@ USV Langenlois       2-1 USC Grafenwörth
 
 (So.17.05, 17:00)
 
-SV Zwentendorf USC Altenwörth
+SV Zwentendorf      5-0 USC Altenwörth
 USC Grafenwörth     0-0 USC Kirchberg/W.
 SC St. Martin       4-1 SC Echsenbach
-USV Groß Gerungs USV Langenlois
-SV Sieghartskirchen SV Rehberg
+USV Groß Gerungs    0-3 USV Langenlois
+SV Sieghartskirchen 0-2 SV Rehberg
 SC Weißenkirchen    0-2 USC Schweiggers
 Horn Amateure       0-1 SC Guntersdorf
 
@@ -151,7 +151,7 @@ USC Altenwörth USC Schweiggers
 SV Sieghartskirchen USC Grafenwörth
 USC Kirchberg/W. SC Weißenkirchen
 SC Echsenbach SV Zwentendorf
-SV REhberg USV Groß Gerungs
+SV Rehberg USV Groß Gerungs
 SC Guntersdorf SC St. Martin 
 
 
