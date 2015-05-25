@@ -140,11 +140,11 @@
 35. Runde
 
 [So 24.5.]
-  RB Salzburg  Wolfsberger AC
-  Rapid Wien  Wr. Neustadt
-  SV Ried  Austria Wien
-  Admira Wacker  Sturm Graz
-  SCR Altach  SV Grödig
+  RB Salzburg    3-0  Wolfsberger AC
+  Rapid Wien     0-0  Wr. Neustadt
+  SV Ried        0-2  Austria Wien
+  Admira Wacker  1-2  Sturm Graz
+  SCR Altach     2-0  SV Grödig
 
 36. Runde
 
@@ -154,3 +154,8 @@
   Sturm Graz  SV Ried
   Wolfsberger AC  Rapid Wien
   Wr. Neustadt  SCR Altach
+
+
+Aufsteiger 1. Liga 
+
+Mattersburg
