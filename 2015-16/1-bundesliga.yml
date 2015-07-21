@@ -1,0 +1,31 @@
+#########################################################################
+# Österreichische Bundesliga 2015/16  (104. Meisterschaft / 42. Saison)
+
+league: at
+season: 2015/16
+start_at: 2015-07-25
+
+# num/edition - 104 or 42 ??  ##
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+fixtures:
+- 1-bundesliga-i
+- 1-bundesliga-ii
+
+
+########
+# 10 Bundeliga Teams
+#  - aufsteiger (SV Mattersburg)
+
+teams:
+- salzburg       # RB Salzburg
+- rapid          # Rapid Wien
+- sturm          # Sturm Graz
+- wac            # Wolfsberger AC
+- ried           # SV Ried
+- austria        # Austria Wien
+- admira         # Admira Wacker
+- altach         # SCR Altach    
+- groedig        # SV Grödig
+- mattersburg    # SV Mattersburg
+
