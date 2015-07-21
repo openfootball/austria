@@ -1,0 +1,26 @@
+########################
+# bl n el 2015/16
+
+
+# Leagues
+at-austria!/leagues
+
+# - Clubs
+at-austria!/clubs
+at-austria!/clubs_2
+at-austria!/clubs_3_bgld
+at-austria!/clubs_3_ktn
+at-austria!/clubs_3_noe
+at-austria!/clubs_3_ooe
+at-austria!/clubs_3_sbg
+at-austria!/clubs_3_stmk
+at-austria!/clubs_3_tirol
+at-austria!/clubs_3_vbg
+at-austria!/clubs_3_wien
+
+
+# - Fixtures
+at-austria!/2015-16/1-bundesliga
+
+## at-austria!/2015-16/2-liga1
+## at-austria!/2015-16/cup
