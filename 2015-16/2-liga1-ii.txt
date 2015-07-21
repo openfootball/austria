@@ -1,0 +1,152 @@
+20. Runde
+
+[Fr 26.2.]
+   SC Wiener Neustadt  LASK Linz  
+   FC Liefering  SKN St. Pölten  
+   Kapfenberger SV   Austria Lustenau  
+   Floridsdorfer AC  FC Wacker Innsbruck  
+   Austria Salzburg  SK Austria Klagenfurt  
+
+21. Runde
+
+[Fr 4.3.]
+   Kapfenberger SV   FC Liefering  
+   FC Wacker Innsbruck  LASK Linz  
+   Austria Lustenau  SKN St. Pölten  
+   Austria Salzburg  SC Wiener Neustadt  
+   SK Austria Klagenfurt  Floridsdorfer AC  
+
+22. Runde
+
+[Fr 11.3.]
+   SC Wiener Neustadt  Kapfenberger SV   
+   FC Liefering  Austria Salzburg  
+   LASK Linz  SK Austria Klagenfurt  
+   SKN St. Pölten  FC Wacker Innsbruck  
+   Floridsdorfer AC  Austria Lustenau  
+
+23. Runde
+
+[Di 15.3.]
+   Kapfenberger SV   SKN St. Pölten  
+   FC Wacker Innsbruck  FC Liefering  
+   Austria Lustenau  LASK Linz  
+   Austria Salzburg  Floridsdorfer AC  
+   SK Austria Klagenfurt  SC Wiener Neustadt  
+
+24. Runde
+
+[Fr 18.3.]
+   FC Liefering  SC Wiener Neustadt  
+   LASK Linz  Austria Salzburg  
+   SKN St. Pölten  SK Austria Klagenfurt  
+   FC Wacker Innsbruck  Austria Lustenau  
+   Floridsdorfer AC  Kapfenberger SV   
+
+25. Runde
+
+[Fr 1.4.]
+   SC Wiener Neustadt  Floridsdorfer AC  
+   LASK Linz  SKN St. Pölten  
+   Austria Lustenau  FC Liefering  
+   Austria Salzburg  FC Wacker Innsbruck  
+   SK Austria Klagenfurt  Kapfenberger SV   
+
+26. Runde
+
+[Fr 8.4.]
+   FC Liefering  Floridsdorfer AC  
+   Kapfenberger SV   LASK Linz  
+   SKN St. Pölten  SC Wiener Neustadt  
+   FC Wacker Innsbruck  SK Austria Klagenfurt  
+   Austria Lustenau  Austria Salzburg  
+
+27. Runde
+
+[Di 12.4.]
+   SC Wiener Neustadt  FC Wacker Innsbruck  
+   LASK Linz  FC Liefering  
+   Floridsdorfer AC  SKN St. Pölten  
+   Austria Salzburg  Kapfenberger SV   
+   SK Austria Klagenfurt  Austria Lustenau  
+
+28. Runde
+
+[Fr 15.4.]
+   Floridsdorfer AC  LASK Linz  
+   Austria Salzburg  SKN St. Pölten  
+   Kapfenberger SV   FC Wacker Innsbruck  
+   SC Wiener Neustadt  Austria Lustenau  
+   FC Liefering  SK Austria Klagenfurt  
+
+29. Runde
+
+[Fr 22.4.]
+   LASK Linz  SC Wiener Neustadt  
+   SKN St. Pölten  FC Liefering  
+   Austria Lustenau  Kapfenberger SV   
+   FC Wacker Innsbruck  Floridsdorfer AC  
+   SK Austria Klagenfurt  Austria Salzburg  
+
+30. Runde
+
+[Di 26.4.]
+   FC Liefering  Kapfenberger SV   
+   LASK Linz  FC Wacker Innsbruck  
+   SKN St. Pölten  Austria Lustenau  
+   SC Wiener Neustadt  Austria Salzburg  
+   Floridsdorfer AC  SK Austria Klagenfurt  
+
+31. Runde
+
+[Fr 29.4.]
+   Kapfenberger SV   SC Wiener Neustadt  
+   Austria Salzburg  FC Liefering  
+   SK Austria Klagenfurt  LASK Linz  
+   FC Wacker Innsbruck  SKN St. Pölten  
+   Austria Lustenau  Floridsdorfer AC  
+
+32. Runde
+
+[Fr 6.5.]
+   SKN St. Pölten  Kapfenberger SV   
+   FC Liefering  FC Wacker Innsbruck  
+   LASK Linz  Austria Lustenau  
+   Floridsdorfer AC  Austria Salzburg  
+   SC Wiener Neustadt  SK Austria Klagenfurt  
+
+33. Runde
+
+[Di 10.5.]
+   SC Wiener Neustadt  FC Liefering  
+   Austria Salzburg  LASK Linz  
+   SK Austria Klagenfurt  SKN St. Pölten  
+   Austria Lustenau  FC Wacker Innsbruck  
+   Kapfenberger SV   Floridsdorfer AC  
+
+34. Runde
+
+[Fr 13.5.]
+   Floridsdorfer AC  SC Wiener Neustadt  
+   SKN St. Pölten  LASK Linz  
+   FC Liefering  Austria Lustenau  
+   FC Wacker Innsbruck  Austria Salzburg  
+   Kapfenberger SV   SK Austria Klagenfurt  
+
+35. Runde
+
+[Fr 20.5.]
+   Floridsdorfer AC  FC Liefering  
+   LASK Linz  Kapfenberger SV   
+   SC Wiener Neustadt  SKN St. Pölten  
+   SK Austria Klagenfurt  FC Wacker Innsbruck  
+   Austria Salzburg  Austria Lustenau  
+
+36. Runde
+
+[Mi 25.5.]
+   FC Wacker Innsbruck  SC Wiener Neustadt  
+   FC Liefering  LASK Linz  
+   SKN St. Pölten  Floridsdorfer AC  
+   Kapfenberger SV   Austria Salzburg  
+   Austria Lustenau  SK Austria Klagenfurt  
