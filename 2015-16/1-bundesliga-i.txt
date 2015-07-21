@@ -1,0 +1,208 @@
+######################################
+# Österreichische Bundesliga 2015/16
+
+1. Runde
+
+[Sa 25.7.]
+  16.00   SV Mattersburg  RB Salzburg  
+  18.30   Sturm Graz  Admira Wacker  
+  18.30   Rapid Wien  SV Ried  
+  18.30   SV Grödig  SCR Altach  
+[So 26.7.]
+  16.30   Wolfsberger AC  Austria Wien  
+
+
+2. Runde
+
+[Sa 1.8.]
+  16.00   RB Salzburg  Rapid Wien  
+  18.30   SV Ried  Wolfsberger AC  
+  18.30   Admira Wacker  SV Mattersburg  
+[So. 2.8.]
+  16.30   Austria Wien  SCR Altach  
+  19.00   Sturm Graz  SV Grödig  
+
+
+3. Runde
+
+[Sa 8.8.]
+  16.00   SV Grödig  Austria Wien  
+  18.30   SV Mattersburg  SV Ried  
+  18.30   Rapid Wien  Wolfsberger AC  
+  18.30   Admira Wacker  RB Salzburg  
+[So 9.8.]
+  16.30   SCR Altach  Sturm Graz  
+
+
+4. Runde
+
+[Di 11.8.]
+  20.30   SV Ried  RB Salzburg  
+[Mi 12.8.]
+  20.30   Wolfsberger AC  Sturm Graz  
+  20.30   SCR Altach  SV Mattersburg  
+  20.30   SV Grödig  Admira Wacker  
+  20.30   Austria Wien  Rapid Wien  
+
+
+5. Runde
+
+[Sa 15.8.]
+  16.00   Austria Wien  SV Mattersburg  
+  18.30   Admira Wacker  SV Ried  
+  18.30   Wolfsberger AC  SV Grödig  
+  18.30   RB Salzburg  SCR Altach  
+[So 16.8.]
+  16.30   Sturm Graz  Rapid Wien  
+
+6. Runde
+
+[Sa 22.8.]
+    Rapid Wien  SV Grödig  
+    SCR Altach  Admira Wacker  
+    SV Ried  Sturm Graz  
+    SV Mattersburg  Wolfsberger AC  
+[So 23.8.]
+  16.30   RB Salzburg  Austria Wien  
+
+
+7. Runde
+
+[Sa 29.8.]
+   Sturm Graz  RB Salzburg  
+   Wolfsberger AC  SCR Altach  
+   SV Grödig  SV Ried  
+   Admira Wacker  Austria Wien  
+[So 30.8.]
+  16.30   Rapid Wien  SV Mattersburg  
+
+
+8. Runde
+
+[Sa 12.9.]
+    RB Salzburg  SV Grödig  
+    SCR Altach  Rapid Wien  
+    Austria Wien  SV Ried  
+    Admira Wacker  Wolfsberger AC  
+[So 13.9.]
+  16.30   SV Mattersburg  Sturm Graz  
+
+
+9. Runde
+
+[Sa 19.9.]
+    Rapid Wien  Admira Wacker  
+    Sturm Graz  Austria Wien  
+    Wolfsberger AC  RB Salzburg  
+    SV Ried  SCR Altach  
+    SV Grödig  SV Mattersburg  
+
+
+10. Runde
+
+[Sa 26.9.]
+    RB Salzburg  SV Mattersburg  
+    Admira Wacker  Sturm Graz  
+    SV Ried  Rapid Wien  
+    SCR Altach  SV Grödig  
+    Austria Wien  Wolfsberger AC  
+
+
+11. Runde
+
+[Sa 3.10.]
+    Rapid Wien  RB Salzburg  
+    Wolfsberger AC  SV Ried  
+    SV Mattersburg  Admira Wacker  
+    SCR Altach  Austria Wien  
+    SV Grödig  Sturm Graz  
+
+
+12. Runde
+
+[Sa 17.10.]
+   Austria Wien  SV Grödig  
+   SV Ried  SV Mattersburg  
+   Wolfsberger AC  Rapid Wien  
+   RB Salzburg  Admira Wacker  
+   Sturm Graz  SCR Altach  
+
+
+13. Runde
+
+[Sa 24.10.]
+   RB Salzburg  SV Ried  
+   Sturm Graz  Wolfsberger AC  
+   SV Mattersburg  SCR Altach  
+   Admira Wacker  SV Grödig  
+   Rapid Wien  Austria Wien  
+
+
+14. Runde
+
+[Sa 31.10.]
+   SV Mattersburg  Austria Wien  
+   SV Ried  Admira Wacker  
+   SV Grödig  Wolfsberger AC  
+   SCR Altach  RB Salzburg  
+   Rapid Wien  Sturm Graz  
+
+
+15. Runde
+
+[Sa 7.11.]
+   Austria Wien  RB Salzburg  
+   SV Grödig  Rapid Wien  
+   Admira Wacker  SCR Altach  
+   Sturm Graz  SV Ried  
+   Wolfsberger AC  SV Mattersburg  
+
+
+16. Runde
+
+[Sa 21.11.]
+   SV Mattersburg  Rapid Wien  
+   RB Salzburg  Sturm Graz  
+   SCR Altach  Wolfsberger AC  
+   SV Ried  SV Grödig  
+   Austria Wien  Admira Wacker  
+
+
+17. Runde
+
+[Sa 28.11.]
+   SV Grödig  RB Salzburg  
+   Rapid Wien  SCR Altach  
+   SV Ried  Austria Wien  
+   Wolfsberger AC  Admira Wacker  
+   Sturm Graz  SV Mattersburg  
+
+
+18. Runde
+
+[Di 1.12.]
+   Admira Wacker  Rapid Wien  
+   Austria Wien  Sturm Graz  
+   RB Salzburg  Wolfsberger AC  
+   SCR Altach  SV Ried  
+   SV Mattersburg  SV Grödig  
+
+
+19. Runde
+
+[Sa 5.12.]
+   Rapid Wien  SV Ried  
+   Sturm Graz  Admira Wacker  
+   Wolfsberger AC  Austria Wien  
+   SV Grödig  SCR Altach  
+   SV Mattersburg  RB Salzburg  
+
+
+20. Runde
+
+[Sa 12.12.]
+   RB Salzburg  Rapid Wien  
+   Sturm Graz  SV Grödig  
+   SV Ried  Wolfsberger AC  
+   Austria Wien  SCR Altach  
+   Admira Wacker  SV Mattersburg  
