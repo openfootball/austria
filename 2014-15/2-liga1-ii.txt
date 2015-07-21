@@ -1,30 +1,27 @@
 
 21. Runde
 
-(Fr.27.02.2015)
-
-SV Mattersburg     2-0 TSV Hartberg
-Austria Lustenau   2-4 FC Liefering
-Kapfenberger SV    3-0 Wacker Innsbruck
-Floridsdorfer AC   2-5 SV Horn
-LASK Linz          0-0 SKN St. Pölten
+[Fr 27.2.]
+  SV Mattersburg     2-0 TSV Hartberg
+  Austria Lustenau   2-4 FC Liefering
+  Kapfenberger SV    3-0 Wacker Innsbruck
+  Floridsdorfer AC   2-5 SV Horn
+  LASK Linz          0-0 SKN St. Pölten
 
 
 22. Runde
 
-(Fr.06.03.2015)
-
-Wacker Innsbruck   0-3 FC Liefering
-SKN St. Pölten     1-2 SV Mattersburg
-Kapfenberger SV    2-1 Floridsdorfer AC
-TSV Hartberg       1-1 SV Horn
-LASK Linz          3-2 Austria Lustenau
+[Fr 6.3.]
+  Wacker Innsbruck   0-3 FC Liefering
+  SKN St. Pölten     1-2 SV Mattersburg
+  Kapfenberger SV    2-1 Floridsdorfer AC
+  TSV Hartberg       1-1 SV Horn
+  LASK Linz          3-2 Austria Lustenau
 
 
 23. Runde
 
-(Fr.13.03.2015)
-
+[Fr. 13.3.]
 SV Mattersburg     3-0 LASK Linz
 Austria Lustenau   0-4 TSV Hartberg
 SV Horn            1-1 Kapfenberger SV 
@@ -34,8 +31,7 @@ Floridsdorfer AC   0-0 Wacker Innsbruck
 
 24. Runde
 
-(Di.17.03.2015)
-
+[Di. 17.3.]
 Wacker Innsbruck   1-1 TSV Hartberg
 Austria Lustenau   3-1 SV Mattersburg
 Kapfenberger SV    3-2 FC Liefering
@@ -45,8 +41,7 @@ LASK Linz          1-1 SV Horn
 
 25. Runde
 
-(Fr.20.03.2015)
-
+[Fr. 20.3.]
 SV Mattersburg     1-2 Floridsdorfer Ac 
 SKN St. Pölten     0-0 Wacker Innsbruck
 SV Horn            0-0 Austria Lustenau
@@ -56,8 +51,7 @@ TSV Hartberg       2-2 Kapfenberger SV
 
 26. Runde
 
-(Fr.03.04.2015)
-
+[Fr. 3.4.]
 Wacker Innsbruck   2-0 LASK Linz
 SKN St. Pölten     1-0 Austria Lustenau
 Kapfenberger SV    1-2 SV Mattersburg
@@ -67,8 +61,7 @@ Floridsdorfer AC   1-3 TSV Hartberg
 
 27. Runde
 
-(Fr.10.04.2015)
-
+[Fr. 10.4.]
 SV Mattersburg     0-2 FC Liefering
 Austria Lustenau   3-2 Kapfenberger SV 
 SV Horn            0-1 Wacker Innsbruck
@@ -78,8 +71,7 @@ LASK Linz          0-2 Floridsdorfer AC
 
 28. Runde
 
-(Fr.17.04.2015)
-
+[Fr. 17.4.]
 Wacker Innsbruck   1-0 SV Mattersburg
 SKN St. Pölten     2-2 SV Horn
 Kapfenberger SV    1-0 LASK Linz
@@ -89,8 +81,7 @@ Floridsdorfer AC   0-1 Austria Lustenau
 
 29. Runde
 
-(Di.21.04.2015)
-
+[Di. 21.4.]
 SV Mattersburg     1-0 SV Horn
 Austria Lustenau   0-1 Wacker Innsbruck
 Kapfenberger SV    0-0 SKN St. Pölten
@@ -100,8 +91,7 @@ LASK Linz          0-1 TSV Hartberg
 
 30. Runde
 
-(Fr.24.04.2015)
-
+[Fr. 24.4.]
 Wacker Innsbruck   0-1 Kapfenberger SV 
 SKN St. Pölten     0-1 LASK Linz
 SV Horn            3-1 Floridsdorfer AC
@@ -111,8 +101,7 @@ TSV Hartberg       2-4 SV Mattersburg
 
 31. Runde
 
-(Fr.01.05.2015)
-
+[Fr. 1.5.]
 SV Mattersburg     4-0 SKN St. Pölten
 Austria Lustenau   1-2 LASK Linz
 SV Horn            0-1 TSV Hartberg
@@ -122,8 +111,7 @@ Floridsdorfer AC   1-0 Kapfenberger SV
 
 32. Runde
 
-(Fr.08.05.2015)
-
+[Fr 8.5.]
 Wacker Innsbruck   0-0 Floridsdorfer AC 
 SKN St. Pölten     1-0 FC Liefering
 Kapfenberger SV    3-2 SV Horn
@@ -133,8 +121,7 @@ LASK Linz          2-2 SV Mattersburg
 
 33. Runde
 
-(Di.12.05.2015)
-
+[Di 12.5.]
 SV Mattersburg     1-1 Austria Lustenau 
 SKN St. Pölten     3-1 Floridsdorfer AC
 SV Horn            2-0 LASK Linz
@@ -144,8 +131,7 @@ TSV Hartberg       2-2 Wacker Innsbruck
 
 34. Runde
 
-(Fr.15.05.2015)
-
+[Fr 15.5.]
 Wacker Innsbruck   0-0 SKN St. Pölten
 Austria Lustenau   0-0 SV Horn
 Kapfenberger SV    0-1 TSV Hartberg
@@ -155,8 +141,7 @@ LASK Linz          1-1 FC Liefering
 
 35. Runde
 
-(Fr.22.05.2015)
-
+[Fr. 22.5.]
 SV Mattersburg    2-0 Kapfenberger SV
 Austria Lustenau  0-2 SKN St. Pölten
 SV Horn           0-2 FC Liefering
@@ -166,20 +151,19 @@ LASK Linz         3-1 Wacker Innsbruck
 
 36. Runde
 
-(Fr.29.05.2015)
-
+[Fr. 29.5.]
 Wacker Innsbruck 3-0 SV Horn
 SKN St. Pölten   5-3 TSV Hartberg
 Kapfenberger SV  3-0 Austria Lustenau
 FC Liefering     0-4 SV Mattersburg
 Floridsdorfer AC 0-0 LASK Linz 
 
-Aufsteiger 2. Liga
-
-Austria Salzburg und
-ESV Parndorf        2-1    Austria Klagenfurt     
-Austria Klagenfurt  4-1 nV ESV Parndorf     
-
-
-Start 24.05.15   
-
+######################
+# Aufsteiger 2. Liga
+#
+#
+# Austria Salzburg und
+# ESV Parndorf        2-1    Austria Klagenfurt     
+# Austria Klagenfurt  4-1 nV ESV Parndorf     
+#
+# Start 24.05.15   
