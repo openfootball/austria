@@ -1,0 +1,158 @@
+#############################################
+# Gebietsliga Nordwest/Waldviertel (NÖ)
+
+
+1. Runde
+
+[So 16.8.]
+SC Echsenbach – SV Zwentendorf
+SV Horn II – USC Grafenwörth
+SV Rehberg – USV Raabs/Thaya
+SC St. Martin – USC Schweiggers
+USV Langenlois – USV Groß Gerungs
+SC Admira Gföhl – SC Weißenkirchen
+SV Sieghartskirchen – USC Altenwörth
+
+
+2. Runde
+
+[So 23.8.]
+SV Zwentendorf – SC Admira Gföhl
+SV Horn II – SV Sieghartskirchen
+USV Raabs/Thaya – SC Echsenbach
+USC Schweiggers – USC Grafenwörth
+USC Altenwörth – SV Rehberg
+USV Langenlois – SC St. Martin
+USV Groß Gerungs – SC Weißenkirchen
+
+
+3. Runde
+
+[So 30.8.]
+USV Langenlois – USC Grafenwörth
+SV Rehberg – SV Horn II
+SC Admira Gföhl – USV Raabs/Thaya
+SV Sieghartskirchen – USC Schweiggers
+SC St. Martin – USV Groß Gerungs
+SC Echsenbach – USC Altenwörth
+SC Weißenkirchen – SV Zwentendorf
+
+
+4. Runde
+
+[So 6.9.]
+USV Groß Gerungs – SV Zwentendorf
+SV Horn II – SC Echsenbach
+USC Altenwörth – SC Admira Gföhl
+USV Raabs/Thaya – SC Weißenkirchen
+SC St. Martin – USC Grafenwörth
+USV Langenlois – SV Sieghartskirchen
+USC Schweiggers – SV Rehberg
+
+
+5. Runde
+
+[So 13.9.]
+USV Groß Gerungs – USC Grafenwörth
+SC Echsenbach – USC Schweiggers
+SV Zwentendorf – USV Raabs/Thaya
+SC Admira Gföhl – SV Horn II
+SV Rehberg – USV Langenlois
+SC Weißenkirchen – USC Altenwörth
+SV Sieghartskirchen – SC St. Martin
+
+
+6. Runde
+
+[So 20.9.]
+SV Sieghartskirchen – USC Grafenwörth
+SV Horn II – SC Weißenkirchen
+USV Groß Gerungs – USV Raabs/Thaya
+SC St. Martin – SV Rehberg
+USC Altenwörth – SV Zwentendorf
+USV Langenlois – SC Echsenbach
+USC Schweiggers – SC Admira Gföhl
+
+
+7. Runde
+
+[So 27.9.]
+SC Admira Gföhl – USV Langenlois
+SV Rehberg – USC Grafenwörth
+SV Sieghartskirchen – USV Groß Gerungs
+USV Raabs/Thaya – USC Altenwörth
+SV Zwentendorf – SV Horn II
+SC Weißenkirchen – USC Schweiggers
+SC Echsenbach – SC St. Martin
+
+
+8. Runde
+
+[So 4.10.]
+SC Echsenbach – USC Grafenwörth
+USC Schweiggers – SV Zwentendorf
+SV Horn II – USV Raabs/Thaya
+USV Groß Gerungs – USC Altenwörth
+USV Langenlois – SC Weißenkirchen
+SV Sieghartskirchen – SV Rehberg
+SC St. Martin – SC Admira Gföhl
+
+
+9. Runde
+
+[So 11.10.]
+SC Admira Gföhl – USC Grafenwörth
+USV Raabs/Thaya – USC Schweiggers
+SC Echsenbach – SV Sieghartskirchen
+SV Rehberg – USV Groß Gerungs
+USC Altenwörth – SV Horn II
+SC Weißenkirchen – SC St. Martin
+SV Zwentendorf – USV Langenlois
+
+
+10. Runde
+
+[So 18.10.]
+SC Weißenkirchen – USC Grafenwörth
+USV Langenlois – USV Raabs/Thaya
+USV Groß Gerungs – SV Horn II
+SV Rehberg – SC Echsenbach
+SV Sieghartskirchen – SC Admira Gföhl
+USC Schweiggers – USC Altenwörth
+SC St. Martin – SV Zwentendorf
+
+
+11. Runde
+
+[So 25.10.]
+USC Altenwörth – USV Langenlois
+SV Horn II – USC Schweiggers
+SC Admira Gföhl – SV Rehberg
+USV Raabs/Thaya – SC St. Martin
+SC Weißenkirchen – SV Sieghartskirchen
+SC Echsenbach – USV Groß Gerungs
+SV Zwentendorf – USC Grafenwörth
+
+
+12. Runde
+
+[So 1.11.]
+USV Raabs/Thaya – USC Grafenwörth
+SV Rehberg – SC Weißenkirchen
+SC St. Martin – USC Altenwörth
+USV Groß Gerungs – USC Schweiggers
+USV Langenlois – SV Horn II
+SC Echsenbach – SC Admira Gföhl
+SV Sieghartskirchen – SV Zwentendorf
+
+
+13. Runde
+
+[So 8.11.]
+USC Schweiggers – USV Langenlois
+SV Zwentendorf – SV Rehberg
+SC Admira Gföhl – USV Groß Gerungs
+USC Altenwörth – USC Grafenwörth
+SV Horn II – SC St. Martin
+SC Weißenkirchen – SC Echsenbach
+USV Raabs/Thaya – SV Sieghartskirchen
