@@ -10,7 +10,7 @@ team3: false       # no game for 3rd/4th place
 
 
 64 Teams:
-- RB Salzburg           ## Bundesliga (10)
+- RB Salzburg                     ## Bundesliga (10)
 - Rapid Wien
 - Admira Wacker
 - Austria Wien
@@ -20,7 +20,7 @@ team3: false       # no game for 3rd/4th place
 - SV Mattersburg
 - SV Grödig
 - Wolfsburger AC
-- KSV 1919              ## Erste Liga (9) - excl. FC Liefering
+- KSV 1919                        ## Erste Liga (9) - excl. FC Liefering
 - Wacker Innsbruck
 - Austria Lustenau
 - SKN St. Pölten
@@ -29,49 +29,49 @@ team3: false       # no game for 3rd/4th place
 - LASK Linz
 - Austria Salzburg
 - Floridsdorfer AC
-- SC/ESV Parndorf 1919   ## Burgenland (4)
-- SC Ritzing
-- SC Trausdorf
-- SV Oberwart
-- SV Schwechat           ## Wien (5)
-- First Vienna FC 1894
-- SC Red Star Penzing
-- FC Stadlau
-- Wiener Sportklub
-- 1. SC Sollenau         ## Niederösterreich (7)
-- SV Leobendorf
-- ASK Kottingsbrunn
-- SV Horn
-- ASK Ebreichsdorf
-- SKU Amstetten
-- SC Krems
-- SV Wallern             ## Oberösterreich (6)
-- Union Gurten
-- FC Blau Weiß Linz
-- SK Vorwärts Steyr
-- ATSV Stadl Paura
-- FC Wels
-- SV Seekirchen 1945          ## Salzburg (5)
-- TSV Neumarkt
-- SC Golling
-- T.S.V. St. Johann Pongau
-- USC Eugendorf
-- SV Lafnitz                  ## Steiermark (6)
-- TSV Hartberg
-- SC Weiz
-- FC Piberstein Lankowitz
-- Deutschlandsberger SC
-- SV Allerheiligen
-- ASV Annabichler SV 1923     ## Kärnten (4)
-- ASKÖ Köttmannsdorf
-- VST Völkermarkt
-- FC Lendorf
-- Sportverein Innsbruck       ## Tirol (4)
-- SVG Reichenau
-- FC Kitzbühel
-- WSG Wattens
-- FC Hard                     ## Vorarlberg (4)
-- FC Dornbirn 1913
-- FC Höchst
-- SC Schwarz Weiß Bregenz
+- SC/ESV Parndorf 1919 (RL Ost)   ## Burgenland (4)
+- SC Ritzing (RL Ost)
+- SV Oberwart (RL Ost)
+- SC Trausdorf (2. Liga Nord Burgenland)
+- SV Schwechat (RL Ost)           ## Wien (5)
+- First Vienna FC 1894 (RL Ost)
+- FC Stadlau (RL Ost)
+- Wiener Sportklub (RL Ost)
+- SC Red Star Penzing (2. LL Wien)
+- 1. SC Sollenau (RL Ost)         ## Niederösterreich (7)
+- SV Horn (RL Ost)
+- ASK Ebreichsdorf (RL Ost)
+- SKU Amstetten (RL Ost)
+- SC Krems (NÖ Landesliga)
+- SV Leobendorf (NÖ Landesliga) 
+- ASK Kottingsbrunn (NÖ Landesliga)
+- SV Wallern (RL Mitte)            ## Oberösterreich (6)
+- Union Gurten (RL Mitte)
+- FC Blau Weiß Linz (RL Mitte)
+- SK Vorwärts Steyr (RL Mitte)
+- ATSV Stadl Paura (RL Mitte)
+- FC Wels (OÖ Liga)
+- SV Seekirchen 1945 (RL West)     ## Salzburg (5)
+- TSV Neumarkt (RL West)
+- TSV St. Johann Pongau (RL West)
+- USC Eugendorf (RL West)
+- SC Golling (Salzburger Liga)
+- SV Lafnitz (RL Mitte)            ## Steiermark (6)
+- TSV Hartberg (RL Mitte)
+- SC Weiz (RL Mitte)
+- Deutschlandsberger SC (RL Mitte)
+- SV Allerheiligen (RL Mitte)
+- FC Piberstein Lankowitz (LL Steiermark)
+- ASV Annabichler SV 1923 (RL Mitte)   ## Kärnten (4)
+- ASKÖ Köttmannsdorf (Kärntner Liga)
+- VST Völkermarkt (Kärntner Liga)
+- FC Lendorf (Kärntner Liga)
+- WSG Wattens (RL West)            ## Tirol (4)
+- SVG Reichenau (RL West)
+- FC Kitzbühel (RL West)
+- SV Innsbruck (Tiroler Liga)
+- FC Hard (RL West)                ## Vorarlberg (4)
+- FC Dornbirn 1913 (RL West)
+- SC Schwarz Weiß Bregenz (RL West)
+- FC Höchst (Vorarlberg-Liga)
 
