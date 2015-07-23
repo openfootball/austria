@@ -101,8 +101,7 @@ Build the database for all Austrian clubs, leagues and seasons:
 
 Build the database for the 2015/16 season:
 
-    $ sportdb new at_2015_16
-
+    $ sportdb new at2015-16
 
 
 ## Questions? Comments?
