@@ -13,18 +13,15 @@ fixtures:
 - 1-bundesliga-ii
 
 
-########
-# 10 Bundeliga Teams
-
-teams:
-- salzburg       # RB Salzburg
-- rapid          # Rapid Wien
-- sturm          # Sturm Graz
-- wac            # Wolfsberger AC
-- ried           # SV Ried
-- austria        # Austria Wien
-- admira         # Admira Wacker
-- altach         # SCR Altach    
-- groedig        # SV Grödig
-- mattersburg    # SV Mattersburg  -- Aufsteiger
+10 Teams:
+- RB Salzburg
+- Rapid Wien
+- Sturm Graz
+- Wolfsberger AC
+- SV Ried
+- Austria Wien
+- Admira Wacker
+- SCR Altach    
+- SV Grödig
+- SV Mattersburg     ## Aufsteiger
 
