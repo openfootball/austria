@@ -25,7 +25,7 @@ at-austria!/clubs/3-wien
 # 2015/16
 at-austria!/2015-16/1-bundesliga
 at-austria!/2015-16/2-liga1
-## at-austria!/2014-15/cup
+at-austria!/2014-15/cup
 
 # 2014/15
 at-austria!/2014-15/1-bundesliga
