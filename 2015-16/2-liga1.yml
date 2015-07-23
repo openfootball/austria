@@ -11,18 +11,16 @@ fixtures:
 - 2-liga1-i
 - 2-liga1-ii
 
-########
-# 10 Teams
 
-teams:
-- wrneustadt   # SC Wiener Neustadt      -- Absteiger
-- innsbruck    # FC Wacker Innsbruck
-- alustenau    # Austria Lustenau
-- liefering    # FC Liefering
-- stpoelten    # SKN St. Pölten
-- ksv          # Kapfenberger SV
-- fac          # Floridsdorfer AC
-- lask         # LASK Linz
-- aklagenfurt  # SK Austria Klagenfurt   -- Aufsteiger
-- asalzburg    # Austria Salzburg        -- Aufsteiger
+10 Teams:
+- SC Wiener Neustadt      ## Absteiger
+- FC Wacker Innsbruck
+- Austria Lustenau
+- FC Liefering
+- SKN St. Pölten
+- Kapfenberger SV
+- Floridsdorfer AC
+- LASK Linz
+- SK Austria Klagenfurt   ## Aufsteiger
+- Austria Salzburg        ## Aufsteiger
 
