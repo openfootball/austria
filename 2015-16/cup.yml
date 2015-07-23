@@ -1,0 +1,77 @@
+#################################
+# ÖFB Cup 2015/16
+
+league: at.cup
+season: 2015/16
+start_at: 2015-07-17
+team3: false       # no game for 3rd/4th place
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+64 Teams:
+- RB Salzburg           ## Bundesliga (10)
+- Rapid Wien
+- Admira Wacker
+- Austria Wien
+- Sturm Graz
+- SV Ried
+- SCR Altach
+- SV Mattersburg
+- SV Grödig
+- Wolfsburger AC
+- KSV 1919              ## Erste Liga (9) - excl. FC Liefering
+- Wacker Innsbruck
+- Austria Lustenau
+- SKN St. Pölten
+- SC Wr. Neustadt
+- Austria Klagenfurt
+- LASK Linz
+- Austria Salzburg
+- Floridsdorfer AC
+- SC/ESV Parndorf 1919   ## Burgenland (4)
+- SC Ritzing
+- SC Trausdorf
+- SV Oberwart
+- SV Schwechat           ## Wien (5)
+- First Vienna FC 1894
+- SC Red Star Penzing
+- FC Stadlau
+- Wiener Sportklub
+- 1. SC Sollenau         ## Niederösterreich (7)
+- SV Leobendorf
+- ASK Kottingsbrunn
+- SV Horn
+- ASK Ebreichsdorf
+- SKU Amstetten
+- SC Krems
+- SV Wallern             ## Oberösterreich (6)
+- Union Gurten
+- FC Blau Weiß Linz
+- SK Vorwärts Steyr
+- ATSV Stadl Paura
+- FC Wels
+- SV Seekirchen 1945          ## Salzburg (5)
+- TSV Neumarkt
+- SC Golling
+- T.S.V. St. Johann Pongau
+- USC Eugendorf
+- SV Lafnitz                  ## Steiermark (6)
+- TSV Hartberg
+- SC Weiz
+- FC Piberstein Lankowitz
+- Deutschlandsberger SC
+- SV Allerheiligen
+- ASV Annabichler SV 1923     ## Kärnten (4)
+- ASKÖ Köttmannsdorf
+- VST Völkermarkt
+- FC Lendorf
+- Sportverein Innsbruck       ## Tirol (4)
+- SVG Reichenau
+- FC Kitzbühel
+- WSG Wattens
+- FC Hard                     ## Vorarlberg (4)
+- FC Dornbirn 1913
+- FC Höchst
+- SC Schwarz Weiß Bregenz
+
