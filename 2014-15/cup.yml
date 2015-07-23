@@ -9,71 +9,69 @@ team3: false       # no game for 3rd/4th place
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
-#############
-# 64 Teams
+64 Teams:
+- RB Salzburg          ## Bundesliga (10)
+- Rapid Wien
+- Admira Wacker
+- Austria Wien
+- Sturm Graz
+- SV Ried
+- SCR Altach
+- SC Wiener Neustadt
+- SV Grödig
+- Wolfsberger AC
+- KSV 1919              ## Erste Liga (9) - excl. FC Liefering
+- Wacker Innsbruck
+- Austria Lustenau
+- SKN St. Pölten
+- SV Horn
+- SV Mattersburg
+- LASK Linz
+- TSV Hartberg
+- Floridsdorfer AC
+- SC/ESV Parndorf 1919    ## Burgenland (4)
+- SV Wimpassing
+- SC Ritzing
+- SC Neusiedl am See 1919
+- SV Schwechat            ## Wien (5)
+- First Vienna FC 1894
+- Technopool Admira
+- SR Donaufeld
+- Wiener Sportklub
+- 1. SC Sollenau          ## Niederösterreich (7)
+- SV Leobendorf
+- ASK Kottingsbrunn
+- SC Retz
+- ATSV Ober-Grafendorf
+- SKU Amstetten
+- ASV Spratzern
+- SV Wallern              ## Oberösterreich (6)
+- Union Gurten
+- FC Blau Weiß Linz
+- SK Vorwärts Steyr
+- Union St. Florian
+- SV Grün Weiß Micheldorf
+- SV Seekirchen 1945     ## Salzburg (5)
+- TSV Neumarkt
+- Austria Salzburg
+- T.S.V. St. Johann Pongau
+- USC Eugendorf
+- SV Lafnitz             ## Steiermark (6)
+- FC Gleisdorf 09
+- SC Weiz
+- FC Piberstein Lankowitz
+- SC Kalsdorf
+- SV Allerheiligen
+- SAK Klagenfurt         ## Kärnten (4)
+- SK Austria Klagenfurt
+- ASCO Wolfsberg
+- FC Lendorf
+- FC Kufstein            ## Tirol (4)
+- SC Schwaz
+- FC Kitzbühel
+- WSG Wattens
+- FC Hard                ## Vorarlberg (4)
+- FC Dornbirn 1913
+- FC Höchst
+- VfB Hohenems
 
-teams:
-- salzburg   # bundesliga teams (10)
-- rapid
-- groedig
-- austria
-- sturm
-- ried
-- wac
-- wrneustadt
-- admira
-- altach
-- innsbruck   # erste liga teams (9)  - excl. FC Liefering
-- mattersburg
-- alustenau
-- stpoelten
-- ksv
-- horn
-- hartberg
-- fac
-- lask
-- parndorf    # burgenland (4)
-- wimpassing
-- ritzing
-- neusiedl
-- schwechat   # wien (5)
-- vienna
-- technopooladmira
-- donaufeld
-- wienersk
-- sollenau    # niederösterreich (7)
-- leobendorf
-- kottingsbrunn
-- retz
-- obergrafendorf
-- amstetten
-- spratzern
-- wallern    # oberösterreich (6)
-- gurten
-- linz
-- steyr
-- stflorian
-- micheldorf
-- seekirchen   # salzburg (5)
-- neumarkt
-- asalzburg
-- stjohann
-- eugendorf
-- lafnitz    # steiermark (6)
-- gleisdorf 
-- weiz
-- lankowitz
-- kalsdorf
-- allerheiligen
-- klagenfurt  # kärnten (4)
-- aklagenfurt
-- wolfsberg
-- lendorf
-- kufstein   # tirol (4)
-- schwaz
-- kitzbuehel
-- wattens
-- hard       # vorarlberg (4)
-- dornbirn
-- hoechst
-- hohenems
