@@ -1,0 +1,28 @@
+###########################################
+# Österr. Erste Liga (1. Liga) 2015/16
+
+league: at.2
+season: 2015/16
+start_at: 2015-07-24
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+fixtures:
+- 2-liga1-i
+- 2-liga1-ii
+
+########
+# 10 Teams
+
+teams:
+- wrneustadt   # SC Wiener Neustadt      -- Absteiger
+- innsbruck    # FC Wacker Innsbruck
+- alustenau    # Austria Lustenau
+- liefering    # FC Liefering
+- stpoelten    # SKN St. Pölten
+- ksv          # Kapfenberger SV
+- fac          # Floridsdorfer AC
+- lask         # LASK Linz
+- aklagenfurt  # SK Austria Klagenfurt   -- Aufsteiger
+- asalzburg    # Austria Salzburg        -- Aufsteiger
+

@@ -1,6 +1,6 @@
 #########
 # Clubs
 
-at-austria!/clubs
-at-austria!/clubs_2
+at-austria!/clubs/1-bundesliga
+at-austria!/clubs/2-liga1
 

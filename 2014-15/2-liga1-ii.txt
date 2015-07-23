@@ -158,12 +158,10 @@ Kapfenberger SV  3-0 Austria Lustenau
 FC Liefering     0-4 SV Mattersburg
 Floridsdorfer AC 0-0 LASK Linz 
 
-######################
-# Aufsteiger 2. Liga
+########################
+# Aufsteiger 2. Liga -- Austria Salzburg und Austria Klagenfurt
 #
-#
-# Austria Salzburg und
 # ESV Parndorf        2-1    Austria Klagenfurt     
 # Austria Klagenfurt  4-1 nV ESV Parndorf     
 #
-# Start 24.05.15   
+# Austria Salzburg  ??

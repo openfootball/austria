@@ -1,5 +1,5 @@
 #######################
-# Bundesliga 2014/15
+# Bundesliga 2015/16
 #
 # - 10 Teams
 
@@ -36,11 +36,15 @@
   FC Admira Wacker II|Admira Juniors
 
 
-[wrneustadt]
-  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, 1908, WRN
-  Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
-  www.scwn.at
-  de.wikipedia: SC_Wiener_Neustadt
+[mattersburg]
+  SV Mattersburg|Sportvereinigung Mattersburg,  1922, MAT
+  Erste Liga/Bgld.
+  Michael Koch Straße 50 // 7210 Mattersburg
+  www.svm.at
+  de.wikipedia: SV_Mattersburg
+
+[mattersburgii]
+  SV Mattersburg II|SV Mattersburg Amateure
 
 
 [salzburg]
@@ -88,10 +92,14 @@
 
 
 # note:
+#  2015/16
+#   ++   SV Mattersburg
+#   --   SC Wiener Neustadt
 #  2014/15
 #   ++   SCR Altach
 #   --   FC Wacker Innsbruck
 #  2013/14
 #   ++   SV Grödig
 #   --   SV Mattersburg
+
 

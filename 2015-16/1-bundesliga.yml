@@ -15,7 +15,6 @@ fixtures:
 
 ########
 # 10 Bundeliga Teams
-#  - aufsteiger (SV Mattersburg)
 
 teams:
 - salzburg       # RB Salzburg
@@ -27,5 +26,5 @@ teams:
 - admira         # Admira Wacker
 - altach         # SCR Altach    
 - groedig        # SV Grödig
-- mattersburg    # SV Mattersburg
+- mattersburg    # SV Mattersburg  -- Aufsteiger
 

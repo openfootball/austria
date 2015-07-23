@@ -1,6 +1,13 @@
 ###########################
 #   Steiermark (Stmk.)
 
+[hartberg]
+  TSV Hartberg|Turn- und Sportverein Hartberg, 1946, HTB
+  Regionalliga Mitte/Stmk.  // Hartberg
+  www.tsv-hartberg-fussball.at
+  de.wikipedia: TSV_Hartberg
+
+
 kalsdorf,      SC Kalsdorf,            Regionalliga Mitte/Stmk., KAL
 gratkorn,      FC Gratkorn,            Regionalliga Mitte/Stmk., GRA
 

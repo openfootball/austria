@@ -1,9 +1,17 @@
 ########################
-# Erste Liga 2014/15
+# Erste Liga 2015/16
 #
 #  - 10 Teams
 
 # NB: use three letter codes from bundesliga.at
+
+
+[wrneustadt]
+  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, 1908, WRN
+  Erste Liga/NÖ
+  Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
+  www.scwn.at
+  de.wikipedia: SC_Wiener_Neustadt
 
 
 [innsbruck]
@@ -12,16 +20,6 @@
   Stadionstraße 1b // 6020 Innsbruck
   www.fc-wacker-innsbruck.at
   de.wikipedia: FC_Wacker_Innsbruck_(2002)
-
-[mattersburg]
-  SV Mattersburg|Sportvereinigung Mattersburg,  1922, MAT
-  Erste Liga/Bgld.
-  Michael Koch Straße 50 // 7210 Mattersburg
-  www.svm.at
-  de.wikipedia: SV_Mattersburg
-
-[mattersburgii]
-  SV Mattersburg II|SV Mattersburg Amateure
 
 
 [alustenau]
@@ -42,12 +40,6 @@
   SKN St.Pölten Juniors
 
 
-[horn]
-  SV Horn,  1922, SVH
-  Erste Liga/NÖ
-  // Horn
-  www.svhorn.at
-  de.wikipedia: SV_Horn
 
 
 [ksv]
@@ -57,12 +49,16 @@
   www.ksv1919.at
   de.wikipedia: Kapfenberger_SV
 
-[hartberg]
-  TSV Hartberg|Turn- und Sportverein Hartberg, 1946, HTB
-  Erste Liga/Stmk.
-  // Hartberg
-  www.tsv-hartberg-fussball.at
-  de.wikipedia: TSV_Hartberg
+
+[aklagenfurt]
+  SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A. Klagenfurt, KLA
+  Erste Liga/Ktn.
+
+
+
+[asalzburg]
+  SV Austria Salzburg|Austria Salzburg|A. Salzburg, AUS
+  Erste Liga/Sbg.
 
 
 [liefering]
@@ -87,9 +83,12 @@
 
 
 # note:
+#  2015/16
+#    ++ SK Austria Klagenfurt, Austria Salzburg
+#    -- SV Horn, TSV Hartberg
 #  2014/15
 #    ++ LASK Linz,  Floridsdorfer AC
 #    -- (moved to teams_3)   ???
 #  2013/14
 #    ++ SC/ESV Parndorf 1919, FC Liefering
-#    -- (moved to teams_3)  FC Blau-Weiß Linz,  FC Lustenau 1907
+#    -- FC Blau-Weiß Linz,  FC Lustenau 1907

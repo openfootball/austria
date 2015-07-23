@@ -6,21 +6,21 @@
 at-austria!/leagues
 
 # - Clubs
-at-austria!/clubs
-at-austria!/clubs_2
-at-austria!/clubs_3_bgld
-at-austria!/clubs_3_ktn
-at-austria!/clubs_3_noe
-at-austria!/clubs_3_ooe
-at-austria!/clubs_3_sbg
-at-austria!/clubs_3_stmk
-at-austria!/clubs_3_tirol
-at-austria!/clubs_3_vbg
-at-austria!/clubs_3_wien
+at-austria!/clubs/1-bundesliga
+at-austria!/clubs/2-liga1
+at-austria!/clubs/3-bgld
+at-austria!/clubs/3-ktn
+at-austria!/clubs/3-noe
+at-austria!/clubs/3-ooe
+at-austria!/clubs/3-sbg
+at-austria!/clubs/3-stmk
+at-austria!/clubs/3-tirol
+at-austria!/clubs/3-vbg
+at-austria!/clubs/3-wien
 
 
 # - Fixtures
 at-austria!/2015-16/1-bundesliga
+at-austria!/2015-16/2-liga1
 
-## at-austria!/2015-16/2-liga1
 ## at-austria!/2015-16/cup

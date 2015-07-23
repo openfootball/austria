@@ -1,7 +1,6 @@
 ###########################
 #   Salzburg (Sbg.)
 
-asalzburg,    SV Austria Salzburg|Austria Salzburg|A. Salzburg,   Regionalliga West/Sbg.,  AUS
 stjohann,     TSV St. Johann|TSV St. Johann Pongau,     Regionalliga West/Sbg.,  STJ
 
 

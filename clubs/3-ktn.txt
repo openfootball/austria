@@ -3,7 +3,6 @@
 
 vsv,           Villacher SV,            Regionalliga Mitte/Ktn., VSV
 klagenfurt,    SAK Klagenfurt|SAK Celovec/Klagenfurt,  Regionalliga Mitte/Ktn., CEL
-aklagenfurt,   SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A. Klagenfurt,  Regionalliga Mitte/Ktn., KLA
 
 
 #############

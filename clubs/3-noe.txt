@@ -4,6 +4,14 @@
 
 ## note: SV Schwechat moved to Wien
 
+[horn]
+  SV Horn,  1922, SVH
+  Regionalliga Ost/NÖ
+  // Horn
+  www.svhorn.at
+  de.wikipedia: SV_Horn
+
+
 [sollenau]
   1. SC Sollenau|SC Sollenau, SOL
   Regionalliga Ost/NÖ
