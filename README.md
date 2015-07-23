@@ -32,7 +32,7 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ~~~
 
 ~~~
-### Österr. Bundesliga 2014/15
+### Österr. Bundesliga
 
 1. Runde
 
@@ -54,7 +54,7 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 
 ~~~
 ##############################
-#   Austria Wien 2014/2015
+#   Austria Wien
 
 (13)  Heinz Lindner             GK   2009-
 (31)  Osman Hadzikić  (BIH)     GK   2014-
@@ -97,11 +97,11 @@ from the plain text data sets. [More »](http://openfootball.github.io/build.htm
 
 Build the database for all Austrian clubs, leagues and seasons:
 
-    $ rake build DATA=at
+    $ sportdb new at
 
-Build the database for the 2014/15 season:
+Build the database for the 2015/16 season:
 
-    $ rake build DATA=at_2014_15
+    $ sportdb new at_2015_16
 
 
 

@@ -1,4 +1,7 @@
 
+Note:  Try new format (work-in-progess).
+See raw text for comments.
+
 <!--
 
 #######################
