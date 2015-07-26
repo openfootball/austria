@@ -4,7 +4,7 @@
 14. Runde
 
 [So 27.3.]
-USC Grafenwörth - SV Horn II
+ SV Horn II   USC Grafenwörth
 SC Weißenkirchen - SC Admira Gföhl
 USV Raabs/Thaya - SV Rehberg
 USC Schweiggers - SC St. Martin
@@ -28,7 +28,7 @@ SC Echsenbach - USV Raabs/Thaya
 16. Runde
 
 [So 10.4.]
-USC Grafenwörth - USV Langenlois
+ USV Langenlois   USC Grafenwörth
 USV Raabs/Thaya - SC Admira Gföhl
 SV Zwentendorf - SC Weißenkirchen
 USC Schweiggers - SV Sieghartskirchen
@@ -52,7 +52,7 @@ SV Sieghartskirchen - USV Langenlois
 18. Runde
 
 [So 24.4.]
-USC Grafenwörth - USV Groß Gerungs
+ USV Groß Gerungs    USC Grafenwörth
 SV Horn II - SC Admira Gföhl
 USC Schweiggers - SC Echsenbach
 USV Raabs/Thaya - SV Zwentendorf
@@ -81,7 +81,7 @@ SC St. Martin - SC Echsenbach
 SV Horn II - SV Zwentendorf
 USC Schweiggers - SC Weißenkirchen
 USV Groß Gerungs - SV Sieghartskirchen
-USC Grafenwörth - SV Rehberg
+ SV Rehberg    USC Grafenwörth
 USC Altenwörth - USV Raabs/Thaya
 
 
@@ -106,7 +106,7 @@ USV Groß Gerungs - SV Rehberg
 USC Schweiggers - USV Raabs/Thaya
 USV Langenlois - SV Zwentendorf
 SV Sieghartskirchen - SC Echsenbach
-USC Grafenwörth - SC Admira Gföhl
+ SC Admira Gföhl  USC Grafenwörth
 
 
 23. Runde
@@ -126,7 +126,7 @@ SV Horn II - USV Groß Gerungs
 [So 5.6.]
 SV Sieghartskirchen - SC Weißenkirchen
 USC Schweiggers - SV Horn II
-USC Grafenwörth - SV Zwentendorf
+ SV Zwentendorf   USC Grafenwörth
 SC St. Martin - USV Raabs/Thaya
 USV Langenlois - USC Altenwörth
 USV Groß Gerungs - SC Echsenbach
@@ -145,10 +145,10 @@ SC Admira Gföhl - SC Echsenbach
 USC Schweiggers - USV Groß Gerungs
 
 
-26. Runde
+     vorgezogene 26. Runde
 
-[So 20.3.]    ## letzte Runde - check correct date ???   (get played in advance?? double check)
-USC Grafenwörth - USC Altenwörth
+[So 20.3.]    
+ USC Altenwörth    USC Grafenwörth
 USV Langenlois - USC Schweiggers
 SV Sieghartskirchen - USV Raabs/Thaya
 USV Groß Gerungs - SC Admira Gföhl
