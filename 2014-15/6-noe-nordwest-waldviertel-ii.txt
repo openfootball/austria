@@ -158,4 +158,5 @@ SV Zwentendorf     1:4  SV Rehberg
 
 ## Aufsteiger Nordwest Waldviertel:
 ## - SV Admira Gföhl
+## - USV Raabs/Thaya
 
