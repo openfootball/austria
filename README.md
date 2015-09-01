@@ -38,7 +38,7 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 
 [Sa 19.7.]
   16.30   RB Salzburg       6:1 (2:0)  Rapid Wien
-            [Ulmer 30' Alan 40'  Mané 69'  Soriano 77', 79'  Kampl 84'; Hofmann 90+2' (Elf.)]
+            [Ulmer 30' Alan 40' Mané 69' Soriano 77', 79' Kampl 84'; Hofmann 90+2' (Elf.)]
   19.00   SV Ried           3:1 (1:0)  Wr. Neustadt
             [Walch 4' Möschl 69' Pichler 82'; Kainz 66']
   19.00   Admira Wacker     1:4 (1-1)  Wolfsberger AC
@@ -56,35 +56,35 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
 ##############################
 #   Austria Wien
 
-(13)  Heinz Lindner             GK   2009-
-(31)  Osman Hadzikić  (BIH)     GK   2014-
-(77)  Tino Casali               GK   2014-
+13  Heinz Lindner               GK  2009-
+31  Osman Hadzikić (BIH)        GK  2014-
+77  Tino Casali                 GK  2014-
 
-(4)   Vanče Šikov         (MKD)   DF   2014-
-(5)   Philipp Koblischek          DF   2014-
-(8)   Jens Stryger Larsen (DEN)   DF   2014-
-(14)  Manuel Ortlechner           DF   2009-
-(15)  Christian Ramsebner         DF   2013-
-(18)  Sebastian Wimmer            DF   2014-
-(29)  Markus Suttner              DF   2008-
-(30)  Fabian Koch                 DF   2011-
+ 4  Vanče Šikov (MKD)           DF  2014-
+ 5  Philipp Koblischek          DF  2014-
+ 8  Jens Stryger Larsen (DEN)   DF  2014-
+14  Manuel Ortlechner           DF  2009-
+15  Christian Ramsebner         DF  2013-
+18  Sebastian Wimmer            DF  2014-
+29  Markus Suttner              DF  2008-
+30  Fabian Koch                 DF  2011-
 
-(6)   Mario Leitgeb               MF  2014-
-(7)   Marco Meilinger             MF  2014-
-(10)  Alexander Grünwald          MF  2011-
-(17)  Florian Mader               MF  2010-
-(20)  Alexander Gorgon            MF  2010-
-(21)  Sascha Horvath              MF  2013-
-(22)  Bernhard Luxbacher          MF  2013-
-(23)  David de Paula  (ESP)       MF  2014-
-(25)  James Holland  (AUS)        MF  2012-
-(28)  Daniel Royer                MF  2013-
-(34)  Peter Michorl               MF  2014-
-(35)  Thomas Salamon              MF  2014-
+ 6  Mario Leitgeb               MF  2014-
+ 7  Marco Meilinger             MF  2014-
+10  Alexander Grünwald          MF  2011-
+17  Florian Mader               MF  2010-
+20  Alexander Gorgon            MF  2010-
+21  Sascha Horvath              MF  2013-
+22  Bernhard Luxbacher          MF  2013-
+23  David de Paula (ESP)        MF  2014-
+25  James Holland (AUS)         MF  2012-
+28  Daniel Royer                MF  2013-
+34  Peter Michorl               MF  2014-
+35  Thomas Salamon              MF  2014-
 
-(9)   Martin Harrer               FW  2014-
-(11)  Ola Kamara  (NOR)           FW  2014-
-(24)  Roman Kienast               FW  2012-
+ 9  Martin Harrer               FW  2014-
+11  Ola Kamara (NOR)            FW  2014-
+24  Roman Kienast               FW  2012-
 ~~~
 
 
