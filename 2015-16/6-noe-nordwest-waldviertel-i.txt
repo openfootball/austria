@@ -41,7 +41,7 @@ SC Weißenkirchen      3-0 SV Zwentendorf
 4. Runde
 
 [So 6.9.]
-USV Groß Gerungs - SV Zwentendorf
+USV Groß Gerungs      2-1 SV Zwentendorf
 SV Horn II            3-2 SC Echsenbach
 USC Altenwörth        1-2 SC Admira Gföhl
 USV Raabs/Thaya       0-3 SC Weißenkirchen
@@ -53,7 +53,7 @@ USC Schweiggers       1-0 SV Rehberg
 5. Runde
 
 [So 13.9.]
- USC Grafenwörth  USV Groß Gerungs
+USV Groß Gerungs USC Grafenwörth
 SC Echsenbach - USC Schweiggers
 SV Zwentendorf - USV Raabs/Thaya
 SC Admira Gföhl - SV Horn II
@@ -65,7 +65,7 @@ SV Sieghartskirchen - SC St. Martin
 6. Runde
 
 [So 20.9.]
-   SV Sieghartskirchen  USC Grafenwörth
+SV Sieghartskirchen  USC Grafenwörth
 SV Horn II - SC Weißenkirchen
 USV Groß Gerungs - USV Raabs/Thaya
 SC St. Martin - SV Rehberg
