@@ -89,7 +89,7 @@ SC Echsenbach - SC St. Martin
 8. Runde
 
 [So 4.10.]
-    SC Echsenbach   USC Grafenwörth
+SC Echsenbach   USC Grafenwörth
 USC Schweiggers - SV Zwentendorf
 SV Horn II - USV Raabs/Thaya
 USV Groß Gerungs - USC Altenwörth
@@ -101,7 +101,7 @@ SC St. Martin - SC Admira Gföhl
 9. Runde
 
 [So 11.10.]
-USC Grafenwörth  SC Admira Gföhl
+SC Admira Gföhl USC Grafenwörth
 USV Raabs/Thaya - USC Schweiggers
 SC Echsenbach - SV Sieghartskirchen
 SV Rehberg - USV Groß Gerungs
@@ -113,7 +113,7 @@ SV Zwentendorf - USV Langenlois
 10. Runde
 
 [So 18.10.]
-    SC Weißenkirchen   USC Grafenwörth
+SC Weißenkirchen   USC Grafenwörth
 USV Langenlois - USV Raabs/Thaya
 USV Groß Gerungs - SV Horn II
 SV Rehberg - SC Echsenbach
@@ -131,13 +131,13 @@ SC Admira Gföhl - SV Rehberg
 USV Raabs/Thaya - SC St. Martin
 SC Weißenkirchen - SV Sieghartskirchen
 SC Echsenbach - USV Groß Gerungs
- USC Grafenwörth  SV Zwentendorf
+SV Zwentendorf  USC Grafenwörth
 
 
 12. Runde
 
 [So 1.11.]
-  USV Raabs/Thaya   USC Grafenwörth
+USV Raabs/Thaya   USC Grafenwörth
 SV Rehberg - SC Weißenkirchen
 SC St. Martin - USC Altenwörth
 USV Groß Gerungs - USC Schweiggers
@@ -152,7 +152,7 @@ SV Sieghartskirchen - SV Zwentendorf
 USC Schweiggers - USV Langenlois
 SV Zwentendorf - SV Rehberg
 SC Admira Gföhl - USV Groß Gerungs
- USC Grafenwörth   USC Altenwörth
+USC Altenwörth  USC Grafenwörth
 SV Horn II - SC St. Martin
 SC Weißenkirchen - SC Echsenbach
 USV Raabs/Thaya - SV Sieghartskirchen
