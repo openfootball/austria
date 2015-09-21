@@ -67,8 +67,8 @@ SV Sieghartskirchen   3-1 SC St. Martin
 [So 20.9.]
 SV Sieghartskirchen   1-1 USC Grafenwörth
 SV Horn II            1-4 SC Weißenkirchen
-USV Groß Gerungs - USV Raabs/Thaya
-SC St. Martin - SV Rehberg
+USV Groß Gerungs      3-0 USV Raabs/Thaya
+SC St. Martin         1-6 SV Rehberg
 USC Altenwörth        2-1 SV Zwentendorf
 USV Langenlois        2-0 SC Echsenbach
 USC Schweiggers       2-2 SC Admira Gföhl
@@ -78,7 +78,7 @@ USC Schweiggers       2-2 SC Admira Gföhl
 
 [So 27.9.]
 SC Admira Gföhl - USV Langenlois
- USC Grafenwörth  SV Rehberg
+SV Rehberg USC Grafenwörth
 SV Sieghartskirchen - USV Groß Gerungs
 USV Raabs/Thaya - USC Altenwörth
 SV Zwentendorf - SV Horn II
