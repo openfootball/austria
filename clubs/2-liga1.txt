@@ -15,7 +15,7 @@
 
 
 [innsbruck]
-  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck, 1913, FCW
+  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck|Innsbruck, 1913, FCW
   Erste Liga/Tirol
   Stadionstraße 1b // 6020 Innsbruck
   www.fc-wacker-innsbruck.at
