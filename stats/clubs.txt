@@ -1,0 +1,253 @@
+110 Clubs
+
+   1. FC Admira Wacker
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   2. FC RB Salzburg
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   3. FC Wacker Innsbruck
+      - Österr. Bundesliga         3  (2013/14, 2012/13, 2011/12)
+      - Österr. Erste Liga         2  (2015/16, 2014/15)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   4. FK Austria Wien
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   5. Kapfenberger SV
+      - Österr. Bundesliga         1  (2011/12)
+      - Österr. Erste Liga         4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   6. SC Wiener Neustadt
+      - Österr. Bundesliga         4  (2014/15, 2013/14, 2012/13, 2011/12)
+      - Österr. Erste Liga         1  (2015/16)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   7. SK Rapid Wien
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   8. SK Sturm Graz
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+   9. SV Mattersburg
+      - Österr. Bundesliga         3  (2015/16, 2012/13, 2011/12)
+      - Österr. Erste Liga         2  (2014/15, 2013/14)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  10. SV Ried
+      - Österr. Bundesliga         5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  11. SC Austria Lustenau
+      - Österr. Erste Liga         4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  12. SV Grödig
+      - Österr. Bundesliga         3  (2015/16, 2014/15, 2013/14)
+      - Österr. Erste Liga         1  (2012/13)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  13. SCR Altach
+      - Österr. Bundesliga         2  (2015/16, 2014/15)
+      - Österr. Erste Liga         2  (2013/14, 2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  14. SKN St. Pölten
+      - Österr. Erste Liga         4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  15. TSV Hartberg
+      - Österr. Erste Liga         3  (2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
+  16. Wolfsberger AC
+      - Österr. Bundesliga         4  (2015/16, 2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  17. SV Horn
+      - Österr. Erste Liga         3  (2014/15, 2013/14, 2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  18. Floridsdorfer AC
+      - Österr. Erste Liga         2  (2015/16, 2014/15)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  19. LASK Linz
+      - Österr. Erste Liga         2  (2015/16, 2014/15)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  20. Vienna FC 1894
+      - Österr. Erste Liga         2  (2013/14, 2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  21. FC Blau-Weiß Linz
+      - Österr. Erste Liga         1  (2012/13)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  22. SC/ESV Parndorf 1919
+      - Österr. Erste Liga         1  (2013/14)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  23. SK Austria Klagenfurt
+      - Österr. Erste Liga         1  (2015/16)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  24. SV Austria Salzburg
+      - Österr. Erste Liga         1  (2015/16)
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  25. 1. SC Sollenau
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  26. FC Dornbirn 1913
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  27. FC Hard
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  28. SKU Amstetten
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  29. SV Allerheiligen
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  30. SV Schwechat
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  31. TSV St. Johann
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  32. WSG Wattens
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  33. Wr. Sportklub
+      - ÖFB Cup                    4  (2015/16, 2014/15, 2013/14, 2012/13)
+  34. FC Kitzbühel
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  35. FC Kufstein
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  36. FC Lankowitz
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  37. FC Liefering
+      - Österr. Erste Liga         3  (2015/16, 2014/15, 2013/14)
+  38. SAK Klagenfurt
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  39. SC Bregenz
+      - ÖFB Cup                    3  (2015/16, 2013/14, 2012/13)
+  40. SC Kalsdorf
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  41. SC Retz
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  42. SC Schwaz
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  43. SK Vorwärts Steyr
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  44. SV Lafnitz
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  45. SV Oberwart
+      - ÖFB Cup                    3  (2015/16, 2013/14, 2012/13)
+  46. SV Seekirchen 1945
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  47. SV Wallern
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2012/13)
+  48. TSV Neumarkt am Wallersee
+      - ÖFB Cup                    3  (2015/16, 2014/15, 2013/14)
+  49. Union St. Florian
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  50. ASK Bad Vöslau
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  51. ASK Kottingsbrunn
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  52. ATSV Ober-Grafendorf
+      - ÖFB Cup                    2  (2014/15, 2013/14)
+  53. DSV Leoben
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  54. Deutschlandsberger SC
+      - ÖFB Cup                    2  (2015/16, 2012/13)
+  55. FC Gratkorn
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  56. FC Höchst
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  57. FC Lendorf
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  58. FC Lustenau 1907
+      - Österr. Erste Liga         1  (2012/13)
+      - ÖFB Cup                    1  (2012/13)
+  59. FC Pasching
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  60. SC Ritzing
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  61. SC Weiz
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  62. SV Leobendorf
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  63. SV Micheldorf
+      - ÖFB Cup                    2  (2014/15, 2012/13)
+  64. SV Stegersbach
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  65. USC Eugendorf
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  66. Union Gurten
+      - ÖFB Cup                    2  (2015/16, 2014/15)
+  67. Union Vöcklamarkt
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  68. Villacher SV
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  69. Wiener Viktoria
+      - ÖFB Cup                    2  (2013/14, 2012/13)
+  70. ASK Ebreichsdorf
+      - ÖFB Cup                    1  (2015/16)
+  71. ASKÖ Köttmannsdorf
+      - ÖFB Cup                    1  (2015/16)
+  72. ASV Annabichler SV 1923
+      - ÖFB Cup                    1  (2015/16)
+  73. ASV Draßburg
+      - ÖFB Cup                    1  (2013/14)
+  74. ASV Spratzern
+      - ÖFB Cup                    1  (2014/15)
+  75. ATSV Stadl Paura
+      - ÖFB Cup                    1  (2015/16)
+  76. ATSV Wolfsberg
+      - ÖFB Cup                    1  (2014/15)
+  77. Ardagger SCU
+      - ÖFB Cup                    1  (2012/13)
+  78. Dornbirner SV
+      - ÖFB Cup                    1  (2013/14)
+  79. FC Gleisdorf 09
+      - ÖFB Cup                    1  (2014/15)
+  80. FC Pinzgau Saalfelden
+      - ÖFB Cup                    1  (2012/13)
+  81. FC RB Juniors Salzburg
+      - ÖFB Cup                    1  (2011/12)
+  82. FC St. Veit
+      - ÖFB Cup                    1  (2013/14)
+  83. FC Stadlau
+      - ÖFB Cup                    1  (2015/16)
+  84. FC Wels
+      - ÖFB Cup                    1  (2015/16)
+  85. FC Wolfurt
+      - ÖFB Cup                    1  (2012/13)
+  86. Grazer AK
+      - ÖFB Cup                    1  (2012/13)
+  87. SAK 1914
+      - ÖFB Cup                    1  (2012/13)
+  88. SC Golling
+      - ÖFB Cup                    1  (2015/16)
+  89. SC Krems
+      - ÖFB Cup                    1  (2015/16)
+  90. SC Leopoldsdorf
+      - ÖFB Cup                    1  (2013/14)
+  91. SC Mannsdorf
+      - ÖFB Cup                    1  (2013/14)
+  92. SC Neusiedl am See 1919
+      - ÖFB Cup                    1  (2014/15)
+  93. SC Ostbahn XI
+      - ÖFB Cup                    1  (2012/13)
+  94. SC Pinkafeld
+      - ÖFB Cup                    1  (2013/14)
+  95. SC Red Star Penzing
+      - ÖFB Cup                    1  (2015/16)
+  96. SC Rohrendorf
+      - ÖFB Cup                    1  (2012/13)
+  97. SC Trausdorf
+      - ÖFB Cup                    1  (2015/16)
+  98. SR Donaufeld
+      - ÖFB Cup                    1  (2014/15)
+  99. SV Gaflenz
+      - ÖFB Cup                    1  (2012/13)
+ 100. SV Heiligenkreuz
+      - ÖFB Cup                    1  (2012/13)
+ 101. SV Innsbruck
+      - ÖFB Cup                    1  (2015/16)
+ 102. SV Reutte
+      - ÖFB Cup                    1  (2012/13)
+ 103. SV Spittal/Drau
+      - ÖFB Cup                    1  (2012/13)
+ 104. SV Wals-Grünau
+      - ÖFB Cup                    1  (2013/14)
+ 105. SV Wimpassing
+      - ÖFB Cup                    1  (2014/15)
+ 106. SVG Reichenau
+      - ÖFB Cup                    1  (2015/16)
+ 107. Team Wiener Linien
+      - ÖFB Cup                    1  (2013/14)
+ 108. Technopool Admira
+      - ÖFB Cup                    1  (2014/15)
+ 109. VST Völkermarkt
+      - ÖFB Cup                    1  (2015/16)
+ 110. VfB Hohenems
+      - ÖFB Cup                    1  (2014/15)
