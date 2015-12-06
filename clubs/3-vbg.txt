@@ -1,9 +1,9 @@
 ############################
 #   Vorarlberg (Vbg.)
 
-hard,     FC Hard,                       Regionalliga West/Vbg.,  HAR
-bregenz,  SC Bregenz,                    Regionalliga West/Vbg.,  BRE
-dornbirn, FC Dornbirn 1913|FC Dornbirn,  Regionalliga West/Vbg.,  DOR
+hard,     FC Hard,                             Regionalliga West/Vbg.,  HAR
+bregenz,  SC Bregenz|SC Schwarz-Weiß Bregenz,  Regionalliga West/Vbg.,  BRE
+dornbirn, FC Dornbirn 1913|FC Dornbirn,        Regionalliga West/Vbg.,  DOR
 
 
 ###################

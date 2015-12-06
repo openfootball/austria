@@ -1,5 +1,7 @@
 #################################
 # ÖFB Cup 2014/15
+#
+#   see de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2014/15
 
 league: at.cup
 season: 2014/15
@@ -10,7 +12,8 @@ team3: false       # no game for 3rd/4th place
 # note: timezone for games (play_at) is *always* CET (central european time)
 
 64 Teams:
-- RB Salzburg          ## Bundesliga (10)
+## Bundesliga (10)
+- RB Salzburg
 - Rapid Wien
 - Admira Wacker
 - Austria Wien
@@ -20,7 +23,8 @@ team3: false       # no game for 3rd/4th place
 - SC Wiener Neustadt
 - SV Grödig
 - Wolfsberger AC
-- KSV 1919              ## Erste Liga (9) - excl. FC Liefering
+## Erste Liga (9) - excl. FC Liefering
+- KSV 1919
 - Wacker Innsbruck
 - Austria Lustenau
 - SKN St. Pölten
@@ -29,48 +33,57 @@ team3: false       # no game for 3rd/4th place
 - LASK Linz
 - TSV Hartberg
 - Floridsdorfer AC
-- SC/ESV Parndorf 1919    ## Burgenland (4)
+## Burgenland (4)
+- SC/ESV Parndorf 1919
 - SV Wimpassing
 - SC Ritzing
 - SC Neusiedl am See 1919
-- SV Schwechat            ## Wien (5)
+## Wien (5)
+- SV Schwechat
 - First Vienna FC 1894
 - Technopool Admira
 - SR Donaufeld
 - Wiener Sportklub
-- 1. SC Sollenau          ## Niederösterreich (7)
+## Niederösterreich (7)
+- 1. SC Sollenau
 - SV Leobendorf
 - ASK Kottingsbrunn
 - SC Retz
 - ATSV Ober-Grafendorf
 - SKU Amstetten
 - ASV Spratzern
-- SV Wallern              ## Oberösterreich (6)
+## Oberösterreich (6)
+- SV Wallern
 - Union Gurten
-- FC Blau Weiß Linz
+- FC Blau-Weiß Linz
 - SK Vorwärts Steyr
 - Union St. Florian
-- SV Grün Weiß Micheldorf
-- SV Seekirchen 1945     ## Salzburg (5)
+- SV Grün-Weiß Micheldorf
+## Salzburg (5)
+- SV Seekirchen 1945
 - TSV Neumarkt
-- Austria Salzburg
-- T.S.V. St. Johann Pongau
+- Austria Salzburg  
+- TSV St. Johann Pongau
 - USC Eugendorf
-- SV Lafnitz             ## Steiermark (6)
+## Steiermark (6)
+- SV Lafnitz
 - FC Gleisdorf 09
 - SC Weiz
 - FC Piberstein Lankowitz
 - SC Kalsdorf
 - SV Allerheiligen
-- SAK Klagenfurt         ## Kärnten (4)
+## Kärnten (4)
+- SAK Klagenfurt
 - SK Austria Klagenfurt
-- ASCO Wolfsberg
+- ATSV Wolfsberg
 - FC Lendorf
-- FC Kufstein            ## Tirol (4)
+## Tirol (4)
+- FC Kufstein
 - SC Schwaz
 - FC Kitzbühel
 - WSG Wattens
-- FC Hard                ## Vorarlberg (4)
+## Vorarlberg (4)
+- FC Hard
 - FC Dornbirn 1913
 - FC Höchst
 - VfB Hohenems

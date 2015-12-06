@@ -9,6 +9,6 @@ reutte,        SV Reutte,             Tirol Liga,       REU
 
 
 kitzbuehel, FC Kitzbühel|Kitzbühel
-
-
+reichenau,   SVG Reichenau
+svinnsbruck, SV Innsbruck              ## Tiroler Liga
 

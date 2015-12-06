@@ -33,13 +33,13 @@ ardagger,      Ardagger SCU|SCU Ardagger,       Landesliga/NÖ,    ARD
 rohrendorf,    SC Rohrendorf,         2. Landesliga West/NÖ, ROH
 heiligenkreuz, SV Heiligenkreuz,      2. Liga Süd/NÖ,   HEI
 
-
+krems, SC Krems
 mannsdorf, SC Mannsdorf
 leopoldsdorf, SC Leopoldsdorf
 leobendorf, SV Leobendorf
 kottingsbrunn, ASK Kottingsbrunn
 spratzern, ASV Spratzern
-
+ebreichsdorf, ASK Ebreichsdorf
 
 
 ###############

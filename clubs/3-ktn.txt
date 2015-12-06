@@ -15,3 +15,7 @@ stveit,    FC St. Veit
 wolfsberg, ATSV Wolfsberg, www.atsvwolfsberg.at
 lendorf,   FC Lendorf
 
+annabichler,    ASV Annabichler SV 1923  
+koettmannsdorf, ASKÖ Köttmannsdorf
+voelkermarkt,   VST Völkermarkt
+

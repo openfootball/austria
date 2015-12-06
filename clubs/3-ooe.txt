@@ -20,7 +20,7 @@ micheldorf,    SV Micheldorf|SV Grün-Weiß Micheldorf,         OÖ Liga,   MIC
 
 steyr, SK Vorwärts Steyr|Vorwärts Steyr
 gurten, Union Gurten|Gurten, www.union-gurten.at
-
-
+stadlpaura, ATSV Stadl Paura
+wels, FC Wels
 
 

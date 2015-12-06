@@ -7,7 +7,7 @@
 
 
 [wrneustadt]
-  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt, 1908, WRN
+  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt|SC Wr. Neustadt, 1908, WRN
   Erste Liga/NÖ
   Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
   www.scwn.at

@@ -18,4 +18,4 @@ pinzgau,  FC Pinzgau Saalfelden,    PIN   # from  Regionalliga West/Sbg.
 sak,      SAK 1914|Salzburger AK 1914,   Salzburger Liga,  SAK
 
 eugendorf, USC Eugendorf
-
+golling,   SC Golling

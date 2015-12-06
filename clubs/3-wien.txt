@@ -27,6 +27,10 @@ ostbahn,     SC Ostbahn XI,         OST   # from Regionalliga Ost/Wien
 
 wienerlinien, Team Wiener Linien|SC Team Wiener Linien
 
-technopooladmira,  Technopool Admira      ## check what liga ??
+technopooladmira,  Technopool Admira
 
 donaufeld,  SR Donaufeld|Donaufeld
+
+stadlau,    FC Stadlau
+penzing,    SC Red Star Penzing
+

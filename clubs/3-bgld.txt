@@ -18,6 +18,7 @@ pinkafeld,  SC Pinkafeld
 drassburg,  ASV Draßburg
 wimpassing, SV Wimpassing
 neusiedl,   SC Neusiedl am See 1919|Neusiedl am See
+trausdorf,  SC Trausdorf
 
 [ritzing]
   SC Ritzing

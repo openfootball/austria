@@ -22,7 +22,7 @@ leoben,        DSV Leoben,          LEO   # from Regionalliga Mitte/Stmk.
 
 dsc,           Deutschlandsberger SC, Landesliga/Stmk., DSC
 
-lankowitz, FC Lankowitz
+lankowitz, FC Lankowitz|FC Piberstein Lankowitz
 lafnitz,   SV Lafnitz
 
 gleisdorf,  FC Gleisdorf 09|FC Gleisdorf
