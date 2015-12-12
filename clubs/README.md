@@ -3,7 +3,7 @@
 ### Clubs
 
 
-**[1-bundesliga](clubs/1-bundesliga.txt)** (15)
+**[1-bundesliga](1-bundesliga.txt)** _(15)_ -- 
 FK Austria Wien •
 FK Austria Wien II •
 SK Rapid Wien •
@@ -22,7 +22,7 @@ SCR Altach •
 
 
 
-**[2-liga1](clubs/2-liga1.txt)** (11)
+**[2-liga1](2-liga1.txt)** _(11)_ -- 
 SC Wiener Neustadt •
 FC Wacker Innsbruck •
 SC Austria Lustenau •
@@ -37,7 +37,7 @@ LASK Linz •
 
 
 
-**[3-bgld](clubs/3-bgld.txt)** (9)
+**[3-bgld](3-bgld.txt)** _(9)_ -- 
 SC/ESV Parndorf 1919 •
 SV Oberwart •
 SV Stegersbach •
@@ -50,7 +50,7 @@ SC Ritzing •
 
 
 
-**[3-ktn](clubs/3-ktn.txt)** (9)
+**[3-ktn](3-ktn.txt)** _(9)_ -- 
 Villacher SV •
 SAK Klagenfurt •
 SV Spittal/Drau •
@@ -63,7 +63,7 @@ VST Völkermarkt •
 
 
 
-**[3-noe](clubs/3-noe.txt)** (31)
+**[3-noe](3-noe.txt)** _(31)_ -- 
 SV Horn •
 1. SC Sollenau •
 SKU Amstetten •
@@ -98,7 +98,7 @@ USV Langenlois •
 
 
 
-**[3-ooe](clubs/3-ooe.txt)** (10)
+**[3-ooe](3-ooe.txt)** _(10)_ -- 
 FC Blau-Weiß Linz •
 FC Pasching •
 Union Vöcklamarkt •
@@ -112,7 +112,7 @@ FC Wels •
 
 
 
-**[3-sbg](clubs/3-sbg.txt)** (8)
+**[3-sbg](3-sbg.txt)** _(8)_ -- 
 TSV St. Johann •
 TSV Neumarkt am Wallersee •
 SV Seekirchen 1945 •
@@ -124,7 +124,7 @@ SC Golling •
 
 
 
-**[3-stmk](clubs/3-stmk.txt)** (11)
+**[3-stmk](3-stmk.txt)** _(11)_ -- 
 TSV Hartberg •
 SC Kalsdorf •
 FC Gratkorn •
@@ -139,7 +139,7 @@ SC Weiz •
 
 
 
-**[3-tirol](clubs/3-tirol.txt)** (7)
+**[3-tirol](3-tirol.txt)** _(7)_ -- 
 FC Kufstein •
 WSG Wattens •
 SC Schwaz •
@@ -150,7 +150,7 @@ SV Innsbruck •
 
 
 
-**[3-vbg](clubs/3-vbg.txt)** (8)
+**[3-vbg](3-vbg.txt)** _(8)_ -- 
 FC Hard •
 SC Bregenz •
 FC Dornbirn 1913 •
@@ -162,7 +162,7 @@ FC Lustenau 1907 •
 
 
 
-**[3-wien](clubs/3-wien.txt)** (10)
+**[3-wien](3-wien.txt)** _(10)_ -- 
 Vienna FC 1894 •
 Wr. Sportklub •
 SV Schwechat •
@@ -176,7 +176,7 @@ SC Red Star Penzing •
 
 
 
-**[history](clubs/history.txt)** (0)
+**[history](history.txt)** _(0)_ -- 
 
 
 
