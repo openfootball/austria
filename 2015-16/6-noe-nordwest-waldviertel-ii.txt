@@ -66,12 +66,12 @@ SV Sieghartskirchen   1-1 USV Langenlois
 
 [So 24.4.]
 USC Grafenwörth       2-1  USV Groß Gerungs
-SV Horn II - SC Admira Gföhl
-USC Schweiggers - SC Echsenbach
-USV Raabs/Thaya - SV Zwentendorf
-SC St. Martin - SV Sieghartskirchen
-USC Altenwörth - SC Weißenkirchen
-USV Langenlois - SV Rehberg
+SV Horn II            5-0 SC Admira Gföhl
+USC Schweiggers       1-0 SC Echsenbach
+USV Raabs/Thaya       0-4 SV Zwentendorf
+SC St. Martin         0-3 SV Sieghartskirchen
+USC Altenwörth        1-0 SC Weißenkirchen
+USV Langenlois        0-1 SV Rehberg
 
 
 19. Runde
