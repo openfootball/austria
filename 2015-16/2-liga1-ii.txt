@@ -3,14 +3,14 @@
 [Fr 26.2.]
    SC Wiener Neustadt     2-1  LASK Linz  
    FC Liefering           1-2  SKN St. Pölten  
-   Kapfenberger SV        2-4   Austria Lustenau  
+   Kapfenberger SV        2-4  Austria Lustenau  
    Floridsdorfer AC       0-1  FC Wacker Innsbruck  
    Austria Salzburg       1-2  SK Austria Klagenfurt  
 
 21. Runde
 
 [Fr 4.3.]
-   Kapfenberger SV        2-1   FC Liefering  
+   Kapfenberger SV        2-1  FC Liefering  
    FC Wacker Innsbruck    1-1  LASK Linz  
    Austria Lustenau       4-2  SKN St. Pölten  
    Austria Salzburg       2-2  SC Wiener Neustadt  
@@ -28,7 +28,7 @@
 23. Runde
 
 [Di 15.3.]
-   Kapfenberger SV        0-2   SKN St. Pölten  
+   Kapfenberger SV        0-2  SKN St. Pölten  
    FC Wacker Innsbruck    1-2  FC Liefering  
    Austria Lustenau       0-2  LASK Linz  
    Austria Salzburg       0-1  Floridsdorfer AC  
@@ -100,7 +100,7 @@
 31. Runde
 
 [Fr 29.4.]
-   Kapfenberger SV        4-2   SC Wiener Neustadt  
+   Kapfenberger SV        4-2  SC Wiener Neustadt  
    Austria Salzburg       0-0  FC Liefering  
    SK Austria Klagenfurt  0-5  LASK Linz  
    FC Wacker Innsbruck    0-2  SKN St. Pölten  
@@ -121,7 +121,7 @@
    SC Wiener Neustadt  FC Liefering  
    Austria Salzburg  LASK Linz  
    SK Austria Klagenfurt  SKN St. Pölten  
-   Austria Lustenau  FC Wacker Innsbruck  
+   Austria Lustenau      3-0  FC Wacker Innsbruck  
    Kapfenberger SV   Floridsdorfer AC  
 
 34. Runde
