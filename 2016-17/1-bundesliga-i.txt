@@ -172,3 +172,21 @@ Runde 18
 	FC Admira Wacker	Austria Wien
 	Wolfsberger AC	Sturm Graz
 	SV Ried	SV Mattersburg
+
+Runde 19
+
+[Sa 10.12.]
+	Rapid Wien	SV Ried
+	Sturm Graz	RB Salzburg
+	SCR Altach	Wolfsberger AC
+	SV Mattersburg	FC Admira Wacker
+	SKN St. Pölten	Austria Wien
+
+Runde 20
+
+[Sa 17.12.]
+	RB Salzburg	Wolfsberger AC
+	Austria Wien	SV Mattersburg
+	SV Ried	Sturm Graz
+	SCR Altach	Rapid Wien
+	SKN St. Pölten	FC Admira Wacker
