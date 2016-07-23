@@ -1,0 +1,146 @@
+###################################################
+# Österreichische Bundesliga 2016/17 -  Frühjahr
+
+Runde 21
+
+[Sa 11.2.]
+	RB Salzburg	SKN St. Pölten
+	Austria Wien	Rapid Wien
+	FC Admira Wacker	SCR Altach
+	Wolfsberger AC	SV Ried
+	SV Mattersburg	Sturm Graz
+
+Runde 22
+
+[Sa 18.2.]
+	Rapid Wien	FC Admira Wacker
+	Sturm Graz	Austria Wien
+	SV Ried	RB Salzburg
+	SCR Altach	SKN St. Pölten
+	SV Mattersburg	Wolfsberger AC
+
+Runde 23
+
+[Sa 25.2.]
+	RB Salzburg	SV Mattersburg
+	Austria Wien	SCR Altach
+	FC Admira Wacker	SV Ried
+	Wolfsberger AC	Rapid Wien
+	SKN St. Pölten	Sturm Graz
+
+Runde 24
+
+[Sa 4.3.]
+	Rapid Wien	RB Salzburg
+	Sturm Graz	SCR Altach
+	Wolfsberger AC	FC Admira Wacker
+	SV Ried	Austria Wien
+	SV Mattersburg	SKN St. Pölten
+
+Runde 25
+
+[Sa 11.3.]
+	Austria Wien	Wolfsberger AC
+	FC Admira Wacker	RB Salzburg
+	Sturm Graz	Rapid Wien
+	SCR Altach	SV Mattersburg
+	SKN St. Pölten	SV Ried
+
+Runde 26
+
+[Sa 18.3.]
+	RB Salzburg	Austria Wien
+	Rapid Wien	SV Mattersburg
+	FC Admira Wacker	Sturm Graz
+	Wolfsberger AC	SKN St. Pölten
+	SV Ried	SCR Altach
+
+Runde 27
+
+[Sa 1.4.]
+	Austria Wien	FC Admira Wacker
+	Sturm Graz	Wolfsberger AC
+	SCR Altach	RB Salzburg
+	SV Mattersburg	SV Ried
+	SKN St. Pölten	Rapid Wien
+
+Runde 28
+
+[Sa 8.4.]
+	RB Salzburg	Sturm Graz
+	Austria Wien	SKN St. Pölten
+	FC Admira Wacker	SV Mattersburg
+	Wolfsberger AC	SCR Altach
+	SV Ried	Rapid Wien
+
+Runde 29
+
+[Sa 15.4.]
+	Rapid Wien	SCR Altach
+	FC Admira Wacker	SKN St. Pölten
+	Sturm Graz	SV Ried
+	Wolfsberger AC	RB Salzburg
+	SV Mattersburg	Austria Wien
+
+Runde 30
+
+[Sa 22.4.]
+	Rapid Wien	Austria Wien
+	Sturm Graz	SV Mattersburg
+	SV Ried	Wolfsberger AC
+	SCR Altach	FC Admira Wacker
+	SKN St. Pölten	RB Salzburg
+
+Runde 31
+
+[Sa 29.4.]
+	RB Salzburg	SV Ried
+	Austria Wien	Sturm Graz
+	FC Admira Wacker	Rapid Wien
+	Wolfsberger AC	SV Mattersburg
+	SKN St. Pölten	SCR Altach
+
+Runde 32
+
+[Sa 6.5.]
+	Rapid Wien	Wolfsberger AC
+	Sturm Graz	SKN St. Pölten
+	SV Ried	FC Admira Wacker
+	SCR Altach	Austria Wien
+	SV Mattersburg	RB Salzburg
+
+Runde 33
+
+[Sa 13.5.]
+	RB Salzburg	Rapid Wien
+	Austria Wien	SV Ried
+	FC Admira Wacker	Wolfsberger AC
+	SCR Altach	Sturm Graz
+	SKN St. Pölten	SV Mattersburg
+
+Runde 34
+
+[Sa 20.5.]
+	RB Salzburg	FC Admira Wacker
+	Rapid Wien	Sturm Graz
+	Wolfsberger AC	Austria Wien
+	SV Ried	SKN St. Pölten
+	SV Mattersburg	SCR Altach
+
+Runde 35
+
+[Do 25.5.]
+	Austria Wien	RB Salzburg
+	Sturm Graz	FC Admira Wacker
+	SCR Altach	SV Ried
+	SV Mattersburg	Rapid Wien
+	SKN St. Pölten	Wolfsberger AC
+
+Runde 36
+
+[So 28.5.]
+	RB Salzburg	SCR Altach
+	Rapid Wien	SKN St. Pölten
+	FC Admira Wacker	Austria Wien
+	Wolfsberger AC	Sturm Graz
+	SV Ried	SV Mattersburg
