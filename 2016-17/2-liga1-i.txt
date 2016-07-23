@@ -1,0 +1,186 @@
+#################################
+# Österr. Erste Liga 2016/17
+
+Runde 1
+
+[Fr 22.7.]
+   FC Liefering  1:0 (1:0) 	SV Horn
+   FC Blau Weiß Linz	 0:3 (0:1)  WSG Wattens
+   FC Wacker Innsbruck	  2:1 (0:1)  Floridsdorfer AC
+   Kapfenberger SV 1919	3:1 (2:1)  SC Wiener Neustadt
+   Austria Lustenau	1:1 (0:0)  LASK Linz
+
+Runde 2
+
+[Fr 29.7.]
+	SC Wiener Neustadt	FC Liefering
+	WSG Wattens	Floridsdorfer AC
+	Austria Lustenau	SV Horn
+	Kapfenberger SV 1919	FC Wacker Innsbruck
+	LASK Linz	FC Blau Weiß Linz
+
+Runde 3
+
+[Fr 5.8.]
+	FC Liefering	LASK Linz
+	FC Blau Weiß Linz	SC Wiener Neustadt
+	SV Horn	Kapfenberger SV 1919
+	Floridsdorfer AC	Austria Lustenau
+	FC Wacker Innsbruck	WSG Wattens
+
+Runde 4
+
+[Fr 12.8.]
+	FC Liefering	Floridsdorfer AC
+	WSG Wattens	SC Wiener Neustadt
+	Austria Lustenau	Kapfenberger SV 1919
+	SV Horn	FC Blau Weiß Linz
+	LASK Linz	FC Wacker Innsbruck
+
+Runde 5
+
+[Mo 15.8.]
+	FC Blau Weiß Linz	Austria Lustenau
+[Di 16.8.]
+	SC Wiener Neustadt	LASK Linz
+	FC Wacker Innsbruck	FC Liefering
+	Kapfenberger SV 1919	WSG Wattens
+	Floridsdorfer AC	SV Horn
+
+Runde 6
+
+[Fr 19.8.]
+	FC Liefering	Kapfenberger SV 1919
+	LASK Linz	WSG Wattens
+	FC Wacker Innsbruck	Austria Lustenau
+	Floridsdorfer AC	FC Blau Weiß Linz
+	SV Horn	SC Wiener Neustadt
+
+Runde 7
+
+[Fr 26.8.]
+	SC Wiener Neustadt	Floridsdorfer AC
+	FC Blau Weiß Linz	FC Wacker Innsbruck
+	WSG Wattens	SV Horn
+	Austria Lustenau	FC Liefering
+	Kapfenberger SV 1919	LASK Linz
+
+Runde 8
+
+[Fr 9.9.]
+	SC Wiener Neustadt	Austria Lustenau
+	FC Blau Weiß Linz	Kapfenberger SV 1919
+	WSG Wattens	FC Liefering
+	SV Horn	FC Wacker Innsbruck
+	Floridsdorfer AC	LASK Linz
+
+Runde 9
+
+[Di 13.9.]
+	FC Liefering	FC Blau Weiß Linz
+	LASK Linz	SV Horn
+	FC Wacker Innsbruck	SC Wiener Neustadt
+	Austria Lustenau	WSG Wattens
+	Kapfenberger SV 1919	Floridsdorfer AC
+
+Runde 10
+
+[Fr 16.9.]
+	SC Wiener Neustadt	Kapfenberger SV 1919
+	LASK Linz	Austria Lustenau
+	WSG Wattens	FC Blau Weiß Linz
+	SV Horn	FC Liefering
+	Floridsdorfer AC	FC Wacker Innsbruck
+
+Runde 11
+
+[Fr 23.9.]
+	FC Liefering	SC Wiener Neustadt
+	FC Blau Weiß Linz	LASK Linz
+	FC Wacker Innsbruck	Kapfenberger SV 1919
+	SV Horn	Austria Lustenau
+	Floridsdorfer AC	WSG Wattens
+
+Runde 12
+
+[Fr 30.9.]
+	SC Wiener Neustadt	FC Blau Weiß Linz
+	LASK Linz	FC Liefering
+	WSG Wattens	FC Wacker Innsbruck
+	Austria Lustenau	Floridsdorfer AC
+	Kapfenberger SV 1919	SV Horn
+
+Runde 13
+
+[Fr 14.10.]
+	SC Wiener Neustadt	WSG Wattens
+	FC Blau Weiß Linz	SV Horn
+	FC Wacker Innsbruck	LASK Linz
+	Kapfenberger SV 1919	Austria Lustenau
+	Floridsdorfer AC	FC Liefering
+
+Runde 14
+
+[Di 18.10.]
+	FC Liefering	FC Wacker Innsbruck
+	LASK Linz	SC Wiener Neustadt
+	WSG Wattens	Kapfenberger SV 1919
+	Austria Lustenau	FC Blau Weiß Linz
+	SV Horn	Floridsdorfer AC
+
+Runde 15
+
+[Fr 21.10.]
+	SC Wiener Neustadt	SV Horn
+	FC Blau Weiß Linz	Floridsdorfer AC
+	WSG Wattens	LASK Linz
+	Austria Lustenau	FC Wacker Innsbruck
+	Kapfenberger SV 1919	FC Liefering
+
+Runde 16
+
+[Di 1.11.]
+	FC Liefering	Austria Lustenau
+	LASK Linz	Kapfenberger SV 1919
+	FC Wacker Innsbruck	FC Blau Weiß Linz
+	SV Horn	WSG Wattens
+	Floridsdorfer AC	SC Wiener Neustadt
+
+Runde 17
+
+[Fr 4.11.]
+	FC Liefering	WSG Wattens
+	LASK Linz	Floridsdorfer AC
+	FC Wacker Innsbruck	SV Horn
+	Austria Lustenau	SC Wiener Neustadt
+	Kapfenberger SV 1919	FC Blau Weiß Linz
+
+Runde 18
+
+[Fr 18.11.]
+	SC Wiener Neustadt	FC Wacker Innsbruck
+	FC Blau Weiß Linz	FC Liefering
+	WSG Wattens	Austria Lustenau
+	SV Horn	LASK Linz
+	Floridsdorfer AC	Kapfenberger SV 1919
+
+Runde 19
+
+[Fr 25.11.]
+	FC Liefering	SV Horn
+	FC Blau Weiß Linz	WSG Wattens
+	FC Wacker Innsbruck	Floridsdorfer AC
+	Austria Lustenau	LASK Linz
+	Kapfenberger SV 1919	SC Wiener Neustadt
+
+Runde 20
+
+[Fr 2.12.]
+	SC Wiener Neustadt	FC Liefering
+	LASK Linz	FC Blau Weiß Linz
+	WSG Wattens	Floridsdorfer AC
+	Austria Lustenau	SV Horn
+	Kapfenberger SV 1919	FC Wacker Innsbruck
+
+
+
