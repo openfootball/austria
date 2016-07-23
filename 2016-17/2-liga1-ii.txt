@@ -1,0 +1,144 @@
+Runde 21
+
+[Fr 24.2.]
+	FC Liefering	LASK Linz
+	FC Blau Weiß Linz	SC Wiener Neustadt
+	FC Wacker Innsbruck	WSG Wattens
+	SV Horn	Kapfenberger SV 1919
+	Floridsdorfer AC	Austria Lustenau
+
+Runde 22
+
+[Fr 3.3.]
+	FC Liefering	Floridsdorfer AC
+	LASK Linz	FC Wacker Innsbruck
+	WSG Wattens	SC Wiener Neustadt
+	Austria Lustenau	Kapfenberger SV 1919
+	SV Horn	FC Blau Weiß Linz
+
+Runde 23
+
+[Fr 10.3.]
+	SC Wiener Neustadt	LASK Linz
+	FC Blau Weiß Linz	Austria Lustenau
+	FC Wacker Innsbruck	FC Liefering
+	Kapfenberger SV 1919	WSG Wattens
+	Floridsdorfer AC	SV Horn
+
+Runde 24
+
+[Di 14.3.]
+	FC Liefering	Kapfenberger SV 1919
+	LASK Linz	WSG Wattens
+	FC Wacker Innsbruck	Austria Lustenau
+	SV Horn	SC Wiener Neustadt
+	Floridsdorfer AC	FC Blau Weiß Linz
+
+Runde 25
+
+[Fr 17.3.]
+	SC Wiener Neustadt	Floridsdorfer AC
+	FC Blau Weiß Linz	FC Wacker Innsbruck
+	WSG Wattens	SV Horn
+	Austria Lustenau	FC Liefering
+	Kapfenberger SV 1919	LASK Linz
+
+Runde 26
+
+[Fr 31.3.]
+	SC Wiener Neustadt	Austria Lustenau
+	FC Blau Weiß Linz	Kapfenberger SV 1919
+	WSG Wattens	FC Liefering
+	SV Horn	FC Wacker Innsbruck
+	Floridsdorfer AC	LASK Linz
+
+Runde 27
+
+[Fr 7.4.]
+	FC Liefering	FC Blau Weiß Linz
+	LASK Linz	SV Horn
+	FC Wacker Innsbruck	SC Wiener Neustadt
+	Austria Lustenau	WSG Wattens
+	Kapfenberger SV 1919	Floridsdorfer AC
+
+Runde 28
+
+[Fr 14.4.]
+	SC Wiener Neustadt	Kapfenberger SV 1919
+	LASK Linz	Austria Lustenau
+	WSG Wattens	FC Blau Weiß Linz
+	SV Horn	FC Liefering
+	Floridsdorfer AC	FC Wacker Innsbruck
+
+Runde 29
+
+[Di 18.4.]
+	FC Liefering	SC Wiener Neustadt
+	FC Blau Weiß Linz	LASK Linz
+	FC Wacker Innsbruck	Kapfenberger SV 1919
+	SV Horn	Austria Lustenau
+	Floridsdorfer AC	WSG Wattens
+
+Runde 30
+
+[Fr 21.4.]
+	SC Wiener Neustadt	FC Blau Weiß Linz
+	LASK Linz	FC Liefering
+	WSG Wattens	FC Wacker Innsbruck
+	Austria Lustenau	Floridsdorfer AC
+	Kapfenberger SV 1919	SV Horn
+
+Runde 31
+
+[Fr 28.4.]
+	SC Wiener Neustadt	WSG Wattens
+	FC Blau Weiß Linz	SV Horn
+	FC Wacker Innsbruck	LASK Linz
+	Kapfenberger SV 1919	Austria Lustenau
+	Floridsdorfer AC	FC Liefering
+
+Runde 32
+
+[Di 2.5.]
+	FC Liefering	FC Wacker Innsbruck
+	LASK Linz	SC Wiener Neustadt
+	WSG Wattens	Kapfenberger SV 1919
+	Austria Lustenau	FC Blau Weiß Linz
+	SV Horn	Floridsdorfer AC
+
+Runde 33
+
+[Fr 5.5.]
+	SC Wiener Neustadt	SV Horn
+	FC Blau Weiß Linz	Floridsdorfer AC
+	WSG Wattens	LASK Linz
+	Austria Lustenau	FC Wacker Innsbruck
+	Kapfenberger SV 1919	FC Liefering
+
+Runde 34
+
+[Fr 12.5.]
+	FC Liefering	Austria Lustenau
+	LASK Linz	Kapfenberger SV 1919
+	FC Wacker Innsbruck	FC Blau Weiß Linz
+	SV Horn	WSG Wattens
+	Floridsdorfer AC	SC Wiener Neustadt
+
+Runde 35
+
+[Fr 19.5.]
+	FC Liefering	WSG Wattens
+	LASK Linz	Floridsdorfer AC
+	FC Wacker Innsbruck	SV Horn
+	Austria Lustenau	SC Wiener Neustadt
+	Kapfenberger SV 1919	FC Blau Weiß Linz
+
+Runde 36
+
+[Fr 26.5.]
+	SC Wiener Neustadt	FC Wacker Innsbruck
+	FC Blau Weiß Linz	FC Liefering
+	WSG Wattens	Austria Lustenau
+	SV Horn	LASK Linz
+	Floridsdorfer AC	Kapfenberger SV 1919
+
