@@ -15,7 +15,7 @@ Runde 1
  16.30 	SKN St. Pölten  1:2 (0:1)  Austria Wien
 	  [Hartl 80'; Kayode 45+1' Tajouri 90+5']
  19.00 	SV Mattersburg  0:1 (0:1)  FC Admira Wacker
-          [; Knasmüllner 19']
+          [-; Knasmüllner 19']
 
 Runde 2
 
