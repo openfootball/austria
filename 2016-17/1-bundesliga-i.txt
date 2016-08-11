@@ -36,12 +36,12 @@ Runde 2
 Runde 3
 
 [Sa 6.8.]
-  16.00 	SV Mattersburg	Sturm Graz
-  18.30 	RB Salzburg	SKN St. Pölten
-  18.30 	FC Admira Wacker	SCR Altach
-  18.30  	Wolfsberger AC	SV Ried
+  16.00 	SV Mattersburg   0-2 Sturm Graz
+  18.30 	RB Salzburg      2-0 SKN St. Pölten
+  18.30 	FC Admira Wacker 1-2 SCR Altach
+  18.30  	Wolfsberger AC   1-0 SV Ried
 [So 7.8.]
-  16.30 	Austria Wien	Rapid Wien
+  16.30 	Austria Wien     1-4 Rapid Wien
 
 
 Runde 4
