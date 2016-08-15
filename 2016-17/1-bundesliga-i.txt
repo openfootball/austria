@@ -47,11 +47,11 @@ Runde 3
 Runde 4
 
 [Sa 13.8.]
-	Rapid Wien	FC Admira Wacker
-	Sturm Graz	Austria Wien
-	SV Ried	RB Salzburg
-	SCR Altach	SKN St. Pölten
-	SV Mattersburg	Wolfsberger AC
+	Rapid Wien      4-0 FC Admira Wacker
+	Sturm Graz      3-1 Austria Wien
+	SV Ried         0-2 RB Salzburg
+	SCR Altach      3-1 SKN St. Pölten
+	SV Mattersburg  3-1 Wolfsberger AC
 
 
 Runde 5
