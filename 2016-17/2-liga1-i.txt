@@ -32,10 +32,10 @@ Runde 4
 
 [Fr 12.8.]
 	FC Liefering2-1	Floridsdorfer AC
-	WSG Wattens	SC Wiener Neustadt
-	Austria Lustenau	Kapfenberger SV 1919
-	SV Horn	FC Blau Weiß Linz
-	LASK Linz	FC Wacker Innsbruck
+	WSG Wattens0-1	SC Wiener Neustadt
+	Austria Lustenau1-3	Kapfenberger SV 1919
+	SV Horn2-1	FC Blau Weiß Linz
+	LASK Linz1-0	FC Wacker Innsbruck
 
 Runde 5
 
