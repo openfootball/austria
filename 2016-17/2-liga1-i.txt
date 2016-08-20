@@ -40,21 +40,21 @@ Runde 4
 Runde 5
 
 [Mo 15.8.]
-	FC Blau Weiß Linz	Austria Lustenau
+	FC Blau Weiß Linz     1-1  Austria Lustenau
 [Di 16.8.]
-	SC Wiener Neustadt	LASK Linz
-	FC Wacker Innsbruck	FC Liefering
-	Kapfenberger SV 1919	WSG Wattens
-	Floridsdorfer AC	SV Horn
+	SC Wiener Neustadt    1-2  LASK Linz
+	FC Wacker Innsbruck   1-1  FC Liefering
+	Kapfenberger SV 1919  3-0  WSG Wattens
+	Floridsdorfer AC      2-1  SV Horn
 
 Runde 6
 
 [Fr 19.8.]
-	FC Liefering	Kapfenberger SV 1919
-	LASK Linz	WSG Wattens
-	FC Wacker Innsbruck	Austria Lustenau
-	Floridsdorfer AC	FC Blau Weiß Linz
-	SV Horn	SC Wiener Neustadt
+	FC Liefering          2-0  Kapfenberger SV 1919
+	LASK Linz             4-0  WSG Wattens
+	FC Wacker Innsbruck   0-1  Austria Lustenau
+	Floridsdorfer AC      2-1  FC Blau Weiß Linz
+	SV Horn               0-1  SC Wiener Neustadt
 
 Runde 7
 
