@@ -9,7 +9,7 @@ Runde 1
           [Schösswendter 13' Schaub 28' Murg 42', 55' Cassio Apolinaro de Lira '56]
  18.30 	Sturm Graz	3:1 (3:0)   RB Salzburg
           [Matic 6' Schmerböck 18' Alar 36'; Gulbrandsen 82']
- 18.30 	SCR Altach	1:0 (0:0)   Wolfsberger AC
+  	SCR Altach	1:0 (0:0)   Wolfsberger AC
           [Oberlin 82']
 [So 24.7.]
  16.30 	SKN St. Pölten  1:2 (0:1)  Austria Wien
@@ -27,7 +27,7 @@ Runde 2
 [So 31.7.]
  16.30 	Austria Wien    3:1 (0:1)  SV Mattersburg
           [Venuto 64' (Elf.), 90+4' Tajouri 67'; Bürger 28']
- 16.30 	SCR Altach      1:0 (0:0)  Rapid Wien
+   	SCR Altach      1:0 (0:0)  Rapid Wien
           [Salomon 76']
  19.00 	SKN St. Pölten  2:1 (0:0)  FC Admira Wacker
           [Hartl 64' Schütz 90+4'; Spiridonovic 69' (Elf.)]
@@ -36,52 +36,72 @@ Runde 2
 Runde 3
 
 [Sa 6.8.]
-  16.00 	SV Mattersburg   0-2 Sturm Graz
-  18.30 	RB Salzburg      2-0 SKN St. Pölten
-  18.30 	FC Admira Wacker 1-2 SCR Altach
-  18.30  	Wolfsberger AC   1-0 SV Ried
+  16.00 	SV Mattersburg   0:2 (0:0)  Sturm Graz
+                 [-; Alar 48' Edomwonyi 63']
+  18.30 	RB Salzburg      2:0 (1:0)  SKN St. Pölten
+                 [Dabbur 33' Lainer 60']
+         	FC Admira Wacker 1:2 (0:1)  SCR Altach
+                 [Grozurek 58'; Oberlin 2' Oberlin 49']
+        	Wolfsberger AC   1:0 (0:0)  SV Ried
+                 [Hüttenbrenner 79']
 [So 7.8.]
-  16.30 	Austria Wien     1-4 Rapid Wien
+  16.30 	Austria Wien     1:4 (0:1)  Rapid Wien
+                 [Kayode 63'; Traustason 33' Schaub 65' Grahovac 87' Joelinton 90+3']
 
 
 Runde 4
 
 [Sa 13.8.]
-	Rapid Wien      4-0 FC Admira Wacker
-	Sturm Graz      3-1 Austria Wien
-	SV Ried         0-2 RB Salzburg
-	SCR Altach      3-1 SKN St. Pölten
-	SV Mattersburg  3-1 Wolfsberger AC
+  16.00	SV Ried         0:2 (0:0)  RB Salzburg
+	   [-; Bernardo 47' Va. Berisha 90+1']
+  18.30	Rapid Wien      4:0 (2:0)   FC Admira Wacker
+	   [Schaub 17', 65' Schwab 25', 78']
+  	SCR Altach      3:1 (3:0)   SKN St. Pölten
+	   [Oberlin 2', 24' Dovedan 45+1'; Schütz 75']
+	SV Mattersburg  3:1 (2:1)   Wolfsberger AC
+	   [Perlak 2' (Elf.), 56' (Elf.) Pink 34'; Nutz 25']
+[So 14.8.]
+  16.30	Sturm Graz      3:1 (1:0)   Austria Wien
+	   [Alar 38', 66' Huspek 70'; Filipovic 79']
 
 
 Runde 5
 
 [Sa 20.8.]
-  16.00 	SKN St. Pölten   1-3  Sturm Graz
-  18.30 	RB Salzburg      3-1  SV Mattersburg
-  18.30 	Austria Wien	SCR Altach
-  18.30 	FC Admira Wacker 1-0  SV Ried
+  16.00 	SKN St. Pölten   1:3 (0:2)  Sturm Graz
+                  [Segovia 56'; Edomwonyi 21' Spendlhofer 44' Matic 84']
+  18.30 	RB Salzburg      3:1 (0:0)  SV Mattersburg
+                  [Minamino 49' Lainer 88', 90+1'; Röcher 76']
+        	FC Admira Wacker 1:0 (0:0)   SV Ried
+                  [Grozurek 90']
 [So 21.8.]
-  16.30 	Wolfsberger AC   1-1  Rapid Wien
+  16.30  	Wolfsberger AC   1:1 (0:1)  Rapid Wien
+                  [Prosenik 82'; Schößwendter 31']
+  19.00     	Austria Wien	 -:- (1:0)  SCR Altach
+                  [Tajouri 23']
 
 
 Runde 6
 
 [Sa 27.8.]
-	Rapid Wien	RB Salzburg
-	Sturm Graz	SCR Altach
-	Wolfsberger AC	FC Admira Wacker
-	SV Ried	  Austria Wien
-	SV Mattersburg	SKN St. Pölten
+  16.00 	Sturm Graz	SCR Altach
+  18.30         Wolfsberger AC	FC Admira Wacker
+	        SV Mattersburg	SKN St. Pölten
+[So 28.8.]	     
+  16.30 	Rapid Wien	RB Salzburg
+  19.00 	SV Ried	  Austria Wien
+
 
 Runde 7
 
 [Sa 10.9.]
-	Austria Wien	Wolfsberger AC
-	FC Admira Wacker	RB Salzburg
-	Sturm Graz	Rapid Wien
-	SCR Altach	SV Mattersburg
-	SKN St. Pölten	SV Ried
+  16.00  	Sturm Graz	Rapid Wien
+  18.30         Austria Wien	Wolfsberger AC
+          	SCR Altach	SV Mattersburg
+	        SKN St. Pölten	SV Ried
+[So 11.9.]
+  16.30  	FC Admira Wacker	RB Salzburg
+
 
 Runde 8
 
