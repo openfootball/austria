@@ -2,7 +2,7 @@
 #  Oberösterreich (OÖ)
 
 [linz]
-  FC Blau-Weiß Linz|BW Linz, BWL
+  FC Blau-Weiß Linz|FC Blau Weiß Linz|BW Linz, BWL
   Regionalliga Mitte/OÖ
   // Linz
 
@@ -22,5 +22,3 @@ steyr, SK Vorwärts Steyr|Vorwärts Steyr
 gurten, Union Gurten|Gurten, www.union-gurten.at
 stadlpaura, ATSV Stadl Paura
 wels, FC Wels
-
-
