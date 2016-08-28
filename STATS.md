@@ -2,8 +2,8 @@
 
 ```
 41 leagues
-Österr. Bundesliga (at) |  5 events
-Österr. Erste Liga (at.2) |  4 events
+Österr. Bundesliga (at) |  6 events
+Österr. Erste Liga (at.2) |  5 events
 ÖFB Cup (at.cup) |  3 events
 Österr. Regionalliga Ost (at.3.ost) |  0 events
 Österr. Regionalliga Mitte (at.3.mitte) |  0 events
@@ -43,16 +43,26 @@ Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) |  0 events
 2. Klasse Waldviertel/Süd (NÖ) (at.8.n.waldviertel.s) |  0 events
 3. Klasse Hornerwald (NÖ) (at.9.n.hornerwald) |  0 events
 3. Klasse Mistelbach (NÖ) (at.9.n.mistelbach) |  0 events
-12 events:
+14 events:
+#######################
+## 2016/17 Österr. Bundesliga  |  10 Teams, 180 Matches, 82 Goals (+0 a.e.t.)
+    0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
+
+#######################
+## 2016/17 Österr. Erste Liga  |  10 Teams, 180 Matches, 95 Goals (+0 a.e.t.)
+    0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
+
 #######################
 ## 2015/16 Österr. Bundesliga  |  10 Teams, 180 Matches, 477 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
 
 #######################
-## 2015/16 Österr. Erste Liga  |  10 Teams, 181 Matches, 529 Goals (+0 a.e.t.)
+## 2015/16 Österr. Erste Liga  |  10 Teams, 180 Matches, 529 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
-1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (6)  
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
 
 #######################
 ## 2014/15 Österr. Bundesliga  |  10 Teams, 180 Matches, 527 Goals (+0 a.e.t.)
@@ -105,7 +115,7 @@ Gebietsliga Nordwest/Waldviertel (NÖ) (at.6.n.west.nww) |  0 events
 1 (4)  2 (2)  3 (1)  
 
 114 logs:
-[warn] Rakefile - 2016-08-23 08:29:36 +0200
+[warn] Rakefile - 2016-08-28 09:30:10 +0200
 [warn] hash reader - found implicit bool (no) for key; adding quotes to turn into string; see yaml.org/refcard.html (path=)
 [warn] no country match found for >Bonaire<; skipping line; in [1-codes/fifa]
 [warn] no country match found for >Kosovo<; skipping line; in [1-codes/fifa]
