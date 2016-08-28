@@ -1,0 +1,15 @@
+##############################################
+# Datafile for Austria / Österreich
+#
+#  use (inside the at-austria/ folder)
+#    $ sportdb build
+
+
+inline do
+  Country.parse 'at', 'Austria', 'AUT', '83_871 km²', '8_414_638'
+end
+
+football 'at-austria'
+
+## note: for now use only 2016-17.txt setup (not the default all.txt)
+## football 'at-austria', setup: '2016-17'
