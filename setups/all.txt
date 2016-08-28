@@ -22,6 +22,10 @@ at-austria!/clubs/3-wien
 
 # - Fixtures
 
+# 2016/17
+at-austria!/2016-17/1-bundesliga
+at-austria!/2016-17/2-liga1
+
 # 2015/16
 at-austria!/2015-16/1-bundesliga
 at-austria!/2015-16/2-liga1
@@ -45,4 +49,3 @@ at-austria!/2012-13/cup
 # 2011/12
 at-austria!/2011-12/1-bundesliga
 at-austria!/2011-12/cup
-
