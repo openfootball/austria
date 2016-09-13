@@ -6,16 +6,16 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. SK Sturm Graz                  6   3  0  0   9:3     2  0  1   5:2     14:5    +9   15
- 2. SCR Altach                     6   3  0  0   5:1     1  0  2   4:7      9:8    +1   12
- 3. SK Rapid Wien                  5   2  0  0   9:0     1  1  1   5:3     14:3   +11   10
- 4. FC RB Salzburg                 5   2  1  0   6:2     1  0  1   3:3      9:5    +4   10
- 5. FK Austria Wien                5   2  0  1   7:6     1  0  1   3:4     10:10         9
- 6. Wolfsberger AC                 6   2  1  0   7:1     0  1  2   2:5      9:6    +3    8
- 7. FC Admira Wacker               6   1  0  1   2:2     1  0  3   2:11     4:13   -9    6
- 8. SV Mattersburg                 6   1  1  2   4:5     0  0  2   2:6      6:11   -5    4
- 9. SKN St. Pölten                 6   1  0  2   4:6     0  1  2   2:6      6:12   -6    4
-10. SV Ried                        5   1  0  1   1:2     0  0  3   0:7      1:9    -8    3
+ 1. SK Sturm Graz                  7   3  1  0  10:4     2  0  1   5:2     15:6    +9   16
+ 2. SCR Altach                     7   4  0  0   7:2     1  0  2   4:7     11:9    +2   15
+ 3. FC RB Salzburg                 7   2  1  0   6:2     2  1  1   7:3     13:5    +8   14
+ 4. FK Austria Wien                7   3  0  1  11:7     1  1  1   4:5     15:12   +3   13
+ 5. SK Rapid Wien                  7   2  1  0   9:0     1  2  1   6:4     15:4   +11   12
+ 6. Wolfsberger AC                 7   2  1  0   7:1     0  1  3   3:9     10:10         8
+ 7. SV Ried                        7   1  1  1   2:3     1  0  3   3:9      5:12   -7    7
+ 8. FC Admira Wacker               7   1  0  2   2:6     1  0  3   2:11     4:17  -13    6
+ 9. SV Mattersburg                 7   1  1  2   4:5     0  0  3   3:8      7:13   -6    4
+10. SKN St. Pölten                 7   1  0  3   6:9     0  1  2   2:6      8:15   -7    4
 ~~~
 
 
