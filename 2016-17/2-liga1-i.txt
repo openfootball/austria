@@ -68,20 +68,20 @@ Runde 7
 Runde 8
 
 [Fr 9.9.]
-	SC Wiener Neustadt	Austria Lustenau
-	FC Blau Weiß Linz	Kapfenberger SV 1919
-	WSG Wattens	FC Liefering
-	SV Horn	FC Wacker Innsbruck
-	Floridsdorfer AC	LASK Linz
+	SC Wiener Neustadt    1-4  Austria Lustenau
+	FC Blau Weiß Linz     0-1  Kapfenberger SV 1919
+	WSG Wattens           1-1  FC Liefering
+	SV Horn               2-1  FC Wacker Innsbruck
+	Floridsdorfer AC      2-3  LASK Linz
 
 Runde 9
 
 [Di 13.9.]
-	FC Liefering	FC Blau Weiß Linz
-	LASK Linz	SV Horn
-	FC Wacker Innsbruck	SC Wiener Neustadt
-	Austria Lustenau	WSG Wattens
-	Kapfenberger SV 1919	Floridsdorfer AC
+	FC Liefering          2-0  FC Blau Weiß Linz
+	LASK Linz             1-1  SV Horn
+	FC Wacker Innsbruck   3-2  SC Wiener Neustadt
+	Austria Lustenau      4-0  WSG Wattens
+	Kapfenberger SV 1919  2-0  Floridsdorfer AC
 
 Runde 10
 
