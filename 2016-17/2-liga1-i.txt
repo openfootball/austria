@@ -95,11 +95,11 @@ Runde 10
 Runde 11
 
 [Fr 23.9.]
-	FC Liefering	SC Wiener Neustadt
-	FC Blau Weiß Linz	LASK Linz
-	FC Wacker Innsbruck	Kapfenberger SV 1919
-	SV Horn	Austria Lustenau
-	Floridsdorfer AC	WSG Wattens
+	FC Liefering         3-1   SC Wiener Neustadt
+	FC Blau Weiß Linz    2-1   LASK Linz
+	FC Wacker Innsbruck  1-0   Kapfenberger SV 1919
+	SV Horn              1-3   Austria Lustenau
+	Floridsdorfer AC     1-1   WSG Wattens
 
 Runde 12
 
