@@ -132,10 +132,10 @@ Runde 8
 Runde 9
 
 [Sa 24.9.]
-  16.00  SKN St. Pölten	Rapid Wien
-  18.30  Austria Wien	FC Admira Wacker
-	 Sturm Graz	Wolfsberger AC
-	 SV Mattersburg	SV Ried
+  16.00  SKN St. Pölten    1-1	Rapid Wien
+  18.30  Austria Wien      1-2	FC Admira Wacker
+	 Sturm Graz        3-0	Wolfsberger AC
+	 SV Mattersburg    1-1	SV Ried
 [So 25.9.]
   16.30  SCR Altach	RB Salzburg
 	
