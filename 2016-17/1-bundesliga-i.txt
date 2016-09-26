@@ -132,12 +132,16 @@ Runde 8
 Runde 9
 
 [Sa 24.9.]
-  16.00  SKN St. Pölten    1-1	Rapid Wien
-  18.30  Austria Wien      1-2	FC Admira Wacker
-	 Sturm Graz        3-0	Wolfsberger AC
-	 SV Mattersburg    1-1	SV Ried
+  16.00  SKN St. Pölten    1:1 (0:1)	Rapid Wien
+           [Petrovic 59'; Joelinton 45+3' (Elfm.)]
+  18.30  Austria Wien      1:2 (1:1)	FC Admira Wacker
+           [Tajouri 36'; Sax 13' Monschein 63']
+	 Sturm Graz        3:0 (2:0)	Wolfsberger AC
+	   [Alar 38', 41' Edomwonyi 88']
+	 SV Mattersburg    1:1 (0:0)    SV Ried
+	   [Grgic 83';  Zulj 90+1' (Elf.)]
 [So 25.9.]
-  16.30  SCR Altach	RB Salzburg
+  16.30  SCR Altach	   0:0  RB Salzburg
 	
 
 Runde 10
@@ -154,11 +158,12 @@ Runde 10
 Runde 11
 
 [Sa 15.10.]
-	Rapid Wien	SCR Altach
-	FC Admira Wacker	SKN St. Pölten
-	Sturm Graz	SV Ried
-	Wolfsberger AC	RB Salzburg
-	SV Mattersburg	Austria Wien
+  16.00  Wolfsberger AC	RB Salzburg
+  18.30	 Rapid Wien	SCR Altach
+	 FC Admira Wacker	SKN St. Pölten
+	 Sturm Graz	SV Ried
+[So 16.10.]
+  16.30  SV Mattersburg	Austria Wien
 
 Runde 12
 
