@@ -163,10 +163,10 @@ Runde 10
 Runde 11
 
 [Sa 15.10.]
-  16.00  Wolfsberger AC	RB Salzburg
-  18.30	 Rapid Wien	SCR Altach
-	 FC Admira Wacker	SKN St. Pölten
-	 Sturm Graz	SV Ried
+  16.00  Wolfsberger AC    2-2	RB Salzburg
+  18.30	 Rapid Wien        1-1	SCR Altach
+	 FC Admira Wacker  1-1	SKN St. Pölten
+	 Sturm Graz        1-0	SV Ried
 [So 16.10.]
   16.30  SV Mattersburg	Austria Wien
 
