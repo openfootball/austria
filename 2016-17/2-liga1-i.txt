@@ -113,11 +113,11 @@ Runde 12
 Runde 13
 
 [Fr 14.10.]
-	SC Wiener Neustadt	WSG Wattens
-	FC Blau Weiß Linz	SV Horn
-	FC Wacker Innsbruck	LASK Linz
-	Kapfenberger SV 1919	Austria Lustenau
-	Floridsdorfer AC	FC Liefering
+	SC Wiener Neustadt    2-1   WSG Wattens
+	FC Blau Weiß Linz     1-0   SV Horn
+	FC Wacker Innsbruck   2-1   LASK Linz
+	Kapfenberger SV 1919  0-1   Austria Lustenau
+	Floridsdorfer AC      1-5   FC Liefering
 
 Runde 14
 
