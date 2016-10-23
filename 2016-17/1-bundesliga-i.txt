@@ -174,9 +174,9 @@ Runde 12
 
 [Sa 22.10.]
 	Rapid Wien	Austria Wien
-	Sturm Graz	SV Mattersburg
-	SV Ried	Wolfsberger AC
-	SCR Altach	FC Admira Wacker
+	Sturm Graz         2-2	SV Mattersburg
+	SV Ried            0-1	Wolfsberger AC
+	SCR Altach         2-0	FC Admira Wacker
 	SKN St. Pölten	RB Salzburg
 
 Runde 13
