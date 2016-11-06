@@ -149,11 +149,11 @@ Runde 16
 Runde 17
 
 [Fr 4.11.]
-	FC Liefering	WSG Wattens
-	LASK Linz	Floridsdorfer AC
-	FC Wacker Innsbruck	SV Horn
-	Austria Lustenau	SC Wiener Neustadt
-	Kapfenberger SV 1919	FC Blau Weiß Linz
+	FC Liefering          0-0  WSG Wattens
+	LASK Linz             1-0  Floridsdorfer AC
+	FC Wacker Innsbruck   0-0  SV Horn
+	Austria Lustenau      1-0  SC Wiener Neustadt
+	Kapfenberger SV 1919  2-2  FC Blau Weiß Linz
 
 Runde 18
 
