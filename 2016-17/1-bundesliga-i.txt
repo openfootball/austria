@@ -192,8 +192,8 @@ Runde 14
 
 [Sa 5.11.]
 	Rapid Wien	Wolfsberger AC
-	Sturm Graz	SKN St. Pölten
-	SV Ried	FC Admira Wacker
+	Sturm Graz         1-2	SKN St. Pölten
+	SV Ried            2-1	FC Admira Wacker
 	SCR Altach	Austria Wien
 	SV Mattersburg	RB Salzburg
 
