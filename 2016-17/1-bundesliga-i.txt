@@ -201,10 +201,10 @@ Runde 15
 
 [Sa 19.11.]
 	RB Salzburg	Rapid Wien
-	Austria Wien	SV Ried
-	FC Admira Wacker	Wolfsberger AC
-	SCR Altach	Sturm Graz
-	SKN St. Pölten	SV Mattersburg
+	Austria Wien       2-0	SV Ried
+	FC Admira Wacker   4-1	Wolfsberger AC
+	SCR Altach         1-1	Sturm Graz
+	SKN St. Pölten     2-2	SV Mattersburg
 
 Runde 16
 
