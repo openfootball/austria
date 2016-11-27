@@ -212,8 +212,8 @@ Runde 16
 	RB Salzburg	FC Admira Wacker
 	Rapid Wien	Sturm Graz
 	Wolfsberger AC	Austria Wien
-	SV Ried	SKN St. Pölten
-	SV Mattersburg	SCR Altach
+	SV Ried            1-2	SKN St. Pölten
+	SV Mattersburg     1-2	SCR Altach
 
 Runde 17
 
