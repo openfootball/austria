@@ -220,7 +220,7 @@ Runde 17
 [Di 29.11.]
 	Austria Wien	RB Salzburg
 	Sturm Graz	FC Admira Wacker
-	SCR Altach	SV Ried
+	SCR Altach         1-0	SV Ried
 	SV Mattersburg	Rapid Wien
 	SKN St. Pölten	Wolfsberger AC
 
