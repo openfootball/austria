@@ -227,11 +227,11 @@ Runde 17
 Runde 18
 
 [Sa 3.12.]
-	RB Salzburg	SCR Altach
-	Rapid Wien	SKN St. Pölten
-	FC Admira Wacker	Austria Wien
-	Wolfsberger AC	Sturm Graz
-	SV Ried	SV Mattersburg
+	RB Salzburg       4-1	SCR Altach
+	Rapid Wien        1-0	SKN St. Pölten
+	FC Admira Wacker  0-2	Austria Wien
+	Wolfsberger AC    0-4	Sturm Graz
+	SV Ried           2-1	SV Mattersburg
 
 Runde 19
 
