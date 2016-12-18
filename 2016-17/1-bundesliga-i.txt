@@ -245,8 +245,11 @@ Runde 19
 Runde 20
 
 [Sa 17.12.]
-	RB Salzburg	Wolfsberger AC
-	Austria Wien	SV Mattersburg
-	SV Ried	Sturm Graz
+	RB Salzburg       3-0	Wolfsberger AC
+	Austria Wien      2-0	SV Mattersburg
+	SV Ried           0-3	Sturm Graz
 	SCR Altach	Rapid Wien
-	SKN St. Pölten	FC Admira Wacker
+	SKN St. Pölten    2-2	FC Admira Wacker
+	
+	
+Winterpause bis 11.02.2017
