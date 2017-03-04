@@ -10,11 +10,11 @@ Runde 21
 Runde 22
 
 [Fr 3.3.]
-	FC Liefering	Floridsdorfer AC
-	LASK Linz	FC Wacker Innsbruck
-	WSG Wattens	SC Wiener Neustadt
-	Austria Lustenau	Kapfenberger SV 1919
-	SV Horn	FC Blau Weiß Linz
+	FC Liefering             1-0 Floridsdorfer AC
+	LASK Linz                3-1 FC Wacker Innsbruck
+	WSG Wattens              3-0 SC Wiener Neustadt
+	Austria Lustenau         0-0 Kapfenberger SV 1919
+	SV Horn                  0-2 FC Blau Weiß Linz
 
 Runde 23
 
