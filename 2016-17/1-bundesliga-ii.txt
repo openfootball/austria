@@ -32,10 +32,10 @@ Runde 24
 
 [Sa 4.3.]
 	Rapid Wien	RB Salzburg
-	Sturm Graz	SCR Altach
-	Wolfsberger AC	FC Admira Wacker
-	SV Ried	Austria Wien
-	SV Mattersburg	SKN St. Pölten
+	Sturm Graz        3-0  SCR Altach
+	Wolfsberger AC    1-1  FC Admira Wacker
+	SV Ried           0-3  Austria Wien
+	SV Mattersburg    1-0  SKN St. Pölten
 
 Runde 25
 
