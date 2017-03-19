@@ -50,10 +50,10 @@ Runde 26
 
 [Sa 18.3.]
 	RB Salzburg	Austria Wien
-	Rapid Wien	SV Mattersburg
-	FC Admira Wacker	Sturm Graz
-	Wolfsberger AC	SKN St. Pölten
-	SV Ried	SCR Altach
+	Rapid Wien       1-1  SV Mattersburg
+	FC Admira Wacker 1-0  Sturm Graz
+	Wolfsberger AC   1-0  SKN St. Pölten
+	SV Ried          2-0  SCR Altach
 
 Runde 27
 
