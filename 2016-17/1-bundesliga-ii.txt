@@ -31,38 +31,38 @@ Runde 23
 Runde 24
 
 [Sa 4.3.]
-	Rapid Wien        0-1  RB Salzburg
-	Sturm Graz        3-0  SCR Altach
-	Wolfsberger AC    1-1  FC Admira Wacker
-	SV Ried           0-3  Austria Wien
-	SV Mattersburg    1-0  SKN St. Pölten
+	Rapid Wien         0-1  RB Salzburg
+	Sturm Graz         3-0  SCR Altach
+	Wolfsberger AC     1-1  FC Admira Wacker
+	SV Ried            0-3  Austria Wien
+	SV Mattersburg     1-0  SKN St. Pölten
 
 Runde 25
 
 [Sa 11.3.]
-	Austria Wien      3-0  Wolfsberger AC
-	FC Admira Wacker  1-1  RB Salzburg
-	Sturm Graz        2-1  Rapid Wien
-	SCR Altach        3-0  SV Mattersburg
-	SKN St. Pölten    1-0  SV Ried
+	Austria Wien       3-0  Wolfsberger AC
+	FC Admira Wacker   1-1  RB Salzburg
+	Sturm Graz         2-1  Rapid Wien
+	SCR Altach         3-0  SV Mattersburg
+	SKN St. Pölten     1-0  SV Ried
 
 Runde 26
 
 [Sa 18.3.]
-	RB Salzburg       5-0  Austria Wien
-	Rapid Wien        1-1  SV Mattersburg
-	FC Admira Wacker  1-0  Sturm Graz
-	Wolfsberger AC    1-0  SKN St. Pölten
-	SV Ried           2-0  SCR Altach
+	RB Salzburg        5-0  Austria Wien
+	Rapid Wien         1-1  SV Mattersburg
+	FC Admira Wacker   1-0  Sturm Graz
+	Wolfsberger AC     1-0  SKN St. Pölten
+	SV Ried            2-0  SCR Altach
 
 Runde 27
 
 [Sa 1.4.]
-	Austria Wien      0-2  FC Admira Wacker
-	Sturm Graz        4-0  Wolfsberger AC
-	SCR Altach        0-5  RB Salzburg
-	SV Mattersburg    2-1  SV Ried
-	SKN St. Pölten    1-1  Rapid Wien
+	Austria Wien       0-2  FC Admira Wacker
+	Sturm Graz         4-0  Wolfsberger AC
+	SCR Altach         0-5  RB Salzburg
+	SV Mattersburg     2-1  SV Ried
+	SKN St. Pölten     1-1  Rapid Wien
 
 Runde 28
 
