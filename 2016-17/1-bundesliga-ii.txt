@@ -68,10 +68,10 @@ Runde 28
 
 [Sa 8.4.]
 	RB Salzburg	Sturm Graz
-	Austria Wien	SKN St. Pölten
-	FC Admira Wacker	SV Mattersburg
-	Wolfsberger AC	SCR Altach
-	SV Ried	Rapid Wien
+	Austria Wien       1-2  SKN St. Pölten
+	FC Admira Wacker   0-2	SV Mattersburg
+	Wolfsberger AC     0-0	SCR Altach
+	SV Ried            3-0	Rapid Wien
 
 Runde 29
 
