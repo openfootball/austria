@@ -73,11 +73,11 @@ Runde 28
 Runde 29
 
 [Di 18.4.]
-	FC Liefering	SC Wiener Neustadt
+	FC Liefering	SC Wiener Neustadt     Spiel abgebrochen
 	FC Blau Weiß Linz        1-1 LASK Linz
-	FC Wacker Innsbruck	Kapfenberger SV 1919
-	SV Horn	Austria Lustenau
-	Floridsdorfer AC	WSG Wattens
+	FC Wacker Innsbruck      3-3 Kapfenberger SV 1919
+	SV Horn                  1-2 Austria Lustenau
+	Floridsdorfer AC         0-2 WSG Wattens
 
 Runde 30
 
