@@ -73,7 +73,7 @@ Runde 28
 Runde 29
 
 [Di 18.4.]
-	FC Liefering	SC Wiener Neustadt     Spiel abgebrochen
+	FC Liefering	SC Wiener Neustadt     25.4.
 	FC Blau Weiß Linz        1-1 LASK Linz
 	FC Wacker Innsbruck      3-3 Kapfenberger SV 1919
 	SV Horn                  1-2 Austria Lustenau
@@ -82,11 +82,19 @@ Runde 29
 Runde 30
 
 [Fr 21.4.]
-	SC Wiener Neustadt	FC Blau Weiß Linz
-	LASK Linz	FC Liefering
-	WSG Wattens	FC Wacker Innsbruck
-	Austria Lustenau	Floridsdorfer AC
-	Kapfenberger SV 1919	SV Horn
+	SC Wiener Neustadt       0-0 FC Blau Weiß Linz
+	LASK Linz                3-0 FC Liefering
+	WSG Wattens              3-4 FC Wacker Innsbruck
+	Austria Lustenau         0-0 Floridsdorfer AC
+	Kapfenberger SV 1919     1-1 SV Horn
+	
+LASK Linz Meister und somit  Aufsteiger in 1. Bundesliga 17/18	
+
+Diesesmal nur ein Absteiger in die Regionalligen.
+	
+Nachtrag Runde 29
+[Di 25.4.]
+         FC Liefering  SC Wiener Neustadt  
 
 Runde 31
 
