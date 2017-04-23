@@ -86,10 +86,10 @@ Runde 30
 
 [Sa 22.4.]
 	Rapid Wien	Austria Wien
-	Sturm Graz	SV Mattersburg
-	SV Ried	Wolfsberger AC
-	SCR Altach	FC Admira Wacker
-	SKN St. Pölten	RB Salzburg
+	Sturm Graz         0-2	SV Mattersburg
+	SV Ried            1-1	Wolfsberger AC
+	SCR Altach         0-0	FC Admira Wacker
+	SKN St. Pölten     1-2	RB Salzburg
 
 Runde 31
 
