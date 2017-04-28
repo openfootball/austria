@@ -101,7 +101,7 @@ Runde 31
 [Fr 28.4.]
 	SC Wiener Neustadt	WSG Wattens
 	FC Blau Weiß Linz	SV Horn
-	FC Wacker Innsbruck	LASK Linz
+	FC Wacker Innsbruck	LASK Linz    verschoben auf Mo. 8.5.
 	Kapfenberger SV 1919	Austria Lustenau
 	Floridsdorfer AC	FC Liefering
 
@@ -122,6 +122,10 @@ Runde 33
 	WSG Wattens	LASK Linz
 	Austria Lustenau	FC Wacker Innsbruck
 	Kapfenberger SV 1919	FC Liefering
+
+Nachtrag Runde 31
+[Mo 8.5.]
+        FC Wacker Innsbruck   LASK Linz
 
 Runde 34
 
