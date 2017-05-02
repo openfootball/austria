@@ -112,7 +112,7 @@ Runde 32
 	LASK Linz	SC Wiener Neustadt
 	WSG Wattens	Kapfenberger SV 1919
 	Austria Lustenau	FC Blau Weiß Linz
-	SV Horn	Floridsdorfer AC
+	SV Horn                  0-2  Floridsdorfer AC
 
 Runde 33
 
