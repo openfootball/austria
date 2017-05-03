@@ -108,10 +108,10 @@ Runde 31
 Runde 32
 
 [Di 2.5.]
-	FC Liefering	FC Wacker Innsbruck
-	LASK Linz	SC Wiener Neustadt
-	WSG Wattens	Kapfenberger SV 1919
-	Austria Lustenau	FC Blau Weiß Linz
+	FC Liefering             0-3  FC Wacker Innsbruck
+	LASK Linz                1-0  SC Wiener Neustadt
+	WSG Wattens              4-1  Kapfenberger SV 1919
+	Austria Lustenau         1-4  FC Blau Weiß Linz
 	SV Horn                  0-2  Floridsdorfer AC
 
 Runde 33
