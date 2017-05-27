@@ -150,3 +150,5 @@ Runde 36
 	FC Admira Wacker	Austria Wien
 	Wolfsberger AC	Sturm Graz
 	SV Ried	SV Mattersburg
+	
+Sommerpause bis 22.7.2017
