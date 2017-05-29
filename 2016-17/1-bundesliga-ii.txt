@@ -145,10 +145,13 @@ Runde 35
 Runde 36
 
 [So 28.5.]
-	RB Salzburg	SCR Altach
-	Rapid Wien	SKN St. Pölten
-	FC Admira Wacker	Austria Wien
-	Wolfsberger AC	Sturm Graz
-	SV Ried	SV Mattersburg
+	RB Salzburg        1-0	SCR Altach
+	Rapid Wien         2-1	SKN St. Pölten
+	FC Admira Wacker   1-6	Austria Wien
+	Wolfsberger AC     1-0	Sturm Graz
+	SV Ried            2-3	SV Mattersburg
+	
+Absteiger in 2. Bundesliga 2017/18
+        SV Ried
 	
 Sommerpause bis 22.7.2017
