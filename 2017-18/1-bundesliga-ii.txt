@@ -1,0 +1,146 @@
+###################################################
+# Österreichische Bundesliga 2016/17 -  Frühjahr
+
+Runde 21
+
+[Sa 3.2.]
+     RB Salzburg  FC Admira Wacker
+     Rapid Wien  Austria Wien
+     SV Mattersburg  Sturm Graz
+     Wolfsberger AC  SCR Altach
+     LASK  SKN St. Pölten
+
+Runde 22
+
+[Sa 10.2.]
+     Austria Wien  LASK
+     Sturm Graz  Wolfsberger AC
+     SCR Altach  RB Salzburg
+     FC Admira Wacker  Rapid Wien
+     SKN St. Pölten  SV Mattersburg
+
+Runde 23
+
+[Sa 17.2.]
+     RB Salzburg  SKN St. Pölten
+     Rapid Wien  Sturm Graz
+     SV Mattersburg  Austria Wien
+     Wolfsberger AC  FC Admira Wacker
+     LASK  SCR Altach
+
+Runde 24
+
+[Sa 24.2.]
+     Sturm Graz  RB Salzburg
+     SCR Altach  SV Mattersburg
+     FC Admira Wacker  Austria Wien
+     Rapid Wien  LASK
+     Wolfsberger AC  SKN St. Pölten
+
+Runde 25
+
+[Sa 3.3.]
+     RB Salzburg  Rapid Wien
+     Austria Wien  Wolfsberger AC
+     SV Mattersburg  FC Admira Wacker
+     SKN St. Pölten  SCR Altach
+     LASK  Sturm Graz
+
+Runde 26
+
+[Sa 10.3.]
+     Austria Wien  SKN St. Pölten
+     SCR Altach  Rapid Wien
+     FC Admira Wacker  Sturm Graz
+     SV Mattersburg  RB Salzburg
+     Wolfsberger AC  LASK
+
+Runde 27
+
+[Sa 17.3.]
+     RB Salzburg  Austria Wien
+     Sturm Graz  SCR Altach
+     Rapid Wien  Wolfsberger AC
+     SKN St. Pölten  FC Admira Wacker
+     LASK  SV Mattersburg
+
+Runde 28
+
+[Sa 31.3.]
+     SKN St. Pölten  Sturm Graz
+     Austria Wien  SCR Altach
+     SV Mattersburg  Rapid Wien
+     RB Salzburg  Wolfsberger AC
+     FC Admira Wacker  LASK
+
+Runde 29
+
+[Sa 7.4.]
+     LASK  RB Salzburg
+     Sturm Graz  Austria Wien
+     SCR Altach  FC Admira Wacker
+     Wolfsberger AC  SV Mattersburg
+     Rapid Wien  SKN St. Pölten
+
+Runde 30
+
+[Sa 14.4.]
+     FC Admira Wacker  RB Salzburg
+     Austria Wien  Rapid Wien
+     Sturm Graz  SV Mattersburg
+     SCR Altach  Wolfsberger AC
+     SKN St. Pölten  LASK
+
+Runde 31
+
+[Sa 21.4.]
+     LASK  Austria Wien
+     Wolfsberger AC  Sturm Graz
+     RB Salzburg  SCR Altach
+     Rapid Wien  FC Admira Wacker
+     SV Mattersburg  SKN St. Pölten
+
+Runde 32
+
+[Sa 28.4.]
+     SKN St. Pölten  RB Salzburg
+     Sturm Graz  Rapid Wien
+     Austria Wien  SV Mattersburg
+     FC Admira Wacker  Wolfsberger AC
+     SCR Altach  LASK
+
+Runde 33
+
+[Sa 5.5.]
+     RB Salzburg  Sturm Graz
+     SV Mattersburg  SCR Altach
+     Austria Wien  FC Admira Wacker
+     LASK  Rapid Wien
+     SKN St. Pölten  Wolfsberger AC
+
+Runde 34
+
+[Di 8.5.]
+     Rapid Wien  RB Salzburg
+     Wolfsberger AC  Austria Wien
+     FC Admira Wacker  SV Mattersburg
+     SCR Altach  SKN St. Pölten
+     Sturm Graz  LASK
+
+Runde 35
+
+[So 13.5.]
+     SKN St. Pölten  Austria Wien
+     Rapid Wien  SCR Altach
+     Sturm Graz  FC Admira Wacker
+     RB Salzburg  SV Mattersburg
+     LASK  Wolfsberger AC
+
+Runde 36
+
+[So 20.5.]
+     Austria Wien  RB Salzburg
+     SCR Altach  Sturm Graz
+     Wolfsberger AC  Rapid Wien
+     FC Admira Wacker  SKN St. Pölten
+     SV Mattersburg  LASK
