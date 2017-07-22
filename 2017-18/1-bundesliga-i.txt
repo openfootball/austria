@@ -1,0 +1,188 @@
+######################################
+# Österreichische Bundesliga 2017/18
+
+Runde 1
+
+[Sa 22.7.]
+  16.00     Rapid Wien  SV Mattersburg
+  18.30     Wolfsberger AC  RB Salzburg
+  18.30     LASK  FC Admira Wacker
+[So 23.7.]
+  16.30     SCR Altach  Austria Wien
+  19.00     Sturm Graz  SKN St. Pölten
+
+
+Runde 2
+
+[Sa 29.7.]
+  16.00     RB Salzburg  LASK
+  18.30     SKN St. Pölten  Rapid Wien
+  18.30     SV Mattersburg  Wolfsberger AC
+[So 30.7.]
+  16.30     Austria Wien  Sturm Graz
+  19.00     FC Admira Wacker  SCR Altach
+
+Runde 3
+
+[Sa 5.8.]
+  16.00     LASK  SKN St. Pölten
+  18.30     RB Salzburg  FC Admira Wacker
+[So 6.8.]
+  16.30     Wolfsberger AC  SCR Altach
+  16.30     Rapid Wien  Austria Wien
+  19.00     SV Mattersburg  Sturm Graz
+
+Runde 4
+
+[Sa 12.8.]
+  16.00     SCR Altach  RB Salzburg
+  18.30     Austria Wien  LASK
+  18.30     Sturm Graz  Wolfsberger AC
+  18.30     SKN St. Pölten  SV Mattersburg
+[So 13.8.]
+  16.30     FC Admira Wacker  Rapid Wien
+
+Runde 5
+
+[Sa 19.8.]
+  16.00     SV Mattersburg  Austria Wien
+  18.30     RB Salzburg  SKN St. Pölten
+  18.30     Wolfsberger AC  FC Admira Wacker
+  18.30     LASK  SCR Altach
+[So 20.8.]
+  16.30     Rapid Wien  Sturm Graz
+
+Runde 6
+
+[Sa 26.8.]
+     Sturm Graz  RB Salzburg
+     SCR Altach  SV Mattersburg
+     FC Admira Wacker  Austria Wien
+     Rapid Wien  LASK
+     Wolfsberger AC  SKN St. Pölten
+
+Runde 7
+
+[Sa 9.9.]
+     RB Salzburg  Rapid Wien
+     Austria Wien  Wolfsberger AC
+     SV Mattersburg  FC Admira Wacker
+     SKN St. Pölten  SCR Altach
+     LASK  Sturm Graz
+
+Runde 8
+
+[Sa 16.9.]
+     Austria Wien  SKN St. Pölten
+     SCR Altach  Rapid Wien
+     FC Admira Wacker  Sturm Graz
+     SV Mattersburg  RB Salzburg
+     Wolfsberger AC  LASK
+
+Runde 9
+
+[Sa 23.9.]
+     RB Salzburg  Austria Wien
+     Sturm Graz  SCR Altach
+     Rapid Wien  Wolfsberger AC
+     SKN St. Pölten  FC Admira Wacker
+     LASK  SV Mattersburg
+
+Runde 10
+
+[Sa 30.9.]
+     SV Mattersburg  Rapid Wien
+     RB Salzburg  Wolfsberger AC
+     FC Admira Wacker  LASK
+     Austria Wien  SCR Altach
+     SKN St. Pölten  Sturm Graz
+
+Runde 11
+
+[Sa 14.10.]
+     LASK  RB Salzburg
+     Rapid Wien  SKN St. Pölten
+     SCR Altach  FC Admira Wacker
+     Wolfsberger AC  SV Mattersburg
+     Sturm Graz  Austria Wien
+
+Runde 12
+
+[Sa 21.10.]
+     SKN St. Pölten  LASK
+     FC Admira Wacker  RB Salzburg
+     Sturm Graz  SV Mattersburg
+     SCR Altach  Wolfsberger AC
+     Austria Wien  Rapid Wien
+
+Runde 13
+
+[Sa 28.10.]
+      LASK  Austria Wien
+      Wolfsberger AC  Sturm Graz
+      RB Salzburg  SCR Altach
+      Rapid Wien  FC Admira Wacker
+      SV Mattersburg  SKN St. Pölten
+
+Runde 14
+
+[Sa 4.11.]
+     SKN St. Pölten  RB Salzburg
+     Sturm Graz  Rapid Wien
+     Austria Wien  SV Mattersburg
+     FC Admira Wacker  Wolfsberger AC
+     SCR Altach  LASK
+
+Runde 15
+
+[Sa 18.11.]
+      RB Salzburg  Sturm Graz
+      SV Mattersburg  SCR Altach
+      Austria Wien  FC Admira Wacker
+      LASK  Rapid Wien
+      SKN St. Pölten  Wolfsberger AC
+
+Runde 16
+
+[Sa 25.11.]
+     Rapid Wien  RB Salzburg
+     Wolfsberger AC  Austria Wien
+     FC Admira Wacker  SV Mattersburg
+     SCR Altach  SKN St. Pölten
+     Sturm Graz  LASK
+
+Runde 17
+
+[Di 28.11.]
+     SKN St. Pölten  Austria Wien
+     Rapid Wien  SCR Altach
+     Sturm Graz  FC Admira Wacker
+     RB Salzburg  SV Mattersburg
+     LASK  Wolfsberger AC
+
+Runde 18
+
+[Sa 2.12.]
+     Austria Wien  RB Salzburg
+     SCR Altach  Sturm Graz
+     Wolfsberger AC  Rapid Wien
+     FC Admira Wacker  SKN St. Pölten
+     SV Mattersburg  LASK
+
+Runde 19
+
+[Sa 9.12.]
+     Sturm Graz  SKN St. Pölten
+     SCR Altach  Austria Wien
+     Rapid Wien  SV Mattersburg
+     Wolfsberger AC  RB Salzburg
+     LASK  FC Admira Wacker
+
+Runde 20
+
+[Sa 16.12.]
+     RB Salzburg  LASK
+     Austria Wien  Sturm Graz
+     FC Admira Wacker  SCR Altach
+     SV Mattersburg  Wolfsberger AC
+     SKN St. Pölten  Rapid Wien
