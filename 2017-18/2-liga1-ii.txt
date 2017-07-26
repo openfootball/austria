@@ -1,0 +1,128 @@
+
+Runde 21
+[Fr 23.2.]
+  SV Ried Floridsdorfer AC
+  Austria Lustenau SC Wiener Neustadt
+  WSG Wattens Kapfenberger SV 1919
+  FC Blau Weiß Linz FC Liefering
+  TSV Hartberg FC Wacker Innsbruck
+
+Runde 22
+[Fr 2.3.]
+  FC Liefering SV Ried
+  FC Wacker Innsbruck Austria Lustenau
+  Kapfenberger SV 1919 FC Blau Weiß Linz
+  SC Wiener Neustadt TSV Hartberg
+  Floridsdorfer AC WSG Wattens
+
+Runde 23
+[Fr 9.3.]
+  Austria Lustenau Kapfenberger SV 1919
+  WSG Wattens FC Wacker Innsbruck
+  FC Blau Weiß Linz SV Ried
+  Floridsdorfer AC SC Wiener Neustadt
+  TSV Hartberg FC Liefering
+
+Runde 24
+[Fr 16.3.]
+  SV Ried FC Wacker Innsbruck
+  FC Liefering Floridsdorfer AC
+  WSG Wattens Austria Lustenau
+  Kapfenberger SV 1919 SC Wiener Neustadt
+  FC Blau Weiß Linz TSV Hartberg
+
+Runde 25
+[Fr 30.3.]
+  Austria Lustenau FC Blau Weiß Linz
+  FC Wacker Innsbruck FC Liefering
+  SC Wiener Neustadt WSG Wattens
+  Floridsdorfer AC Kapfenberger SV 1919
+  TSV Hartberg SV Ried
+
+Runde 26
+[Mo 2.4.]
+  SV Ried WSG Wattens
+  FC Liefering Austria Lustenau
+  FC Wacker Innsbruck SC Wiener Neustadt
+  FC Blau Weiß Linz Floridsdorfer AC
+  TSV Hartberg Kapfenberger SV 1919
+
+Runde 27
+[Fr 6.4.]
+  Austria Lustenau TSV Hartberg
+  WSG Wattens FC Blau Weiß Linz
+  Kapfenberger SV 1919 SV Ried
+  SC Wiener Neustadt FC Liefering
+  Floridsdorfer AC FC Wacker Innsbruck
+
+Runde 28
+[Fr 13.4.]
+  SC Wiener Neustadt SV Ried
+  TSV Hartberg WSG Wattens
+  FC Liefering Kapfenberger SV 1919
+  FC Wacker Innsbruck FC Blau Weiß Linz
+  Austria Lustenau Floridsdorfer AC
+
+Runde 29
+[Fr 20.4.]
+  WSG Wattens FC Liefering
+  SV Ried Austria Lustenau
+  Kapfenberger SV 1919 FC Wacker Innsbruck
+  FC Blau Weiß Linz SC Wiener Neustadt
+  Floridsdorfer AC TSV Hartberg
+
+Runde 30
+[Mo 23.4.]
+  Floridsdorfer AC SV Ried
+  SC Wiener Neustadt Austria Lustenau
+  Kapfenberger SV 1919 WSG Wattens
+  FC Liefering FC Blau Weiß Linz
+  FC Wacker Innsbruck TSV Hartberg
+
+Runde 31
+[Fr 27.4.]
+  SV Ried FC Liefering
+  Austria Lustenau FC Wacker Innsbruck
+  FC Blau Weiß Linz Kapfenberger SV 1919
+  TSV Hartberg SC Wiener Neustadt
+  WSG Wattens Floridsdorfer AC
+
+Runde 32
+[Fr 4.5.]
+  Kapfenberger SV 1919 Austria Lustenau
+  FC Wacker Innsbruck WSG Wattens
+  SV Ried FC Blau Weiß Linz
+  SC Wiener Neustadt Floridsdorfer AC
+  FC Liefering TSV Hartberg
+
+Runde 33
+[Fr 11.5.]
+  FC Wacker Innsbruck SV Ried
+  Floridsdorfer AC FC Liefering
+  Austria Lustenau WSG Wattens
+  SC Wiener Neustadt Kapfenberger SV 1919
+  TSV Hartberg FC Blau Weiß Linz
+
+Runde 34
+[Mo 14.5.]
+  FC Blau Weiß Linz Austria Lustenau
+  FC Liefering FC Wacker Innsbruck
+  WSG Wattens SC Wiener Neustadt
+  Kapfenberger SV 1919 Floridsdorfer AC
+  SV Ried TSV Hartberg
+
+Runde 35
+[Fr 18.5.]
+  WSG Wattens SV Ried
+  Austria Lustenau FC Liefering
+  SC Wiener Neustadt FC Wacker Innsbruck
+  Floridsdorfer AC FC Blau Weiß Linz
+  Kapfenberger SV 1919 TSV Hartberg
+
+Runde 36
+[Mo 21.5.]
+  TSV Hartberg Austria Lustenau
+  FC Blau Weiß Linz WSG Wattens
+  SV Ried Kapfenberger SV 1919
+  FC Liefering SC Wiener Neustadt
+  FC Wacker Innsbruck Floridsdorfer AC
