@@ -118,8 +118,9 @@ Runde 33
 	SCR Altach         1-2	Sturm Graz
 	SKN St. Pölten     1-0	SV Mattersburg
 
-Aufsteiger in 1. Bundesliga 2017/18
-        LASK Linz
+# Aufsteiger in 1. Bundesliga 2017/18
+#        LASK Linz
+
 
 Runde 34
 
@@ -129,9 +130,9 @@ Runde 34
 	Wolfsberger AC     2-1	Austria Wien
 	SV Ried            1-1	SKN St. Pölten
 	SV Mattersburg     1-0	SCR Altach
-	
-Meister 1. Bundesliga 2016/17
-        RB Salzburg
+
+# Meister 1. Bundesliga 2016/17
+#        RB Salzburg
 
 Runde 35
 
@@ -150,8 +151,8 @@ Runde 36
 	FC Admira Wacker   1-6	Austria Wien
 	Wolfsberger AC     1-0	Sturm Graz
 	SV Ried            2-3	SV Mattersburg
-	
-Absteiger in 2. Bundesliga 2017/18
-        SV Ried
-	
-Sommerpause bis 22.7.2017
+
+# Absteiger in 2. Bundesliga 2017/18
+#        SV Ried
+#
+# Sommerpause bis 22.7.2017

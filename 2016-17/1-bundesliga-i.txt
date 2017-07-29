@@ -90,7 +90,7 @@ Runde 6
                   [Prosenik 2', 21', 46' Hellqvist 63' Topcagic 87' (Elf.)]
 	        SV Mattersburg  1:1 (0:0)  SKN St. Pölten
 	          [Mahrer 84'; Segovia 63']
-[So 28.8.]	     
+[So 28.8.]
   16.30 	Rapid Wien     0:0  RB Salzburg
                   []
   19.00 	SV Ried        1:1 (0:1)  Austria Wien
@@ -103,7 +103,7 @@ Runde 7
   16.00  	Sturm Graz	1:1 (1:0)  Rapid Wien
                   [C. Schulz 22'; Szanto 54']
   18.30         Austria Wien    4:1 (3:0)  Wolfsberger AC
-                  [Venuto 14' Holzhauser 17' A. Grünwald 26', 79'; Prosenik 49'] 
+                  [Venuto 14' Holzhauser 17' A. Grünwald 26', 79'; Prosenik 49']
           	SCR Altach      2:1 (0:0)  SV Mattersburg
           	  [Zivotic 78' 84'; Perlak 90+4' (Elf.)]
 	        SKN St. Pölten  2:3 (1:2)  SV Ried
@@ -119,7 +119,7 @@ Runde 8
   16.00  SV Ried           2:1 (1:0)   SCR Altach
            [Walch 14' Marcos 89'; Ngwat-Mahop 79']
   18.30  FC Admira Wacker  0:3 (0:1)   Sturm Graz
-           [-; Alar 33', 81' Spendlhofer 63']  
+           [-; Alar 33', 81' Spendlhofer 63']
 	 Wolfsberger AC    1:1 (1:1)   SKN St. Pölten
 	   [Sanogo 32'; Perchtold 28']
 [So 18.9.]
@@ -142,7 +142,7 @@ Runde 9
 	   [Grgic 83';  Zulj 90+1' (Elf.)]
 [So 25.9.]
   16.30  SCR Altach	   0:0  RB Salzburg
-	
+
 
 Runde 10
 
@@ -158,7 +158,7 @@ Runde 10
            [Honsak 6' Zulj 23' Reifeltshammer 40' Nutz 65'; Schwab 26', 90+1']
   19.00  Austria Wien      2:1 (0:0)  SKN St. Pölten
            [Serbest 81' Kayode 85'; Lumu 52']
-	
+
 
 Runde 11
 
@@ -250,6 +250,6 @@ Runde 20
 	SV Ried           0-3	Sturm Graz
 	SCR Altach        3-1	Rapid Wien
 	SKN St. Pölten    2-2	FC Admira Wacker
-	
-	
-Winterpause bis 11.02.2017
+
+#
+# Winterpause bis 11.02.2017

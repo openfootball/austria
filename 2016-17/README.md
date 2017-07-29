@@ -6,16 +6,16 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. SK Sturm Graz                 10   4  1  0  13:4     4  0  1   9:2     22:6   +16   25
- 2. SCR Altach                    10   4  1  0   7:2     2  0  3   7:10    14:12   +2   19
- 3. FC RB Salzburg                10   3  1  1  10:4     2  2  1   7:3     17:7   +10   18
- 4. SK Rapid Wien                 10   3  1  0  12:0     1  3  2   9:9     21:9   +12   16
- 5. FK Austria Wien               10   4  0  2  14:10    1  1  2   5:9     19:19        16
- 6. SV Ried                       10   3  1  1   8:6     1  1  3   4:10    12:16   -4   14
- 7. FC Admira Wacker              10   2  0  3   3:9     2  0  3   4:12     7:21  -14   12
- 8. Wolfsberger AC                10   2  2  1   9:4     0  1  4   3:12    12:16   -4    9
- 9. SKN St. Pölten                10   1  1  3   7:10    0  2  3   4:9     11:19   -8    6
-10. SV Mattersburg                10   1  2  2   5:6     0  0  5   3:12     8:18  -10    5
+ 1. FC RB Salzburg                36  14  2  2  34:8    11  4  3  40:16    74:24  +50   81
+ 2. FK Austria Wien               36  10  1  7  36:25   10  2  6  36:25    72:50  +22   63
+ 3. SK Sturm Graz                 36  10  3  5  31:21    8  1  9  23:18    54:39  +15   58
+ 4. SCR Altach                    36  10  4  4  27:18    5  4  9  19:31    46:49   -3   53
+ 5. FC Admira Wacker              36   8  3  7  22:29    5  5  8  14:25    36:54  -18   47
+ 6. SK Rapid Wien                 36   9  4  5  29:12    3  6  9  23:30    52:42  +10   46
+ 7. SV Mattersburg                36   9  3  6  21:21    3  4 11  18:33    39:54  -15   43
+ 8. Wolfsberger AC                36   8  6  4  24:20    3  3 12  16:39    40:59  -19   42
+ 9. SKN St. Pölten                36   5  6  7  24:33    4  4 10  17:27    41:60  -19   37
+10. SV Ried                       36   8  3  7  24:28    2  2 14   9:28    33:56  -23   35
 ~~~
 
 
@@ -23,16 +23,16 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. FC Liefering                  12   6  0  0  14:4     2  4  0  13:9     27:13  +14   28
- 2. LASK Linz                     12   4  2  0  14:6     3  1  2  11:11    25:17   +8   24
- 3. SC Austria Lustenau           12   2  3  1  10:7     4  1  1  13:7     23:14   +9   22
- 4. Kapfenberger SV               12   4  1  1  11:4     3  0  3   6:7     17:11   +6   22
- 5. Floridsdorfer AC              12   3  1  2  11:10    1  2  3   6:7     17:17        15
- 6. SC Wiener Neustadt            12   2  0  4   8:15    3  0  3   7:9     15:24   -9   15
- 7. WSG Wattens                   12   1  4  1   5:5     2  1  3   6:13    11:18   -7   14
- 8. FC Wacker Innsbruck           12   3  1  2   8:7     0  2  4   6:11    14:18   -4   12
- 9. SV Horn                       12   2  0  4   8:11    0  2  4   5:9     13:20   -7    8
-10. FC Blau-Weiß Linz             12   1  2  3   5:9     0  1  5   5:11    10:20  -10    6
+ 1. LASK Linz                     36  13  5  0  40:14   10  3  5  38:28    78:42  +36   77
+ 2. FC Liefering                  36   9  3  6  29:27    8  6  4  29:22    58:49   +9   60
+ 3. SC Austria Lustenau           36   6  8  4  26:23    9  4  5  32:26    58:49   +9   57
+ 4. FC Wacker Innsbruck           36   8  5  5  26:22    7  4  7  32:31    58:53   +5   54
+ 5. WSG Wattens                   36   7  8  3  37:25    6  4  8  19:29    56:54   +2   51
+ 6. Kapfenberger SV               36   7  4  7  25:26    5  5  8  22:31    47:57  -10   45
+ 7. FC Blau-Weiß Linz             36   4  9  5  16:18    4  6  8  25:28    41:46   -5   39
+ 8. SC Wiener Neustadt            36   7  3  8  24:31    4  3 11  16:31    40:62  -22   39
+ 9. Floridsdorfer AC              36   6  2 10  23:32    4  6  8  16:16    39:48   -9   38
+10. SV Horn                       36   6  0 12  22:31    3  6  9  20:26    42:57  -15   33
 ~~~
 
 
