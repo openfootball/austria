@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. FK Austria Wien               36  12  3  3  42:15   13  4  1  42:16    84:31  +53   82
@@ -16,11 +16,43 @@
  8. FC Wacker Innsbruck           36   7  1 10  21:31    4  2 12  20:44    41:75  -34   36
  9. FC Admira Wacker              36   6  3  9  33:33    3  5 10  14:35    47:68  -21   35
 10. SV Mattersburg                36   8  2  8  24:25    1  6 11  12:42    36:67  -31   35
-~~~
+```
 
 
 
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
+
+### Results Tables
+
+```
+1/2:
+Home \ Away        AUS    RAP    ADM    MAT    RBS    STU    WAC    RIE    WRN    FCW    
+FK Austria W (AUS)  *     2-0    1-0    3-1    0-1    0-1    1-1    6-1    3-0    2-0    
+SK Rapid Wie (RAP) 0-3     *     0-0    3-0    2-0    3-0    0-2    4-3    1-1    4-0    
+FC Admira Wa (ADM) 4-6    0-2     *     5-1    4-4    1-2    1-1    0-2    4-0    4-1    
+SV Mattersbu (MAT) 2-4    0-3    3-0     *     1-3    3-1    1-1    2-1    2-0    1-2    
+FC RB Salzbu (RBS) 0-0    0-2    5-0    3-2     *     3-2    4-1    1-1    1-1    2-0    
+SK Sturm Gra (STU) 1-1    2-1    3-2    0-0    0-2     *     4-1    3-1    3-1    3-0    
+Wolfsberger  (WAC) 0-1    1-0    1-1    0-1    0-2    0-0     *     2-5    6-0    2-2    
+SV Ried (RIE)      0-1    0-2    1-1    6-1    3-1    0-1    0-2     *     3-1    2-0    
+SC Wiener Ne (WRN) 0-2    0-1    2-1    0-0    0-3    1-1    2-1    2-3     *     0-1    
+FC Wacker In (FCW) 0-3    0-2    1-2    2-1    0-4    0-3    0-1    1-0    2-3     *     
+
+2/2:
+Home \ Away        AUS    RAP    ADM    MAT    RBS    STU    WAC    RIE    WRN    FCW    
+FK Austria W (AUS)  *     2-2    4-0    4-0    1-1    3-1    0-4    3-1    3-1    4-0    
+SK Rapid Wie (RAP) 1-2     *     1-1    2-2    1-3    1-1    0-0    3-0    2-0    2-1    
+FC Admira Wa (ADM) 0-2    0-2     *     1-0    1-1    3-0    0-1    0-3    1-2    4-3    
+SV Mattersbu (MAT) 0-4    2-0    0-1     *     1-2    0-0    3-1    1-0    1-0    1-2    
+FC RB Salzbu (RBS) 3-0    3-3    2-1    7-0     *     3-0    6-2    2-2    3-1    3-1    
+SK Sturm Gra (STU) 1-1    1-3    1-2    2-2    1-1     *     1-3    3-1    0-3    3-2    
+Wolfsberger  (WAC) 3-6    2-1    0-0    1-0    1-1    3-0     *     1-3    1-1    2-3    
+SV Ried (RIE)      1-3    3-2    4-1    1-1    2-2    1-2    1-1     *     2-1    3-0    
+SC Wiener Ne (WRN) 0-0    1-0    3-0    0-0    0-6    1-0    2-0    0-0     *     2-2    
+FC Wacker In (FCW) 0-3    1-1    3-1    2-0    2-3    2-1    2-3    2-0    1-0     *     
+
+```
+
 

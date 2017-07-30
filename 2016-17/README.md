@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. FC RB Salzburg                36  14  2  2  34:8    11  4  3  40:16    74:24  +50   81
@@ -16,11 +16,11 @@
  8. Wolfsberger AC                36   8  6  4  24:20    3  3 12  16:39    40:59  -19   42
  9. SKN St. Pölten                36   5  6  7  24:33    4  4 10  17:27    41:60  -19   37
 10. SV Ried                       36   8  3  7  24:28    2  2 14   9:28    33:56  -23   35
-~~~
+```
 
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. LASK Linz                     36  13  5  0  40:14   10  3  5  38:28    78:42  +36   77
@@ -33,11 +33,73 @@
  8. SC Wiener Neustadt            36   7  3  8  24:31    4  3 11  16:31    40:62  -22   39
  9. Floridsdorfer AC              36   6  2 10  23:32    4  6  8  16:16    39:48   -9   38
 10. SV Horn                       36   6  0 12  22:31    3  6  9  20:26    42:57  -15   33
-~~~
+```
 
 
 
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
+
+### Results Tables
+
+```
+1/2:
+Home \ Away        AUS    RAP    ADM    MAT    RBS    STU    WAC    RIE    ALT    SKN    
+FK Austria W (AUS)  *     1-4    1-2    3-1    1-3    2-0    4-1    2-0    3-1    2-1    
+SK Rapid Wie (RAP) 0-2     *     4-0    3-0    0-0    1-2    0-1    5-0    1-1    1-0    
+FC Admira Wa (ADM) 0-2    1-2     *     1-0    0-4    0-3    4-1    1-0    1-2    1-1    
+SV Mattersbu (MAT) 0-2    1-1    0-1     *     2-1    0-2    3-1    1-1    1-2    1-1    
+FC RB Salzbu (RBS) 4-1    2-1    0-1    3-1     *     0-1    1-1    1-0    4-1    2-0    
+SK Sturm Gra (STU) 3-1    1-1    0-2    2-2    3-1     *     3-0    1-0    3-1    1-2    
+Wolfsberger  (WAC) 0-3    1-1    5-0    3-0    2-2    0-4     *     1-0    1-2    1-1    
+SV Ried (RIE)      1-1    4-2    2-1    2-1    0-2    1-0    0-1     *     2-1    1-2    
+SCR Altach (ALT)   5-1    1-0    2-0    2-1    0-0    1-1    1-0    1-0     *     3-1    
+SKN St. Pölt (SKN) 1-2    1-1    2-1    2-2    1-5    1-3    0-4    2-3    0-1     *     
+
+2/2:
+Home \ Away        AUS    RAP    ADM    MAT    RBS    STU    WAC    RIE    ALT    SKN    
+FK Austria W (AUS)  *     1-1    0-2    2-0    2-3    4-1    3-0    3-0    1-3    1-2    
+SK Rapid Wie (RAP) 0-2     *     0-0    1-1    0-1    1-0    4-0    3-1    3-0    2-1    
+FC Admira Wa (ADM) 1-6    3-2     *     0-2    1-1    1-0    3-2    1-0    1-1    2-0    
+SV Mattersbu (MAT) 0-3    1-3    2-0     *     2-1    1-0    2-1    2-1    1-0    1-0    
+FC RB Salzbu (RBS) 5-0    1-0    2-0    1-0     *     1-0    3-0    1-1    1-0    2-0    
+SK Sturm Gra (STU) 0-4    2-1    1-1    0-2    0-1     *     4-0    1-0    3-0    3-2    
+Wolfsberger  (WAC) 2-1    2-1    1-1    2-2    0-2    1-0     *     1-0    0-0    1-0    
+SV Ried (RIE)      0-3    3-0    1-0    2-3    1-6    0-3    1-1     *     2-0    1-1    
+SCR Altach (ALT)   1-1    3-1    0-0    3-0    0-5    1-2    2-1    0-2     *     1-2    
+SKN St. Pölt (SKN) 2-1    1-1    2-2    1-0    1-2    2-1    1-1    1-0    3-3     *     
+
+```
+
+
+```
+1/2:
+Home \ Away        WRN    FCW    ALU    KSV    FCL    FAC    ASK    SVH    BWL    WAT    
+SC Wiener Ne (WRN)  *     2-2    1-4    2-0    1-4    0-3    1-2    2-1    3-2    2-1    
+FC Wacker In (FCW) 3-2     *     0-1    1-0    1-1    2-1    2-1    0-0    1-1    1-2    
+SC Austria L (ALU) 1-0    2-2     *     1-3    1-1    1-1    1-1    2-1    0-0    4-0    
+Kapfenberger (KSV) 3-1    1-1    0-1     *     1-0    2-0    1-2    1-0    2-2    3-0    
+FC Liefering (FCL) 3-1    1-2    3-5    2-0     *     2-1    4-2    1-0    2-0    0-0    
+Floridsdorfe (FAC) 1-1    3-1    1-3    0-1    1-5     *     2-3    2-1    2-1    1-1    
+LASK Linz (ASK)    2-2    1-0    3-1    3-1    3-3    1-0     *     1-1    2-1    4-0    
+SV Horn (SVH)      0-1    2-1    1-3    1-2    2-3    2-1    1-4     *     2-1    2-0    
+FC Blau-Weiß (BWL) 0-1    2-2    1-1    0-1    1-1    0-0    2-1    1-0     *     0-3    
+WSG Wattens (WAT)  0-1    2-1    2-4    3-3    1-1    0-0    3-2    2-2    0-0     *     
+
+2/2:
+Home \ Away        WRN    FCW    ALU    KSV    FCL    FAC    ASK    SVH    BWL    WAT    
+SC Wiener Ne (WRN)  *     1-3    1-1    3-1    0-1    0-3    0-2    3-1    0-0    2-0    
+FC Wacker In (FCW) 2-2     *     1-0    3-3    0-2    2-1    2-3    3-0    2-1    0-1    
+SC Austria L (ALU) 2-0    2-1     *     0-0    2-0    0-0    2-4    2-3    1-4    2-2    
+Kapfenberger (KSV) 0-3    1-3    2-3     *     0-3    0-1    2-2    1-1    3-2    2-1    
+FC Liefering (FCL) 2-1    0-3    4-1    1-1     *     1-0    0-3    1-1    0-3    2-3    
+Floridsdorfe (FAC) 3-0    1-2    1-0    3-1    0-3     *     1-3    0-2    1-2    0-2    
+LASK Linz (ASK)    1-0    3-1    2-0    1-1    3-0    2-2     *     2-1    4-0    2-0    
+SV Horn (SVH)      2-0    1-2    1-2    2-1    0-1    0-2    1-2     *     0-2    2-3    
+FC Blau-Weiß (BWL) 3-0    3-1    0-0    1-2    0-0    0-0    1-1    1-4     *     0-0    
+WSG Wattens (WAT)  3-0    3-4    2-2    4-1    5-0    1-0    2-0    1-1    3-3     *     
+
+```
+
 
