@@ -3,7 +3,7 @@
 #
 #  - 10 Teams
 
-# NB: use three letter codes from bundesliga.at
+# Note: use three letter codes from bundesliga.at
 
 
 [wrneustadt]
@@ -75,7 +75,7 @@
   de.wikipedia: Floridsdorfer_AC
 
 [lask]
-  LASK Linz, 1899, ASK   ## LAS
+  LASK Linz|LASK, 1899, ASK   ## LAS
   // Linz
   Erste Liga/OÖ
   www.lask.at

@@ -1,0 +1,24 @@
+########################
+# bl n el 2017/18
+
+
+# Leagues
+at-austria!/leagues
+
+# - Clubs
+at-austria!/clubs/1-bundesliga
+at-austria!/clubs/2-liga1
+at-austria!/clubs/3-bgld
+at-austria!/clubs/3-ktn
+at-austria!/clubs/3-noe
+at-austria!/clubs/3-ooe
+at-austria!/clubs/3-sbg
+at-austria!/clubs/3-stmk
+at-austria!/clubs/3-tirol
+at-austria!/clubs/3-vbg
+at-austria!/clubs/3-wien
+
+
+# - Fixtures
+at-austria!/2017-18/1-bundesliga
+at-austria!/2017-18/2-liga1
