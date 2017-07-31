@@ -11,11 +11,11 @@ Runde 1
 
 Runde 2
 [Fr 28.7.]
- 18.30  FC Liefering          0-1   WSG Wattens
- 18.30  TSV Hartberg          3-1   Floridsdorfer AC
- 18.30  FC Wacker Innsbruck   0-0   Kapfenberger SV 1919
- 18.30  SC Wiener Neustadt    4-0   FC Blau Weiß Linz
- 20.30  Austria Lustenau      0-2   SV Ried
+ 18.30  FC Liefering          0:1   WSG Wattens
+ 18.30  TSV Hartberg          3:1   Floridsdorfer AC
+ 18.30  FC Wacker Innsbruck   0:0   Kapfenberger SV 1919
+ 18.30  SC Wiener Neustadt    4:0   FC Blau Weiß Linz
+ 20.30  Austria Lustenau      0:2   SV Ried
 
 
 Runde 3
@@ -163,5 +163,3 @@ Runde 20
   FC Wacker Innsbruck Kapfenberger SV 1919
   SC Wiener Neustadt FC Blau Weiß Linz
   TSV Hartberg Floridsdorfer AC
-
-

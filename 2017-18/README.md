@@ -6,16 +6,16 @@
 ```
                                         - Total -                  - Home -          - Away -     
                                  Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A
- 1. SK Rapid Wien                  2   1  1  0   6:3    +3    4   0  1  0   2:2     1  0  0   4:1  
- 2. LASK Linz                      2   1  1  0   4:1    +3    4   1  0  0   3:0     0  1  0   1:1  
- 3. FC RB Salzburg                 2   1  1  0   3:1    +2    4   0  1  0   1:1     1  0  0   2:0  
- 4. SV Mattersburg                 2   1  1  0   3:2    +1    4   1  0  0   1:0     0  1  0   2:2  
- 5. SCR Altach                     1   1  0  0   3:0    +3    3   1  0  0   3:0     0  0  0   0:0  
- 6. SK Sturm Graz                  1   1  0  0   3:2    +1    3   1  0  0   3:2     0  0  0   0:0  
- 7. Wolfsberger AC                 2   0  0  2   0:3    -3    0   0  0  1   0:2     0  0  1   0:1  
- 8. FC Admira Wacker               1   0  0  1   0:3    -3    0   0  0  0   0:0     0  0  1   0:3  
- 9. FK Austria Wien                1   0  0  1   0:3    -3    0   0  0  0   0:0     0  0  1   0:3  
-10. SKN St. Pölten                 2   0  0  2   3:7    -4    0   0  0  1   1:4     0  0  1   2:3  
+ 1. SK Sturm Graz                  2   2  0  0   6:4    +2    6   1  0  0   3:2     1  0  0   3:2  
+ 2. SK Rapid Wien                  2   1  1  0   6:3    +3    4   0  1  0   2:2     1  0  0   4:1  
+ 3. LASK Linz                      2   1  1  0   4:1    +3    4   1  0  0   3:0     0  1  0   1:1  
+ 4. FC RB Salzburg                 2   1  1  0   3:1    +2    4   0  1  0   1:1     1  0  0   2:0  
+ 5. SV Mattersburg                 2   1  1  0   3:2    +1    4   1  0  0   1:0     0  1  0   2:2  
+ 6. FC Admira Wacker               2   1  0  1   4:4          3   1  0  0   4:1     0  0  1   0:3  
+ 7. SCR Altach                     2   1  0  1   4:4          3   1  0  0   3:0     0  0  1   1:4  
+ 8. Wolfsberger AC                 2   0  0  2   0:3    -3    0   0  0  1   0:2     0  0  1   0:1  
+ 9. SKN St. Pölten                 2   0  0  2   3:7    -4    0   0  0  1   1:4     0  0  1   2:3  
+10. FK Austria Wien                2   0  0  2   2:6    -4    0   0  0  1   2:3     0  0  1   0:3  
 ```
 
 
@@ -46,9 +46,9 @@ Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals f
 ```
 1/2:
 Home \ Away           AUS  RAP  ADM  MAT  RBS  STU  WAC  ALT  SKN  ASK
-FK Austria Wien (AUS)  *                        ?
+FK Austria Wien (AUS)  *                       2-3
 SK Rapid Wien (RAP)         *        2-2
-FC Admira Wacke (ADM)            *                        ?
+FC Admira Wacke (ADM)            *                       4-1
 SV Mattersburg (MAT)                  *             1-0
 FC RB Salzburg (RBS)                       *                       1-1
 SK Sturm Graz (STU)                             *             3-2
