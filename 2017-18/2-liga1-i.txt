@@ -24,11 +24,11 @@ Runde 3
  18.30  Austria Lustenau      2-3   SC Wiener Neustadt
  18.30  WSG Wattens           3-1   Kapfenberger SV 1919
  18.30  FC Blau Weiß Linz     2-3   FC Liefering
- 20.30  TSV Hartberg   FC Wacker Innsbruck      wegen Gewitter abgebrochen
+ 20.30  TSV Hartberg   FC Wacker Innsbruck      verschoben auf 21.8.17
 
 Runde 4
 [Mo 7.8.]
- 18.30  FC Liefering   SV Ried
+ 18.30  FC Liefering          4-0   SV Ried
 [Di 8.8.]
  18.30  FC Wacker Innsbruck   Austria Lustenau
  18.30  Kapfenberger SV 1919   FC Blau Weiß Linz
@@ -59,6 +59,10 @@ Runde 7
  18.30  Floridsdorfer AC   Kapfenberger SV 1919
  18.30  TSV Hartberg   SV Ried
  20.30  FC Wacker Innsbruck   FC Liefering
+ 
+Nachtrag Runde 3
+[Mo 21.8.]
+TSV Hartberg  FC Wacker Innsbruck
 
 Runde 8
 [Fr 25.8.]
