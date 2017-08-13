@@ -40,10 +40,10 @@ Runde 3
 Runde 4
 
 [Sa 12.8.]
-  16.00     SCR Altach0-1  RB Salzburg
-  18.30     Austria Wien  LASK
-  18.30     Sturm Graz  Wolfsberger AC
-  18.30     SKN St. Pölten  SV Mattersburg
+  16.00     SCR Altach         0-1  RB Salzburg
+  18.30     Austria Wien       2-0  LASK
+  18.30     Sturm Graz         2-1  Wolfsberger AC
+  18.30     SKN St. Pölten     0-0  SV Mattersburg
 [So 13.8.]
   16.30     FC Admira Wacker  Rapid Wien
 
