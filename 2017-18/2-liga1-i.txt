@@ -66,11 +66,11 @@ TSV Hartberg                  3-1   FC Wacker Innsbruck
 
 Runde 8
 [Fr 25.8.]
- 18.30  SV Ried   WSG Wattens
- 18.30  FC Liefering   Austria Lustenau
- 18.30  FC Wacker Innsbruck   SC Wiener Neustadt
- 18.30  FC Blau Weiß Linz   Floridsdorfer AC
- 20.30  TSV Hartberg   Kapfenberger SV 1919
+ 18.30  SV Ried               4-0   WSG Wattens
+ 18.30  FC Liefering          0-0   Austria Lustenau
+ 18.30  FC Wacker Innsbruck   3-0   SC Wiener Neustadt
+ 18.30  FC Blau Weiß Linz     4-0   Floridsdorfer AC
+ 20.30  TSV Hartberg          4-0   Kapfenberger SV 1919
 
 Runde 9
 [Fr 8.9.]
