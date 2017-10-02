@@ -60,52 +60,52 @@ Runde 5
 Runde 6
 
 [Sa 26.8.]
-     Rapid Wien               1-0  LASK
-     Wolfsberger AC           2-1  SKN St. Pölten
+     Rapid Wien                1-0  LASK
+     Wolfsberger AC            2-1  SKN St. Pölten
 [So 27.8.]
-     Sturm Graz               1-0  RB Salzburg
-     SCR Altach               1-0  SV Mattersburg
-     FC Admira Wacker         1-3  Austria Wien
+     Sturm Graz                1-0  RB Salzburg
+     SCR Altach                1-0  SV Mattersburg
+     FC Admira Wacker          1-3  Austria Wien
      
 Runde 7
 
 [Sa 9.9.]
-     Austria Wien             2-2  Wolfsberger AC
-     SV Mattersburg           0-5  FC Admira Wacker
-     SKN St. Pölten           1-2  SCR Altach
-     LASK                     2-1  Sturm Graz
+     Austria Wien              2-2  Wolfsberger AC
+     SV Mattersburg            0-5  FC Admira Wacker
+     SKN St. Pölten            1-2  SCR Altach
+     LASK                      2-1  Sturm Graz
 [So 10.9.]
-     RB Salzburg              2-2  Rapid Wien
+     RB Salzburg               2-2  Rapid Wien
      
 Runde 8
 
 [Sa 16.9.]
-     SCR Altach               2-2  Rapid Wien
-     FC Admira Wacker         2-1  Sturm Graz
-     Wolfsberger AC           0-0  LASK
+     SCR Altach                2-2  Rapid Wien
+     FC Admira Wacker          2-1  Sturm Graz
+     Wolfsberger AC            0-0  LASK
 [So 17.9.]
-     SV Mattersburg           1-2  RB Salzburg
-     Austria Wien             5-1  SKN St. Pölten
+     SV Mattersburg            1-2  RB Salzburg
+     Austria Wien              5-1  SKN St. Pölten
 
 Runde 9
 
 [Sa 23.9.]
-     Sturm Graz               0-0  SCR Altach
-     Rapid Wien               4-2  Wolfsberger AC
-     SKN St. Pölten           1-1  FC Admira Wacker
-     LASK                     2-2  SV Mattersburg
+     Sturm Graz                0-0  SCR Altach
+     Rapid Wien                4-2  Wolfsberger AC
+     SKN St. Pölten            1-1  FC Admira Wacker
+     LASK                      2-2  SV Mattersburg
 [So 24.9.]
-     RB Salzburg              0-0  Austria Wien
+     RB Salzburg               0-0  Austria Wien
      
 Runde 10
 
 [Sa 30.9.]
-     SV Mattersburg           0-1  Rapid Wien
-     FC Admira Wacker         4-2  LASK
-     SKN St. Pölten           0-3  Sturm Graz
+     SV Mattersburg            0-1  Rapid Wien
+     FC Admira Wacker          4-2  LASK
+     SKN St. Pölten            0-3  Sturm Graz
 [So 1.10.]
-     RB Salzburg  Wolfsberger AC
-     Austria Wien  SCR Altach
+     RB Salzburg               2-1  Wolfsberger AC
+     Austria Wien              2-0  SCR Altach
 
 Runde 11
 
