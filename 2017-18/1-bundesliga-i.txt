@@ -121,29 +121,32 @@ Runde 12
 
 [Sa 21.10.]
      SKN St. Pölten  LASK
-     FC Admira Wacker  RB Salzburg
      Sturm Graz  SV Mattersburg
      SCR Altach  Wolfsberger AC
+[So 22.10.]
+     FC Admira Wacker  RB Salzburg
      Austria Wien  Rapid Wien
-
+     
 Runde 13
 
 [Sa 28.10.]
       LASK  Austria Wien
-      Wolfsberger AC  Sturm Graz
       RB Salzburg  SCR Altach
       Rapid Wien  FC Admira Wacker
       SV Mattersburg  SKN St. Pölten
+[So 29.10.]
+      Wolfsberger AC  Sturm Graz
 
 Runde 14
 
 [Sa 4.11.]
-     SKN St. Pölten  RB Salzburg
      Sturm Graz  Rapid Wien
-     Austria Wien  SV Mattersburg
      FC Admira Wacker  Wolfsberger AC
      SCR Altach  LASK
-
+[So 5.11.]
+     Austria Wien  SV Mattersburg
+     SKN St. Pölten  RB Salzburg
+     
 Runde 15
 
 [Sa 18.11.]
