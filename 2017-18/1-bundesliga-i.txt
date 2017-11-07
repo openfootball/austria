@@ -150,39 +150,43 @@ Runde 14
 Runde 15
 
 [Sa 18.11.]
-      RB Salzburg  Sturm Graz
       SV Mattersburg  SCR Altach
       Austria Wien  FC Admira Wacker
       LASK  Rapid Wien
       SKN St. Pölten  Wolfsberger AC
-
+[So 19.11.]
+      RB Salzburg  Sturm Graz
+      
 Runde 16
 
 [Sa 25.11.]
-     Rapid Wien  RB Salzburg
-     Wolfsberger AC  Austria Wien
      FC Admira Wacker  SV Mattersburg
      SCR Altach  SKN St. Pölten
      Sturm Graz  LASK
-
+[So 26.11.]
+     Rapid Wien  RB Salzburg
+     Wolfsberger AC  Austria Wien
+     
 Runde 17
 
 [Di 28.11.]
+     Sturm Graz  FC Admira Wacker
+[Mi 29.11.]
      SKN St. Pölten  Austria Wien
      Rapid Wien  SCR Altach
-     Sturm Graz  FC Admira Wacker
      RB Salzburg  SV Mattersburg
      LASK  Wolfsberger AC
 
 Runde 18
 
 [Sa 2.12.]
-     Austria Wien  RB Salzburg
      SCR Altach  Sturm Graz
      Wolfsberger AC  Rapid Wien
      FC Admira Wacker  SKN St. Pölten
      SV Mattersburg  LASK
-
+[So 3.12.]
+     Austria Wien  RB Salzburg
+     
 Runde 19
 
 [Sa 9.12.]
