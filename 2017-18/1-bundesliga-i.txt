@@ -191,16 +191,21 @@ Runde 19
 
 [Sa 9.12.]
      Sturm Graz  SKN St. Pölten
-     SCR Altach  Austria Wien
      Rapid Wien  SV Mattersburg
-     Wolfsberger AC  RB Salzburg
      LASK  FC Admira Wacker
-
+[So 10.12.]
+     SCR Altach  Austria Wien
+     Wolfsberger AC  RB Salzburg
+     
 Runde 20
 
 [Sa 16.12.]
      RB Salzburg  LASK
-     Austria Wien  Sturm Graz
+     
      FC Admira Wacker  SCR Altach
      SV Mattersburg  Wolfsberger AC
      SKN St. Pölten  Rapid Wien
+[So 17.12.]
+     Austria Wien  Sturm Graz
+     
+Winterpause bis 3.2.18
