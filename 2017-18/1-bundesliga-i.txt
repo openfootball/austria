@@ -160,30 +160,30 @@ Runde 15
 Runde 16
 
 [Sa 25.11.]
-     FC Admira Wacker         2-0  SV Mattersburg
-     SCR Altach               3-0  SKN St. Pölten
-     Sturm Graz               1-0  LASK
+     FC Admira Wacker          2-0  SV Mattersburg
+     SCR Altach                3-0  SKN St. Pölten
+     Sturm Graz                1-0  LASK
 [So 26.11.]
-     Rapid Wien               2-3  RB Salzburg
-     Wolfsberger AC           1-2  Austria Wien
+     Rapid Wien                2-3  RB Salzburg
+     Wolfsberger AC            1-2  Austria Wien
      
 Runde 17
 
 [Di 28.11.]
-     Sturm Graz               6-1  FC Admira Wacker
+     Sturm Graz                6-1  FC Admira Wacker
 [Mi 29.11.]
-     SKN St. Pölten           1-0  Austria Wien
-     Rapid Wien               1-2  SCR Altach
-     RB Salzburg              2-0  SV Mattersburg
-     LASK                     2-0  Wolfsberger AC
+     SKN St. Pölten            1-0  Austria Wien
+     Rapid Wien                1-2  SCR Altach
+     RB Salzburg               2-0  SV Mattersburg
+     LASK                      2-0  Wolfsberger AC
 
 Runde 18
 
 [Sa 2.12.]
-     SCR Altach  Sturm Graz
-     Wolfsberger AC  Rapid Wien
-     FC Admira Wacker  SKN St. Pölten
-     SV Mattersburg  LASK
+     SCR Altach                1-2  Sturm Graz
+     Wolfsberger AC            0-0  Rapid Wien
+     FC Admira Wacker          1-0  SKN St. Pölten
+     SV Mattersburg            1-0  LASK
 [So 3.12.]
      Austria Wien  RB Salzburg
      
