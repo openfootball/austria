@@ -5,29 +5,32 @@ Runde 21
 
 [Sa 3.2.]
      RB Salzburg  FC Admira Wacker
-     Rapid Wien  Austria Wien
      SV Mattersburg  Sturm Graz
      Wolfsberger AC  SCR Altach
      LASK  SKN St. Pölten
-
+[So 4.2.]
+     Rapid Wien  Austria Wien
+     
 Runde 22
 
 [Sa 10.2.]
      Austria Wien  LASK
      Sturm Graz  Wolfsberger AC
      SCR Altach  RB Salzburg
-     FC Admira Wacker  Rapid Wien
      SKN St. Pölten  SV Mattersburg
-
+[So 11.2.]
+     FC Admira Wacker  Rapid Wien
+     
 Runde 23
 
 [Sa 17.2.]
-     RB Salzburg  SKN St. Pölten
      Rapid Wien  Sturm Graz
      SV Mattersburg  Austria Wien
      Wolfsberger AC  FC Admira Wacker
      LASK  SCR Altach
-
+[So 18.2.]
+     RB Salzburg  SKN St. Pölten
+     
 Runde 24
 
 [Sa 24.2.]
@@ -40,30 +43,33 @@ Runde 24
 Runde 25
 
 [Sa 3.3.]
-     RB Salzburg  Rapid Wien
      Austria Wien  Wolfsberger AC
      SV Mattersburg  FC Admira Wacker
      SKN St. Pölten  SCR Altach
      LASK  Sturm Graz
-
+[So 4.3.]
+     RB Salzburg  Rapid Wien
+     
 Runde 26
 
 [Sa 10.3.]
      Austria Wien  SKN St. Pölten
-     SCR Altach  Rapid Wien
      FC Admira Wacker  Sturm Graz
      SV Mattersburg  RB Salzburg
      Wolfsberger AC  LASK
-
+[So 11.3.]
+     SCR Altach  Rapid Wien
+     
 Runde 27
 
 [Sa 17.3.]
-     RB Salzburg  Austria Wien
      Sturm Graz  SCR Altach
      Rapid Wien  Wolfsberger AC
      SKN St. Pölten  FC Admira Wacker
      LASK  SV Mattersburg
-
+[So 18.3.]
+     RB Salzburg  Austria Wien
+     
 Runde 28
 
 [Sa 31.3.]
