@@ -54,12 +54,13 @@ Runde 25
 
 Runde 26
 [Mo 2.4.]
+  FC Wacker Innsbruck SC Wiener Neustadt
+[Di 3.4.]
   SV Ried WSG Wattens
   FC Liefering Austria Lustenau
-  FC Wacker Innsbruck SC Wiener Neustadt
   FC Blau Weiß Linz Floridsdorfer AC
   TSV Hartberg Kapfenberger SV 1919
-
+  
 Runde 27
 [Fr 6.4.]
   Austria Lustenau TSV Hartberg
@@ -91,6 +92,7 @@ Runde 29
 Runde 30
 [Mo 23.4.]
   Floridsdorfer AC SV Ried
+[Di 24.4.]
   SC Wiener Neustadt Austria Lustenau
   Kapfenberger SV 1919 WSG Wattens
   FC Liefering FC Blau Weiß Linz
