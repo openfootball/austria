@@ -123,7 +123,7 @@ Runde 33
   TSV Hartberg FC Blau Weiß Linz
 
 Runde 34
-[Mo 14.5.]
+[Fr 18.5.]
   FC Blau Weiß Linz Austria Lustenau
   FC Liefering FC Wacker Innsbruck
   WSG Wattens SC Wiener Neustadt
@@ -131,7 +131,7 @@ Runde 34
   SV Ried TSV Hartberg
 
 Runde 35
-[Fr 18.5.]
+[Mo 21.5.]
   WSG Wattens SV Ried
   Austria Lustenau FC Liefering
   SC Wiener Neustadt FC Wacker Innsbruck
@@ -139,7 +139,7 @@ Runde 35
   Kapfenberger SV 1919 TSV Hartberg
 
 Runde 36
-[Mo 21.5.]
+[Fr 25.5.]
   TSV Hartberg Austria Lustenau
   FC Blau Weiß Linz WSG Wattens
   SV Ried Kapfenberger SV 1919
