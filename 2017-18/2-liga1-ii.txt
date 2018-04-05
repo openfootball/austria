@@ -145,3 +145,9 @@ Runde 36
   SV Ried Kapfenberger SV 1919
   FC Liefering SC Wiener Neustadt
   FC Wacker Innsbruck Floridsdorfer AC
+  
+## Relegationsspiele um einen 1. Bundesligaplatz:
+[Mi 30.5. or Do 31.5]
+Hinspiel     St.Pölten 3.or 4. 2. Liga
+[Sa 2.6. or So 3.6.]
+Rückspiel    St. Pölten 3. or 4. 2. Liga
