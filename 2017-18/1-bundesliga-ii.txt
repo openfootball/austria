@@ -131,7 +131,7 @@ Runde 33
 
 Runde 34
 
-[Di 8.5.]
+[Sa 12.5.]
      Rapid Wien  RB Salzburg
      Wolfsberger AC  Austria Wien
      FC Admira Wacker  SV Mattersburg
@@ -140,7 +140,7 @@ Runde 34
 
 Runde 35
 
-[So 13.5.]
+[Sa 19.5.]
      SKN St. Pölten  Austria Wien
      Rapid Wien  SCR Altach
      Sturm Graz  FC Admira Wacker
@@ -149,9 +149,16 @@ Runde 35
 
 Runde 36
 
-[So 20.5.]
+[Sa 26.5.]
      Austria Wien  RB Salzburg
      SCR Altach  Sturm Graz
      Wolfsberger AC  Rapid Wien
      FC Admira Wacker  SKN St. Pölten
      SV Mattersburg  LASK
+
+## Relegationsspiele um einen 1. Bundesligaplatz:
+[Mi 30.5. or Do 31.5]
+Hinspiel     St.Pölten 3.or 4. 2. Liga
+[Sa 2.6. or So 3.6.]
+Rückspiel    St. Pölten 3. or 4. 2. Liga
+
