@@ -108,36 +108,40 @@ Runde 31
      LASK  Austria Wien
      Wolfsberger AC  Sturm Graz
      RB Salzburg  SCR Altach
-     Rapid Wien  FC Admira Wacker
      SV Mattersburg  SKN St. Pölten
-
+[So 22.4]
+     Rapid Wien  FC Admira Wacker
+     
 Runde 32
 
 [Sa 28.4.]
      SKN St. Pölten  RB Salzburg
-     Sturm Graz  Rapid Wien
      Austria Wien  SV Mattersburg
      FC Admira Wacker  Wolfsberger AC
      SCR Altach  LASK
-
+[So 29.4.]
+     Sturm Graz  Rapid Wien
+     
 Runde 33
 
 [Sa 5.5.]
-     RB Salzburg  Sturm Graz
      SV Mattersburg  SCR Altach
      Austria Wien  FC Admira Wacker
      LASK  Rapid Wien
      SKN St. Pölten  Wolfsberger AC
-
+[So 6.5.]
+     RB Salzburg  Sturm Graz
+     
 Runde 34
 
 [Sa 12.5.]
-     Rapid Wien  RB Salzburg
      Wolfsberger AC  Austria Wien
      FC Admira Wacker  SV Mattersburg
      SCR Altach  SKN St. Pölten
      Sturm Graz  LASK
-
+[So 13.5.]
+     Rapid Wien  RB Salzburg
+     
 Runde 35
 
 [Sa 19.5.]
