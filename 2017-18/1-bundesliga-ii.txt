@@ -119,8 +119,8 @@ Runde 32
      FC Admira Wacker  4-2  Wolfsberger AC
      SCR Altach        0-2  LASK
 [So 29.4.]
-     Sturm Graz  Rapid Wien
-     SKN St. Pölten  RB Salzburg
+     Sturm Graz        4-2  Rapid Wien
+     SKN St. Pölten    0-2  RB Salzburg
      
 Runde 33
 
@@ -162,7 +162,7 @@ Runde 36
 
 ## Relegationsspiele um einen 1. Bundesligaplatz:
 [Mi 30.5. or Do 31.5]
-Hinspiel     St.Pölten 3.or 4. 2. Liga
+Hinspiel  SKN St.Pölten 3.or 4. 2. Liga
 [Sa 2.6. or So 3.6.]
-Rückspiel    St. Pölten 3. or 4. 2. Liga
+Rückspiel    SKN St. Pölten 3. or 4. 2. Liga
 
