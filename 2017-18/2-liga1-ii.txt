@@ -125,7 +125,7 @@ Runde 33
 ## 8 Aufsteiger in 2. Liga 2018/19:
   SV Horn
   SKU Amstetten
-  Austria Wien Amateure or FC Karabakh
+  Austria Wien Amateure 
   FC Wacker Innsbruck II
   SV Lafnitz falls Lizenz
   Vorwärts Steyr
@@ -137,11 +137,11 @@ Runde 33
   
 Runde 34
 [Fr 18.5.]
-  FC Blau Weiß Linz Austria Lustenau
-  FC Liefering FC Wacker Innsbruck
-  WSG Wattens SC Wiener Neustadt
-  Kapfenberger SV 1919 Floridsdorfer AC
-  SV Ried TSV Hartberg
+  FC Blau Weiß Linz      0-2 Austria Lustenau
+  FC Liefering           2-2 FC Wacker Innsbruck
+  WSG Wattens            1-1 SC Wiener Neustadt
+  Kapfenberger SV 1919   3-3 Floridsdorfer AC
+  SV Ried                0-1 TSV Hartberg
 
 Runde 35
 [Mo 21.5.]
@@ -161,6 +161,8 @@ Runde 36
   
 ## Relegationsspiele um einen 1. Bundesligaplatz:
 [Mi 30.5. or Do 31.5]
-Hinspiel     St.Pölten 3.or 4. 2. Liga
+Hinspiel     St.Pölten - Dritter 2. Liga
 [Sa 2.6. or So 3.6.]
-Rückspiel    St. Pölten 3. or 4. 2. Liga
+Rückspiel  Dritter 2. Liga - St. Pölten 
+
+
