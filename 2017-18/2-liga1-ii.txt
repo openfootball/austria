@@ -125,7 +125,7 @@ Runde 33
 ## 8 Aufsteiger in 2. Liga 2018/19:
   SV Horn
   SKU Amstetten
-  Austria Wien Amateure 
+  Young Violets Austria Wien 
   FC Wacker Innsbruck II
   SV Lafnitz 
   FC Vorwärts Steyr
@@ -173,5 +173,6 @@ SKN St. Pölten in 1. Bundesliga 2018/19
    FC Wacker Innsbruch
    TSV Hartberg
    
-## Sommerpause bis 7.18
+## Sommerpause bis 27.7.18
+
 
