@@ -1,0 +1,386 @@
+###################################
+# Österr. Erste Liga 2018/19
+
+
+Runde 1
+[Fr 27.7.]
+  Vorwärts Steyr          - SV Ried
+  Kapfenberger SV 1919    - Austria Wien (A)
+  SC Wiener Neustadt      - FC Blau Weiß Linz
+  SK Austria Klagenfurt   - Austria Lustenau
+  SV Horn                 - FC Liefering
+[Sa 28.7.]
+  WSG Wattens             - SV Lafnitz
+[So 29.7.]
+  SKU Amstetten           - Floridsdorfer AC
+  LASK (A)                - FC Wacker Innsbruck (A)
+
+
+Runde 2
+[Fr 3.8.]
+  FC Blau Weiß Linz       - SK Austria Klagenfurt
+  FC Liefering            - Vorwärts Steyr
+  SV Lafnitz              - LASK (A)
+  Austria Wien (A)        - SV Horn
+  Floridsdorfer AC        - Kapfenberger SV 1919
+[Sa 4.8.]
+  Austria Lustenau        - SC Wiener Neustadt
+[So 5.8.]
+  SV Ried                 - WSG Wattens
+  FC Wacker Innsbruck (A) - SKU Amstetten
+
+
+Runde 3
+[Fr 10.8.]
+  Kapfenberger SV 1919    - SV Ried
+  FC Liefering            - Austria Wien (A)
+  SKU Amstetten           - SV Lafnitz
+  SV Horn                 - Austria Lustenau
+[Sa 11.8.]
+  FC Wacker Innsbruck (A) - FC Blau Weiß Linz
+  WSG Wattens             - SK Austria Klagenfurt
+[So 12.8.]
+  Vorwärts Steyr          - SC Wiener Neustadt
+  LASK (A)                - Floridsdorfer AC
+
+
+Runde 4
+[Fr 17.8.]
+  SV Ried                 - FC Liefering
+  FC Blau Weiß Linz       - SKU Amstetten
+  SC Wiener Neustadt      - Austria Wien (A)
+  SK Austria Klagenfurt   - FC Wacker Innsbruck (A)
+  Floridsdorfer AC        - WSG Wattens
+[Sa 18.8.]
+  Austria Lustenau        - LASK (A)
+[So 19.8.]
+  SV Lafnitz              - SV Horn
+  Kapfenberger SV 1919    - Vorwärts Steyr
+
+
+Runde 5
+[Fr 24.8.]
+  WSG Wattens             - FC Blau Weiß Linz
+  FC Liefering            - Kapfenberger SV 1919
+  Austria Wien (A)        - SV Lafnitz
+  SV Horn                 - Vorwärts Steyr
+  Floridsdorfer AC        - Austria Lustenau
+[Sa 25.8.]
+  FC Wacker Innsbruck (A) - SC Wiener Neustadt
+[So 26.8.]
+  SKU Amstetten           - SV Ried
+  LASK (A)                - SK Austria Klagenfurt
+
+
+Runde 6
+[Fr 31.8.]
+  SV Ried                 - SV Horn
+  Kapfenberger SV 1919    - WSG Wattens
+  FC Blau Weiß Linz       - Floridsdorfer AC
+  SC Wiener Neustadt      - LASK (A)
+  SV Lafnitz              - FC Wacker Innsbruck (A)
+  SK Austria Klagenfurt   - Austria Wien (A)
+  Vorwärts Steyr          - SKU Amstetten
+[Sa 1.9.]
+  Austria Lustenau        - FC Liefering
+
+
+Runde 7
+[Fr 14.9.]
+  WSG Wattens             - SC Wiener Neustadt
+  FC Blau Weiß Linz       - Austria Lustenau
+  FC Liefering            - SKU Amstetten
+  SV Lafnitz              - Kapfenberger SV 1919
+  Austria Wien (A)        - LASK (A)
+  SV Horn                 - SK Austria Klagenfurt
+  Floridsdorfer AC        - SV Ried
+[Sa 15.9.]
+  FC Wacker Innsbruck (A) - Vorwärts Steyr
+
+
+Runde 8
+[Fr 21.9.]
+  SV Ried                 - Austria Wien (A)
+  Kapfenberger SV 1919    - FC Blau Weiß Linz
+  SKU Amstetten           - SV Horn
+  SK Austria Klagenfurt   - SC Wiener Neustadt
+  Vorwärts Steyr          - WSG Wattens
+[Sa 22.9.]
+  Austria Lustenau        - SV Lafnitz
+[So 23.9.]
+  FC Wacker Innsbruck (A) - Floridsdorfer AC
+  LASK (A)                - FC Liefering
+
+
+Runde 9
+[Fr 28.9.]
+  WSG Wattens             - FC Wacker Innsbruck (A)
+  FC Blau Weiß Linz       - FC Liefering
+  SV Lafnitz              - Vorwärts Steyr
+  Austria Wien (A)        - SKU Amstetten
+  SV Horn                 - LASK (A)
+  Floridsdorfer AC        - SK Austria Klagenfurt
+[Sa 29.9.]
+  Austria Lustenau        - Kapfenberger SV 1919
+[So 30.9.]
+  SC Wiener Neustadt      - SV Ried
+
+
+Runde 10
+[Fr 5.10.]
+  Kapfenberger SV 1919    - SK Austria Klagenfurt
+  SKU Amstetten           - SC Wiener Neustadt
+  Austria Wien (A)        - WSG Wattens
+  Vorwärts Steyr          - Austria Lustenau
+  SV Horn                 - Floridsdorfer AC
+[Sa 6.10.]
+  SV Ried                 - FC Wacker Innsbruck (A)
+  FC Liefering            - SV Lafnitz
+[So 7.10.]
+  LASK (A)                - FC Blau Weiß Linz
+
+
+Runde 11
+[Fr 19.10.]
+  WSG Wattens             - LASK (A)
+  FC Blau Weiß Linz       - SV Horn
+  SC Wiener Neustadt      - FC Liefering
+  SV Lafnitz              - SV Ried
+  SK Austria Klagenfurt   - SKU Amstetten
+  Floridsdorfer AC        - Vorwärts Steyr
+[Sa 20.10.]
+  FC Wacker Innsbruck (A) - Kapfenberger SV 1919
+  Austria Lustenau        - Austria Wien (A)
+
+
+Runde 12
+[Fr 26.10.]
+  SV Ried                 - Austria Lustenau
+  Kapfenberger SV 1919    - SC Wiener Neustadt
+  FC Liefering            - Floridsdorfer AC
+  SV Lafnitz              - SK Austria Klagenfurt
+  SKU Amstetten           - WSG Wattens
+  Austria Wien (A)        - FC Blau Weiß Linz
+  Vorwärts Steyr          - LASK (A)
+  SV Horn                 - FC Wacker Innsbruck (A)
+
+
+Runde 13
+[Fr 2.11.]
+  WSG Wattens             - FC Liefering
+  SK Austria Klagenfurt   - SV Ried
+  Floridsdorfer AC        - SV Lafnitz
+[Sa 3.11.]
+  FC Blau Weiß Linz       - Vorwärts Steyr
+  FC Wacker Innsbruck (A) - Austria Wien (A)
+  Austria Lustenau        - SKU Amstetten
+[So 4.11.]
+  SC Wiener Neustadt      - SV Horn
+  LASK (A)                - Kapfenberger SV 1919
+
+
+Runde 14
+[Fr 9.11.]
+  SV Ried                 - FC Blau Weiß Linz
+  FC Liefering            - FC Wacker Innsbruck (A)
+  SV Lafnitz              - SC Wiener Neustadt
+  SKU Amstetten           - LASK (A)
+  SV Horn                 - Kapfenberger SV 1919
+  Floridsdorfer AC        - Austria Wien (A)
+[Sa 10.11.]
+  Vorwärts Steyr          - SK Austria Klagenfurt
+  Austria Lustenau        - WSG Wattens
+
+
+Runde 15
+[Fr 23.11.]
+  Kapfenberger SV 1919    - SKU Amstetten
+  Austria Wien (A)        - Vorwärts Steyr
+[Sa 24.11.]
+  WSG Wattens             - SV Horn
+  FC Blau Weiß Linz       - SV Lafnitz
+  FC Wacker Innsbruck (A) - Austria Lustenau
+  SK Austria Klagenfurt   - FC Liefering
+[So 25.11.]
+  SC Wiener Neustadt      - Floridsdorfer AC
+  LASK (A)                - SV Ried
+
+
+Runde 16
+[Fr 22.2.]
+  SV Ried                 - Vorwärts Steyr
+  Austria Lustenau        - SK Austria Klagenfurt
+  FC Blau Weiß Linz       - SC Wiener Neustadt
+  FC Liefering            - SV Horn
+  FC Wacker Innsbruck (A) - LASK (A)
+  SV Lafnitz              - WSG Wattens
+  Austria Wien (A)        - Kapfenberger SV 1919
+  Floridsdorfer AC        - SKU Amstetten
+
+
+Runde 17
+[Fr 1.3.]
+  WSG Wattens             - SV Ried
+  Kapfenberger SV 1919    - Floridsdorfer AC
+  SC Wiener Neustadt      - Austria Lustenau
+  SKU Amstetten           - FC Wacker Innsbruck (A)
+  SK Austria Klagenfurt   - FC Blau Weiß Linz
+  LASK (A)                - SV Lafnitz
+  Vorwärts Steyr          - FC Liefering
+  SV Horn                 - Austria Wien (A)
+
+
+Runde 18
+[Fr 8.3.]
+  SV Ried                 - Kapfenberger SV 1919
+  Austria Lustenau        - SV Horn
+  FC Blau Weiß Linz       - FC Wacker Innsbruck (A)
+  SC Wiener Neustadt      - Vorwärts Steyr
+  SV Lafnitz              - SKU Amstetten
+  SK Austria Klagenfurt   - WSG Wattens
+  Austria Wien (A)        - FC Liefering
+  Floridsdorfer AC        - LASK (A)
+
+
+Runde 19
+[Fr 15.3.]
+  WSG Wattens             - Floridsdorfer AC
+  FC Liefering            - SV Ried
+  FC Wacker Innsbruck (A) - SK Austria Klagenfurt
+  SKU Amstetten           - FC Blau Weiß Linz
+  LASK (A)                - Austria Lustenau
+  Austria Wien (A)        - SC Wiener Neustadt
+  Vorwärts Steyr          - Kapfenberger SV 1919
+  SV Horn                 - SV Lafnitz
+
+
+Runde 20
+[Fr 29.3.]
+  SV Ried                 - SKU Amstetten
+  Austria Lustenau        - Floridsdorfer AC
+  Kapfenberger SV 1919    - FC Liefering
+  FC Blau Weiß Linz       - WSG Wattens
+  SC Wiener Neustadt      - FC Wacker Innsbruck (A)
+  SV Lafnitz              - Austria Wien (A)
+  SK Austria Klagenfurt   - LASK (A)
+  Vorwärts Steyr          - SV Horn
+
+
+Runde 21
+[Fr 5.4.]
+  WSG Wattens             - Kapfenberger SV 1919
+  FC Liefering            - Austria Lustenau
+  FC Wacker Innsbruck (A) - SV Lafnitz
+  SKU Amstetten           - Vorwärts Steyr
+  LASK (A)                - SC Wiener Neustadt
+  Austria Wien (A)        - SK Austria Klagenfurt
+  SV Horn                 - SV Ried
+  Floridsdorfer AC        - FC Blau Weiß Linz
+
+
+Runde 22
+[Fr 12.4.]
+  SV Ried                 - Floridsdorfer AC
+  Austria Lustenau        - FC Blau Weiß Linz
+  Kapfenberger SV 1919    - SV Lafnitz
+  SC Wiener Neustadt      - WSG Wattens
+  SKU Amstetten           - FC Liefering
+  SK Austria Klagenfurt   - SV Horn
+  LASK (A)                - Austria Wien (A)
+  Vorwärts Steyr          - FC Wacker Innsbruck (A)
+
+
+Runde 23
+[Fr 19.4.]
+  WSG Wattens             - Vorwärts Steyr
+  FC Blau Weiß Linz       - Kapfenberger SV 1919
+  SC Wiener Neustadt      - SK Austria Klagenfurt
+  FC Liefering            - LASK (A)
+  SV Lafnitz              - Austria Lustenau
+  Austria Wien (A)        - SV Ried
+  SV Horn                 - SKU Amstetten
+  Floridsdorfer AC        - FC Wacker Innsbruck (A)
+
+
+Runde 24
+[Fr 26.4.]
+  SV Ried                 - SC Wiener Neustadt
+  Kapfenberger SV 1919    - Austria Lustenau
+  FC Liefering            - FC Blau Weiß Linz
+  FC Wacker Innsbruck (A) - WSG Wattens
+  SKU Amstetten           - Austria Wien (A)
+  SK Austria Klagenfurt   - Floridsdorfer AC
+  LASK (A)                - SV Horn
+  Vorwärts Steyr          - SV Lafnitz
+
+
+Runde 25
+[Fr 3.5.]
+  Austria Lustenau        - Vorwärts Steyr
+  WSG Wattens             - Austria Wien (A)
+  FC Blau Weiß Linz       - LASK (A)
+  SC Wiener Neustadt      - SKU Amstetten
+  FC Wacker Innsbruck (A) - SV Ried
+  SV Lafnitz              - FC Liefering
+  SK Austria Klagenfurt   - Kapfenberger SV 1919
+  Floridsdorfer AC        - SV Horn
+
+
+Runde 26
+[Fr 10.5.]
+  SV Ried                 - SV Lafnitz
+  Kapfenberger SV 1919    - FC Wacker Innsbruck (A)
+  FC Liefering            - SC Wiener Neustadt
+  SKU Amstetten           - SK Austria Klagenfurt
+  LASK (A)                - WSG Wattens
+  Austria Wien (A)        - Austria Lustenau
+  Vorwärts Steyr          - Floridsdorfer AC
+  SV Horn                 - FC Blau Weiß Linz
+
+
+Runde 27
+[Fr 17.5.]
+  Austria Lustenau        - SV Ried
+  WSG Wattens             - SKU Amstetten
+  FC Blau Weiß Linz       - Austria Wien (A)
+  SC Wiener Neustadt      - Kapfenberger SV 1919
+  FC Wacker Innsbruck (A) - SV Horn
+  SK Austria Klagenfurt   - SV Lafnitz
+  LASK (A)                - Vorwärts Steyr
+  Floridsdorfer AC        - FC Liefering
+
+
+Runde 28
+[Fr 24.5.]
+  SV Ried                 - SK Austria Klagenfurt
+  Kapfenberger SV 1919    - LASK (A)
+  FC Liefering            - WSG Wattens
+  SV Lafnitz              - Floridsdorfer AC
+  SKU Amstetten           - Austria Lustenau
+  Austria Wien (A)        - FC Wacker Innsbruck (A)
+  Vorwärts Steyr          - FC Blau Weiß Linz
+  SV Horn                 - SC Wiener Neustadt
+
+
+Runde 29
+[Mi 29.5.]
+  WSG Wattens             - Austria Lustenau
+  Kapfenberger SV 1919    - SV Horn
+  FC Blau Weiß Linz       - SV Ried
+  SC Wiener Neustadt      - SV Lafnitz
+  FC Wacker Innsbruck (A) - FC Liefering
+  SK Austria Klagenfurt   - Vorwärts Steyr
+  LASK (A)                - SKU Amstetten
+  Austria Wien (A)        - Floridsdorfer AC
+
+
+Runde 30
+[Sa 1.6.]
+  SV Ried                 - LASK (A)
+  Austria Lustenau        - FC Wacker Innsbruck (A)
+  FC Liefering            - SK Austria Klagenfurt
+  SV Lafnitz              - FC Blau Weiß Linz
+  SKU Amstetten           - Kapfenberger SV 1919
+  Vorwärts Steyr          - Austria Wien (A)
+  SV Horn                 - WSG Wattens
+  Floridsdorfer AC        - SC Wiener Neustadt
