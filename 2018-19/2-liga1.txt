@@ -49,11 +49,11 @@ Runde 4
 [Fr 17.8.]
   SV Ried                 - FC Liefering
   FC Blau Weiß Linz       - SKU Amstetten
-  SC Wiener Neustadt      - Austria Wien (A)
-  SK Austria Klagenfurt   - FC Wacker Innsbruck (A)
+  SC Wiener Neustadt      - Young Violets
+  SK Austria Klagenfurt   - FC Wacker Innsbruck II
   Floridsdorfer AC        - WSG Wattens
 [Sa 18.8.]
-  Austria Lustenau        - LASK (A)
+  Austria Lustenau        - Juniors OÖ
 [So 19.8.]
   SV Lafnitz              - SV Horn
   Kapfenberger SV 1919    - Vorwärts Steyr
@@ -63,14 +63,14 @@ Runde 5
 [Fr 24.8.]
   WSG Wattens             - FC Blau Weiß Linz
   FC Liefering            - Kapfenberger SV 1919
-  Austria Wien (A)        - SV Lafnitz
+  Young Violets           - SV Lafnitz
   SV Horn                 - Vorwärts Steyr
   Floridsdorfer AC        - Austria Lustenau
 [Sa 25.8.]
-  FC Wacker Innsbruck (A) - SC Wiener Neustadt
+  FC Wacker Innsbruck II  - SC Wiener Neustadt
 [So 26.8.]
   SKU Amstetten           - SV Ried
-  LASK (A)                - SK Austria Klagenfurt
+  Juniors OÖ              - SK Austria Klagenfurt
 
 
 Runde 6
@@ -78,9 +78,9 @@ Runde 6
   SV Ried                 - SV Horn
   Kapfenberger SV 1919    - WSG Wattens
   FC Blau Weiß Linz       - Floridsdorfer AC
-  SC Wiener Neustadt      - LASK (A)
-  SV Lafnitz              - FC Wacker Innsbruck (A)
-  SK Austria Klagenfurt   - Austria Wien (A)
+  SC Wiener Neustadt      - Juniors OÖ
+  SV Lafnitz              - FC Wacker Innsbruck II
+  SK Austria Klagenfurt   - Young Violets
   Vorwärts Steyr          - SKU Amstetten
 [Sa 1.9.]
   Austria Lustenau        - FC Liefering
@@ -92,16 +92,16 @@ Runde 7
   FC Blau Weiß Linz       - Austria Lustenau
   FC Liefering            - SKU Amstetten
   SV Lafnitz              - Kapfenberger SV 1919
-  Austria Wien (A)        - LASK (A)
+  Young Violets           - Juniors OÖ
   SV Horn                 - SK Austria Klagenfurt
   Floridsdorfer AC        - SV Ried
 [Sa 15.9.]
-  FC Wacker Innsbruck (A) - Vorwärts Steyr
+  FC Wacker Innsbruck II  - Vorwärts Steyr
 
 
 Runde 8
 [Fr 21.9.]
-  SV Ried                 - Austria Wien (A)
+  SV Ried                 - Young Violets
   Kapfenberger SV 1919    - FC Blau Weiß Linz
   SKU Amstetten           - SV Horn
   SK Austria Klagenfurt   - SC Wiener Neustadt
@@ -109,17 +109,17 @@ Runde 8
 [Sa 22.9.]
   Austria Lustenau        - SV Lafnitz
 [So 23.9.]
-  FC Wacker Innsbruck (A) - Floridsdorfer AC
-  LASK (A)                - FC Liefering
+  FC Wacker Innsbruck II - Floridsdorfer AC
+  Juniors OÖ               - FC Liefering
 
 
 Runde 9
 [Fr 28.9.]
-  WSG Wattens             - FC Wacker Innsbruck (A)
+  WSG Wattens             - FC Wacker Innsbruck II
   FC Blau Weiß Linz       - FC Liefering
   SV Lafnitz              - Vorwärts Steyr
-  Austria Wien (A)        - SKU Amstetten
-  SV Horn                 - LASK (A)
+  Young Violets           - SKU Amstetten
+  SV Horn                 - Juniors OÖ
   Floridsdorfer AC        - SK Austria Klagenfurt
 [Sa 29.9.]
   Austria Lustenau        - Kapfenberger SV 1919
@@ -131,27 +131,27 @@ Runde 10
 [Fr 5.10.]
   Kapfenberger SV 1919    - SK Austria Klagenfurt
   SKU Amstetten           - SC Wiener Neustadt
-  Austria Wien (A)        - WSG Wattens
+  Young Violets           - WSG Wattens
   Vorwärts Steyr          - Austria Lustenau
   SV Horn                 - Floridsdorfer AC
 [Sa 6.10.]
-  SV Ried                 - FC Wacker Innsbruck (A)
+  SV Ried                 - FC Wacker Innsbruck II
   FC Liefering            - SV Lafnitz
 [So 7.10.]
-  LASK (A)                - FC Blau Weiß Linz
+  Juniors OÖ                - FC Blau Weiß Linz
 
 
 Runde 11
 [Fr 19.10.]
-  WSG Wattens             - LASK (A)
+  WSG Wattens             - Juniors OÖ
   FC Blau Weiß Linz       - SV Horn
   SC Wiener Neustadt      - FC Liefering
   SV Lafnitz              - SV Ried
   SK Austria Klagenfurt   - SKU Amstetten
   Floridsdorfer AC        - Vorwärts Steyr
 [Sa 20.10.]
-  FC Wacker Innsbruck (A) - Kapfenberger SV 1919
-  Austria Lustenau        - Austria Wien (A)
+  FC Wacker Innsbruck II  - Kapfenberger SV 1919
+  Austria Lustenau        - Young Violets
 
 
 Runde 12
@@ -161,9 +161,9 @@ Runde 12
   FC Liefering            - Floridsdorfer AC
   SV Lafnitz              - SK Austria Klagenfurt
   SKU Amstetten           - WSG Wattens
-  Austria Wien (A)        - FC Blau Weiß Linz
-  Vorwärts Steyr          - LASK (A)
-  SV Horn                 - FC Wacker Innsbruck (A)
+  Young Violets        - FC Blau Weiß Linz
+  Vorwärts Steyr          - Juniorss OÖ
+  SV Horn                 - FC Wacker Innsbruck II
 
 
 Runde 13
