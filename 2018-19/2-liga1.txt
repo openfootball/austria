@@ -318,10 +318,10 @@ Runde 24
 Runde 25
 [Fr 3.5.]
   Austria Lustenau        - Vorwärts Steyr
-  WSG Wattens             - Austria Wien (A)
-  FC Blau Weiß Linz       - LASK (A)
+  WSG Wattens             - Young Violets
+  FC Blau Weiß Linz       - Juniors OÖ
   SC Wiener Neustadt      - SKU Amstetten
-  FC Wacker Innsbruck (A) - SV Ried
+  FC Wacker Innsbruck II  - SV Ried
   SV Lafnitz              - FC Liefering
   SK Austria Klagenfurt   - Kapfenberger SV 1919
   Floridsdorfer AC        - SV Horn
@@ -330,11 +330,11 @@ Runde 25
 Runde 26
 [Fr 10.5.]
   SV Ried                 - SV Lafnitz
-  Kapfenberger SV 1919    - FC Wacker Innsbruck (A)
+  Kapfenberger SV 1919    - FC Wacker Innsbruck II
   FC Liefering            - SC Wiener Neustadt
   SKU Amstetten           - SK Austria Klagenfurt
-  LASK (A)                - WSG Wattens
-  Austria Wien (A)        - Austria Lustenau
+  Juniors OÖ              - WSG Wattens
+  Young Violets           - Austria Lustenau
   Vorwärts Steyr          - Floridsdorfer AC
   SV Horn                 - FC Blau Weiß Linz
 
@@ -343,22 +343,22 @@ Runde 27
 [Fr 17.5.]
   Austria Lustenau        - SV Ried
   WSG Wattens             - SKU Amstetten
-  FC Blau Weiß Linz       - Austria Wien (A)
+  FC Blau Weiß Linz       - Young Violets
   SC Wiener Neustadt      - Kapfenberger SV 1919
-  FC Wacker Innsbruck (A) - SV Horn
+  FC Wacker Innsbruck II  - SV Horn
   SK Austria Klagenfurt   - SV Lafnitz
-  LASK (A)                - Vorwärts Steyr
+  Juniors OÖ              - Vorwärts Steyr
   Floridsdorfer AC        - FC Liefering
 
 
 Runde 28
 [Fr 24.5.]
   SV Ried                 - SK Austria Klagenfurt
-  Kapfenberger SV 1919    - LASK (A)
+  Kapfenberger SV 1919    - Juniors OÖ
   FC Liefering            - WSG Wattens
   SV Lafnitz              - Floridsdorfer AC
   SKU Amstetten           - Austria Lustenau
-  Austria Wien (A)        - FC Wacker Innsbruck (A)
+  Young Violets           - FC Wacker Innsbruck II
   Vorwärts Steyr          - FC Blau Weiß Linz
   SV Horn                 - SC Wiener Neustadt
 
@@ -369,19 +369,19 @@ Runde 29
   Kapfenberger SV 1919    - SV Horn
   FC Blau Weiß Linz       - SV Ried
   SC Wiener Neustadt      - SV Lafnitz
-  FC Wacker Innsbruck (A) - FC Liefering
+  FC Wacker Innsbruck II  - FC Liefering
   SK Austria Klagenfurt   - Vorwärts Steyr
-  LASK (A)                - SKU Amstetten
-  Austria Wien (A)        - Floridsdorfer AC
+  Juniors OÖ              - SKU Amstetten
+  Young Violets           - Floridsdorfer AC
 
 
 Runde 30
 [Sa 1.6.]
-  SV Ried                 - LASK (A)
-  Austria Lustenau        - FC Wacker Innsbruck (A)
+  SV Ried                 - Juniors OÖ
+  Austria Lustenau        - FC Wacker Innsbruck II
   FC Liefering            - SK Austria Klagenfurt
   SV Lafnitz              - FC Blau Weiß Linz
   SKU Amstetten           - Kapfenberger SV 1919
-  Vorwärts Steyr          - Austria Wien (A)
+  Vorwärts Steyr          - Young Violets
   SV Horn                 - WSG Wattens
   Floridsdorfer AC        - SC Wiener Neustadt
