@@ -80,21 +80,22 @@ Runde 6
   FC Blau Weiß Linz       5-1 Floridsdorfer AC
   SC Wiener Neustadt      1-0 Juniors OÖ
   SV Lafnitz              0-0 FC Wacker Innsbruck II
-  Austria Lustenau        1-0 FC Liefering
   Vorwärts Steyr          1-4 SKU Amstetten
 [Sa 1.9.]
+  Austria Lustenau        1-0 FC Liefering
+[So 2.9.]
   SK Austria Klagenfurt   1-2 Young Violets
 
 Runde 7
 [Fr 14.9.]
-  FC Wacker Innsbruck II  1-0 Vorwärts Steyr
-[Sa 15.9.]
   WSG Wattens             2-0 SC Wiener Neustadt
   FC Liefering            1-0 SKU Amstetten
   SV Lafnitz              5-1 Kapfenberger SV 1919
   Young Violets           2-1 Juniors OÖ
   SV Horn                 0-1 SK Austria Klagenfurt
   Floridsdorfer AC        1-0 SV Ried
+[Sa 15.9.]
+  FC Wacker Innsbruck II  1-0 Vorwärts Steyr
 [So 16.9.]
   FC Blau Weiß Linz       - Austria Lustenau
 
