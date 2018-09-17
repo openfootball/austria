@@ -148,52 +148,57 @@ Runde 13
 
 
 Runde 14
-[So 11.11.]
-  Austria Wien            - RB Salzburg
+[Sa 10.11.]
   FC Wacker Innsbruck     - SCR Altach
   Sturm Graz              - SKN St. Pölten
-  SV Mattersburg          - TSV Hartberg
   LASK                    - FC Admira Wacker
+[So 11.11.]
+  Austria Wien            - RB Salzburg
+  SV Mattersburg          - TSV Hartberg
   Wolfsberger AC          - Rapid Wien
 
 
 Runde 15
-[So 25.11.]
-  SCR Altach              - Sturm Graz
+[Sa 24.11.]
   TSV Hartberg            - RB Salzburg
   Wolfsberger AC          - SV Mattersburg
-  SKN St. Pölten          - FC Wacker Innsbruck
   FC Admira Wacker        - Austria Wien
+[So 25.11.]
+  SCR Altach              - Sturm Graz
+  SKN St. Pölten          - FC Wacker Innsbruck
   Rapid Wien              - LASK
 
 
 Runde 16
-[So 2.12.]
-  RB Salzburg             - SCR Altach
-  Sturm Graz              - Wolfsberger AC
+[Sa 1.12.]
   Austria Wien            - SKN St. Pölten
   LASK                    - TSV Hartberg
   SV Mattersburg          - FC Admira Wacker
+[So 2.12.]
+  RB Salzburg             - SCR Altach
+  Sturm Graz              - Wolfsberger AC
   FC Wacker Innsbruck     - Rapid Wien
 
 
 Runde 17
-[So 9.12.]
-  SV Mattersburg          - Austria Wien
-  SKN St. Pölten          - SCR Altach
-  TSV Hartberg            - FC Wacker Innsbruck
+[Sa 8.12.]
   Wolfsberger AC          - LASK
   FC Admira Wacker        - RB Salzburg
+  SKN St. Pölten          - SCR Altach
+[So 9.12.]
+  SV Mattersburg          - Austria Wien
+  TSV Hartberg            - FC Wacker Innsbruck
   Rapid Wien              - Sturm Graz
 
 
 Runde 18
-[So 16.12.]
-  Sturm Graz              - FC Admira Wacker
-  RB Salzburg             - SKN St. Pölten
-  SCR Altach              - TSV Hartberg
+[Sa 15.12.]
   FC Wacker Innsbruck     - Wolfsberger AC
   LASK                    - SV Mattersburg
+  Sturm Graz              - FC Admira Wacker
+[So 16.12.]
+  RB Salzburg             - SKN St. Pölten
+  SCR Altach              - TSV Hartberg
   Austria Wien            - Rapid Wien
 
 
