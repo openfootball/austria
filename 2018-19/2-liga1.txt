@@ -153,20 +153,22 @@ Runde 11
 [Sa 20.10.]
   FC Wacker Innsbruck II  - Kapfenberger SV 1919
   Austria Lustenau        - Young Violets
-
+[So 21.10.]
 
 Runde 12
 [Fr 26.10.]
-  SV Ried                 - Austria Lustenau
-  Kapfenberger SV 1919    - SC Wiener Neustadt
   FC Liefering            - Floridsdorfer AC
   SV Lafnitz              - SK Austria Klagenfurt
   SKU Amstetten           - WSG Wattens
   Young Violets           - FC Blau Weiß Linz
   Vorwärts Steyr          - Juniorss OÖ
   SV Horn                 - FC Wacker Innsbruck II
-
-
+[Sa 27.10.]
+  Kapfenberger SV 1919    - SC Wiener Neustadt
+[So 28.10.]
+  SV Ried                 - Austria Lustenau
+  
+  
 Runde 13
 [Fr 2.11.]
   WSG Wattens             - FC Liefering
