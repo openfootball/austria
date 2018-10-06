@@ -130,14 +130,13 @@ Runde 9
 
 Runde 10
 [Fr 5.10.]
-  Kapfenberger SV 1919    - SK Austria Klagenfurt
-  SKU Amstetten           - SC Wiener Neustadt
-  Young Violets           - WSG Wattens
-  Vorwärts Steyr          - Austria Lustenau
-  SV Horn                 - Floridsdorfer AC
-[Sa 6.10.]
-  SV Ried                 - FC Wacker Innsbruck II
-  FC Liefering            - SV Lafnitz
+  Kapfenberger SV 1919    3-1 SK Austria Klagenfurt
+  SKU Amstetten           2-3 SC Wiener Neustadt
+  Young Violets           1-2 WSG Wattens
+  Vorwärts Steyr          1-5 Austria Lustenau
+  SV Horn                 1-3 Floridsdorfer AC
+  SV Ried                 1-0 FC Wacker Innsbruck II
+  FC Liefering            1-2 SV Lafnitz
 [So 7.10.]
   Juniors OÖ              - FC Blau Weiß Linz
 
