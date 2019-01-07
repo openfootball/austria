@@ -207,23 +207,23 @@ Runde 18
 
 Runde 19
 [Fr 22.2.]
-   LASK                    - Austria Wien
+  LASK                    - Austria Wien
 [Sa 23.2.]
+  Wolfsberger AC          - SCR Altach
+  FC Admira Wacker        - FC Wacker Innsbruck
 [So 24.2.]
   Rapid Wien              - RB Salzburg
   SV Mattersburg          - Sturm Graz
-  Wolfsberger AC          - SCR Altach
   TSV Hartberg            - SKN St. Pölten
-  FC Admira Wacker        - FC Wacker Innsbruck
-
-
+  
 Runde 20
-[So 3.3.]
-  SKN St. Pölten          - Rapid Wien
-  Sturm Graz              - LASK
-  SCR Altach              - FC Admira Wacker
-  FC Wacker Innsbruck     - SV Mattersburg
+[Sa 2.3.]
   RB Salzburg             - Wolfsberger AC
+  SCR Altach              - FC Admira Wacker
+  SKN St. Pölten          - Rapid Wien
+[So 3.3.]
+  Sturm Graz              - LASK
+  FC Wacker Innsbruck     - SV Mattersburg
   Austria Wien            - TSV Hartberg
 
 
