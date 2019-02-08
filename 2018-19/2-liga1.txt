@@ -215,43 +215,48 @@ Runde 15
 
 Runde 16
 [Fr 22.2.]
-  SV Ried                 - Vorwärts Steyr
-  Austria Lustenau        - SK Austria Klagenfurt
   FC Blau Weiß Linz       - SC Wiener Neustadt
   FC Liefering            - SV Horn
-  FC Wacker Innsbruck II  - Juniors OÖ
   SV Lafnitz              - WSG Wattens
   Young Violets           - Kapfenberger SV 1919
   Floridsdorfer AC        - SKU Amstetten
+[Sa 23.2.]
+  FC Wacker Innsbruck II  - Juniors OÖ
+  Austria Lustenau        - SK Austria Klagenfurt
+[So 24.2.]
+  SV Ried                 - Vorwärts Steyr
 
 
 Runde 17
 [Fr 1.3.]
   WSG Wattens             - SV Ried
   Kapfenberger SV 1919    - Floridsdorfer AC
-  SC Wiener Neustadt      - Austria Lustenau
   SKU Amstetten           - FC Wacker Innsbruck II
-  SK Austria Klagenfurt   - FC Blau Weiß Linz
-  Juniors OÖ              - SV Lafnitz
   Vorwärts Steyr          - FC Liefering
   SV Horn                 - Young Violets
+[Sa 2.3.]
+  SC Wiener Neustadt      - Austria Lustenau
+  Juniors OÖ              - SV Lafnitz
+[So 3.3.]
+  SK Austria Klagenfurt   - FC Blau Weiß Linz
 
 
 Runde 18
 [Fr 8.3.]
   SV Ried                 - Kapfenberger SV 1919
-  Austria Lustenau        - SV Horn
-  FC Blau Weiß Linz       - FC Wacker Innsbruck II
-  SC Wiener Neustadt      - Vorwärts Steyr
   SV Lafnitz              - SKU Amstetten
   SK Austria Klagenfurt   - WSG Wattens
   Young Violets           - FC Liefering
   Floridsdorfer AC        - Juniors OÖ
+[Sa 9.3.]
+  FC Blau Weiß Linz       - FC Wacker Innsbruck II
+  SC Wiener Neustadt      - Vorwärts Steyr
+[so 10.3.]
+  Austria Lustenau        - SV Horn
 
 
 Runde 19
 [Fr 15.3.]
-  WSG Wattens             - Floridsdorfer AC
   FC Liefering            - SV Ried
   FC Wacker Innsbruck II  - SK Austria Klagenfurt
   SKU Amstetten           - FC Blau Weiß Linz
@@ -259,18 +264,21 @@ Runde 19
   Young Violets           - SC Wiener Neustadt
   Vorwärts Steyr          - Kapfenberger SV 1919
   SV Horn                 - SV Lafnitz
+[So 17.3.]
+  WSG Wattens             - Floridsdorfer AC
 
 
 Runde 20
 [Fr 29.3.]
   SV Ried                 - SKU Amstetten
-  Austria Lustenau        - Floridsdorfer AC
   Kapfenberger SV 1919    - FC Liefering
   FC Blau Weiß Linz       - WSG Wattens
-  SC Wiener Neustadt      - FC Wacker Innsbruck II
   SV Lafnitz              - Young Violets
   SK Austria Klagenfurt   - Juniors OÖ
   Vorwärts Steyr          - SV Horn
+[Sa 30.3.]
+  SC Wiener Neustadt      - FC Wacker Innsbruck II
+  Austria Lustenau        - Floridsdorfer AC
 
 
 Runde 21
