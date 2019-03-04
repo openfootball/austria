@@ -240,7 +240,7 @@ Runde 17
   SC Wiener Neustadt      1-0 Austria Lustenau
   Juniors OÖ              2-1 SV Lafnitz
 [So 3.3.]
-  SK Austria Klagenfurt   - FC Blau Weiß Linz
+  SK Austria Klagenfurt   5-0 FC Blau Weiß Linz
 
 
 # Nachtrag Runde 16 
@@ -258,7 +258,7 @@ Runde 18
 [Sa 9.3.]
   FC Blau Weiß Linz       - FC Wacker Innsbruck II
   SC Wiener Neustadt      - Vorwärts Steyr
-[so 10.3.]
+[So 10.3.]
   Austria Lustenau        - SV Horn
 
 
