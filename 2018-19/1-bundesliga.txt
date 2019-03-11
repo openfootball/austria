@@ -229,12 +229,12 @@ Runde 20
 
 Runde 21
 [So 10.3.]
-  RB Salzburg             - Sturm Graz
-  SV Mattersburg          - Rapid Wien
-  Austria Wien            - SCR Altach
-  TSV Hartberg            - Wolfsberger AC
-  FC Admira Wacker        - SKN St. Pölten
-  LASK                    - FC Wacker Innsbruck
+  RB Salzburg             0-0 Sturm Graz
+  SV Mattersburg          2-1 Rapid Wien
+  Austria Wien            1-3 SCR Altach
+  TSV Hartberg            1-1 Wolfsberger AC
+  FC Admira Wacker        3-2 SKN St. Pölten
+  LASK                    2-0 FC Wacker Innsbruck
 
 
 Runde 22
