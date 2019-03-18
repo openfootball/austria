@@ -239,9 +239,11 @@ Runde 21
 
 Runde 22
 [So 17.3.]
-  FC Wacker Innsbruck     - RB Salzburg
-  SCR Altach              - LASK
-  Wolfsberger AC          - FC Admira Wacker
-  SKN St. Pölten          - SV Mattersburg
-  Sturm Graz              - Austria Wien
-  Rapid Wien              - TSV Hartberg
+  FC Wacker Innsbruck     0-2 RB Salzburg
+  SCR Altach              1-2 LASK
+  Wolfsberger AC          2-2 FC Admira Wacker
+  SKN St. Pölten          0-1 SV Mattersburg
+  Sturm Graz              1-0 Austria Wien
+  Rapid Wien              2-2 TSV Hartberg
+
+## Ende Grunddurchgang
