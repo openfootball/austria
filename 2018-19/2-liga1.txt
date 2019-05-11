@@ -363,17 +363,22 @@ Runde 25
 
 Runde 26
 [Fr 10.5.]
-  Kapfenberger SV 1919    - FC Wacker Innsbruck II
-  FC Liefering            - SC Wiener Neustadt
-  SKU Amstetten           - SK Austria Klagenfurt
-  Juniors OÖ              - WSG Wattens
-  Young Violets           - Austria Lustenau
-  Vorwärts Steyr          - Floridsdorfer AC
-  SV Horn                 - FC Blau Weiß Linz
+  Kapfenberger SV 1919    4-1 FC Wacker Innsbruck II
+  FC Liefering            2-5 SC Wiener Neustadt
+  Juniors OÖ              1-2 WSG Wattens
+  Young Violets           2-5 Austria Lustenau
+  Vorwärts Steyr          3-2 Floridsdorfer AC
+  SV Horn                 3-0 FC Blau Weiß Linz
 [Sa 11.5.]
-  SV Ried                 - SV Lafnitz
+  SV Ried                 2-0 SV Lafnitz
+[So 12.5.]
+  SKU Amstetten           - SK Austria Klagenfurt
 
 
+# Aufsteiger in 2. Liga 2019/20:
+  GAK
+  
+  
 Runde 27
 [Fr 17.5.]
   WSG Wattens             - SKU Amstetten
