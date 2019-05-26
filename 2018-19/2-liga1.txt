@@ -393,16 +393,25 @@ Runde 27
 
 Runde 28
 [Fr 24.5.]
-  SV Ried                 - SK Austria Klagenfurt
-  Kapfenberger SV 1919    - Juniors OÖ
-  FC Liefering            - WSG Wattens
-  SV Lafnitz              - Floridsdorfer AC
-  SKU Amstetten           - Austria Lustenau
-  Young Violets           - FC Wacker Innsbruck II
-  Vorwärts Steyr          - FC Blau Weiß Linz
-  SV Horn                 - SC Wiener Neustadt
+  Kapfenberger SV 1919    1-1 Juniors OÖ
+  FC Liefering            1-2 WSG Wattens
+  SV Lafnitz              1-0 Floridsdorfer AC
+  SKU Amstetten           2-3 Austria Lustenau
+  Young Violets           2-1 FC Wacker Innsbruck II
+  SV Horn                 0-4 SC Wiener Neustadt
 [So 26.5.]
-
+  SV Ried                 - SK Austria Klagenfurt
+  Vorwärts Steyr          - FC Blau Weiß Linz
+  
+  
+# Absteiger in 2. Liga 2019/20:
+  FC Wacker Innsbruck
+  
+# 1.+2.Absteiger 2. Liga 2018/19: 
+  SC Wiener Neustadt (Zwangsabstieg in 4. Liga)
+  FC Wacker Innsbruck II (Zwangsabstieg in 4. Liga)
+  
+  
 Runde 29
 [Mi 29.5.]
   WSG Wattens             - Austria Lustenau
