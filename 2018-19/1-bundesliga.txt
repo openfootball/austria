@@ -248,10 +248,14 @@ Runde 22
 
 # Ende Grunddurchgang
 
+# Meister 1. Bundesliga 2018/19:
+  RB Salzburg
+  
 # Absteiger 1. Bundesliga 2018/19:
   FC Wacker Innsbruck
   
 # Aufsteiger 1. Bundesliga 2019/20:
-  SV Wattens or SV Ried
+  WSG Wattens or SV Ried
+  
   
 # Ende 1. Bundesliga 2018/19
