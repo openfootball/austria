@@ -410,6 +410,17 @@ Runde 28
 # 1.+2.Absteiger 2. Liga 2018/19: 
   SC Wiener Neustadt (Zwangsabstieg in 4. Liga)
   FC Wacker Innsbruck II (Zwangsabstieg in 4. Liga)
+
+# 2. Aufsteiger in 2. Liga 2019/20:
+  FC Dornbirn
+  
+# 3. Aufsteiger in 2. Liga 2019/20:
+  keine gültigen Lizenzanträge von ASV Ebreichsdorf or FC Mauerwerk
+  somit kein 3. Aufsteiger 
+  
+# 3. Absteiger 2. Liga 2018/19:
+  keine gültigen Lizenzanträge von RL Ost Meister oder Vizemeister
+  somit kein 3. Absteiger
   
   
 Runde 29
