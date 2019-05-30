@@ -408,8 +408,8 @@ Runde 28
   FC Wacker Innsbruck
   
 # 1.+2.Absteiger 2. Liga 2018/19: 
-  SC Wiener Neustadt (Zwangsabstieg in 4. Liga)
-  FC Wacker Innsbruck II (Zwangsabstieg in 4. Liga)
+  SC Wiener Neustadt (Zwangsabstieg in 3. Liga) noch bis 4.6.19 Einspruchmöglichkeit
+  FC Wacker Innsbruck II (Zwangsabstieg in 3. Liga)
 
 # 2. Aufsteiger in 2. Liga 2019/20:
   FC Dornbirn
@@ -425,14 +425,14 @@ Runde 28
   
 Runde 29
 [Mi 29.5.]
-  WSG Wattens             - Austria Lustenau
-  Kapfenberger SV 1919    - SV Horn
-  FC Blau Weiß Linz       - SV Ried
-  SC Wiener Neustadt      - SV Lafnitz
-  FC Wacker Innsbruck II  - FC Liefering
-  SK Austria Klagenfurt   - Vorwärts Steyr
-  Juniors OÖ              - SKU Amstetten
-  Young Violets           - Floridsdorfer AC
+  WSG Wattens             1-0 Austria Lustenau
+  Kapfenberger SV 1919    3-0 SV Horn
+  FC Blau Weiß Linz       0-1 SV Ried
+  SC Wiener Neustadt      2-2 SV Lafnitz
+  FC Wacker Innsbruck II  1-1 FC Liefering
+  SK Austria Klagenfurt   2-1 Vorwärts Steyr
+  Juniors OÖ              1-5 SKU Amstetten
+  Young Violets           1-2 Floridsdorfer AC
 
 
 # Meister 2. Liga 2018/19:
@@ -455,3 +455,6 @@ Runde 30
 
 
 # Ende 2. Liga 2018/19
+
+# 19.7. Start 2. Liga 2019/20 
+ 
