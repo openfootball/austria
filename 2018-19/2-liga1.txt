@@ -412,7 +412,7 @@ Runde 28
   FC Wacker Innsbruck II (Zwangsabstieg in 3. Liga)
 
 # 2. Aufsteiger in 2. Liga 2019/20:
-  FC Dornbirn
+  FC Dornbirn 1913
   
 # 3. Aufsteiger in 2. Liga 2019/20:
   keine gültigen Lizenzanträge von ASK Ebreichsdorf or FC Mauerwerk or FC Mannsdorf-Großenzersdorf
@@ -456,5 +456,5 @@ Runde 30
 
 # Ende 2. Liga 2018/19
 
-# 19.7. Start 2. Liga 2019/20 
+# 26.7. Start 2. Liga 2019/20 
  
