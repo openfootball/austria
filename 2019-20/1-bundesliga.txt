@@ -1,0 +1,229 @@
+###################################
+# Österr. Bundesliga 2019/20
+
+
+Runde 1
+[Fr 26.7.]
+  Rapid Wien              - RB Salzburg
+[Sa 27.7.]
+  WSG Tirol               - Austria Wien
+  FC Admira Wacker        - Wolfsberger AC
+[So 28.7.]
+  Sturm Graz              - SKN St. Pölten
+  Linzer ASK              - SCR Altach
+  SV Mattersburg          - TSV Hartberg
+
+
+Runde 2
+[Sa 3.8.]
+  Austria Wien            - Linzer ASK
+  TSV Hartberg            - FC Admira Wacker
+  SCR Altach              - WSG Tirol
+[So 4.8.]
+  RB Salzburg             - SV Mattersburg
+  SKN St. Pölten          - Rapid Wien
+  Wolfsberger AC          - Sturm Graz
+
+
+Runde 3
+[Sa 10.8.]
+  RB Salzburg             - Wolfsberger AC
+  Rapid Wien              - SCR Altach
+  FC Admira Wacker        - Linzer ASK
+[So 11.8.]
+  WSG Tirol               - SKN St. Pölten
+  TSV Hartberg            - Sturm Graz
+  SV Mattersburg          - Austria Wien
+
+
+Runde 4
+[Sa 17.8.]
+  Linzer ASK              - WSG Tirol
+  SKN St. Pölten          - RB Salzburg
+  Wolfsberger AC          - SV Mattersburg
+[So 18.8.]
+  Sturm Graz              - Rapid Wien
+  Austria Wien            - FC Admira Wacker
+  SCR Altach              - TSV Hartberg
+
+
+Runde 5
+[Sa 24.8.]
+  Rapid Wien              - Linzer ASK
+  Wolfsberger AC          - SCR Altach
+  SV Mattersburg          - SKN St. Pölten
+[So 25.8.]
+  RB Salzburg             - FC Admira Wacker
+  Sturm Graz              - WSG Tirol
+  TSV Hartberg            - Austria Wien
+
+
+Runde 6
+[Sa 31.8.]
+  Linzer ASK              - Wolfsberger AC
+  WSG Tirol               - RB Salzburg
+  FC Admira Wacker        - SV Mattersburg
+[So 1.9.]
+  Austria Wien            - Rapid Wien
+  SKN St. Pölten          - TSV Hartberg
+  SCR Altach              - Sturm Graz
+
+
+Runde 7
+[Sa 14.9.]
+  RB Salzburg             - TSV Hartberg
+  Rapid Wien              - FC Admira Wacker
+  Sturm Graz              - Linzer ASK
+  Wolfsberger AC          - Austria Wien
+  SCR Altach              - SKN St. Pölten
+  SV Mattersburg          - WSG Tirol
+
+
+Runde 8
+[Sa 21.9.]
+  Austria Wien            - SCR Altach
+  Linzer ASK              - RB Salzburg
+  WSG Tirol               - Rapid Wien
+  TSV Hartberg            - Wolfsberger AC
+  SV Mattersburg          - Sturm Graz
+  FC Admira Wacker        - SKN St. Pölten
+
+
+Runde 9
+[Sa 28.9.]
+  RB Salzburg             - Austria Wien
+  Rapid Wien              - TSV Hartberg
+  Sturm Graz              - FC Admira Wacker
+  SKN St. Pölten          - Linzer ASK
+  Wolfsberger AC          - WSG Tirol
+  SCR Altach              - SV Mattersburg
+
+
+Runde 10
+[Sa 5.10.]
+  RB Salzburg             - SCR Altach
+  Austria Wien            - Sturm Graz
+  TSV Hartberg            - Linzer ASK
+  Wolfsberger AC          - SKN St. Pölten
+  SV Mattersburg          - Rapid Wien
+  FC Admira Wacker        - WSG Tirol
+
+
+Runde 11
+[Sa 19.10.]
+  Rapid Wien              - Wolfsberger AC
+  Sturm Graz              - RB Salzburg
+  Linzer ASK              - SV Mattersburg
+  SKN St. Pölten          - Austria Wien
+  WSG Tirol               - TSV Hartberg
+  SCR Altach              - FC Admira Wacker
+
+
+Runde 12
+[Sa 26.10.]
+  RB Salzburg             - Rapid Wien
+  Austria Wien            - WSG Tirol
+  SKN St. Pölten          - Sturm Graz
+  TSV Hartberg            - SV Mattersburg
+  Wolfsberger AC          - FC Admira Wacker
+  SCR Altach              - Linzer ASK
+
+
+Runde 13
+[Sa 2.11.]
+  Rapid Wien              - SKN St. Pölten
+  Sturm Graz              - Wolfsberger AC
+  Linzer ASK              - Austria Wien
+  WSG Tirol               - SCR Altach
+  SV Mattersburg          - RB Salzburg
+  FC Admira Wacker        - TSV Hartberg
+
+
+Runde 14
+[Sa 9.11.]
+  Sturm Graz              - TSV Hartberg
+  Austria Wien            - SV Mattersburg
+  Linzer ASK              - FC Admira Wacker
+  SKN St. Pölten          - WSG Tirol
+  Wolfsberger AC          - RB Salzburg
+  SCR Altach              - Rapid Wien
+
+
+Runde 15
+[Sa 23.11.]
+  RB Salzburg             - SKN St. Pölten
+  Rapid Wien              - Sturm Graz
+  WSG Tirol               - Linzer ASK
+  TSV Hartberg            - SCR Altach
+  SV Mattersburg          - Wolfsberger AC
+  FC Admira Wacker        - Austria Wien
+
+
+Runde 16
+[Sa 30.11.]
+  Austria Wien            - TSV Hartberg
+  Linzer ASK              - Rapid Wien
+  SKN St. Pölten          - SV Mattersburg
+  WSG Tirol               - Sturm Graz
+  SCR Altach              - Wolfsberger AC
+  FC Admira Wacker        - RB Salzburg
+
+
+Runde 17
+[Sa 7.12.]
+  RB Salzburg             - WSG Tirol
+  Rapid Wien              - Austria Wien
+  Sturm Graz              - SCR Altach
+  TSV Hartberg            - SKN St. Pölten
+  Wolfsberger AC          - Linzer ASK
+  SV Mattersburg          - FC Admira Wacker
+
+
+Runde 18
+[Sa 14.12.]
+  Austria Wien            - Wolfsberger AC
+  Linzer ASK              - Sturm Graz
+  SKN St. Pölten          - SCR Altach
+  WSG Tirol               - SV Mattersburg
+  TSV Hartberg            - RB Salzburg
+  FC Admira Wacker        - Rapid Wien
+
+
+Runde 19
+[Sa 15.2.]
+  RB Salzburg             - Linzer ASK
+  Rapid Wien              - WSG Tirol
+  Sturm Graz              - SV Mattersburg
+  SKN St. Pölten          - FC Admira Wacker
+  Wolfsberger AC          - TSV Hartberg
+  SCR Altach              - Austria Wien
+
+
+Runde 20
+[Sa 22.2.]
+  Austria Wien            - RB Salzburg
+  Linzer ASK              - SKN St. Pölten
+  WSG Tirol               - Wolfsberger AC
+  TSV Hartberg            - Rapid Wien
+  SV Mattersburg          - SCR Altach
+  FC Admira Wacker        - Sturm Graz
+
+
+Runde 21
+[Sa 29.2.]
+  Rapid Wien              - SV Mattersburg
+  Sturm Graz              - Austria Wien
+  Linzer ASK              - TSV Hartberg
+  SKN St. Pölten          - Wolfsberger AC
+  WSG Tirol               - FC Admira Wacker
+  SCR Altach              - RB Salzburg
+
+
+Runde 22
+[Sa 7.3.]
+  RB Salzburg             - Sturm Graz
+  Austria Wien            - SKN St. Pölten
+  TSV Hartberg            - WSG Tirol
+  Wolfsberger AC          - Rapid Wien
+  SV Mattersburg          - Linzer ASK
+  FC Admira Wacker        - SCR Altach
