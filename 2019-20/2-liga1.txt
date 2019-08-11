@@ -29,18 +29,17 @@ Runde 2
 Runde 3
 [Fr 9.8.]
   Grazer AK               - SV Horn
-  SV Ried                 - SKU Amstetten
   Vorwärts Steyr          - Blau-Weiß Linz
   FC Juniors OÖ           - Kapfenberger SV
-  Young Violets Austria Wien - Austria Lustenau
+  Young Violets  - Austria Lustenau
   FC Dornbirn 1913        - Austria Klagenfurt
   Floridsdorfer AC        - Wacker Innsbruck
   SV Lafnitz              - FC Liefering
-
+[So 11.8.]
+  SV Ried                 4-1 SKU Amstetten
 
 Runde 4
 [Fr 16.8.]
-  Austria Lustenau        - Grazer AK
   Vorwärts Steyr          - Floridsdorfer AC
   Kapfenberger SV         - Austria Klagenfurt
   Blau-Weiß Linz          - Young Violets Austria Wien
@@ -48,8 +47,10 @@ Runde 4
   SKU Amstetten           - FC Dornbirn 1913
   FC Liefering            - SV Horn
   SV Lafnitz              - SV Ried
-
-
+[So 18.8]
+  Austria Lustenau        - Grazer AK
+  
+  
 Runde 5
 [Fr 23.8.]
   SV Ried                 - Grazer AK
