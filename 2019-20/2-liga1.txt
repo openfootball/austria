@@ -116,23 +116,25 @@ Runde 9
   Kapfenberger SV         - FC Liefering
   Blau-Weiß Linz          - SV Ried
   SV Horn                 - Austria Lustenau
+  SKU Amstetten           - FC Juniors OÖ
+[Sa 28.9.]
   Wacker Innsbruck        - SV Lafnitz
   FC Dornbirn 1913        - Grazer AK
-  SKU Amstetten           - FC Juniors OÖ
 
 
 Runde 10
 [Fr 4.10.]
   Grazer AK               - Young Violets 
-  Austria Lustenau        - FC Liefering
   SV Ried                 - Vorwärts Steyr
-  FC Juniors OÖ           - Austria Klagenfurt
   SV Horn                 - Blau-Weiß Linz
   Wacker Innsbruck        - Kapfenberger SV
   Floridsdorfer AC        - SKU Amstetten
+[Sa 5.10.]
   SV Lafnitz              - FC Dornbirn 1913
-
-
+  Austria Lustenau        - FC Liefering
+  FC Juniors OÖ           - Austria Klagenfurt
+  
+  
 Runde 11
 [Fr 18.10.]
   Vorwärts Steyr          - Austria Lustenau
@@ -140,21 +142,23 @@ Runde 11
   Young Violets           - Wacker Innsbruck
   Kapfenberger SV         - Grazer AK
   Blau-Weiß Linz          - Floridsdorfer AC
-  FC Dornbirn 1913        - FC Juniors OÖ
   SKU Amstetten           - SV Lafnitz
+[Sa 19.10.]
   FC Liefering            - SV Ried
+  FC Dornbirn 1913        - FC Juniors OÖ
 
 
 Runde 12
 [Fr 25.10.]
   Grazer AK               - FC Liefering
   Austria Lustenau        - Kapfenberger SV
-  FC Juniors OÖ           - Young Violets 
-  SV Horn                 - FC Dornbirn 1913
   Wacker Innsbruck        - SV Ried
   SKU Amstetten           - Blau-Weiß Linz
   Floridsdorfer AC        - Austria Klagenfurt
   SV Lafnitz              - Vorwärts Steyr
+[Sa 26.10.]
+  FC Juniors OÖ           - Young Violets 
+  SV Horn                 - FC Dornbirn 1913
 
 
 Runde 13
