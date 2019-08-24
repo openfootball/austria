@@ -70,39 +70,45 @@ Runde 5
 Runde 6
 [Fr 30.8.]
   Grazer AK               - FC Juniors OÖ
-  Austria Lustenau        - Floridsdorfer AC
-  Vorwärts Steyr          - FC Dornbirn 1913
   Kapfenberger SV         - SV Ried
   Blau-Weiß Linz          - Wacker Innsbruck
   SKU Amstetten           - SV Horn
   FC Liefering            - Young Violets 
   SV Lafnitz              - Austria Klagenfurt
-
-
+[Sa 31.8.] 
+  Vorwärts Steyr          - FC Dornbirn 1913
+[So 1.9.]
+  Austria Lustenau        - Floridsdorfer AC
+  
+  
 Runde 7
 [Fr 13.9.]
   Austria Klagenfurt      - Austria Lustenau
-  FC Juniors OÖ           - Blau-Weiß Linz
   Young Violets           - SV Ried
   SV Horn                 - Kapfenberger SV
-  Wacker Innsbruck        - Grazer AK
-  FC Dornbirn 1913        - FC Liefering
   SKU Amstetten           - Vorwärts Steyr
   Floridsdorfer AC        - SV Lafnitz
-
-
+[Sa 14.9.]
+  Wacker Innsbruck        - Grazer AK
+  FC Dornbirn 1913        - FC Liefering
+[So 15.9.]
+  FC Juniors OÖ           - Blau-Weiß Linz
+  
+  
 Runde 8
 [Fr 20.9.]
   Grazer AK               - Austria Klagenfurt
   Austria Lustenau        - Blau-Weiß Linz
   SV Ried                 - FC Juniors OÖ
-  Vorwärts Steyr          - Young Violets 
   Kapfenberger SV         - SKU Amstetten
+  SV Lafnitz              - SV Horn
+[Sa 21.9.]
   Floridsdorfer AC        - FC Dornbirn 1913
   FC Liefering            - Wacker Innsbruck
-  SV Lafnitz              - SV Horn
-
-
+[So 22.9.]
+  Vorwärts Steyr          - Young Violets 
+  
+  
 Runde 9
 [Fr 27.9.]
   Austria Klagenfurt      - Vorwärts Steyr
