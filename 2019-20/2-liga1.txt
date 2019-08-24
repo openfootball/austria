@@ -163,52 +163,56 @@ Runde 12
 
 Runde 13
 [Fr 1.11.]
-  Austria Lustenau        - Wacker Innsbruck
   SV Ried                 - SV Horn
   Vorwärts Steyr          - Grazer AK
   Austria Klagenfurt      - SKU Amstetten
-  Young Violets           - FC Dornbirn 1913
   Kapfenberger SV         - Floridsdorfer AC
   Blau-Weiß Linz          - SV Lafnitz
   FC Liefering            - FC Juniors OÖ
-
-
+[Sa 2.11.]
+  Austria Lustenau        - Wacker Innsbruck
+  Young Violets           - FC Dornbirn 1913
+  
+  
 Runde 14
 [Fr 8.11.]
   Young Violets           - Kapfenberger SV
   SV Horn                 - FC Juniors OÖ
   Wacker Innsbruck        - Austria Klagenfurt
-  FC Dornbirn 1913        - Blau-Weiß Linz
   SKU Amstetten           - Austria Lustenau
   Floridsdorfer AC        - SV Ried
-  FC Liefering            - Vorwärts Steyr
   SV Lafnitz              - Grazer AK
-
-
+[Sa 9.11.]
+  FC Dornbirn 1913        - Blau-Weiß Linz
+  FC Liefering            - Vorwärts Steyr
+  
+  
 Runde 15
 [Fr 22.11.]
   Grazer AK               - SKU Amstetten
-  Austria Lustenau        - SV Lafnitz
   SV Ried                 - FC Dornbirn 1913
   Austria Klagenfurt      - Young Violets 
-  FC Juniors OÖ           - Floridsdorfer AC
   Kapfenberger SV         - Vorwärts Steyr
   Blau-Weiß Linz          - FC Liefering
   SV Horn                 - Wacker Innsbruck
-
-
+[Sa 23.11.]
+  Austria Lustenau        - SV Lafnitz
+  FC Juniors OÖ           - Floridsdorfer AC
+  
+  
 Runde 16
 [Fr 29.11.]
-  Vorwärts Steyr          - Kapfenberger SV
   Young Violets           - Austria Klagenfurt
   Wacker Innsbruck        - SV Horn
-  FC Dornbirn 1913        - SV Ried
   SKU Amstetten           - Grazer AK
   Floridsdorfer AC        - FC Juniors OÖ
-  FC Liefering            - Blau-Weiß Linz
   SV Lafnitz              - Austria Lustenau
-
-
+[Sa 30.11.]
+  Vorwärts Steyr          - Kapfenberger SV
+  FC Dornbirn 1913        - SV Ried
+  FC Liefering            - Blau-Weiß Linz
+  
+  
 Runde 17
 [Fr 21.2.]
   Grazer AK               - Floridsdorfer AC
