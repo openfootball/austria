@@ -72,31 +72,34 @@ Runde 6
 Runde 7
 [Sa 14.9.]
   RB Salzburg             - TSV Hartberg
-  Rapid Wien              - FC Admira Wacker
+  SV Mattersburg          - WSG Tirol
   Sturm Graz              - Linzer ASK
+[So 15.9.]
   Wolfsberger AC          - Austria Wien
   SCR Altach              - SKN St. Pölten
-  SV Mattersburg          - WSG Tirol
+  Rapid Wien              - FC Admira Wacker
 
 
 Runde 8
 [Sa 21.9.]
-  Austria Wien            - SCR Altach
-  Linzer ASK              - RB Salzburg
   WSG Tirol               - Rapid Wien
-  TSV Hartberg            - Wolfsberger AC
   SV Mattersburg          - Sturm Graz
   FC Admira Wacker        - SKN St. Pölten
-
-
+[So 22.9.]
+  Austria Wien            - SCR Altach
+  Linzer ASK              - RB Salzburg
+  TSV Hartberg            - Wolfsberger AC
+  
+  
 Runde 9
 [Sa 28.9.]
   RB Salzburg             - Austria Wien
-  Rapid Wien              - TSV Hartberg
-  Sturm Graz              - FC Admira Wacker
   SKN St. Pölten          - Linzer ASK
   Wolfsberger AC          - WSG Tirol
+[So 29.9.]
   SCR Altach              - SV Mattersburg
+  Rapid Wien              - TSV Hartberg
+  Sturm Graz              - FC Admira Wacker
 
 
 Runde 10
