@@ -3,135 +3,138 @@
 
 
 Runde 1
-[Fr 26.7.]
+[Fr. 26.7.]
   Rapid Wien              0-2 RB Salzburg
-[Sa 27.7.]
+[Sa. 27.7.]
   WSG Tirol               3-1 Austria Wien
   FC Admira Wacker        0-3 Wolfsberger AC
-[So 28.7.]
+[So. 28.7.]
   Sturm Graz              3-0 SKN St. Pölten
   Linzer ASK              2-0 SCR Altach
   SV Mattersburg          2-1 TSV Hartberg
 
 
 Runde 2
-[Sa 3.8.]
+[Sa. 3.8.]
   Austria Wien            0-3 Linzer ASK
   TSV Hartberg            4-1 FC Admira Wacker
   SCR Altach              3-2 WSG Tirol
-[So 4.8.]
+[So. 4.8.]
   RB Salzburg             4-1 SV Mattersburg
   SKN St. Pölten          2-2 Rapid Wien
   Wolfsberger AC          0-1 Sturm Graz
 
 
 Runde 3
-[Sa 10.8.]
+[Sa. 10.8.]
   RB Salzburg             5-2 Wolfsberger AC
   Rapid Wien              2-1 SCR Altach
   FC Admira Wacker        0-1 Linzer ASK
-[So 11.8.]
+[So. 11.8.]
   WSG Tirol               1-1 SKN St. Pölten
   TSV Hartberg            1-0 Sturm Graz
   SV Mattersburg          1-5 Austria Wien
 
 
 Runde 4
-[Sa 17.8.]
+[Sa. 17.8.]
   Linzer ASK              1-1 WSG Tirol
   SKN St. Pölten          0-6 RB Salzburg
   Wolfsberger AC          5-0 SV Mattersburg
-[So 18.8.]
+[So. 18.8.]
   Sturm Graz              0-1 Rapid Wien
   Austria Wien            1-1 FC Admira Wacker
   SCR Altach              3-3 TSV Hartberg
 
 
 Runde 5
-[Sa 24.8.]
+[Sa. 24.8.]
   Rapid Wien              1-2 Linzer ASK
   Wolfsberger AC          5-2 SCR Altach
   SV Mattersburg          0-1 SKN St. Pölten
-[So 25.8.]
+[So. 25.8.]
   RB Salzburg             5-0 FC Admira Wacker
   Sturm Graz              2-0 WSG Tirol
   TSV Hartberg            2-2 Austria Wien
 
 
 Runde 6
-[Sa 31.8.]
+[Sa. 31.8.]
   Linzer ASK              0-1 Wolfsberger AC
   WSG Tirol               1-5 RB Salzburg
   FC Admira Wacker        1-3 SV Mattersburg
-[So 1.9.]
+[So. 1.9.]
   Austria Wien            1-3 Rapid Wien
   SKN St. Pölten          1-3 TSV Hartberg
   SCR Altach              1-2 Sturm Graz
 
 
 Runde 7
-[Sa 14.9.]
+[Sa. 14.9.]
   RB Salzburg             7-2 TSV Hartberg
   SV Mattersburg          0-2 WSG Tirol
   Sturm Graz              0-2 Linzer ASK
-[So 15.9.]
+[So. 15.9.]
   Wolfsberger AC          3-0 Austria Wien
   SCR Altach              6-0 SKN St. Pölten
   Rapid Wien              5-0 FC Admira Wacker
 
 
 Runde 8
-[Sa 21.9.]
+[Sa. 21.9.]
   WSG Tirol               - Rapid Wien
   SV Mattersburg          - Sturm Graz
   FC Admira Wacker        - SKN St. Pölten
-[So 22.9.]
+[So. 22.9.]
   Austria Wien            - SCR Altach
   Linzer ASK              - RB Salzburg
   TSV Hartberg            - Wolfsberger AC
   
   
 Runde 9
-[Sa 28.9.]
+[Sa. 28.9.]
   RB Salzburg             - Austria Wien
   SKN St. Pölten          - Linzer ASK
   Wolfsberger AC          - WSG Tirol
-[So 29.9.]
+[So. 29.9.]
   SCR Altach              - SV Mattersburg
   Rapid Wien              - TSV Hartberg
   Sturm Graz              - FC Admira Wacker
 
 
 Runde 10
-[Sa 5.10.]
+[Sa. 5.10.]
   RB Salzburg             - SCR Altach
+  SV Mattersburg          - Rapid Wien
+  FC Admira Wacker        - WSG Tirol
+[So. 6.10]
   Austria Wien            - Sturm Graz
   TSV Hartberg            - Linzer ASK
   Wolfsberger AC          - SKN St. Pölten
-  SV Mattersburg          - Rapid Wien
-  FC Admira Wacker        - WSG Tirol
-
-
+  
+  
 Runde 11
-[Sa 19.10.]
-  Rapid Wien              - Wolfsberger AC
+[Sa. 19.10.]
   Sturm Graz              - RB Salzburg
   Linzer ASK              - SV Mattersburg
+  SCR Altach              - FC Admira Wacker
+[So. 20.10.]
   SKN St. Pölten          - Austria Wien
   WSG Tirol               - TSV Hartberg
-  SCR Altach              - FC Admira Wacker
-
-
+  Rapid Wien              - Wolfsberger AC
+  
+  
 Runde 12
-[Sa 26.10.]
-  RB Salzburg             - Rapid Wien
+[Sa. 26.10.]
   Austria Wien            - WSG Tirol
   SKN St. Pölten          - Sturm Graz
   TSV Hartberg            - SV Mattersburg
+[So. 27.10.]
+  RB Salzburg             - Rapid Wien
   Wolfsberger AC          - FC Admira Wacker
   SCR Altach              - Linzer ASK
-
-
+  
+  
 Runde 13
 [Sa 2.11.]
   Rapid Wien              - SKN St. Pölten
