@@ -136,35 +136,38 @@ Runde 12
   
   
 Runde 13
-[Sa 2.11.]
+[Sa. 2.11.]
   Rapid Wien              - SKN St. Pölten
   Sturm Graz              - Wolfsberger AC
+  SV Mattersburg          - RB Salzburg
+[So. 3.11.]
   Linzer ASK              - Austria Wien
   WSG Tirol               - SCR Altach
-  SV Mattersburg          - RB Salzburg
   FC Admira Wacker        - TSV Hartberg
-
-
+  
+  
 Runde 14
-[Sa 9.11.]
+[Sa. 9.11.]
   Sturm Graz              - TSV Hartberg
+  SKN St. Pölten          - WSG Tirol
+  SCR Altach              - Rapid Wien
+[So. 10.11.]
   Austria Wien            - SV Mattersburg
   Linzer ASK              - FC Admira Wacker
-  SKN St. Pölten          - WSG Tirol
   Wolfsberger AC          - RB Salzburg
-  SCR Altach              - Rapid Wien
 
 
 Runde 15
-[Sa 23.11.]
+[Sa. 23.11.]
   RB Salzburg             - SKN St. Pölten
-  Rapid Wien              - Sturm Graz
   WSG Tirol               - Linzer ASK
-  TSV Hartberg            - SCR Altach
   SV Mattersburg          - Wolfsberger AC
+[So. 24.11.]
+  Rapid Wien              - Sturm Graz
+  TSV Hartberg            - SCR Altach
   FC Admira Wacker        - Austria Wien
-
-
+  
+  
 Runde 16
 [Sa 30.11.]
   Austria Wien            - TSV Hartberg
