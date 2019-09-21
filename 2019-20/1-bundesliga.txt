@@ -169,33 +169,39 @@ Runde 15
   
   
 Runde 16
-[Sa 30.11.]
+[Sa. 30.11.]
   Austria Wien            - TSV Hartberg
-  Linzer ASK              - Rapid Wien
   SKN St. Pölten          - SV Mattersburg
   WSG Tirol               - Sturm Graz
+[So. 1.12.]
+  Linzer ASK              - Rapid Wien
   SCR Altach              - Wolfsberger AC
   FC Admira Wacker        - RB Salzburg
 
 
 Runde 17
-[Sa 7.12.]
+[Sa. 7.12.]
   RB Salzburg             - WSG Tirol
-  Rapid Wien              - Austria Wien
-  Sturm Graz              - SCR Altach
   TSV Hartberg            - SKN St. Pölten
   Wolfsberger AC          - Linzer ASK
+[So. 8.12.]
+  Rapid Wien              - Austria Wien
+  Sturm Graz              - SCR Altach
   SV Mattersburg          - FC Admira Wacker
 
 
 Runde 18
-[Sa 14.12.]
-  Austria Wien            - Wolfsberger AC
-  Linzer ASK              - Sturm Graz
+[Sa. 14.12.]
   SKN St. Pölten          - SCR Altach
-  WSG Tirol               - SV Mattersburg
   TSV Hartberg            - RB Salzburg
   FC Admira Wacker        - Rapid Wien
+[So. 15.12.]
+  WSG Tirol               - SV Mattersburg
+  Austria Wien            - Wolfsberger AC
+  Linzer ASK              - Sturm Graz
+
+
+# Winterpause incl. 15.2.
 
 
 Runde 19
