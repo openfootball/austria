@@ -1,11 +1,5 @@
 = Österr. Bundesliga 2011/12
 
-# see de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2011/12
-# start_at: 2011-07-16
-#
-# note: timezone for games (play_at) is *always* CET (central european time)
-
-
  1  FC Red Bull Salzburg       36  19  11   6  60:30  +30  68
  2  SK Rapid Wien              36  16  14   6  52:30  +22  62
  3  FC Admira Wacker Mödling   36  15  10  11  59:52   +7  55
@@ -18,13 +12,7 @@
 10  Kapfenberger SV            36   5   8  23  21:66  −45  23
 
 
-
 = ÖFB Cup 2011/12
-
-# see de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2011/12
-# start_at: 2011-07-15
-# team3: false       -- no game for 3rd/4th place
-
 
 FC Red Bull Salzburg      ## Bundesliga
 FK Austria Wien
