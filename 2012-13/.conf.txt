@@ -1,0 +1,112 @@
+= Österr. Bundesliga 2012/13
+
+# see de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13
+# start_at: 2012-07-21
+#
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+ 1  FK Austria Wien            36  25   7   4  84:31  +53  82
+ 2  FC Red Bull Salzburg       36  22  11   3  91:39  +52  77
+ 3  SK Rapid Wien              36  16   9  11  57:39  +18  57
+ 4  SK Sturm Graz              36  13   9  14  49:56   −7  48
+ 5  Wolfsberger AC             36  12  11  13  53:56   −3  47
+ 6  SV Ried                    36  13   7  16  60:59   +1  46
+ 7  SC Wiener Neustadt         36   9   9  18  32:60  −28  36
+ 8  FC Wacker Innsbruck        36  11   3  22  41:75  −34  36
+ 9  FC Admira Wacker Mödling   36   9   8  19  47:68  −21  35
+10  SV Mattersburg             36   9   8  19  36:67  −31  35
+
+
+= Österr. Erste Liga 2012/13     ## 1. Liga
+
+# start_at: 2012-07-20
+
+ 1  SV Grödig              36  23   6   7  71:30  +41  75
+ 2  SCR Altach             36  19   8   9  57:39  +18  65
+ 3  SC Austria Lustenau    36  18   7  11  60:39  +21  61
+ 4  SKN St. Pölten         36  14  12  10  65:60   +5  54
+ 5  Kapfenberger SV        36  14  11  11  56:50   +6  53
+ 6  SV Horn                36  13   7  16  50:55   −5  46
+ 7  First Vienna FC 1894   36  13   7  16  48:64  −16  46
+ 8  FC Lustenau 07         36  10   8  18  44:66  −22  38
+ 9  TSV Hartberg           36   8   9  19  35:57  −22  33
+10  FC Blau-Weiß Linz      36   5  11  20  38:67  −29  26
+
+
+= ÖFB Cup 2012/13
+
+# start_at: 2012-07-13
+# team3: false          -- no game for 3rd/4th place
+
+FC Red Bull Salzburg         # 10 Bundeliga Teams
+SK Rapid Wien
+FC Admira Wacker Mödling
+FK Austria Wien
+SK Sturm Graz
+SV Ried
+FC Wacker Innsbruck
+SV Mattersburg
+SC Wiener Neustadt
+Wolfsberger AC
+
+Kapfenberger SV              # 10 Erste Liga Teams
+SCR Altach
+SC Austria Lustenau
+SKN St. Pölten
+FC Blau-Weiß Linz
+SV Grödig
+First Vienna FC 1894
+FC Lustenau 07
+TSV Hartberg
+SV Horn
+
+SC-ESV Parndorf 1919      # (B)   Regionalliga Teams
+SV Stegersbach            # (B)
+SAK Klagenfurt            # (K)
+SK Austria Klagenfurt     # (K)
+Villacher SV              # (K)
+1. SC Sollenau            # (NÖ)
+SKU Amstetten             # (NÖ)
+FC Pasching               # (OÖ)
+LASK Linz                 # (OÖ)
+Union St. Florian         # (OÖ)
+Union Vöcklamarkt         # (OÖ)
+FC Pinzgau Saalfelden     # (S)
+TSV St. Johann im Pongau  # (S)
+DSV Leoben                # (ST)
+FC Gratkorn               # (ST)
+USV Allerheiligen         # (ST)
+FC Hard                   # (V)
+SC Bregenz                # (V)
+FAC Team für Wien         # (W)
+SV Schwechat              # (W)
+Wiener Sportklub          # (W)
+SV Oberwart               # (B)
+ASK Bad Vöslau            # (NÖ)
+SC Retz                   # (NÖ)
+SCU Ardagger              # (NÖ)
+SV Gaflenz                # (NÖ)
+SV Wallern                # (OÖ)
+Salzburger AK 1914        # (S)
+SC Kalsdorf               # (ST)
+SC Schwaz                 # (T)
+SV Reutte                 # (T)
+FC Wolfurt                # (V)
+SC Ostbahn XI             # (W)
+
+
+# noch einige teams
+
+WSG Wattens
+Grazer AK
+
+SV Heiligenkreuz            # (B)
+SV Spittal/Drau             # (K)
+FC Rohrendorf/Gedersdorf    # (NÖ)
+SV Grün-Weiß Micheldorf     # (OÖ)
+SV Austria Salzburg         # (S)
+Deutschlandsberger SC       # (ST)
+FC Kufstein                 # (T)
+FC Dornbirn                 # (V)
+SC Wiener Viktoria          # (W)
+
