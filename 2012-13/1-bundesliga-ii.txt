@@ -1,5 +1,4 @@
-######################################################
-# Österreichische Bundesliga 2012/13 -  Frühjahr
+= Österr. Bundesliga 2012/13     ## Frühjahr
 
 
 21. Runde
