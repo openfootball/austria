@@ -1,5 +1,4 @@
-##################################################
-# Österreichische Bundesliga 2011/12  Rückrunde
+= Österr. Bundesliga 2011/12    ## Rückrunde
 
 
 29. Runde
