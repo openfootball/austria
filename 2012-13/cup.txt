@@ -1,5 +1,4 @@
-####################
-# ÖFB Cup 2012/13
+= ÖFB Cup 2012/13
 
 
 ### todo: how to mark "plain" round as knockoff k.o round in text??
