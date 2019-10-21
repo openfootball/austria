@@ -1,10 +1,5 @@
 = Österr. Bundesliga 2012/13
 
-# see de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2012/13
-# start_at: 2012-07-21
-#
-# note: timezone for games (play_at) is *always* CET (central european time)
-
  1  FK Austria Wien            36  25   7   4  84:31  +53  82
  2  FC Red Bull Salzburg       36  22  11   3  91:39  +52  77
  3  SK Rapid Wien              36  16   9  11  57:39  +18  57
@@ -19,8 +14,6 @@
 
 = Österr. Erste Liga 2012/13     ## 1. Liga
 
-# start_at: 2012-07-20
-
  1  SV Grödig              36  23   6   7  71:30  +41  75
  2  SCR Altach             36  19   8   9  57:39  +18  65
  3  SC Austria Lustenau    36  18   7  11  60:39  +21  61
@@ -34,9 +27,6 @@
 
 
 = ÖFB Cup 2012/13
-
-# start_at: 2012-07-13
-# team3: false          -- no game for 3rd/4th place
 
 FC Red Bull Salzburg         # 10 Bundeliga Teams
 SK Rapid Wien
