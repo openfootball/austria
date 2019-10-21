@@ -148,7 +148,7 @@ Runde 11
   FC Liefering            0-1 SV Ried
   FC Dornbirn 1913        2-2 FC Juniors OÖ
 [So. 20.10.]
-  Kapfenberger SV         - Grazer AK
+  Kapfenberger SV         2-0 Grazer AK
 
 
 Runde 12
@@ -157,13 +157,14 @@ Runde 12
   Austria Lustenau        - Kapfenberger SV
   Wacker Innsbruck        - SV Ried
   SKU Amstetten           - Blau-Weiß Linz
-  Floridsdorfer AC        - Austria Klagenfurt
   SV Lafnitz              - Vorwärts Steyr
 [Sa. 26.10.]
   FC Juniors OÖ           - Young Violets 
   SV Horn                 - FC Dornbirn 1913
-
-
+[So.27.10.]
+  Floridsdorfer AC        - Austria Klagenfurt
+  
+  
 Runde 13
 [Fr. 1.11.]
   SV Ried                 - SV Horn
