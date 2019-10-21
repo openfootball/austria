@@ -1,4 +1,3 @@
-######################################
-# Österreichische Bundesliga 2011/12
+= Österr. Bundesliga 2011/12
 
 
