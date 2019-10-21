@@ -1,4 +1,4 @@
-# Austria (Österreich) - Österr. Bundesliga, Erste Liga, ÖFB Cup
+# Austria (Österreich) - Österr. Bundesliga, Zweite Liga, ÖFB Cup
 
 
 ## What's `football.db`?
@@ -14,25 +14,28 @@ National football club leagues and cup tournaments include:
 
 | Level |                                  |               |
 | ----- | -------------------------------- | ------------- |
-| I     |  Österr. Bundesliga              |  10 Clubs     |
-| II    |  Erste Liga (1. Liga)            |  10 Clubs     |
+| I     |  Österr. Bundesliga¹             |  12 Clubs     |
+| II    |  Erste Liga (2. Liga)            |  16 Clubs     |
 | III   |  Regionalliga Ost, Mitte, West   |  3 x 16 Clubs |
 |       |
 | Cup   |  ÖFB (Austrian) Cup |
 
 
+¹: Regular Season, Championship Round + Relegation Round
+
+
+Before 2018/19
+
+| Level |                                  |               |
+| ----- | -------------------------------- | ------------- |
+| I     |  Österr. Bundesliga              |  10 Clubs     |
+| II    |  Zweite Liga (2. Liga)           |  10 Clubs     |
+
+
 Example:
 
-~~~
-### Österr. Bundesliga Teams
-
-austria,     FK Austria Wien|Austria Wien,                   AUS,  city:wien
-salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
-...
-~~~
-
-~~~
-### Österr. Bundesliga
+```
+= Österr. Bundesliga
 
 1. Runde
 
@@ -50,11 +53,10 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
             [Kamara 90+3'; Schütz 54']
 
 ...
-~~~
+```
 
-~~~
-##############################
-#   Austria Wien
+```
+= Austria Wien
 
 13  Heinz Lindner               GK  2009-
 31  Osman Hadzikić (BIH)        GK  2014-
@@ -85,7 +87,7 @@ salzburg,    FC RB Salzburg|RB Salzburg|Red Bull Salzburg,   RBS,  city:salzburg
  9  Martin Harrer               FW  2014-
 11  Ola Kamara (NOR)            FW  2014-
 24  Roman Kienast               FW  2012-
-~~~
+```
 
 
 ## Build Your Own `austria.db` Copy
@@ -99,9 +101,9 @@ Build the database for all Austrian clubs, leagues and seasons:
 
     $ sportdb new at
 
-Build the database for the 2017/18 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new at2017-18
+    $ sportdb new at2019-20
 
 
 ## Questions? Comments?
@@ -109,4 +111,3 @@ Build the database for the 2017/18 season:
 Send them along to the
 [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
 Thanks!
-

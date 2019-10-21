@@ -1,6 +1,0 @@
-#########
-# Clubs
-
-at-austria!/clubs/1-bundesliga
-at-austria!/clubs/2-liga1
-

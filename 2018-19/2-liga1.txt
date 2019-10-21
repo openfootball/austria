@@ -1,5 +1,4 @@
-###################################
-# Österr. Erste Liga 2018/19
+= Österr. Erste Liga 2018/19
 
 
 Runde 1
@@ -32,7 +31,7 @@ Runde 2
 
 Runde 3
 [Fr 10.8.]
- 
+
   FC Liefering            3-0 Young Violets
   SKU Amstetten           1-1 SV Lafnitz
   SV Horn                 0-3 Austria Lustenau
@@ -168,8 +167,8 @@ Runde 12
   FC Liefering            1-3 Floridsdorfer AC
 [So 28.10.]
   SV Ried                 1-0 Austria Lustenau
-  
-  
+
+
 Runde 13
 [Fr 2.11.]
   WSG Wattens             4-0 FC Liefering
@@ -210,8 +209,8 @@ Runde 15
 [So 25.11.]
   SC Wiener Neustadt      0-0 Floridsdorfer AC
   Juniors OÖ              0-1 SV Ried
-  
-  
+
+
 # Winterpause bis Fr.22.2.2019
 
 
@@ -219,7 +218,7 @@ Runde 16
 [Fr 22.2.]
   FC Blau Weiß Linz       0-2 SC Wiener Neustadt
   FC Liefering            4-0 SV Horn
-  SV Lafnitz              1-1 WSG Wattens      
+  SV Lafnitz              1-1 WSG Wattens
   Young Violets           1-3 Kapfenberger SV 1919
   Floridsdorfer AC        2-0 SKU Amstetten
 [Sa 23.2.]
@@ -243,9 +242,9 @@ Runde 17
   SK Austria Klagenfurt   5-0 FC Blau Weiß Linz
 
 
-# Nachtrag Runde 16 
+# Nachtrag Runde 16
 [Di 5.3.]
-  SV Lafnitz              1-1 WSG Wattens 
+  SV Lafnitz              1-1 WSG Wattens
 
 
 Runde 18
@@ -269,7 +268,7 @@ Runde 19
   SKU Amstetten           2-0 FC Blau Weiß Linz
   Juniors OÖ              4-2 Austria Lustenau
   Young Violets           3-1 SC Wiener Neustadt
-  Vorwärts Steyr          1-1 Kapfenberger SV 1919   
+  Vorwärts Steyr          1-1 Kapfenberger SV 1919
   SV Horn                 2-0 SV Lafnitz
 [So 17.3.]
   WSG Wattens             5-1 Floridsdorfer AC
@@ -300,8 +299,8 @@ Runde 21
 [Sa 6.4.]
   FC Wacker Innsbruck II  1-0 SV Lafnitz
   SKU Amstetten           4-0 Vorwärts Steyr
-  
-  
+
+
 Runde 22
 [Fr 12.4.]
   SV Ried                 3-0 Floridsdorfer AC
@@ -310,9 +309,9 @@ Runde 22
   SKU Amstetten           2-1 FC Liefering
   SK Austria Klagenfurt   2-2 SV Horn
   Juniors OÖ              4-0 Young Violets
-[Sa 13.4.]  
+[Sa 13.4.]
   Austria Lustenau        2-0 FC Blau Weiß Linz
-[So 14.4.]  
+[So 14.4.]
   Vorwärts Steyr          3-4 FC Wacker Innsbruck II
 
 
@@ -326,10 +325,10 @@ Runde 23
   Floridsdorfer AC        2-2 FC Wacker Innsbruck II
 [Sa 20.4.]
   SC Wiener Neustadt      1-3 SK Austria Klagenfurt
-[So 21.4.]  
+[So 21.4.]
   WSG Wattens             2-0 Vorwärts Steyr
-  
-  
+
+
 Runde 24
 [Fr 26.4.]
   SV Ried                 7-0 SC Wiener Neustadt
@@ -344,9 +343,9 @@ Runde 24
 
 
 # Aufsteiger in 1. Liga 2019/20:
-  SV Ried oder WSG Wattens
-  
-  
+#  SV Ried oder WSG Wattens
+
+
 Runde 25
 [Fr 3.5.]
   WSG Wattens             2-1 Young Violets
@@ -376,9 +375,9 @@ Runde 26
 
 
 # 1.Aufsteiger in 2. Liga 2019/20:
-  GAK
-  
-  
+#  GAK
+
+
 Runde 27
 [Fr 17.5.]
   Austria Lustenau        0-0 SV Ried
@@ -402,27 +401,27 @@ Runde 28
 [So 26.5.]
   SV Ried                 1-1 SK Austria Klagenfurt
   Vorwärts Steyr          2-3 FC Blau Weiß Linz
-  
-  
+
+
 # Absteiger in 2. Liga 2019/20:
-  FC Wacker Innsbruck
-  
-# 1.+2.Absteiger 2. Liga 2018/19: 
-  SC Wiener Neustadt (Zwangsabstieg in 3. Liga) noch bis 4.6.19 Einspruchmöglichkeit
-  FC Wacker Innsbruck II (Zwangsabstieg in 3. Liga)
+#  FC Wacker Innsbruck
+
+# 1.+2.Absteiger 2. Liga 2018/19:
+#  SC Wiener Neustadt (Zwangsabstieg in 3. Liga) noch bis 4.6.19 Einspruchmöglichkeit
+#  FC Wacker Innsbruck II (Zwangsabstieg in 3. Liga)
 
 # 2. Aufsteiger in 2. Liga 2019/20:
-  FC Dornbirn 1913
-  
+#  FC Dornbirn 1913
+
 # 3. Aufsteiger in 2. Liga 2019/20:
-  keine gültigen Lizenzanträge von ASK Ebreichsdorf or FC Mauerwerk or FC Mannsdorf-Großenzersdorf
-  somit kein 3. Aufsteiger 
-  
+#  keine gültigen Lizenzanträge von ASK Ebreichsdorf or FC Mauerwerk or FC Mannsdorf-Großenzersdorf
+#  somit kein 3. Aufsteiger
+
 # 3. Absteiger 2. Liga 2018/19:
-  keine gültigen Lizenzanträge von RL Ost Meister oder Vizemeister
-  somit kein 3. Absteiger
-  
-  
+#  keine gültigen Lizenzanträge von RL Ost Meister oder Vizemeister
+#  somit kein 3. Absteiger
+
+
 Runde 29
 [Mi 29.5.]
   WSG Wattens             1-0 Austria Lustenau
@@ -436,9 +435,9 @@ Runde 29
 
 
 # Meister 2. Liga 2018/19:
-  WSG Wattens or SV Ried
-  
-  
+#  WSG Wattens or SV Ried
+
+
 Runde 30
 [Sa 1.6.]
   SV Ried                 3-1 Juniors OÖ
@@ -452,9 +451,8 @@ Runde 30
 
 
 # Meister 2. Liga 2018/19:
-  WSG Tirol (ehemals WSG Wattens)
+#  WSG Tirol (ehemals WSG Wattens)
 
 # Ende 2. Liga 2018/19
-
-# 26.7. Start 2. Liga 2019/20 
- 
+#
+# 26.7. Start 2. Liga 2019/20
