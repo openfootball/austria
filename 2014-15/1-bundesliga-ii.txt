@@ -1,5 +1,4 @@
-###################################################
-# Österreichische Bundesliga 2014/15 -  Frühjahr
+= Österr. Bundesliga 2014/15    ## Frühjahr
 
 
 20. Runde
