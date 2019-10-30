@@ -1,5 +1,4 @@
-#################################
-# Österr. Erste Liga 2014/15
+= Österr. Erste Liga 2014/15
 
 
 1. Runde
