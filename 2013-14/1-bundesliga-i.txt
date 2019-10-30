@@ -1,5 +1,4 @@
-######################################
-# Österreichische Bundesliga 2013/14
+= Österr. Bundesliga 2013/14
 
 
 1. Runde
