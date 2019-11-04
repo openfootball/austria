@@ -1,29 +1,29 @@
 = Österr. Bundesliga 2013/14
 
- 1  FC Red Bull Salzburg       36  25   5   6 110:35  +75  80
- 2  SK Rapid Wien              36  17  11   8  63:40  +23  62
- 3  SV Grödig                  36  15   9  12  68:71   −3  54
- 4  FK Austria Wien            36  14  11  11  58:44  +14  53
- 5  SK Sturm Graz              36  13   9  14  55:55   ±0  48
- 6  SV Ried                    36  10  13  13  55:66  −11  43
- 7  Wolfsberger AC             36  11   8  17  50:63  −13  41
- 8  SC Wiener Neustadt         36  10   9  17  43:84  −41  39
- 9  FC Admira Wacker Mödling   36  11   9  16  51:67  −16  37
-10  FC Wacker Innsbruck        36   5  14  17  42:70  −28  29
+ 1  FC Red Bull Salzburg       36  25   5   6 110:35  +75  80
+ 2  SK Rapid Wien              36  17  11   8  63:40  +23  62
+ 3  SV Grödig                  36  15   9  12  68:71   -3  54
+ 4  FK Austria Wien            36  14  11  11  58:44  +14  53
+ 5  SK Sturm Graz              36  13   9  14  55:55   ±0  48
+ 6  SV Ried                    36  10  13  13  55:66  -11  43
+ 7  Wolfsberger AC             36  11   8  17  50:63  -13  41
+ 8  SC Wiener Neustadt         36  10   9  17  43:84  -41  39
+ 9  FC Admira Wacker Mödling   36  11   9  16  51:67  -16  37
+10  FC Wacker Innsbruck        36   5  14  17  42:70  -28  29
 
 
 = Österr. Erste Liga 2013/14
 
- 1  SCR Altach              36   21   10   5  79:41  +38  73
- 2  SC Austria Lustenau     36   16   11   9  57:36  +21  59
- 3  FC Liefering            36   16   9   11  72:48  +24  57
- 4  SKN St. Pölten          36   15   8   13  52:48   +4  53
- 5  Kapfenberger SV         36   16   4   16  55:48   +7  52
- 6  SV Mattersburg          36   11   11   14  53:67  −14  44
- 7  SV Horn                 36   12   8   16  52:70  −18  44
- 8  TSV Hartberg            36   11   11   14  41:60  −19  44
- 9  SC-ESV Parndorf 1919    36   11   6   19  41:59  −18  39
-10  First Vienna FC 1894    36   9   6   21  36:61  −25  20
+ 1  SCR Altach              36   21   10   5  79:41  +38  73
+ 2  SC Austria Lustenau     36   16   11   9  57:36  +21  59
+ 3  FC Liefering            36   16   9   11  72:48  +24  57
+ 4  SKN St. Pölten          36   15   8   13  52:48   +4  53
+ 5  Kapfenberger SV         36   16   4   16  55:48   +7  52
+ 6  SV Mattersburg          36   11   11   14  53:67  -14  44
+ 7  SV Horn                 36   12   8   16  52:70  -18  44
+ 8  TSV Hartberg            36   11   11   14  41:60  -19  44
+ 9  SC-ESV Parndorf 1919    36   11   6   19  41:59  -18  39
+10  First Vienna FC 1894    36   9   6   21  36:61  -25  20
 
 
 = ÖFB Cup 2013/14

@@ -1,29 +1,29 @@
 = Österr. Bundesliga 2014/15    # 103. Meisterschaft / 41. Saison
 
- 1  FC Red Bull Salzburg      36  22   7   7  99:42  +57  73
- 2  SK Rapid Wien             36  19  10   7  68:38  +30  67
- 3  SCR Altach                36  17   8  11  50:49   +1  59
- 4  SK Sturm Graz             36  16  10  10  57:41  +16  58
- 5  Wolfsberger AC            36  16   4  16  44:50   −6  52
- 6  SV Ried                   36  12   8  16  49:51   −2  44
- 7  FK Austria Wien           36  10  13  13  45:51   −6  43
- 8  SV Grödig                 36  10   7  19  46:65  −19  37
- 9  FC Admira Wacker Mödling  36   7  13  16  32:61  −29  34
-10  SC Wiener Neustadt        36   7   8  21  37:79  −42  29
+ 1  FC Red Bull Salzburg      36  22   7   7  99:42  +57  73
+ 2  SK Rapid Wien             36  19  10   7  68:38  +30  67
+ 3  SCR Altach                36  17   8  11  50:49   +1  59
+ 4  SK Sturm Graz             36  16  10  10  57:41  +16  58
+ 5  Wolfsberger AC            36  16   4  16  44:50   -6  52
+ 6  SV Ried                   36  12   8  16  49:51   -2  44
+ 7  FK Austria Wien           36  10  13  13  45:51   -6  43
+ 8  SV Grödig                 36  10   7  19  46:65  -19  37
+ 9  FC Admira Wacker Mödling  36   7  13  16  32:61  -29  34
+10  SC Wiener Neustadt        36   7   8  21  37:79  -42  29
 
 
 = Österr. Erste Liga 2014/15    ## 1. Liga
 
- 1  SV Mattersburg        36  21   8   7  69:36  +33  71
- 2  FC Liefering          36  20   5  11  70:55  +15  65
- 3  LASK Linz             36  15  11  10  45:36   +9  56
- 4  Kapfenberger SV       36  12  13  11  52:45   +7  49
- 5  SKN St. Pölten        36  12  10  14  37:43   −6  46
- 6  FC Wacker Innsbruck   36  11  10  15  32:43  −11  43
- 7  SC Austria Lustenau   36  11   9  16  49:56   −7  42
- 8  Floridsdorfer AC      36   9  14  13  40:49   −9  41
- 9  SV Horn               36  10   8  18  34:50  −16  38
-10  TSV Hartberg          36  10   8  18  46:65  −19  38
+ 1  SV Mattersburg        36  21   8   7  69:36  +33  71
+ 2  FC Liefering          36  20   5  11  70:55  +15  65
+ 3  LASK Linz             36  15  11  10  45:36   +9  56
+ 4  Kapfenberger SV       36  12  13  11  52:45   +7  49
+ 5  SKN St. Pölten        36  12  10  14  37:43   -6  46
+ 6  FC Wacker Innsbruck   36  11  10  15  32:43  -11  43
+ 7  SC Austria Lustenau   36  11   9  16  49:56   -7  42
+ 8  Floridsdorfer AC      36   9  14  13  40:49   -9  41
+ 9  SV Horn               36  10   8  18  34:50  -16  38
+10  TSV Hartberg          36  10   8  18  46:65  -19  38
 
 
 = ÖFB Cup 2014/15
