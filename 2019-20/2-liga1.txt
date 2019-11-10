@@ -196,7 +196,6 @@ Runde 14
 Runde 15
 [Fr. 22.11.]
   Grazer AK               - SKU Amstetten
-  SV Ried                 - FC Dornbirn 1913
   Austria Klagenfurt      - Young Violets 
   Kapfenberger SV         - Vorwärts Steyr
   Blau-Weiß Linz          - FC Liefering
@@ -204,6 +203,8 @@ Runde 15
 [Sa. 23.11.]
   Austria Lustenau        - SV Lafnitz
   FC Juniors OÖ           - Floridsdorfer AC
+[So. 24.11.]
+  SV Ried                 - FC Dornbirn 1913
   
   
 Runde 16
@@ -216,6 +217,7 @@ Runde 16
 [Sa. 30.11.]
   Vorwärts Steyr          - Kapfenberger SV
   FC Dornbirn 1913        - SV Ried
+[So. 1.12.]
   FC Liefering            - Blau-Weiß Linz
  
  
