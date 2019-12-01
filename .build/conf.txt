@@ -3,6 +3,7 @@
   1 section(s):
     0 lines - league: >Bundesliga< (at.1), season: >2011/12<
       0 clubs:
+      0 rounds:
 [2/37] >2011-12/1-bundesliga-ii.txt<
   1 section(s):
     61 lines - league: >Bundesliga< (at.1), season: >2011/12<
@@ -17,6 +18,15 @@
         Sturm Graz x8
         Wacker Innsbruck x8
         Wr. Neustadt x8
+      8 rounds:
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
 [3/37] >2011-12/cup.txt<
   1 section(s):
     15 lines - league: >ÖFB Cup< (at.cup), season: >2011/12<
@@ -29,6 +39,10 @@
         RB Salzburg II
         SV Grödig
         Sturm Graz
+      3 rounds:
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
 [4/37] >2012-13/1-bundesliga-i.txt<
   1 section(s):
     157 lines - league: >Bundesliga< (at.1), season: >2012/13<
@@ -43,6 +57,27 @@
         Wacker Innsbruck x20
         Wolfsberger AC x20
         Wr. Neustadt x20
+      20 rounds:
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
 [5/37] >2012-13/1-bundesliga-ii.txt<
   1 section(s):
     117 lines - league: >Bundesliga< (at.1), season: >2012/13<
@@ -57,10 +92,28 @@
         Wacker Innsbruck x16
         Wolfsberger AC x16
         Wr. Neustadt x16
+      16 rounds:
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
 [6/37] >2012-13/2-liga1.txt<
   1 section(s):
     0 lines - league: >2. Liga< (at.2), season: >2012/13<
       0 clubs:
+      0 rounds:
 [7/37] >2012-13/cup.txt<
   1 section(s):
     83 lines - league: >ÖFB Cup< (at.cup), season: >2012/13<
@@ -133,6 +186,13 @@
         Union Vöcklamarkt
         WSG Wattens
         Wiener Sportklub
+      6 rounds:
+        1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012, 32 matches
+        2. Runde (Knockout)  //  Di+Mi 25.+26. Sep 2012, 16 matches
+        (3) Achtelfinale   //  Di+Mi 30.+31. Okt 2012, 8 matches
+        (4) Viertelfinale  //  Di+Mi 16.+17. April 2013, 4 matches
+        (5) Halbfinale     //  Di+Mi 7.+8. Mai 2013, 2 matches
+        (6) Finale         //  Do 30. Mai 2013, 1 matches
 [8/37] >2013-14/1-bundesliga-i.txt<
   1 section(s):
     171 lines - league: >Bundesliga< (at.1), season: >2013/14<
@@ -147,6 +207,28 @@
         Wacker Innsbruck x21
         Wolfsberger AC x21
         Wr. Neustadt x21
+      21 rounds:
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
+        21. Runde, 5 matches
 [9/37] >2013-14/1-bundesliga-ii.txt<
   1 section(s):
     118 lines - league: >Bundesliga< (at.1), season: >2013/14<
@@ -161,10 +243,27 @@
         Wacker Innsbruck x15
         Wolfsberger AC x15
         Wr. Neustadt x15
+      15 rounds:
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
 [10/37] >2013-14/2-liga1.txt<
   1 section(s):
     0 lines - league: >2. Liga< (at.2), season: >2013/14<
       0 clubs:
+      0 rounds:
 [11/37] >2013-14/cup.txt<
   1 section(s):
     82 lines - league: >ÖFB Cup< (at.cup), season: >2013/14<
@@ -234,6 +333,13 @@
         WSG Wattens
         Wiener SK
         Wiener Viktoria
+      6 rounds:
+        1. Runde (Knockout)   //  Fr-So 12.-14. Juli 2013, 32 matches
+        2. Runde (Knockout)  //  Di+Mi 24.+25. Sep 2013, 16 matches
+        (3) Achtelfinale   //  Di+Mi 29.+30. Okt 2013, 8 matches
+        (4) Viertelfinale  //  Di+Mi 15.+16. April 2014, 4 matches
+        (5) Halbfinale     //  Di+Mi 6.+7. Mai 2014, 2 matches
+        (6) Finale         //  So 18. Mai 2014, 1 matches
 [12/37] >2014-15/1-bundesliga-i.txt<
   1 section(s):
     139 lines - league: >Bundesliga< (at.1), season: >2014/15<
@@ -248,6 +354,26 @@
         Sturm Graz x19
         Wolfsberger AC x19
         Wr. Neustadt x19
+      19 rounds:
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
 [13/37] >2014-15/1-bundesliga-ii.txt<
   1 section(s):
     119 lines - league: >Bundesliga< (at.1), season: >2014/15<
@@ -262,6 +388,24 @@
         Sturm Graz x17
         Wolfsberger AC x17
         Wr. Neustadt x17
+      17 rounds:
+        20. Runde, 5 matches
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
 [14/37] >2014-15/2-liga1-i.txt<
   1 section(s):
     142 lines - league: >2. Liga< (at.2), season: >2014/15<
@@ -278,6 +422,27 @@
         SKN St.Pölten x18
         SKN St. Pölten x2
         Austira Lustenau
+      20 rounds:
+        1. Runde, 5 matches
+        2. Runde, 5 matches
+        3. Runde, 5 matches
+        4. Runde, 5 matches
+        5. Runde, 5 matches
+        6. Runde, 5 matches
+        7. Runde, 5 matches
+        8. Runde, 5 matches
+        9. Runde, 5 matches
+        10. Runde, 5 matches
+        11. Runde, 5 matches
+        12. Runde, 5 matches
+        13. Runde, 5 matches
+        14. Runde, 5 matches
+        15. Runde, 5 matches
+        16. Runde, 5 matches
+        17. Runde, 5 matches
+        18. Runde, 5 matches
+        19. Runde, 5 matches
+        20. Runde, 5 matches
 [15/37] >2014-15/2-liga1-ii.txt<
   1 section(s):
     112 lines - league: >2. Liga< (at.2), season: >2014/15<
@@ -293,6 +458,23 @@
         Wacker Innsbruck x16
         Floridsdorfer AC x15
         Floridsdorfer Ac
+      16 rounds:
+        21. Runde, 5 matches
+        22. Runde, 5 matches
+        23. Runde, 5 matches
+        24. Runde, 5 matches
+        25. Runde, 5 matches
+        26. Runde, 5 matches
+        27. Runde, 5 matches
+        28. Runde, 5 matches
+        29. Runde, 5 matches
+        30. Runde, 5 matches
+        31. Runde, 5 matches
+        32. Runde, 5 matches
+        33. Runde, 5 matches
+        34. Runde, 5 matches
+        35. Runde, 5 matches
+        36. Runde, 5 matches
 [16/37] >2014-15/6-noe-nordwest-waldviertel-i.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [17/37] >2014-15/6-noe-nordwest-waldviertel-ii.txt<
@@ -370,6 +552,13 @@
         Wattens
         Wimpassing
         Wr. Neustadt
+      6 rounds:
+        1. Runde (Knockout) //  11.-13. Juli 2014, 32 matches
+        2. Runde (Knockout), 16 matches
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
 [19/37] >2015-16/1-bundesliga-i.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [20/37] >2015-16/1-bundesliga-ii.txt<
@@ -416,6 +605,29 @@
         Sturm Graz x22
         TSV Hartberg x22
         Wolfsberger AC x22
+      22 rounds:
+        Runde 1, 6 matches
+        Runde 2, 6 matches
+        Runde 3, 6 matches
+        Runde 4, 6 matches
+        Runde 5, 6 matches
+        Runde 6, 6 matches
+        Runde 7, 6 matches
+        Runde 8, 6 matches
+        Runde 9, 6 matches
+        Runde 10, 6 matches
+        Runde 11, 6 matches
+        Runde 12, 6 matches
+        Runde 13, 6 matches
+        Runde 14, 6 matches
+        Runde 15, 6 matches
+        Runde 16, 6 matches
+        Runde 17, 6 matches
+        Runde 18, 6 matches
+        Runde 19, 6 matches
+        Runde 20, 6 matches
+        Runde 21, 6 matches
+        Runde 22, 6 matches
 [35/37] >2018-19/2-liga1.txt<
   1 section(s):
     352 lines - league: >2. Liga< (at.2), season: >2018/19<
@@ -436,6 +648,37 @@
         SV Ried x30
         Vorwärts Steyr x30
         Young Violets x30
+      30 rounds:
+        Runde 1, 8 matches
+        Runde 2, 8 matches
+        Runde 3, 8 matches
+        Runde 4, 8 matches
+        Runde 5, 8 matches
+        Runde 6, 8 matches
+        Runde 7, 8 matches
+        Runde 8, 8 matches
+        Runde 9, 8 matches
+        Runde 10, 8 matches
+        Runde 11, 8 matches
+        Runde 12, 8 matches
+        Runde 13, 8 matches
+        Runde 14, 8 matches
+        Runde 15, 8 matches
+        Runde 16, 8 matches
+        Runde 17, 9 matches
+        Runde 18, 8 matches
+        Runde 19, 8 matches
+        Runde 20, 8 matches
+        Runde 21, 8 matches
+        Runde 22, 8 matches
+        Runde 23, 8 matches
+        Runde 24, 8 matches
+        Runde 25, 8 matches
+        Runde 26, 8 matches
+        Runde 27, 8 matches
+        Runde 28, 8 matches
+        Runde 29, 8 matches
+        Runde 30, 8 matches
 [36/37] >2019-20/1-bundesliga.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [37/37] >2019-20/2-liga1.txt<
