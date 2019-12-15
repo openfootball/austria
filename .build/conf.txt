@@ -36,7 +36,7 @@
         Austria Wien x2 => FK Austria Wien
         TSV Hartberg x2 => TSV Hartberg
         Austria Lustenau => Austria Lustenau
-        !! RB Salzburg II
+     !! RB Salzburg II
         SV Grödig => SV Grödig
         Sturm Graz => SK Sturm Graz
       3 rounds:
@@ -138,7 +138,7 @@
         Austria Lustenau x2 => Austria Lustenau
         FC Dornbirn x2 => FC Dornbirn 1913
         FC Hard x2 => FC Hard
-        !! FC Lustenau x2
+     !! FC Lustenau x2
         Grazer AK x2 => Grazer AK
         SV Grödig x2 => SV Grödig
         SV Schwechat x2 => SV Schwechat
@@ -160,14 +160,14 @@
         First Vienna FC 1894 => First Vienna FC
         Floridsdorfer AC => Floridsdorfer AC
         Kapfenberger SV => Kapfenberger SV
-        !! Kapfenberger SV 1919
+     !! Kapfenberger SV 1919
         SAK Klagenfurt => SAK Klagenfurt
         SC Bregenz => SC Bregenz
         SC Ostbahn XI => SC Ostbahn XI
         SC Retz => SC Retz
-        !! SC Rohrendorf
+     !! SC Rohrendorf
         SC Schwaz => SC Schwaz
-        !! SC Sollenau
+     !! SC Sollenau
         SC-ESV Parndorf 1919 => SC-ESV Parndorf
         SCU Ardagger => SCU Ardagger
         SKN St. Pölten => SKN St. Pölten
@@ -186,6 +186,8 @@
         Union Vöcklamarkt => Union Vöcklamarkt
         WSG Wattens => WSG Tirol
         Wiener Sportklub => Wiener Sport-Club
+!! ERROR: 1 duplicate club record(s) found
+
       6 rounds:
         1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012, 32 matches
         2. Runde (Knockout)  //  Di+Mi 25.+26. Sep 2012, 16 matches
@@ -313,7 +315,7 @@
         FC St. Veit => FC St. Veit
         Rapid Wien => SK Rapid Wien
         SC Bregenz => SC Bregenz
-        !! SC Leopoldsdorf i. Mfd.
+     !! SC Leopoldsdorf i. Mfd.
         SC Retz => SC Retz
         SC Schwaz => SC Schwaz
         SC/ESV Parndorf 1919 => SC-ESV Parndorf
@@ -331,8 +333,10 @@
         Union St. Florian => Union St. Florian
         Union Vöcklamarkt => Union Vöcklamarkt
         WSG Wattens => WSG Tirol
-        !! Wiener SK
+     !! Wiener SK
         Wiener Viktoria => Wiener Viktoria
+!! ERROR: 1 duplicate club record(s) found
+
       6 rounds:
         1. Runde (Knockout)   //  Fr-So 12.-14. Juli 2013, 32 matches
         2. Runde (Knockout)  //  Di+Mi 24.+25. Sep 2013, 16 matches
@@ -421,7 +425,9 @@
         Austria Lustenau x19 => Austria Lustenau
         SKN St.Pölten x18 => SKN St. Pölten
         SKN St. Pölten x2 => SKN St. Pölten
-        !! Austira Lustenau
+     !! Austira Lustenau
+!! ERROR: 1 duplicate club record(s) found
+
       20 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -458,6 +464,8 @@
         Wacker Innsbruck x16 => FC Wacker Innsbruck
         Floridsdorfer AC x15 => Floridsdorfer AC
         Floridsdorfer Ac => Floridsdorfer AC
+!! ERROR: 1 duplicate club record(s) found
+
       16 rounds:
         21. Runde, 5 matches
         22. Runde, 5 matches
@@ -486,13 +494,13 @@
         Austria Wien x6 => FK Austria Wien
         FC RB Salzburg x5 => FC RB Salzburg
         SV Grödig x5 => SV Grödig
-        !! Wolfsburger AC x5
+     !! Wolfsburger AC x5
         Floridsdorfer AC x4 => Floridsdorfer AC
         KSV 1919 x4 => Kapfenberger SV
         Rapid Wien x4 => SK Rapid Wien
         SCR Altach x4 => SCR Altach
         LASK Linz x3 => LASK Linz
-        !! Ritzing x3
+     !! Ritzing x3
         SKN St. Pölten x3 => SKN St. Pölten
         SV Mattersburg x3 => SV Mattersburg
         Sturm Graz x3 => SK Sturm Graz
@@ -500,58 +508,60 @@
         ATSV Wolfsberg x2 => ATSV Wolfsberg
         Admira Wacker x2 => FC Admira Wacker Mödling
         Austria Salzburg x2 => Austria Salzburg
-        !! Hohenems x2
-        !! Kitzbühel x2
-        !! Kufstein x2
-        !! Lafnitz x2
-        !! Micheldorf x2
-        !! Neusiedl am See x2
+     !! Hohenems x2
+     !! Kitzbühel x2
+     !! Kufstein x2
+     !! Lafnitz x2
+     !! Micheldorf x2
+     !! Neusiedl am See x2
         SC Wiener Neustadt x2 => SC Wiener Neustadt
         SV Horn x2 => SV Horn
         TSV St. Johann x2 => TSV St. Johann
         Vorwärts Steyr x2 => SK Vorwärts Steyr
         Wacker Innsbruck x2 => FC Wacker Innsbruck
-        !! Wallern x2
-        !! Wiener SK x2
-        !! ASK Kottingbrunn
+     !! Wallern x2
+     !! Wiener SK x2
+     !! ASK Kottingbrunn
         ASV Spratzern => ASV Spratzern
         Admira Technopool => Technopool Admira
-        !! Allerheiligen
-        !! Amstetten SKU
+     !! Allerheiligen
+     !! Amstetten SKU
         Austria Klagenfurt => Austria Klagenfurt
         Austria Lustenau => Austria Lustenau
         BW Linz => FC Blau-Weiß Linz
-        !! Donaufeld
-        !! Dornbirn
+     !! Donaufeld
+     !! Dornbirn
         FC Gleisdorf 09 => FC Gleisdorf 09
         FC Lankowitz => FC Lankowitz
         FC Piberstein Lankowitz => FC Lankowitz
         FC Wacker Innsbruck => FC Wacker Innsbruck
-        !! Gurten
-        !! Hard
-        !! Höchst
-        !! Kalsdorf
-        !! Lendorf
-        !! Ober-Grafendorf
-        !! Parndorf
+     !! Gurten
+     !! Hard
+     !! Höchst
+     !! Kalsdorf
+     !! Lendorf
+     !! Ober-Grafendorf
+     !! Parndorf
         RB Salzburg => FC RB Salzburg
         SAK Klagenfurt => SAK Klagenfurt
         SC Retz => SC Retz
         SC Weiz => SC Weiz
-        !! SV Josko Ried
+     !! SV Josko Ried
         SV Leobendorf => SV Leobendorf
         SV Ried => SV Ried
         SV Seekirchen => SV Seekirchen
-        !! Schwaz
-        !! Schwechat SV
-        !! Sollenau
-        !! St. Florian
+     !! Schwaz
+     !! Schwechat SV
+     !! Sollenau
+     !! St. Florian
         TSV Neumarkt => TSV Neumarkt
         USC Eugendorf => USC Eugendorf
-        !! Vienna
+     !! Vienna
         Wattens => WSG Tirol
-        !! Wimpassing
+     !! Wimpassing
         Wr. Neustadt => SC Wiener Neustadt
+!! ERROR: 4 duplicate club record(s) found
+
       6 rounds:
         1. Runde (Knockout) //  11.-13. Juli 2014, 32 matches
         2. Runde (Knockout), 16 matches
@@ -639,8 +649,8 @@
         FC Liefering x30 => FC Liefering
         FC Wacker Innsbruck II x30 => FC Wacker Innsbruck II
         Floridsdorfer AC x30 => Floridsdorfer AC
-        !! Juniors OÖ x30
-        !! Kapfenberger SV 1919 x30
+     !! Juniors OÖ x30
+     !! Kapfenberger SV 1919 x30
         SC Wiener Neustadt x30 => SC Wiener Neustadt
         SK Austria Klagenfurt x30 => Austria Klagenfurt
         SKU Amstetten x30 => SKU Amstetten
