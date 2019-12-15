@@ -8,16 +8,16 @@
   1 section(s):
     61 lines - league: >Bundesliga< (at.1), season: >2011/12<
       10 clubs:
-        Admira Wacker x8
-        Austria Wien x8
-        Kapfenberger SV x8
-        RB Salzburg x8
-        Rapid Wien x8
-        SV Mattersburg x8
-        SV Ried x8
-        Sturm Graz x8
-        Wacker Innsbruck x8
-        Wr. Neustadt x8
+        Admira Wacker x8 => FC Admira Wacker Mödling
+        Austria Wien x8 => FK Austria Wien
+        Kapfenberger SV x8 => Kapfenberger SV
+        RB Salzburg x8 => FC RB Salzburg
+        Rapid Wien x8 => SK Rapid Wien
+        SV Mattersburg x8 => SV Mattersburg
+        SV Ried x8 => SV Ried
+        Sturm Graz x8 => SK Sturm Graz
+        Wacker Innsbruck x8 => FC Wacker Innsbruck
+        Wr. Neustadt x8 => SC Wiener Neustadt
       8 rounds:
         29. Runde, 5 matches
         30. Runde, 5 matches
@@ -31,14 +31,14 @@
   1 section(s):
     15 lines - league: >ÖFB Cup< (at.cup), season: >2011/12<
       8 clubs:
-        RB Salzburg x3
-        SV Ried x3
-        Austria Wien x2
-        TSV Hartberg x2
-        Austria Lustenau
-        RB Salzburg II
-        SV Grödig
-        Sturm Graz
+        RB Salzburg x3 => FC RB Salzburg
+        SV Ried x3 => SV Ried
+        Austria Wien x2 => FK Austria Wien
+        TSV Hartberg x2 => TSV Hartberg
+        Austria Lustenau => Austria Lustenau
+        !! RB Salzburg II
+        SV Grödig => SV Grödig
+        Sturm Graz => SK Sturm Graz
       3 rounds:
         Viertelfinale, 4 matches
         Halbfinale, 2 matches
@@ -47,16 +47,16 @@
   1 section(s):
     157 lines - league: >Bundesliga< (at.1), season: >2012/13<
       10 clubs:
-        Admira Wacker x20
-        Austria Wien x20
-        RB Salzburg x20
-        Rapid Wien x20
-        SV Mattersburg x20
-        SV Ried x20
-        Sturm Graz x20
-        Wacker Innsbruck x20
-        Wolfsberger AC x20
-        Wr. Neustadt x20
+        Admira Wacker x20 => FC Admira Wacker Mödling
+        Austria Wien x20 => FK Austria Wien
+        RB Salzburg x20 => FC RB Salzburg
+        Rapid Wien x20 => SK Rapid Wien
+        SV Mattersburg x20 => SV Mattersburg
+        SV Ried x20 => SV Ried
+        Sturm Graz x20 => SK Sturm Graz
+        Wacker Innsbruck x20 => FC Wacker Innsbruck
+        Wolfsberger AC x20 => Wolfsberger AC
+        Wr. Neustadt x20 => SC Wiener Neustadt
       20 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -82,16 +82,16 @@
   1 section(s):
     117 lines - league: >Bundesliga< (at.1), season: >2012/13<
       10 clubs:
-        Admira Wacker x16
-        Austria Wien x16
-        RB Salzburg x16
-        Rapid Wien x16
-        SV Mattersburg x16
-        SV Ried x16
-        Sturm Graz x16
-        Wacker Innsbruck x16
-        Wolfsberger AC x16
-        Wr. Neustadt x16
+        Admira Wacker x16 => FC Admira Wacker Mödling
+        Austria Wien x16 => FK Austria Wien
+        RB Salzburg x16 => FC RB Salzburg
+        Rapid Wien x16 => SK Rapid Wien
+        SV Mattersburg x16 => SV Mattersburg
+        SV Ried x16 => SV Ried
+        Sturm Graz x16 => SK Sturm Graz
+        Wacker Innsbruck x16 => FC Wacker Innsbruck
+        Wolfsberger AC x16 => Wolfsberger AC
+        Wr. Neustadt x16 => SC Wiener Neustadt
       16 rounds:
         21. Runde, 5 matches
         22. Runde, 5 matches
@@ -118,74 +118,74 @@
   1 section(s):
     83 lines - league: >ÖFB Cup< (at.cup), season: >2012/13<
       68 clubs:
-        Austria Wien x6
-        FC Pasching x6
-        RB Salzburg x5
-        SV Ried x5
-        LASK Linz x4
-        Rapid Wien x4
-        Wacker Innsbruck x4
-        Wolfsberger AC x4
-        Austria Klagenfurt x3
-        SC Kalsdorf x3
-        SCR Altach x3
-        SV Mattersburg x3
-        Sturm Graz x3
-        Villacher SV x3
-        Wiener Viktoria x3
-        ASK Bad Vöslau x2
-        Admira Wacker x2
-        Austria Lustenau x2
-        FC Dornbirn x2
-        FC Hard x2
-        FC Lustenau x2
-        Grazer AK x2
-        SV Grödig x2
-        SV Schwechat x2
-        SV Stegersbach x2
-        TSV Hartberg x2
-        USV Allerheiligen x2
-        Union St. Florian x2
-        Wr. Neustadt x2
-        1. SC Sollenau
-        Austria Salzburg
-        DSV Leoben
-        Deutschlandsberger SC
-        FC Blau-Weiß Linz
-        FC Gratkorn
-        FC Kufstein
-        FC Lustenau 07
-        FC Pinzgau Saalfelden
-        FC Wolfurt
-        First Vienna FC 1894
-        Floridsdorfer AC
-        Kapfenberger SV
-        Kapfenberger SV 1919
-        SAK Klagenfurt
-        SC Bregenz
-        SC Ostbahn XI
-        SC Retz
-        SC Rohrendorf
-        SC Schwaz
-        SC Sollenau
-        SC-ESV Parndorf 1919
-        SCU Ardagger
-        SKN St. Pölten
-        SKU Amstetten
-        SV Gaflenz
-        SV Grün-Weiß Micheldorf
-        SV Heiligenkreuz
-        SV Horn
-        SV Oberwart
-        SV Reutte
-        SV Spittal/Drau
-        SV Wallern
-        Salzburger AK 1914
-        TSV St. Johann
-        TSV St. Johann im Pongau
-        Union Vöcklamarkt
-        WSG Wattens
-        Wiener Sportklub
+        Austria Wien x6 => FK Austria Wien
+        FC Pasching x6 => FC Pasching
+        RB Salzburg x5 => FC RB Salzburg
+        SV Ried x5 => SV Ried
+        LASK Linz x4 => LASK Linz
+        Rapid Wien x4 => SK Rapid Wien
+        Wacker Innsbruck x4 => FC Wacker Innsbruck
+        Wolfsberger AC x4 => Wolfsberger AC
+        Austria Klagenfurt x3 => Austria Klagenfurt
+        SC Kalsdorf x3 => SC Kalsdorf
+        SCR Altach x3 => SCR Altach
+        SV Mattersburg x3 => SV Mattersburg
+        Sturm Graz x3 => SK Sturm Graz
+        Villacher SV x3 => Villacher SV
+        Wiener Viktoria x3 => Wiener Viktoria
+        ASK Bad Vöslau x2 => ASK Bad Vöslau
+        Admira Wacker x2 => FC Admira Wacker Mödling
+        Austria Lustenau x2 => Austria Lustenau
+        FC Dornbirn x2 => FC Dornbirn 1913
+        FC Hard x2 => FC Hard
+        !! FC Lustenau x2
+        Grazer AK x2 => Grazer AK
+        SV Grödig x2 => SV Grödig
+        SV Schwechat x2 => SV Schwechat
+        SV Stegersbach x2 => SV Stegersbach
+        TSV Hartberg x2 => TSV Hartberg
+        USV Allerheiligen x2 => USV Allerheiligen
+        Union St. Florian x2 => Union St. Florian
+        Wr. Neustadt x2 => SC Wiener Neustadt
+        1. SC Sollenau => 1. SC Sollenau
+        Austria Salzburg => Austria Salzburg
+        DSV Leoben => DSV Leoben
+        Deutschlandsberger SC => Deutschlandsberger SC
+        FC Blau-Weiß Linz => FC Blau-Weiß Linz
+        FC Gratkorn => FC Gratkorn
+        FC Kufstein => FC Kufstein
+        FC Lustenau 07 => FC Lustenau 07
+        FC Pinzgau Saalfelden => FC Pinzgau Saalfelden
+        FC Wolfurt => FC Wolfurt
+        First Vienna FC 1894 => First Vienna FC
+        Floridsdorfer AC => Floridsdorfer AC
+        Kapfenberger SV => Kapfenberger SV
+        !! Kapfenberger SV 1919
+        SAK Klagenfurt => SAK Klagenfurt
+        SC Bregenz => SC Bregenz
+        SC Ostbahn XI => SC Ostbahn XI
+        SC Retz => SC Retz
+        !! SC Rohrendorf
+        SC Schwaz => SC Schwaz
+        !! SC Sollenau
+        SC-ESV Parndorf 1919 => SC-ESV Parndorf
+        SCU Ardagger => SCU Ardagger
+        SKN St. Pölten => SKN St. Pölten
+        SKU Amstetten => SKU Amstetten
+        SV Gaflenz => SV Gaflenz
+        SV Grün-Weiß Micheldorf => SV Grün-Weiß Micheldorf
+        SV Heiligenkreuz => SV Heiligenkreuz
+        SV Horn => SV Horn
+        SV Oberwart => SV Oberwart
+        SV Reutte => SV Reutte
+        SV Spittal/Drau => SV Spittal/Drau
+        SV Wallern => SV Wallern
+        Salzburger AK 1914 => SAK 1914
+        TSV St. Johann => TSV St. Johann
+        TSV St. Johann im Pongau => TSV St. Johann
+        Union Vöcklamarkt => Union Vöcklamarkt
+        WSG Wattens => WSG Tirol
+        Wiener Sportklub => Wiener Sport-Club
       6 rounds:
         1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012, 32 matches
         2. Runde (Knockout)  //  Di+Mi 25.+26. Sep 2012, 16 matches
@@ -197,16 +197,16 @@
   1 section(s):
     171 lines - league: >Bundesliga< (at.1), season: >2013/14<
       10 clubs:
-        Admira Wacker x21
-        Austria Wien x21
-        RB Salzburg x21
-        Rapid Wien x21
-        SV Grödig x21
-        SV Ried x21
-        Sturm Graz x21
-        Wacker Innsbruck x21
-        Wolfsberger AC x21
-        Wr. Neustadt x21
+        Admira Wacker x21 => FC Admira Wacker Mödling
+        Austria Wien x21 => FK Austria Wien
+        RB Salzburg x21 => FC RB Salzburg
+        Rapid Wien x21 => SK Rapid Wien
+        SV Grödig x21 => SV Grödig
+        SV Ried x21 => SV Ried
+        Sturm Graz x21 => SK Sturm Graz
+        Wacker Innsbruck x21 => FC Wacker Innsbruck
+        Wolfsberger AC x21 => Wolfsberger AC
+        Wr. Neustadt x21 => SC Wiener Neustadt
       21 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -233,16 +233,16 @@
   1 section(s):
     118 lines - league: >Bundesliga< (at.1), season: >2013/14<
       10 clubs:
-        Admira Wacker x15
-        Austria Wien x15
-        RB Salzburg x15
-        Rapid Wien x15
-        SV Grödig x15
-        SV Ried x15
-        Sturm Graz x15
-        Wacker Innsbruck x15
-        Wolfsberger AC x15
-        Wr. Neustadt x15
+        Admira Wacker x15 => FC Admira Wacker Mödling
+        Austria Wien x15 => FK Austria Wien
+        RB Salzburg x15 => FC RB Salzburg
+        Rapid Wien x15 => SK Rapid Wien
+        SV Grödig x15 => SV Grödig
+        SV Ried x15 => SV Ried
+        Sturm Graz x15 => SK Sturm Graz
+        Wacker Innsbruck x15 => FC Wacker Innsbruck
+        Wolfsberger AC x15 => Wolfsberger AC
+        Wr. Neustadt x15 => SC Wiener Neustadt
       15 rounds:
         22. Runde, 5 matches
         23. Runde, 5 matches
@@ -268,71 +268,71 @@
   1 section(s):
     82 lines - league: >ÖFB Cup< (at.cup), season: >2013/14<
       65 clubs:
-        RB Salzburg x6
-        SKN St. Pölten x6
-        SV Horn x5
-        Sturm Graz x5
-        Admira Wacker x4
-        SKU Amstetten x4
-        SV Ried x4
-        Wolfsberger AC x4
-        Austria Lustenau x3
-        FC Pasching x3
-        First Vienna FC 1894 x3
-        KSV 1919 x3
-        SAK Klagenfurt x3
-        SC Kalsdorf x3
-        SV Mattersburg x3
-        1. SC Sollenau x2
-        Austria Klagenfurt x2
-        Austria Salzburg x2
-        Austria Wien x2
-        Dornbirner SV x2
-        FC Lankowitz x2
-        Floridsdorfer AC x2
-        LASK Linz x2
-        SC Mannsdorf x2
-        SC Pinkafeld x2
-        SC/ESV Parndorf x2
-        SCR Altach x2
-        TSV Hartberg x2
-        Villacher SV x2
-        Vorwärts Steyr x2
-        Wacker Innsbruck x2
-        Wr. Neustadt x2
-        ASK Bad Vöslau
-        ASV Draßburg
-        ATSV Ober-Grafendorf
-        DSV Leoben
-        FC Blau Weiß Linz
-        FC Dornbirn 1913
-        FC Gratkorn
-        FC Hard
-        FC Kitzbühel
-        FC Kufstein
-        FC St. Veit
-        Rapid Wien
-        SC Bregenz
-        SC Leopoldsdorf i. Mfd.
-        SC Retz
-        SC Schwaz
-        SC/ESV Parndorf 1919
-        SV Grödig
-        SV Lafnitz
-        SV Oberwart
-        SV Schwechat
-        SV Seekirchen 1945
-        SV Stegersbach
-        SV Wals-Grünau
-        TSV Neumarkt
-        TSV St. Johann im Pongau
-        Team Wiener Linien
-        USV Allerheiligen
-        Union St. Florian
-        Union Vöcklamarkt
-        WSG Wattens
-        Wiener SK
-        Wiener Viktoria
+        RB Salzburg x6 => FC RB Salzburg
+        SKN St. Pölten x6 => SKN St. Pölten
+        SV Horn x5 => SV Horn
+        Sturm Graz x5 => SK Sturm Graz
+        Admira Wacker x4 => FC Admira Wacker Mödling
+        SKU Amstetten x4 => SKU Amstetten
+        SV Ried x4 => SV Ried
+        Wolfsberger AC x4 => Wolfsberger AC
+        Austria Lustenau x3 => Austria Lustenau
+        FC Pasching x3 => FC Pasching
+        First Vienna FC 1894 x3 => First Vienna FC
+        KSV 1919 x3 => Kapfenberger SV
+        SAK Klagenfurt x3 => SAK Klagenfurt
+        SC Kalsdorf x3 => SC Kalsdorf
+        SV Mattersburg x3 => SV Mattersburg
+        1. SC Sollenau x2 => 1. SC Sollenau
+        Austria Klagenfurt x2 => Austria Klagenfurt
+        Austria Salzburg x2 => Austria Salzburg
+        Austria Wien x2 => FK Austria Wien
+        Dornbirner SV x2 => Dornbirner SV
+        FC Lankowitz x2 => FC Lankowitz
+        Floridsdorfer AC x2 => Floridsdorfer AC
+        LASK Linz x2 => LASK Linz
+        SC Mannsdorf x2 => FC Marchfeld Donauauen
+        SC Pinkafeld x2 => SC Pinkafeld
+        SC/ESV Parndorf x2 => SC-ESV Parndorf
+        SCR Altach x2 => SCR Altach
+        TSV Hartberg x2 => TSV Hartberg
+        Villacher SV x2 => Villacher SV
+        Vorwärts Steyr x2 => SK Vorwärts Steyr
+        Wacker Innsbruck x2 => FC Wacker Innsbruck
+        Wr. Neustadt x2 => SC Wiener Neustadt
+        ASK Bad Vöslau => ASK Bad Vöslau
+        ASV Draßburg => ASV Draßburg
+        ATSV Ober-Grafendorf => ATSV Ober-Grafendorf
+        DSV Leoben => DSV Leoben
+        FC Blau Weiß Linz => FC Blau-Weiß Linz
+        FC Dornbirn 1913 => FC Dornbirn 1913
+        FC Gratkorn => FC Gratkorn
+        FC Hard => FC Hard
+        FC Kitzbühel => FC Kitzbühel
+        FC Kufstein => FC Kufstein
+        FC St. Veit => FC St. Veit
+        Rapid Wien => SK Rapid Wien
+        SC Bregenz => SC Bregenz
+        !! SC Leopoldsdorf i. Mfd.
+        SC Retz => SC Retz
+        SC Schwaz => SC Schwaz
+        SC/ESV Parndorf 1919 => SC-ESV Parndorf
+        SV Grödig => SV Grödig
+        SV Lafnitz => SV Lafnitz
+        SV Oberwart => SV Oberwart
+        SV Schwechat => SV Schwechat
+        SV Seekirchen 1945 => SV Seekirchen
+        SV Stegersbach => SV Stegersbach
+        SV Wals-Grünau => SV Wals-Grünau
+        TSV Neumarkt => TSV Neumarkt
+        TSV St. Johann im Pongau => TSV St. Johann
+        Team Wiener Linien => SC Team Wiener Linien
+        USV Allerheiligen => USV Allerheiligen
+        Union St. Florian => Union St. Florian
+        Union Vöcklamarkt => Union Vöcklamarkt
+        WSG Wattens => WSG Tirol
+        !! Wiener SK
+        Wiener Viktoria => Wiener Viktoria
       6 rounds:
         1. Runde (Knockout)   //  Fr-So 12.-14. Juli 2013, 32 matches
         2. Runde (Knockout)  //  Di+Mi 24.+25. Sep 2013, 16 matches
@@ -344,16 +344,16 @@
   1 section(s):
     139 lines - league: >Bundesliga< (at.1), season: >2014/15<
       10 clubs:
-        Admira Wacker x19
-        Austria Wien x19
-        RB Salzburg x19
-        Rapid Wien x19
-        SCR Altach x19
-        SV Grödig x19
-        SV Ried x19
-        Sturm Graz x19
-        Wolfsberger AC x19
-        Wr. Neustadt x19
+        Admira Wacker x19 => FC Admira Wacker Mödling
+        Austria Wien x19 => FK Austria Wien
+        RB Salzburg x19 => FC RB Salzburg
+        Rapid Wien x19 => SK Rapid Wien
+        SCR Altach x19 => SCR Altach
+        SV Grödig x19 => SV Grödig
+        SV Ried x19 => SV Ried
+        Sturm Graz x19 => SK Sturm Graz
+        Wolfsberger AC x19 => Wolfsberger AC
+        Wr. Neustadt x19 => SC Wiener Neustadt
       19 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -378,16 +378,16 @@
   1 section(s):
     119 lines - league: >Bundesliga< (at.1), season: >2014/15<
       10 clubs:
-        Admira Wacker x17
-        Austria Wien x17
-        RB Salzburg x17
-        Rapid Wien x17
-        SCR Altach x17
-        SV Grödig x17
-        SV Ried x17
-        Sturm Graz x17
-        Wolfsberger AC x17
-        Wr. Neustadt x17
+        Admira Wacker x17 => FC Admira Wacker Mödling
+        Austria Wien x17 => FK Austria Wien
+        RB Salzburg x17 => FC RB Salzburg
+        Rapid Wien x17 => SK Rapid Wien
+        SCR Altach x17 => SCR Altach
+        SV Grödig x17 => SV Grödig
+        SV Ried x17 => SV Ried
+        Sturm Graz x17 => SK Sturm Graz
+        Wolfsberger AC x17 => Wolfsberger AC
+        Wr. Neustadt x17 => SC Wiener Neustadt
       17 rounds:
         20. Runde, 5 matches
         21. Runde, 5 matches
@@ -410,18 +410,18 @@
   1 section(s):
     142 lines - league: >2. Liga< (at.2), season: >2014/15<
       12 clubs:
-        FC Liefering x20
-        Floridsdorfer AC x20
-        Kapfenberger SV x20
-        LASK Linz x20
-        SV Horn x20
-        SV Mattersburg x20
-        TSV Hartberg x20
-        Wacker Innsbruck x20
-        Austria Lustenau x19
-        SKN St.Pölten x18
-        SKN St. Pölten x2
-        Austira Lustenau
+        FC Liefering x20 => FC Liefering
+        Floridsdorfer AC x20 => Floridsdorfer AC
+        Kapfenberger SV x20 => Kapfenberger SV
+        LASK Linz x20 => LASK Linz
+        SV Horn x20 => SV Horn
+        SV Mattersburg x20 => SV Mattersburg
+        TSV Hartberg x20 => TSV Hartberg
+        Wacker Innsbruck x20 => FC Wacker Innsbruck
+        Austria Lustenau x19 => Austria Lustenau
+        SKN St.Pölten x18 => SKN St. Pölten
+        SKN St. Pölten x2 => SKN St. Pölten
+        !! Austira Lustenau
       20 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -447,17 +447,17 @@
   1 section(s):
     112 lines - league: >2. Liga< (at.2), season: >2014/15<
       11 clubs:
-        Austria Lustenau x16
-        FC Liefering x16
-        Kapfenberger SV x16
-        LASK Linz x16
-        SKN St. Pölten x16
-        SV Horn x16
-        SV Mattersburg x16
-        TSV Hartberg x16
-        Wacker Innsbruck x16
-        Floridsdorfer AC x15
-        Floridsdorfer Ac
+        Austria Lustenau x16 => Austria Lustenau
+        FC Liefering x16 => FC Liefering
+        Kapfenberger SV x16 => Kapfenberger SV
+        LASK Linz x16 => LASK Linz
+        SKN St. Pölten x16 => SKN St. Pölten
+        SV Horn x16 => SV Horn
+        SV Mattersburg x16 => SV Mattersburg
+        TSV Hartberg x16 => TSV Hartberg
+        Wacker Innsbruck x16 => FC Wacker Innsbruck
+        Floridsdorfer AC x15 => Floridsdorfer AC
+        Floridsdorfer Ac => Floridsdorfer AC
       16 rounds:
         21. Runde, 5 matches
         22. Runde, 5 matches
@@ -483,75 +483,75 @@
   1 section(s):
     83 lines - league: >ÖFB Cup< (at.cup), season: >2014/15<
       69 clubs:
-        Austria Wien x6
-        FC RB Salzburg x5
-        SV Grödig x5
-        Wolfsburger AC x5
-        Floridsdorfer AC x4
-        KSV 1919 x4
-        Rapid Wien x4
-        SCR Altach x4
-        LASK Linz x3
-        Ritzing x3
-        SKN St. Pölten x3
-        SV Mattersburg x3
-        Sturm Graz x3
-        TSV Hartberg x3
-        ATSV Wolfsberg x2
-        Admira Wacker x2
-        Austria Salzburg x2
-        Hohenems x2
-        Kitzbühel x2
-        Kufstein x2
-        Lafnitz x2
-        Micheldorf x2
-        Neusiedl am See x2
-        SC Wiener Neustadt x2
-        SV Horn x2
-        TSV St. Johann x2
-        Vorwärts Steyr x2
-        Wacker Innsbruck x2
-        Wallern x2
-        Wiener SK x2
-        ASK Kottingbrunn
-        ASV Spratzern
-        Admira Technopool
-        Allerheiligen
-        Amstetten SKU
-        Austria Klagenfurt
-        Austria Lustenau
-        BW Linz
-        Donaufeld
-        Dornbirn
-        FC Gleisdorf 09
-        FC Lankowitz
-        FC Piberstein Lankowitz
-        FC Wacker Innsbruck
-        Gurten
-        Hard
-        Höchst
-        Kalsdorf
-        Lendorf
-        Ober-Grafendorf
-        Parndorf
-        RB Salzburg
-        SAK Klagenfurt
-        SC Retz
-        SC Weiz
-        SV Josko Ried
-        SV Leobendorf
-        SV Ried
-        SV Seekirchen
-        Schwaz
-        Schwechat SV
-        Sollenau
-        St. Florian
-        TSV Neumarkt
-        USC Eugendorf
-        Vienna
-        Wattens
-        Wimpassing
-        Wr. Neustadt
+        Austria Wien x6 => FK Austria Wien
+        FC RB Salzburg x5 => FC RB Salzburg
+        SV Grödig x5 => SV Grödig
+        !! Wolfsburger AC x5
+        Floridsdorfer AC x4 => Floridsdorfer AC
+        KSV 1919 x4 => Kapfenberger SV
+        Rapid Wien x4 => SK Rapid Wien
+        SCR Altach x4 => SCR Altach
+        LASK Linz x3 => LASK Linz
+        !! Ritzing x3
+        SKN St. Pölten x3 => SKN St. Pölten
+        SV Mattersburg x3 => SV Mattersburg
+        Sturm Graz x3 => SK Sturm Graz
+        TSV Hartberg x3 => TSV Hartberg
+        ATSV Wolfsberg x2 => ATSV Wolfsberg
+        Admira Wacker x2 => FC Admira Wacker Mödling
+        Austria Salzburg x2 => Austria Salzburg
+        !! Hohenems x2
+        !! Kitzbühel x2
+        !! Kufstein x2
+        !! Lafnitz x2
+        !! Micheldorf x2
+        !! Neusiedl am See x2
+        SC Wiener Neustadt x2 => SC Wiener Neustadt
+        SV Horn x2 => SV Horn
+        TSV St. Johann x2 => TSV St. Johann
+        Vorwärts Steyr x2 => SK Vorwärts Steyr
+        Wacker Innsbruck x2 => FC Wacker Innsbruck
+        !! Wallern x2
+        !! Wiener SK x2
+        !! ASK Kottingbrunn
+        ASV Spratzern => ASV Spratzern
+        Admira Technopool => Technopool Admira
+        !! Allerheiligen
+        !! Amstetten SKU
+        Austria Klagenfurt => Austria Klagenfurt
+        Austria Lustenau => Austria Lustenau
+        BW Linz => FC Blau-Weiß Linz
+        !! Donaufeld
+        !! Dornbirn
+        FC Gleisdorf 09 => FC Gleisdorf 09
+        FC Lankowitz => FC Lankowitz
+        FC Piberstein Lankowitz => FC Lankowitz
+        FC Wacker Innsbruck => FC Wacker Innsbruck
+        !! Gurten
+        !! Hard
+        !! Höchst
+        !! Kalsdorf
+        !! Lendorf
+        !! Ober-Grafendorf
+        !! Parndorf
+        RB Salzburg => FC RB Salzburg
+        SAK Klagenfurt => SAK Klagenfurt
+        SC Retz => SC Retz
+        SC Weiz => SC Weiz
+        !! SV Josko Ried
+        SV Leobendorf => SV Leobendorf
+        SV Ried => SV Ried
+        SV Seekirchen => SV Seekirchen
+        !! Schwaz
+        !! Schwechat SV
+        !! Sollenau
+        !! St. Florian
+        TSV Neumarkt => TSV Neumarkt
+        USC Eugendorf => USC Eugendorf
+        !! Vienna
+        Wattens => WSG Tirol
+        !! Wimpassing
+        Wr. Neustadt => SC Wiener Neustadt
       6 rounds:
         1. Runde (Knockout) //  11.-13. Juli 2014, 32 matches
         2. Runde (Knockout), 16 matches
@@ -593,18 +593,18 @@
   1 section(s):
     198 lines - league: >Bundesliga< (at.1), season: >2018/19<, stage: >Regular Season<
       12 clubs:
-        Austria Wien x22
-        FC Admira Wacker x22
-        FC Wacker Innsbruck x22
-        LASK x22
-        RB Salzburg x22
-        Rapid Wien x22
-        SCR Altach x22
-        SKN St. Pölten x22
-        SV Mattersburg x22
-        Sturm Graz x22
-        TSV Hartberg x22
-        Wolfsberger AC x22
+        Austria Wien x22 => FK Austria Wien
+        FC Admira Wacker x22 => FC Admira Wacker Mödling
+        FC Wacker Innsbruck x22 => FC Wacker Innsbruck
+        LASK x22 => LASK Linz
+        RB Salzburg x22 => FC RB Salzburg
+        Rapid Wien x22 => SK Rapid Wien
+        SCR Altach x22 => SCR Altach
+        SKN St. Pölten x22 => SKN St. Pölten
+        SV Mattersburg x22 => SV Mattersburg
+        Sturm Graz x22 => SK Sturm Graz
+        TSV Hartberg x22 => TSV Hartberg
+        Wolfsberger AC x22 => Wolfsberger AC
       22 rounds:
         Runde 1, 6 matches
         Runde 2, 6 matches
@@ -632,22 +632,22 @@
   1 section(s):
     352 lines - league: >2. Liga< (at.2), season: >2018/19<
       16 clubs:
-        SV Lafnitz x31
-        WSG Wattens x31
-        Austria Lustenau x30
-        FC Blau Weiß Linz x30
-        FC Liefering x30
-        FC Wacker Innsbruck II x30
-        Floridsdorfer AC x30
-        Juniors OÖ x30
-        Kapfenberger SV 1919 x30
-        SC Wiener Neustadt x30
-        SK Austria Klagenfurt x30
-        SKU Amstetten x30
-        SV Horn x30
-        SV Ried x30
-        Vorwärts Steyr x30
-        Young Violets x30
+        SV Lafnitz x31 => SV Lafnitz
+        WSG Wattens x31 => WSG Tirol
+        Austria Lustenau x30 => Austria Lustenau
+        FC Blau Weiß Linz x30 => FC Blau-Weiß Linz
+        FC Liefering x30 => FC Liefering
+        FC Wacker Innsbruck II x30 => FC Wacker Innsbruck II
+        Floridsdorfer AC x30 => Floridsdorfer AC
+        !! Juniors OÖ x30
+        !! Kapfenberger SV 1919 x30
+        SC Wiener Neustadt x30 => SC Wiener Neustadt
+        SK Austria Klagenfurt x30 => Austria Klagenfurt
+        SKU Amstetten x30 => SKU Amstetten
+        SV Horn x30 => SV Horn
+        SV Ried x30 => SV Ried
+        Vorwärts Steyr x30 => SK Vorwärts Steyr
+        Young Violets x30 => Young Violets Austria Wien
       30 rounds:
         Runde 1, 8 matches
         Runde 2, 8 matches
