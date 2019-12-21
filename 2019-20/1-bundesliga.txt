@@ -205,25 +205,28 @@ Runde 18
 
 
 Runde 19
-[Sa 15.2.]
+[Fr. 14.2.]
   RB Salzburg             - Linzer ASK
+[Sa. 15.2.]
+  Wolfsberger AC          - TSV Hartberg
+  SCR Altach              - Austria Wien
+[So. 16.2.]
   Rapid Wien              - WSG Tirol
   Sturm Graz              - SV Mattersburg
   SKN St. Pölten          - FC Admira Wacker
-  Wolfsberger AC          - TSV Hartberg
-  SCR Altach              - Austria Wien
 
 
 Runde 20
-[Sa 22.2.]
-  Austria Wien            - RB Salzburg
-  Linzer ASK              - SKN St. Pölten
+[Sa. 22.2.]
   WSG Tirol               - Wolfsberger AC
-  TSV Hartberg            - Rapid Wien
   SV Mattersburg          - SCR Altach
   FC Admira Wacker        - Sturm Graz
-
-
+[So. 23.2.]
+  TSV Hartberg            - Rapid Wien
+  Austria Wien            - RB Salzburg
+  Linzer ASK              - SKN St. Pölten
+  
+  
 Runde 21
 [Sa 29.2.]
   Rapid Wien              - SV Mattersburg
