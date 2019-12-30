@@ -9,28 +9,20 @@
 [wrneustadt]
   SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt|SC Wr. Neustadt, 1908, WRN
   Erste Liga/NÖ
-  Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
-  www.scwn.at
 
 
 [innsbruck]
   FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck|Innsbruck, 1913, FCW
   Erste Liga/Tirol
-  Stadionstraße 1b // 6020 Innsbruck
-  www.fc-wacker-innsbruck.at
 
 
 [alustenau]
   SC Austria Lustenau|Austria Lustenau|A. Lustenau, 1914, ALU
   Erste Liga/Vbg.
-  // Lustenau
-  www.austria-lustenau.at
 
 [stpoelten]
   SKN St. Pölten|Sportklub Niederösterreich St. Pölten, 2000, SKN
   Erste Liga/NÖ
-  // St. Pölten
-  www.skn-stpoelten.at
 
 [stpoeltenii]
   SKN St.Pölten Juniors
@@ -41,8 +33,6 @@
 [ksv]
   Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, KSV
   Erste Liga/Stmk.
-  // Kapfenberg
-  www.ksv1919.at
 
 
 [aklagenfurt]
@@ -64,12 +54,9 @@
 [fac]
   Floridsdorfer AC|FAC Team für Wien, 1904, FAC
   Erste Liga/Wien
-  // Wien
-  www.fac.at
 
 [lask]
   LASK Linz|LASK, 1899, ASK   ## LAS
-  // Linz
   Erste Liga/OÖ
   www.lask.at
 
