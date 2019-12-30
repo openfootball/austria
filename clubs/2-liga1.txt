@@ -3,62 +3,48 @@
 #
 #  - 10 Teams
 
-# Note: use three letter codes from bundesliga.at
 
-
-[wrneustadt]
-  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt|SC Wr. Neustadt, 1908, WRN
+  SC Wiener Neustadt|Wiener Neustadt|Wr. Neustadt|SC Wr. Neustadt, 1908
   Erste Liga/NÖ
 
 
-[innsbruck]
-  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck|Innsbruck, 1913, FCW
+  FC Wacker Innsbruck|FC Wacker|Wacker Innsbruck|Innsbruck, 1913
   Erste Liga/Tirol
 
 
-[alustenau]
-  SC Austria Lustenau|Austria Lustenau|A. Lustenau, 1914, ALU
+  SC Austria Lustenau|Austria Lustenau|A. Lustenau, 1914
   Erste Liga/Vbg.
 
-[stpoelten]
-  SKN St. Pölten|Sportklub Niederösterreich St. Pölten, 2000, SKN
+  SKN St. Pölten|Sportklub Niederösterreich St. Pölten, 2000
   Erste Liga/NÖ
 
-[stpoeltenii]
   SKN St.Pölten Juniors
 
 
 
 
-[ksv]
-  Kapfenberger SV|Kapfenberger SV 1919|KSV 1919, KSV
+  Kapfenberger SV|Kapfenberger SV 1919|KSV 1919
   Erste Liga/Stmk.
 
 
-[aklagenfurt]
-  SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A. Klagenfurt, KLA
+  SK Austria Klagenfurt|SG Austria Klagenfurt|Austria Klagenfurt|A. Klagenfurt
   Erste Liga/Ktn.
 
 
 
-[asalzburg]
-  SV Austria Salzburg|Austria Salzburg|A. Salzburg, AUS
+  SV Austria Salzburg|Austria Salzburg|A. Salzburg
   Erste Liga/Sbg.
 
 
-[liefering]
-  FC Liefering, 1947, FCL     ## LIE
+  FC Liefering, 1947
   Erste Liga/Sbg.
   // Salzburg     # from Regionalliga West - Liefering - Stadtteil von Salzburg
 
-[fac]
-  Floridsdorfer AC|FAC Team für Wien, 1904, FAC
+  Floridsdorfer AC|FAC Team für Wien, 1904
   Erste Liga/Wien
 
-[lask]
-  LASK Linz|LASK, 1899, ASK   ## LAS
+  LASK Linz|LASK, 1899
   Erste Liga/OÖ
-  www.lask.at
 
 
 # note:
