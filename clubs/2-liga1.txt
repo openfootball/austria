@@ -11,7 +11,6 @@
   Erste Liga/NÖ
   Giltschwertgasse 81 // 2700 Wiener Neustadt       # (NÖ) Niederösterreich
   www.scwn.at
-  de.wikipedia: SC_Wiener_Neustadt
 
 
 [innsbruck]
@@ -19,7 +18,6 @@
   Erste Liga/Tirol
   Stadionstraße 1b // 6020 Innsbruck
   www.fc-wacker-innsbruck.at
-  de.wikipedia: FC_Wacker_Innsbruck_(2002)
 
 
 [alustenau]
@@ -27,14 +25,12 @@
   Erste Liga/Vbg.
   // Lustenau
   www.austria-lustenau.at
-  de.wikipedia: SC_Austria_Lustenau
 
 [stpoelten]
   SKN St. Pölten|Sportklub Niederösterreich St. Pölten, 2000, SKN
   Erste Liga/NÖ
   // St. Pölten
   www.skn-stpoelten.at
-  de.wikipedia: SKN_St._Pölten
 
 [stpoeltenii]
   SKN St.Pölten Juniors
@@ -47,7 +43,6 @@
   Erste Liga/Stmk.
   // Kapfenberg
   www.ksv1919.at
-  de.wikipedia: Kapfenberger_SV
 
 
 [aklagenfurt]
@@ -65,21 +60,18 @@
   FC Liefering, 1947, FCL     ## LIE
   Erste Liga/Sbg.
   // Salzburg     # from Regionalliga West - Liefering - Stadtteil von Salzburg
-  de.wikipedia: FC_Liefering
 
 [fac]
   Floridsdorfer AC|FAC Team für Wien, 1904, FAC
   Erste Liga/Wien
   // Wien
   www.fac.at
-  de.wikipedia: Floridsdorfer_AC
 
 [lask]
   LASK Linz|LASK, 1899, ASK   ## LAS
   // Linz
   Erste Liga/OÖ
   www.lask.at
-  de.wikipedia: LASK_Linz
 
 
 # note:
