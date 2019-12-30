@@ -1,0 +1,32 @@
+###############
+# note: use three letter codes from bundesliga.at
+
+
+Key,           Name,                     Code
+austria,       FK Austria Wien,          AUS
+austriaii,     FK Austria Wien II
+rapid,         SK Rapid Wien,            RAP
+rapidii,       SK Rapid Wien II
+admira,        FC Admira Wacker,         ADM
+admiraii,      FC Admira Wacker II
+mattersburg,   SV Mattersburg,           MAT
+mattersburgii, SV Mattersburg II
+salzburg,      FC RB Salzburg,           RBS
+salzburgii,    FC RB Juniors Salzburg
+groedig,       SV Grödig,                SVG
+sturm,         SK Sturm Graz,            STU
+wac,           Wolfsberger AC,           WAC
+ried,          SV Ried,                  RIE
+altach,        SCR Altach,               ALT
+wrneustadt,    SC Wiener Neustadt,       WRN
+innsbruck,     FC Wacker Innsbruck,      FCW
+alustenau,     SC Austria Lustenau,      ALU
+stpoelten,     SKN St. Pölten,           SKN
+stpoeltenii,   SKN St.Pölten Juniors
+ksv,           Kapfenberger SV,          KSV
+aklagenfurt,   SK Austria Klagenfurt,    KLA
+asalzburg,     SV Austria Salzburg,      AUS
+liefering,     FC Liefering,             FCL     ## LIE
+fac,           Floridsdorfer AC,         FAC
+lask,          LASK Linz,                ASK     ## LAS
+
