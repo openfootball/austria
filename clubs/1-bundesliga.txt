@@ -9,16 +9,12 @@
 
 [austria]
   FK Austria Wien|Austria Wien|Austria,  1911,  AUS
-  Fischhofgasse 12 // 1100 Wien
-  www.fk-austria.at
 
 [austriaii]
   FK Austria Wien II|Austria Wien Amat.|Austria Wien A.|Ausstria Wien Amateure 
 
 [rapid]
   SK Rapid Wien|Rapid Wien|Rapid, 1899,  RAP
-  Keisslergasse 3 // 1140 Wien
-  www.skrapid.at
 
 [rapidii]
   SK Rapid Wien II|SK Rapid Amateure
@@ -26,8 +22,6 @@
 
 [admira]
   FC Admira Wacker|Admira Wacker|FC Admira Wacker Mödling, 1905,  ADM
-  Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf   ##  city:moedling  (NÖ) Niederösterreich
-  www.admirawacker.at
 
 [admiraii]
   FC Admira Wacker II|Admira Juniors
@@ -36,8 +30,6 @@
 [mattersburg]
   SV Mattersburg|Sportvereinigung Mattersburg|Mattersburg,  1922, MAT
   Erste Liga/Bgld.
-  Michael Koch Straße 50 // 7210 Mattersburg
-  www.svm.at
 
 [mattersburgii]
   SV Mattersburg II|SV Mattersburg Amateure
@@ -45,8 +37,6 @@
 
 [salzburg]
   FC RB Salzburg|RB Salzburg|Red Bull Salzburg|Salzburg, 1933, RBS
-  Stadionstraße 2/3 // 5071 Wals-Siezenheim   ##  city:salzburg    (S) Salzburg
-  www.redbulls.com/soccer/salzburg
 
 [salzburgii]
   FC RB Juniors Salzburg|FC Red Bull Salzburg II|RB Salzburg II
@@ -55,30 +45,20 @@
 
 [groedig]
   SV Grödig|Grödig,  1948, SVG
-  Prötschhofstrasse 26 // 5082 Grödig      # (S) Salzburg
-  www.sv-groedig.at
 
 
 [sturm]
   SK Sturm Graz|Sturm Graz|Sturm, 1909, STU
-  Sternäckerweg 118 // 8042 Graz         # (ST) Steiermark
-  www.sksturm.at
 
 [wac]
   Wolfsberger AC|RZ Pellets WAC|Wolfsberger Athletik Club|Wolfsberg,   1931, WAC
-  Don Bosco Weg 1 // 9400 Wolfsberg        # (K) Kärtnen
-  www.rzpelletswac.at
 
 
 [ried]
   SV Ried|SV Josko Ried|SV Josko Fenster Ried|Ried,  1912,    RIE
-  Volksfestplatz 2 // 4910 Ried im Innkreis   # (OÖ) Oberösterreich
-  www.svried.at
 
 [altach]
   SCR Altach|SC Rheindorf Altach|Sportclub Rheindorf Altach|Altach, 1929, ALT
-  Schnabelholz 1 // 6844 Altach       # (V) Vorarlberg
-  www.scra.at 
 
 
 # note:
