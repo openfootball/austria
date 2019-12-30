@@ -4,61 +4,44 @@
 # - 10 Teams
 
 
-# note: use three letter codes from bundesliga.at
+  FK Austria Wien|Austria Wien|Austria,  1911
 
-
-[austria]
-  FK Austria Wien|Austria Wien|Austria,  1911,  AUS
-
-[austriaii]
   FK Austria Wien II|Austria Wien Amat.|Austria Wien A.|Ausstria Wien Amateure 
 
-[rapid]
-  SK Rapid Wien|Rapid Wien|Rapid, 1899,  RAP
 
-[rapidii]
+  SK Rapid Wien|Rapid Wien|Rapid, 1899
+
   SK Rapid Wien II|SK Rapid Amateure
 
 
-[admira]
-  FC Admira Wacker|Admira Wacker|FC Admira Wacker Mödling, 1905,  ADM
+  FC Admira Wacker|Admira Wacker|FC Admira Wacker Mödling, 1905
 
-[admiraii]
   FC Admira Wacker II|Admira Juniors
 
 
-[mattersburg]
-  SV Mattersburg|Sportvereinigung Mattersburg|Mattersburg,  1922, MAT
+  SV Mattersburg|Sportvereinigung Mattersburg|Mattersburg,  1922
   Erste Liga/Bgld.
 
-[mattersburgii]
   SV Mattersburg II|SV Mattersburg Amateure
 
 
-[salzburg]
-  FC RB Salzburg|RB Salzburg|Red Bull Salzburg|Salzburg, 1933, RBS
+  FC RB Salzburg|RB Salzburg|Red Bull Salzburg|Salzburg, 1933
 
-[salzburgii]
   FC RB Juniors Salzburg|FC Red Bull Salzburg II|RB Salzburg II
   Regionalliga West/Sbg.
 
 
-[groedig]
-  SV Grödig|Grödig,  1948, SVG
+  SV Grödig|Grödig,  1948
 
 
-[sturm]
-  SK Sturm Graz|Sturm Graz|Sturm, 1909, STU
+  SK Sturm Graz|Sturm Graz|Sturm, 1909
 
-[wac]
-  Wolfsberger AC|RZ Pellets WAC|Wolfsberger Athletik Club|Wolfsberg,   1931, WAC
+  Wolfsberger AC|RZ Pellets WAC|Wolfsberger Athletik Club|Wolfsberg,   1931
 
 
-[ried]
-  SV Ried|SV Josko Ried|SV Josko Fenster Ried|Ried,  1912,    RIE
+  SV Ried|SV Josko Ried|SV Josko Fenster Ried|Ried,  1912
 
-[altach]
-  SCR Altach|SC Rheindorf Altach|Sportclub Rheindorf Altach|Altach, 1929, ALT
+  SCR Altach|SC Rheindorf Altach|Sportclub Rheindorf Altach|Altach, 1929
 
 
 # note:
