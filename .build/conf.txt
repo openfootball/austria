@@ -8,7 +8,6 @@
 [3/37] >2011-12/cup.txt<
   1 section(s):
     15 lines - league: >ÖFB Cup< (at.cup), season: >2011/12<, 8 clubs, 3 rounds
-     !! RB Salzburg II
 [4/37] >2012-13/1-bundesliga-i.txt<
   1 section(s):
     157 lines - league: >Bundesliga< (at.1), season: >2012/13<, 10 clubs, 20 rounds
@@ -20,13 +19,7 @@
     0 lines - league: >2. Liga< (at.2), season: >2012/13<, 0 clubs, 0 rounds
 [7/37] >2012-13/cup.txt<
   1 section(s):
-    83 lines - league: >ÖFB Cup< (at.cup), season: >2012/13<, 68 clubs, 6 rounds
-     !! 2× FC Lustenau
-     !! Kapfenberger SV 1919
-     !! SC Rohrendorf
-     !! SC Sollenau
-!! ERROR: 1 duplicate club record(s) found
-
+    83 lines - league: >ÖFB Cup< (at.cup), season: >2012/13<, 64 clubs, 6 rounds
 [8/37] >2013-14/1-bundesliga-i.txt<
   1 section(s):
     171 lines - league: >Bundesliga< (at.1), season: >2013/14<, 10 clubs, 21 rounds
@@ -38,11 +31,7 @@
     0 lines - league: >2. Liga< (at.2), season: >2013/14<, 0 clubs, 0 rounds
 [11/37] >2013-14/cup.txt<
   1 section(s):
-    82 lines - league: >ÖFB Cup< (at.cup), season: >2013/14<, 65 clubs, 6 rounds
-     !! SC Leopoldsdorf i. Mfd.
-     !! Wiener SK
-!! ERROR: 1 duplicate club record(s) found
-
+    82 lines - league: >ÖFB Cup< (at.cup), season: >2013/14<, 64 clubs, 6 rounds
 [12/37] >2014-15/1-bundesliga-i.txt<
   1 section(s):
     139 lines - league: >Bundesliga< (at.1), season: >2014/15<, 10 clubs, 19 rounds
@@ -51,53 +40,17 @@
     119 lines - league: >Bundesliga< (at.1), season: >2014/15<, 10 clubs, 17 rounds
 [14/37] >2014-15/2-liga1-i.txt<
   1 section(s):
-    142 lines - league: >2. Liga< (at.2), season: >2014/15<, 12 clubs, 20 rounds
-     !! Austira Lustenau
-!! ERROR: 1 duplicate club record(s) found
-
+    142 lines - league: >2. Liga< (at.2), season: >2014/15<, 10 clubs, 20 rounds
 [15/37] >2014-15/2-liga1-ii.txt<
   1 section(s):
-    112 lines - league: >2. Liga< (at.2), season: >2014/15<, 11 clubs, 16 rounds
-!! ERROR: 1 duplicate club record(s) found
-
+    112 lines - league: >2. Liga< (at.2), season: >2014/15<, 10 clubs, 16 rounds
 [16/37] >2014-15/6-noe-nordwest-waldviertel-i.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [17/37] >2014-15/6-noe-nordwest-waldviertel-ii.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [18/37] >2014-15/cup.txt<
   1 section(s):
-    83 lines - league: >ÖFB Cup< (at.cup), season: >2014/15<, 69 clubs, 6 rounds
-     !! 5× Wolfsburger AC
-     !! 3× Ritzing
-     !! 2× Hohenems
-     !! 2× Kitzbühel
-     !! 2× Kufstein
-     !! 2× Lafnitz
-     !! 2× Micheldorf
-     !! 2× Neusiedl am See
-     !! 2× Wallern
-     !! 2× Wiener SK
-     !! ASK Kottingbrunn
-     !! Allerheiligen
-     !! Amstetten SKU
-     !! Donaufeld
-     !! Dornbirn
-     !! Gurten
-     !! Hard
-     !! Höchst
-     !! Kalsdorf
-     !! Lendorf
-     !! Ober-Grafendorf
-     !! Parndorf
-     !! SV Josko Ried
-     !! Schwaz
-     !! Schwechat SV
-     !! Sollenau
-     !! St. Florian
-     !! Vienna
-     !! Wimpassing
-!! ERROR: 4 duplicate club record(s) found
-
+    83 lines - league: >ÖFB Cup< (at.cup), season: >2014/15<, 64 clubs, 6 rounds
 [19/37] >2015-16/1-bundesliga-i.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [20/37] >2015-16/1-bundesliga-ii.txt<
@@ -134,8 +87,6 @@
 [35/37] >2018-19/2-liga1.txt<
   1 section(s):
     352 lines - league: >2. Liga< (at.2), season: >2018/19<, 16 clubs, 30 rounds
-     !! 30× Juniors OÖ
-     !! 30× Kapfenberger SV 1919
 [36/37] >2019-20/1-bundesliga.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [37/37] >2019-20/2-liga1.txt<
@@ -179,7 +130,7 @@
         2× Austria Wien ⇒ FK Austria Wien
         2× TSV Hartberg
         Austria Lustenau
-     !! RB Salzburg II
+        RB Salzburg II ⇒ FC Liefering
         SV Grödig
         Sturm Graz ⇒ SK Sturm Graz
       3 rounds:
@@ -260,7 +211,7 @@
 [7/37] >2012-13/cup.txt<
   1 section(s):
     83 lines - league: >ÖFB Cup< (at.cup), season: >2012/13<
-      68 clubs:
+      64 clubs:
         6× Austria Wien ⇒ FK Austria Wien
         6× FC Pasching
         5× RB Salzburg ⇒ FC RB Salzburg
@@ -270,6 +221,7 @@
         4× Wacker Innsbruck ⇒ FC Wacker Innsbruck
         4× Wolfsberger AC
         3× Austria Klagenfurt
+        3× FC Lustenau ⇒ FC Lustenau 07
         3× SC Kalsdorf
         3× SCR Altach
         3× SV Mattersburg
@@ -281,36 +233,33 @@
         2× Austria Lustenau
         2× FC Dornbirn ⇒ FC Dornbirn 1913
         2× FC Hard
-     !! 2× FC Lustenau
         2× Grazer AK
+        2× Kapfenberger SV
+        2× SC Sollenau ⇒ 1. SC Sollenau
         2× SV Grödig
         2× SV Schwechat
         2× SV Stegersbach
         2× TSV Hartberg
+        2× TSV St. Johann
         2× USV Allerheiligen
         2× Union St. Florian
         2× Wr. Neustadt ⇒ SC Wiener Neustadt
-        1. SC Sollenau
         Austria Salzburg
         DSV Leoben
         Deutschlandsberger SC
         FC Blau-Weiß Linz
         FC Gratkorn
         FC Kufstein
-        FC Lustenau 07
         FC Pinzgau Saalfelden
         FC Wolfurt
         First Vienna FC 1894 ⇒ First Vienna FC
         Floridsdorfer AC
-        Kapfenberger SV
-     !! Kapfenberger SV 1919
         SAK Klagenfurt
         SC Bregenz
         SC Ostbahn XI
         SC Retz
-     !! SC Rohrendorf
+        SC Rohrendorf ⇒ FC Rohrendorf/Gedersdorf
         SC Schwaz
-     !! SC Sollenau
         SC-ESV Parndorf 1919 ⇒ SC-ESV Parndorf
         SCU Ardagger
         SKN St. Pölten
@@ -324,13 +273,9 @@
         SV Spittal/Drau
         SV Wallern
         Salzburger AK 1914 ⇒ SAK 1914
-        TSV St. Johann
-        TSV St. Johann im Pongau ⇒ TSV St. Johann
         Union Vöcklamarkt
         WSG Wattens ⇒ WSG Tirol
         Wiener Sportklub ⇒ Wiener Sport-Club
-!! ERROR: 1 duplicate club record(s) found
-
       6 rounds:
         1. Runde (Knockout)   //  Do-So 12.-15. Juli 2012, 32 matches
         2. Runde (Knockout)  //  Di+Mi 25.+26. Sep 2012, 16 matches
@@ -412,7 +357,7 @@
 [11/37] >2013-14/cup.txt<
   1 section(s):
     82 lines - league: >ÖFB Cup< (at.cup), season: >2013/14<
-      65 clubs:
+      64 clubs:
         6× RB Salzburg ⇒ FC RB Salzburg
         6× SKN St. Pölten
         5× SV Horn
@@ -427,6 +372,7 @@
         3× KSV 1919 ⇒ Kapfenberger SV
         3× SAK Klagenfurt
         3× SC Kalsdorf
+        3× SC/ESV Parndorf ⇒ SC-ESV Parndorf
         3× SV Mattersburg
         2× 1. SC Sollenau
         2× Austria Klagenfurt
@@ -438,7 +384,6 @@
         2× LASK Linz
         2× SC Mannsdorf ⇒ FC Marchfeld Donauauen
         2× SC Pinkafeld
-        2× SC/ESV Parndorf ⇒ SC-ESV Parndorf
         2× SCR Altach
         2× TSV Hartberg
         2× Villacher SV
@@ -458,10 +403,9 @@
         FC St. Veit
         Rapid Wien ⇒ SK Rapid Wien
         SC Bregenz
-     !! SC Leopoldsdorf i. Mfd.
+        SC Leopoldsdorf i. Mfd. ⇒ SC Leopoldsdorf
         SC Retz
         SC Schwaz
-        SC/ESV Parndorf 1919 ⇒ SC-ESV Parndorf
         SV Grödig
         SV Lafnitz
         SV Oberwart
@@ -476,10 +420,8 @@
         Union St. Florian
         Union Vöcklamarkt
         WSG Wattens ⇒ WSG Tirol
-     !! Wiener SK
+        Wiener SK ⇒ Wiener Sport-Club
         Wiener Viktoria
-!! ERROR: 1 duplicate club record(s) found
-
       6 rounds:
         1. Runde (Knockout)   //  Fr-So 12.-14. Juli 2013, 32 matches
         2. Runde (Knockout)  //  Di+Mi 24.+25. Sep 2013, 16 matches
@@ -556,21 +498,17 @@
 [14/37] >2014-15/2-liga1-i.txt<
   1 section(s):
     142 lines - league: >2. Liga< (at.2), season: >2014/15<
-      12 clubs:
+      10 clubs:
+        20× Austria Lustenau
         20× FC Liefering
         20× Floridsdorfer AC
         20× Kapfenberger SV
         20× LASK Linz
+        20× SKN St. Pölten
         20× SV Horn
         20× SV Mattersburg
         20× TSV Hartberg
         20× Wacker Innsbruck ⇒ FC Wacker Innsbruck
-        19× Austria Lustenau
-        18× SKN St.Pölten ⇒ SKN St. Pölten
-        2× SKN St. Pölten
-     !! Austira Lustenau
-!! ERROR: 1 duplicate club record(s) found
-
       20 rounds:
         1. Runde, 5 matches
         2. Runde, 5 matches
@@ -595,9 +533,10 @@
 [15/37] >2014-15/2-liga1-ii.txt<
   1 section(s):
     112 lines - league: >2. Liga< (at.2), season: >2014/15<
-      11 clubs:
+      10 clubs:
         16× Austria Lustenau
         16× FC Liefering
+        16× Floridsdorfer AC
         16× Kapfenberger SV
         16× LASK Linz
         16× SKN St. Pölten
@@ -605,10 +544,6 @@
         16× SV Mattersburg
         16× TSV Hartberg
         16× Wacker Innsbruck ⇒ FC Wacker Innsbruck
-        15× Floridsdorfer AC
-        Floridsdorfer Ac ⇒ Floridsdorfer AC
-!! ERROR: 1 duplicate club record(s) found
-
       16 rounds:
         21. Runde, 5 matches
         22. Runde, 5 matches
@@ -633,78 +568,71 @@
 [18/37] >2014-15/cup.txt<
   1 section(s):
     83 lines - league: >ÖFB Cup< (at.cup), season: >2014/15<
-      69 clubs:
+      64 clubs:
         6× Austria Wien ⇒ FK Austria Wien
-        5× FC RB Salzburg
+        6× FC RB Salzburg
         5× SV Grödig
-     !! 5× Wolfsburger AC
+        5× Wolfsberger AC
         4× Floridsdorfer AC
         4× KSV 1919 ⇒ Kapfenberger SV
         4× Rapid Wien ⇒ SK Rapid Wien
         4× SCR Altach
         3× LASK Linz
-     !! 3× Ritzing
+        3× Ritzing ⇒ SC Ritzing
+        3× SC Wiener Neustadt
         3× SKN St. Pölten
         3× SV Mattersburg
         3× Sturm Graz ⇒ SK Sturm Graz
         3× TSV Hartberg
+        3× Wacker Innsbruck ⇒ FC Wacker Innsbruck
         2× ATSV Wolfsberg
         2× Admira Wacker ⇒ FC Admira Wacker Mödling
         2× Austria Salzburg
-     !! 2× Hohenems
-     !! 2× Kitzbühel
-     !! 2× Kufstein
-     !! 2× Lafnitz
-     !! 2× Micheldorf
-     !! 2× Neusiedl am See
-        2× SC Wiener Neustadt
+        2× FC Lankowitz
+        2× Hohenems ⇒ VfB Hohenems
+        2× Kitzbühel ⇒ FC Kitzbühel
+        2× Kufstein ⇒ FC Kufstein
+        2× Lafnitz ⇒ SV Lafnitz
+        2× Micheldorf ⇒ SV Grün-Weiß Micheldorf
+        2× Neusiedl am See ⇒ SC Neusiedl am See
         2× SV Horn
+        2× SV Ried
         2× TSV St. Johann
         2× Vorwärts Steyr ⇒ SK Vorwärts Steyr
-        2× Wacker Innsbruck ⇒ FC Wacker Innsbruck
-     !! 2× Wallern
-     !! 2× Wiener SK
-     !! ASK Kottingbrunn
+        2× Wallern ⇒ SV Wallern
+        2× Wiener SK ⇒ Wiener Sport-Club
+        ASK Kottingbrunn
         ASV Spratzern
         Admira Technopool ⇒ Technopool Admira
-     !! Allerheiligen
-     !! Amstetten SKU
+        Allerheiligen ⇒ USV Allerheiligen
+        Amstetten SKU ⇒ SKU Amstetten
         Austria Klagenfurt
         Austria Lustenau
         BW Linz ⇒ FC Blau-Weiß Linz
-     !! Donaufeld
-     !! Dornbirn
+        Donaufeld ⇒ SR Donaufeld
+        Dornbirn ⇒ FC Dornbirn 1913
         FC Gleisdorf 09
-        FC Lankowitz
-        FC Piberstein Lankowitz ⇒ FC Lankowitz
-        FC Wacker Innsbruck
-     !! Gurten
-     !! Hard
-     !! Höchst
-     !! Kalsdorf
-     !! Lendorf
-     !! Ober-Grafendorf
-     !! Parndorf
-        RB Salzburg ⇒ FC RB Salzburg
+        Gurten ⇒ Union Gurten
+        Hard ⇒ FC Hard
+        Höchst ⇒ FC Höchst
+        Kalsdorf ⇒ SC Kalsdorf
+        Lendorf ⇒ FC Lendorf
+        Ober-Grafendorf ⇒ ATSV Ober-Grafendorf
+        Parndorf ⇒ SC-ESV Parndorf
         SAK Klagenfurt
         SC Retz
         SC Weiz
-     !! SV Josko Ried
         SV Leobendorf
-        SV Ried
         SV Seekirchen
-     !! Schwaz
-     !! Schwechat SV
-     !! Sollenau
-     !! St. Florian
+        Schwaz ⇒ SC Schwaz
+        Schwechat SV ⇒ SV Schwechat
+        Sollenau ⇒ 1. SC Sollenau
+        St. Florian ⇒ Union St. Florian
         TSV Neumarkt
         USC Eugendorf
-     !! Vienna
+        Vienna ⇒ First Vienna FC
         Wattens ⇒ WSG Tirol
-     !! Wimpassing
-        Wr. Neustadt ⇒ SC Wiener Neustadt
-!! ERROR: 4 duplicate club record(s) found
-
+        Wimpassing ⇒ SV Wimpassing
       6 rounds:
         1. Runde (Knockout) //  11.-13. Juli 2014, 32 matches
         2. Runde (Knockout), 16 matches
@@ -792,8 +720,8 @@
         30× FC Liefering
         30× FC Wacker Innsbruck II
         30× Floridsdorfer AC
-     !! 30× Juniors OÖ
-     !! 30× Kapfenberger SV 1919
+        30× Juniors OÖ ⇒ FC Juniors OÖ
+        30× Kapfenberger SV 1919 ⇒ Kapfenberger SV
         30× SC Wiener Neustadt
         30× SK Austria Klagenfurt ⇒ Austria Klagenfurt
         30× SKU Amstetten
