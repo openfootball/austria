@@ -85,4 +85,15 @@ Bundesliga
   2013/14
    ++   SV Grödig
    --   SV Mattersburg
+
+1. Liga
+  2015/16
+    ++ SK Austria Klagenfurt, Austria Salzburg
+    -- SV Horn, TSV Hartberg
+  2014/15
+    ++ LASK Linz,  Floridsdorfer AC
+    -- (moved to teams_3)   ???
+  2013/14
+    ++ SC/ESV Parndorf 1919, FC Liefering
+    -- FC Blau-Weiß Linz,  FC Lustenau 1907
 ```
