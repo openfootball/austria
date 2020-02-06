@@ -226,36 +226,41 @@ Runde 16
   
 Runde 17
 [Fr. 21.2.]
-  Grazer AK               - Floridsdorfer AC
   Austria Lustenau        - FC Dornbirn 1913
   Austria Klagenfurt      - SV Ried
   FC Juniors OÖ           - SV Lafnitz
   Kapfenberger SV         - Blau-Weiß Linz
   SV Horn                 - Young Violets 
-  Wacker Innsbruck        - Vorwärts Steyr
   SKU Amstetten           - FC Liefering
-
-
+[So. 23.2.]
+  Wacker Innsbruck        - Vorwärts Steyr
+  Grazer AK               - Floridsdorfer AC
+  
+  
 Runde 18
 [Fr. 28.2.]
   SV Ried                 - Austria Lustenau
   Vorwärts Steyr          - FC Juniors OÖ
   Young Violets           - SKU Amstetten
-  Blau-Weiß Linz          - Grazer AK
-  FC Dornbirn 1913        - Wacker Innsbruck
   Floridsdorfer AC        - SV Horn
+[Sa. 29.2.]
   FC Liefering            - Austria Klagenfurt
   SV Lafnitz              - Kapfenberger SV
-
-
+  Blau-Weiß Linz          - Grazer AK
+[So. 1.3.]
+  FC Dornbirn 1913        - Wacker Innsbruck
+  
+  
 Runde 19
 [Fr. 6.3.]
   Austria Lustenau        - Young Violets 
-  Austria Klagenfurt      - FC Dornbirn 1913
   Kapfenberger SV         - FC Juniors OÖ
   Blau-Weiß Linz          - Vorwärts Steyr
   SV Horn                 - Grazer AK
   Wacker Innsbruck        - Floridsdorfer AC
+[Sa. 7.3.]
+  Austria Klagenfurt      - FC Dornbirn 1913
+[So. 8.3.]
   SKU Amstetten           - SV Ried
   FC Liefering            - SV Lafnitz
 
