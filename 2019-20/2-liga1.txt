@@ -269,24 +269,27 @@ Runde 20
 [Fr. 13.3.]
   Grazer AK               - Austria Lustenau
   SV Ried                 - SV Lafnitz
-  Austria Klagenfurt      - Kapfenberger SV
   FC Juniors OÖ           - Wacker Innsbruck
   Young Violets           - Blau-Weiß Linz
   SV Horn                 - FC Liefering
-  FC Dornbirn 1913        - SKU Amstetten
   Floridsdorfer AC        - Vorwärts Steyr
+[Sa. 14.3.]
+  FC Dornbirn 1913        - SKU Amstetten
+[So. 15.3.]
+  Austria Klagenfurt      - Kapfenberger SV
 
 
 Runde 21
 [Fr. 20.3.]
   Grazer AK               - SV Ried
-  Austria Lustenau        - FC Juniors OÖ
   Vorwärts Steyr          - SV Horn
-  Kapfenberger SV         - FC Dornbirn 1913
   Blau-Weiß Linz          - Austria Klagenfurt
   SKU Amstetten           - Wacker Innsbruck
+[Sa. 21.3.]
+  Austria Lustenau        - FC Juniors OÖ
   FC Liefering            - Floridsdorfer AC
   SV Lafnitz              - Young Violets 
+  Kapfenberger SV         - FC Dornbirn 1913
 
 
 Runde 22
@@ -297,8 +300,9 @@ Runde 22
   Young Violets           - FC Liefering
   SV Horn                 - SKU Amstetten
   Wacker Innsbruck        - Blau-Weiß Linz
-  FC Dornbirn 1913        - Vorwärts Steyr
   Floridsdorfer AC        - Austria Lustenau
+[Sa. 4.4.]
+  FC Dornbirn 1913        - Vorwärts Steyr
 
 
 Runde 23
