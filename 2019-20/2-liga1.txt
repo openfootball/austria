@@ -263,34 +263,34 @@ Runde 19
 [So. 8.3.]
   SKU Amstetten           1-2 SV Ried
 [Di. 10.3.]
-  Kapfenberger SV         - FC Juniors OÖ
+  Kapfenberger SV         2-2 FC Juniors OÖ
 
 
 Runde 20
 [Fr. 13.3.]
-  Grazer AK               - Austria Lustenau
-  SV Ried                 - SV Lafnitz
-  FC Juniors OÖ           - Wacker Innsbruck
-  Young Violets           - Blau-Weiß Linz
-  SV Horn                 - FC Liefering
-  Floridsdorfer AC        - Vorwärts Steyr
+  Grazer AK               - Austria Lustenau            # Termin verschoben
+  SV Ried                 - SV Lafnitz                  # Termin verschoben
+  FC Juniors OÖ           - Wacker Innsbruck            # Termin verschoben
+  Young Violets           - Blau-Weiß Linz              # Termin verschoben 
+  SV Horn                 - FC Liefering                # Termin verschoben
+  Floridsdorfer AC        - Vorwärts Steyr              # Termin verschoben
 [Sa. 14.3.]
-  FC Dornbirn 1913        - SKU Amstetten
+  FC Dornbirn 1913        - SKU Amstetten               # Termin verschoben
 [So. 15.3.]
-  Austria Klagenfurt      - Kapfenberger SV
+  Austria Klagenfurt      - Kapfenberger SV             # Termin verschoben
 
 
 Runde 21
 [Fr. 20.3.]
-  Grazer AK               - SV Ried
-  Vorwärts Steyr          - SV Horn
-  Blau-Weiß Linz          - Austria Klagenfurt
-  SKU Amstetten           - Wacker Innsbruck
+  Grazer AK               - SV Ried                     # Termin verschoben
+  Vorwärts Steyr          - SV Horn                     # Termin verschoben
+  Blau-Weiß Linz          - Austria Klagenfurt          # Termin verschoben
+  SKU Amstetten           - Wacker Innsbruck            # Termin verschoben
 [Sa. 21.3.]
-  Austria Lustenau        - FC Juniors OÖ
-  FC Liefering            - Floridsdorfer AC
-  SV Lafnitz              - Young Violets 
-  Kapfenberger SV         - FC Dornbirn 1913
+  Austria Lustenau        - FC Juniors OÖ               # Termin verschoben
+  FC Liefering            - Floridsdorfer AC            # Termin verschoben
+  SV Lafnitz              - Young Violets               # Termin verschoben
+  Kapfenberger SV         - FC Dornbirn 1913            # Termin verschoben
 
 
 Runde 22
