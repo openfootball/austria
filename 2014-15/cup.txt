@@ -8,17 +8,17 @@
 
 [Fr 11.7.]
   18.00  Hard - Ritzing  1:2 (1:1)
-  19.00  Kalsdorf - TSV Hartberg  5:6 i.E. 2:2 n.V. (1:1, 1:1)
+  19.00  Kalsdorf - TSV Hartberg  2:2 (1:1, 1:1) n.V. 5:6 i.E.
   19.00  SC Weiz - Wolfsberger AC  2:4 (1:2)
-  19.00  Wattens - SCR Altach  2:4 n.V. (1:1, 1:1)
+  19.00  Wattens - SCR Altach  2:4 (1:1, 1:1) n.V.
   19.00  ATSV Wolfsberg - Dornbirn  2:1 (1:1)
-  19.00  Wallern - St. Florian  6:4 i.E. 1:1 n.V. (0:0, 0:0)
+  19.00  Wallern - St. Florian   1:1 (0:0, 0:0) n.V. 6:4 i.E.
   19.00  Parndorf - SV Ried  2:3 (1:2)
   19.00  Schwaz -  Sturm Graz  1:4 (0:1)
   19.00  SV Seekirchen - LASK Linz  1:4 (0:0)
   19.30  ASK Kottingbrunn - KSV 1919  0:7 (0:2)
   19.30  Austria Klagenfurt - Vorwärts Steyr  1:3 (1:1)
-  19.30  Amstetten SKU -  Rapid Wien  0:1 n.V. (0:0, 0:0)
+  19.30  Amstetten SKU -  Rapid Wien  0:1 (0:0, 0:0) n.V.
   19.30  Lendorf - Admira Wacker  0:7 (0:1)
   19.30  Schwechat SV - Floridsdorfer AC   1:4 (1:2)
   20.30  Vienna - Austria Wien  0:6 (0:2)
@@ -31,7 +31,7 @@
   17.00  Wiener SK -  Austria Lustenau  3:2 (0:0)
   17.00  Hohenems - USC Eugendorf  5:1 (4:1)
   17.00  Wimpassing - SV Horn  0:3 (0:2)
-  17.00  Donaufeld -  Wacker Innsbruck  1:3 n.V. (1:1, 0:0)
+  17.00  Donaufeld -  Wacker Innsbruck  1:3 (1:1, 0:0) n.V.
   17.00  Höchst - SV Mattersburg  1:2 (0:1)
   17.30  TSV St. Johann - ASV Spratzern  3:0 (2:0)
   18.00  Neusiedl am See - TSV Neumarkt  5:1 (2:0)
@@ -47,7 +47,7 @@
   19.33  Austria Salzburg  - BW Linz  2:0 (1:0)
 
 
-2. Runde (Knockout)    ## 23.+24. Sep 2014 (Auslosung am 3. Aug 2014)
+2. Runde (Knockout)    ## 23.+24. Sep 2014
 
 [Mo 22.9.]
   19.00  FC Lankowitz - LASK Linz  0:3 (0:1)
@@ -55,7 +55,7 @@
   18.00  Kufstein - Floridsdorfer AC  1:6 (0:2)
   18.30  Micheldorf - SV Mattersburg  0:4 (0:2)
   19.00  Neusiedl am See - KSV 1919  1:4 (1:2)
-  19.00  TSV St. Johann - SKN St. Pölten  7:8 i.E. 1:1 n.V. (1:1, 0:1)
+  19.00  TSV St. Johann - SKN St. Pölten   1:1 (1:1, 0:1) n.V. 7:8 i.E.
   19.00  SV Ried - Wolfsberger AC  0:1 (0:0)
   19.00  ATSV Wolfsberg - Wacker Innsbruck  0:3 (0:0)
   19.00  Ritzing - SV Horn  2:0 (1:0)
@@ -66,25 +66,25 @@
   18.00  Wallern - Rapid Wien  0:1 (0:1)
   18.30  Kitzbühel - Austria Wien  0:5 (0:3)
   18.30  Hohenems - SCR Altach  0:5 (0:1)
-  19.00  SC Wiener Neustadt - Admira Wacker  7:5 i.E. 2:2 n.V. (2:2, 1:1)
+  19.00  SC Wiener Neustadt - Admira Wacker   2:2 (2:2, 1:1) n.V. 7:5 i.E.
   20.30  Wiener SK - FC RB Salzburg  1:12 (1:4)
 
 
-Achtelfinale    ## 28.+29. Okt 2014 (Auslosung am 28. Sep 2014)
+Achtelfinale    ## 28.+29. Okt 2014
 
 [Di 28.10.]
   18.30  Wolfsberger AC - SC Wiener Neustadt  3:2 (1:1)
   19.30  Ritzing - Floridsdorfer AC  1:3 (1:0)
   20.30  TSV Hartberg - Austria Wien  0:6 (0:3)
 [Mi 29.10.]
-  18.00  Wacker Innsbruck - FC RB Salzburg  1:2 n.V. (0:0, 0:0)
+  18.00  Wacker Innsbruck - FC RB Salzburg  1:2 (0:0, 0:0) n.V.
   18.30  KSV 1919 - LASK Linz  5:3 (3:3)
-  18.30  SCR Altach - SV Mattersburg  5:3 i.E. 1:1 n.V. (1:1, 0:1)
+  18.30  SCR Altach - SV Mattersburg   1:1 (1:1, 0:1) n.V. 5:3 i.E.
   19.00  SKN St. Pölten - SV Grödig  0:1 (0:1)
   20.30  Rapid Wien - Sturm Graz  1:0 (1:0)
 
 
-Viertelfinale   ## 7.+8. Apr 2015 (Auslosung am 2. Nov 2014)
+Viertelfinale   ## 7.+8. Apr 2015
 
 [Di 7.4.]
   18.00  Wolfsberger AC - Rapid Wien  2:1 (2:0)
@@ -95,7 +95,7 @@ Viertelfinale   ## 7.+8. Apr 2015 (Auslosung am 2. Nov 2014)
 
 
 
-Halbfinale      ## 28.+29. Apr 2015 (Auslosung am 12. Apr 2015)
+Halbfinale      ## 28.+29. Apr 2015
 
 [Di 28.4.]
   18.00  SV Grödig - FC RB Salzburg  0:2 (0:0)
@@ -104,7 +104,7 @@ Halbfinale      ## 28.+29. Apr 2015 (Auslosung am 12. Apr 2015)
 
 
 
-Finale          ## 3. Juni 2015 @ Klagenfurt
+Finale          ## 3. Juni 2015
 
 [Mi 3.6.]
-  20.30  Austria Wien - FC RB Salzburg    0:2 n.V. (0:0, 0:0)
+  20.30  Austria Wien - FC RB Salzburg    0:2 (0:0, 0:0) n.V.   @ Klagenfurt
