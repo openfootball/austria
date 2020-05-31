@@ -1,17 +1,21 @@
 # Clubs
 
-  Bundesliga - 5 records
+  Bundesliga - 7 records
     Bundesliga 2011/12  -- teams: 10, matches: 40, rounds: 8
     Bundesliga 2012/13  -- teams: 10, matches: 180, rounds: 36
     Bundesliga 2013/14  -- teams: 10, matches: 180, rounds: 36
     Bundesliga 2014/15  -- teams: 10, matches: 180, rounds: 36
+    Bundesliga 2017/18  -- teams: 10, matches: 180, rounds: 36
     Bundesliga 2018/19  -- teams: 0, matches: 132, rounds: 22
+    Bundesliga 2019/20  -- teams: 0, matches: 144, rounds: 24
 
-  2. Liga - 4 records
+  2. Liga - 6 records
     2. Liga 2012/13  -- teams: 0, matches: 0, rounds: 0
     2. Liga 2013/14  -- teams: 0, matches: 0, rounds: 0
     2. Liga 2014/15  -- teams: 10, matches: 180, rounds: 36
+    2. Liga 2017/18  -- teams: 10, matches: 185, rounds: 37
     2. Liga 2018/19  -- teams: 16, matches: 241, rounds: 30
+    2. Liga 2019/20  -- teams: 16, matches: 240, rounds: 30
 
   ÖFB Cup - 4 records
     ÖFB Cup 2011/12  -- teams: 8, matches: 7, rounds: 3
@@ -24,231 +28,235 @@
 
    1. SV Ried                 
       - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - 2. Liga                    1  (2018/19)
+      - 2. Liga                    3  (2019/20, 2018/19, 2017/18)
       - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
    2. FC RB Salzburg          
-      - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
+      - Bundesliga                 5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
       - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-   3. FK Austria Wien         
-      - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-   4. SC Wiener Neustadt      
-      - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - 2. Liga                    1  (2018/19)
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-   5. SK Sturm Graz           
-      - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-   6. FC Admira Wacker Mödling
-      - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-   7. FC Wacker Innsbruck     
+   3. FC Wacker Innsbruck     
       - Bundesliga                 3  (2013/14, 2012/13, 2011/12)
-      - 2. Liga                    1  (2014/15)
+      - 2. Liga                    3  (2019/20, 2017/18, 2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-   8. SK Rapid Wien           
+   4. FK Austria Wien         
+      - Bundesliga                 5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
+   5. SC Wiener Neustadt      
       - Bundesliga                 4  (2014/15, 2013/14, 2012/13, 2011/12)
+      - 2. Liga                    2  (2018/19, 2017/18)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-   9. Austria Lustenau        
-      - 2. Liga                    2  (2018/19, 2014/15)
+   6. SK Sturm Graz           
+      - Bundesliga                 5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
       - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-  10. Kapfenberger SV         
+   7. Austria Lustenau        
+      - 2. Liga                    4  (2019/20, 2018/19, 2017/18, 2014/15)
+      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
+   8. FC Admira Wacker Mödling
+      - Bundesliga                 5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+   9. Kapfenberger SV         
       - Bundesliga                 1  (2011/12)
-      - 2. Liga                    2  (2018/19, 2014/15)
+      - 2. Liga                    4  (2019/20, 2018/19, 2017/18, 2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  11. SV Grödig               
-      - Bundesliga                 2  (2014/15, 2013/14)
-      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
+  10. SK Rapid Wien           
+      - Bundesliga                 5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  11. Floridsdorfer AC        
+      - 2. Liga                    4  (2019/20, 2018/19, 2017/18, 2014/15)
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   12. SV Mattersburg          
-      - Bundesliga                 2  (2012/13, 2011/12)
+      - Bundesliga                 3  (2017/18, 2012/13, 2011/12)
       - 2. Liga                    1  (2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   13. Wolfsberger AC          
-      - Bundesliga                 3  (2014/15, 2013/14, 2012/13)
+      - Bundesliga                 4  (2017/18, 2014/15, 2013/14, 2012/13)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  14. Floridsdorfer AC        
-      - 2. Liga                    2  (2018/19, 2014/15)
+  14. FC Blau-Weiß Linz       
+      - 2. Liga                    3  (2019/20, 2018/19, 2017/18)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  15. SV Horn                 
-      - 2. Liga                    2  (2018/19, 2014/15)
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  16. TSV Hartberg            
-      - 2. Liga                    1  (2014/15)
+  15. SV Grödig               
+      - Bundesliga                 2  (2014/15, 2013/14)
       - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-  17. Austria Klagenfurt      
-      - 2. Liga                    1  (2018/19)
+  16. SV Horn                 
+      - 2. Liga                    3  (2019/20, 2018/19, 2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  18. FC Blau-Weiß Linz       
-      - 2. Liga                    1  (2018/19)
+  17. TSV Hartberg            
+      - 2. Liga                    2  (2017/18, 2014/15)
+      - ÖFB Cup                    4  (2014/15, 2013/14, 2012/13, 2011/12)
+  18. Austria Klagenfurt      
+      - 2. Liga                    2  (2019/20, 2018/19)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   19. LASK Linz               
+      - Bundesliga                 1  (2017/18)
       - 2. Liga                    1  (2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   20. SCR Altach              
-      - Bundesliga                 1  (2014/15)
+      - Bundesliga                 2  (2017/18, 2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   21. SKN St. Pölten          
+      - Bundesliga                 1  (2017/18)
       - 2. Liga                    1  (2014/15)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   22. SKU Amstetten           
-      - 2. Liga                    1  (2018/19)
+      - 2. Liga                    2  (2019/20, 2018/19)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
   23. WSG Tirol               
-      - 2. Liga                    1  (2018/19)
+      - 2. Liga                    2  (2018/19, 2017/18)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  24. 1. SC Sollenau          
+  24. FC Dornbirn 1913        
+      - 2. Liga                    1  (2019/20)
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  25. Austria Salzburg        
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  26. FC Dornbirn 1913        
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  27. FC Hard                 
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  28. FC Kufstein             
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  29. First Vienna FC         
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  30. SAK Klagenfurt          
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  31. SC Kalsdorf             
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  32. SC Retz                 
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  33. SC Schwaz               
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  34. SC-ESV Parndorf         
-      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  35. SK Vorwärts Steyr       
-      - 2. Liga                    1  (2018/19)
+  25. FC Liefering            
+      - 2. Liga                    4  (2019/20, 2018/19, 2017/18, 2014/15)
+  26. SK Vorwärts Steyr       
+      - 2. Liga                    2  (2019/20, 2018/19)
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  36. SV Lafnitz              
-      - 2. Liga                    1  (2018/19)
+  27. SV Lafnitz              
+      - 2. Liga                    2  (2019/20, 2018/19)
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  37. SV Schwechat            
+  28. 1. SC Sollenau          
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  38. TSV St. Johann          
+  29. Austria Salzburg        
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  39. USV Allerheiligen       
+  30. FC Hard                 
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  40. Union St. Florian       
+  31. FC Kufstein             
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  41. Wiener Sport-Club       
+  32. First Vienna FC         
       - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
-  42. ASK Bad Vöslau          
+  33. SAK Klagenfurt          
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  34. SC Kalsdorf             
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  35. SC Retz                 
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  36. SC Schwaz               
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  37. SC-ESV Parndorf         
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  38. SV Schwechat            
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  39. TSV St. Johann          
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  40. USV Allerheiligen       
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  41. Union St. Florian       
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  42. Wiener Sport-Club       
+      - ÖFB Cup                    3  (2014/15, 2013/14, 2012/13)
+  43. ASK Bad Vöslau          
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  43. ATSV Ober-Grafendorf    
+  44. ATSV Ober-Grafendorf    
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  44. DSV Leoben              
+  45. DSV Leoben              
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  45. FC Gratkorn             
+  46. FC Gratkorn             
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  46. FC Kitzbühel            
+  47. FC Juniors OÖ           
+      - 2. Liga                    2  (2019/20, 2018/19)
+  48. FC Kitzbühel            
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  47. FC Lankowitz            
+  49. FC Lankowitz            
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  48. FC Liefering            
-      - 2. Liga                    2  (2018/19, 2014/15)
-  49. FC Pasching             
+  50. FC Pasching             
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  50. SV Grün-Weiß Micheldorf 
+  51. Grazer AK               
+      - 2. Liga                    1  (2019/20)
+      - ÖFB Cup                    1  (2012/13)
+  52. SV Grün-Weiß Micheldorf 
       - ÖFB Cup                    2  (2014/15, 2012/13)
-  51. SV Oberwart             
+  53. SV Oberwart             
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  52. SV Seekirchen           
+  54. SV Seekirchen           
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  53. SV Stegersbach          
+  55. SV Stegersbach          
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  54. SV Wallern              
+  56. SV Wallern              
       - ÖFB Cup                    2  (2014/15, 2012/13)
-  55. SW Bregenz              
+  57. SW Bregenz              
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  56. TSV Neumarkt            
+  58. TSV Neumarkt            
       - ÖFB Cup                    2  (2014/15, 2013/14)
-  57. Union Vöcklamarkt       
+  59. Union Vöcklamarkt       
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  58. Villacher SV            
+  60. Villacher SV            
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  59. Wiener Viktoria         
+  61. Wiener Viktoria         
       - ÖFB Cup                    2  (2013/14, 2012/13)
-  60. ASK Kottingbrunn        
+  62. Young Violets Austria Wien
+      - 2. Liga                    2  (2019/20, 2018/19)
+  63. ASK Kottingbrunn        
       - ÖFB Cup                    1  (2014/15)
-  61. ASV Draßburg            
+  64. ASV Draßburg            
       - ÖFB Cup                    1  (2013/14)
-  62. ASV Spratzern           
+  65. ASV Spratzern           
       - ÖFB Cup                    1  (2014/15)
-  63. ATSV Wolfsberg          
+  66. ATSV Wolfsberg          
       - ÖFB Cup                    1  (2014/15)
-  64. Deutschlandsberger SC   
+  67. Deutschlandsberger SC   
       - ÖFB Cup                    1  (2012/13)
-  65. Dornbirner SV           
+  68. Dornbirner SV           
       - ÖFB Cup                    1  (2013/14)
-  66. FC Gleisdorf 09         
+  69. FC Gleisdorf 09         
       - ÖFB Cup                    1  (2014/15)
-  67. FC Höchst               
+  70. FC Höchst               
       - ÖFB Cup                    1  (2014/15)
-  68. FC Juniors OÖ           
-      - 2. Liga                    1  (2018/19)
-  69. FC Lendorf              
+  71. FC Lendorf              
       - ÖFB Cup                    1  (2014/15)
-  70. FC Lustenau 07          
+  72. FC Lustenau 07          
       - ÖFB Cup                    1  (2012/13)
-  71. FC Marchfeld Donauauen  
+  73. FC Marchfeld Donauauen  
       - ÖFB Cup                    1  (2013/14)
-  72. FC Pinzgau Saalfelden   
+  74. FC Pinzgau Saalfelden   
       - ÖFB Cup                    1  (2012/13)
-  73. FC RB Salzburg II       
+  75. FC RB Salzburg II       
       - ÖFB Cup                    1  (2011/12)
-  74. FC Rohrendorf/Gedersdorf
+  76. FC Rohrendorf/Gedersdorf
       - ÖFB Cup                    1  (2012/13)
-  75. FC St. Veit             
+  77. FC St. Veit             
       - ÖFB Cup                    1  (2013/14)
-  76. FC Wacker Innsbruck II  
+  78. FC Wacker Innsbruck II  
       - 2. Liga                    1  (2018/19)
-  77. FC Wolfurt              
+  79. FC Wolfurt              
       - ÖFB Cup                    1  (2012/13)
-  78. Grazer AK               
+  80. SAK 1914                
       - ÖFB Cup                    1  (2012/13)
-  79. SAK 1914                
-      - ÖFB Cup                    1  (2012/13)
-  80. SC Leopoldsdorf         
+  81. SC Leopoldsdorf         
       - ÖFB Cup                    1  (2013/14)
-  81. SC Neusiedl am See      
+  82. SC Neusiedl am See      
       - ÖFB Cup                    1  (2014/15)
-  82. SC Ostbahn XI           
+  83. SC Ostbahn XI           
       - ÖFB Cup                    1  (2012/13)
-  83. SC Pinkafeld            
+  84. SC Pinkafeld            
       - ÖFB Cup                    1  (2013/14)
-  84. SC Ritzing              
+  85. SC Ritzing              
       - ÖFB Cup                    1  (2014/15)
-  85. SC Team Wiener Linien   
+  86. SC Team Wiener Linien   
       - ÖFB Cup                    1  (2013/14)
-  86. SC Weiz                 
+  87. SC Weiz                 
       - ÖFB Cup                    1  (2014/15)
-  87. SCU Ardagger            
+  88. SCU Ardagger            
       - ÖFB Cup                    1  (2012/13)
-  88. SR Donaufeld            
+  89. SR Donaufeld            
       - ÖFB Cup                    1  (2014/15)
-  89. SV Gaflenz              
+  90. SV Gaflenz              
       - ÖFB Cup                    1  (2012/13)
-  90. SV Heiligenkreuz        
+  91. SV Heiligenkreuz        
       - ÖFB Cup                    1  (2012/13)
-  91. SV Leobendorf           
+  92. SV Leobendorf           
       - ÖFB Cup                    1  (2014/15)
-  92. SV Reutte               
+  93. SV Reutte               
       - ÖFB Cup                    1  (2012/13)
-  93. SV Spittal/Drau         
+  94. SV Spittal/Drau         
       - ÖFB Cup                    1  (2012/13)
-  94. SV Wals-Grünau          
+  95. SV Wals-Grünau          
       - ÖFB Cup                    1  (2013/14)
-  95. SV Wimpassing           
+  96. SV Wimpassing           
       - ÖFB Cup                    1  (2014/15)
-  96. Technopool Admira       
+  97. Technopool Admira       
       - ÖFB Cup                    1  (2014/15)
-  97. USC Eugendorf           
+  98. USC Eugendorf           
       - ÖFB Cup                    1  (2014/15)
-  98. Union Gurten            
+  99. Union Gurten            
       - ÖFB Cup                    1  (2014/15)
-  99. VfB Hohenems            
+ 100. VfB Hohenems            
       - ÖFB Cup                    1  (2014/15)
- 100. Young Violets Austria Wien
-      - 2. Liga                    1  (2018/19)

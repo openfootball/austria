@@ -11,3 +11,20 @@
 
 - start_at: 2017-07-21
 - 10 Teams
+
+```
+## 8 Aufsteiger in 2. Liga 2018/19:
+#  SV Horn
+#  SKU Amstetten
+  Young Violets Austria Wien
+  FC Wacker Innsbruck II
+  SV Lafnitz
+  FC Vorwärts Steyr
+  Juniors Oberösterreich
+  SK Austria Klagenfurt
+
+## Meister 2. Liga 2017/18:
+  FC Wacker Innsbruck
+
+
+```

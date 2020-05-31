@@ -1,5 +1,5 @@
-###################################################
-# Österreichische Bundesliga 2016/17 -  Frühjahr
+= Österr. Bundesliga 2017/18     ## Frühjahr
+
 
 Runde 21
 
@@ -10,7 +10,7 @@ Runde 21
      LASK              2-1  SKN St. Pölten
 [So 4.2.]
      Rapid Wien        1-1  Austria Wien
-     
+
 Runde 22
 
 [Sa 10.2.]
@@ -20,7 +20,7 @@ Runde 22
      SKN St. Pölten    0-3  SV Mattersburg
 [So 11.2.]
      FC Admira Wacker  2-1  Rapid Wien
-     
+
 Runde 23
 
 [Sa 17.2.]
@@ -30,18 +30,18 @@ Runde 23
      LASK              2-0  SCR Altach
 [So 18.2.]
      RB Salzburg       4-0  SKN St. Pölten
-     
+
 Runde 24
 
 [Sa 24.2.]
-     
+
      SCR Altach        1-1  SV Mattersburg
      FC Admira Wacker  2-1  Austria Wien
      Rapid Wien        2-0  LASK
      Wolfsberger AC    0-1  SKN St. Pölten
 [So 25.2.]
      Sturm Graz        2-4  RB Salzburg
-     
+
 Runde 25
 
 [Sa 3.3.]
@@ -51,7 +51,7 @@ Runde 25
      LASK              0-2  Sturm Graz
 [So 4.3.]
      RB Salzburg       1-0  Rapid Wien
-     
+
 Runde 26
 
 [Sa 10.3.]
@@ -61,7 +61,7 @@ Runde 26
      SCR Altach        0-0  Rapid Wien
 [So 11.3.]
      SV Mattersburg    2-2  RB Salzburg
-     
+
 Runde 27
 
 [Sa 17.3.]
@@ -71,7 +71,7 @@ Runde 27
      LASK              3-1  SV Mattersburg
 [So 18.3.]
      RB Salzburg       5-0  Austria Wien
-     
+
 Runde 28
 
 [Sa 31.3.]
@@ -81,7 +81,7 @@ Runde 28
      FC Admira Wacker  0-1  LASK
 [So 1.4.]
      SV Mattersburg    2-4  Rapid Wien
-     
+
 Runde 29
 
 [Sa 7.4.]
@@ -91,7 +91,7 @@ Runde 29
      Rapid Wien        2-1  SKN St. Pölten
 [So 8.4.]
      LASK              1-0  RB Salzburg
-     
+
 Runde 30
 
 [Sa 14.4.]
@@ -101,7 +101,7 @@ Runde 30
 [So 15.4.]
      FC Admira Wacker  2-6  RB Salzburg
      Austria Wien      0-4  Rapid Wien
-     
+
 Runde 31
 
 [Sa 21.4.]
@@ -111,7 +111,7 @@ Runde 31
 [So 22.4]
      Rapid Wien        4-1  FC Admira Wacker
      RB Salzburg       3-1  SCR Altach
-     
+
 Runde 32
 
 [Sa 28.4.]
@@ -121,7 +121,7 @@ Runde 32
 [So 29.4.]
      Sturm Graz        4-2  Rapid Wien
      SKN St. Pölten    0-2  RB Salzburg
-     
+
 Runde 33
 
 [Sa 5.5.]
@@ -131,10 +131,10 @@ Runde 33
      SKN St. Pölten    0-1  Wolfsberger AC
 [So 6.5.]
      RB Salzburg       4-1  Sturm Graz
-  
+
 ## Meister 1. Bundesliga 2017/18:
    RB Salzburg
-   
+
 Runde 34
 
 [Sa 12.5.]
@@ -143,12 +143,12 @@ Runde 34
      Sturm Graz        3-1  LASK
 [So 13.5.]
      Rapid Wien        1-4  RB Salzburg
-[Di 15.5.] 
-     Wolfsberger AC    2-1  Austria Wien 
-     
+[Di 15.5.]
+     Wolfsberger AC    2-1  Austria Wien
+
 ## 1. Aufsteiger 1. Bundesliga 2018/19:
    Wacker Innsbruck
-   
+
 Runde 35
 
 [So 20.5.]
@@ -170,16 +170,16 @@ Runde 36
 
 
 ## Relegationsspiele um einen 1. Bundesligaplatz:
-[Do 31.5]
-SC Wiener Neustadt     0-2 SKN St.Pölten
-[So 3.6.]
-SKN St. Pölten         1-1 SC Wiener Neustadt
-
-SKN St.Pölten in 1. Bundesliga 2018/19
+# [Do 31.5]
+#  SC Wiener Neustadt     0-2 SKN St.Pölten
+# [So 3.6.]
+#  SKN St. Pölten         1-1 SC Wiener Neustadt
+#
+# SKN St.Pölten in 1. Bundesliga 2018/19
 
 ## Aufsteiger in 1. Bundesliga 2018/19:
-   FC Wacker Innsbruck
-   TSV Hartberg
-   
+#   FC Wacker Innsbruck
+#   TSV Hartberg
+
 ##  Sommerpause bis 28.7.18
 

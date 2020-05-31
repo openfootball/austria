@@ -1,5 +1,4 @@
-#################################
-# Österr. Erste Liga 2017/18
+= Österr. Erste Liga 2017/18
 
 Runde 1
 [Fr 21.7.]
@@ -24,7 +23,7 @@ Runde 3
  18.30  Austria Lustenau      2-3   SC Wiener Neustadt
  18.30  WSG Wattens           3-1   Kapfenberger SV 1919
  18.30  FC Blau Weiß Linz     2-3   FC Liefering
- 20.30  TSV Hartberg          3-1   FC Wacker Innsbruck      
+ 20.30  TSV Hartberg           -    FC Wacker Innsbruck    ## verschoben, siehe Nachtrag
 
 Runde 4
 [Mo 7.8.]
@@ -59,7 +58,7 @@ Runde 7
  18.30  Floridsdorfer AC      0-3   Kapfenberger SV 1919
  18.30  TSV Hartberg          2-2   SV Ried
  20.30  FC Wacker Innsbruck   1-0   FC Liefering
- 
+
 Nachtrag Runde 3
 [Mo 21.8.]
 TSV Hartberg                  3-1   FC Wacker Innsbruck
@@ -88,7 +87,7 @@ Runde 10
   TSV Hartberg                2-1   WSG Wattens
   FC Liefering                2-1   Kapfenberger SV 1919
   FC Wacker Innsbruck         3-0   FC Blau Weiß Linz
-  
+
 
 Runde 11
 [Fr 15.9.]
@@ -171,4 +170,4 @@ Runde 20
   SC Wiener Neustadt          6-3   FC Blau Weiß Linz
   TSV Hartberg                1-2   Floridsdorfer AC
 
-Winterpause bis 23.02.2018
+# Winterpause bis 23.02.2018

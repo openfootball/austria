@@ -1,58 +1,66 @@
 # Leagues
 
-  Bundesliga - 5 records
+  Bundesliga - 7 records
     Bundesliga 2011/12  - teams: 10, matches: 40, rounds: 8
     Bundesliga 2012/13  - teams: 10, matches: 180, rounds: 36
     Bundesliga 2013/14  - teams: 10, matches: 180, rounds: 36
     Bundesliga 2014/15  - teams: 10, matches: 180, rounds: 36
+    Bundesliga 2017/18  - teams: 10, matches: 180, rounds: 36
     Bundesliga 2018/19  - teams: 0, matches: 132, rounds: 22
+    Bundesliga 2019/20  - teams: 0, matches: 144, rounds: 24
 
-Bundesliga  - 5 seasons
+Bundesliga  - 7 seasons
 
-  1. FC Admira Wacker Mödling   4  (2014/15, 2013/14, 2012/13, 2011/12)
-  2. FC RB Salzburg             4  (2014/15, 2013/14, 2012/13, 2011/12)
-  3. FK Austria Wien            4  (2014/15, 2013/14, 2012/13, 2011/12)
-  4. SC Wiener Neustadt         4  (2014/15, 2013/14, 2012/13, 2011/12)
-  5. SK Rapid Wien              4  (2014/15, 2013/14, 2012/13, 2011/12)
-  6. SK Sturm Graz              4  (2014/15, 2013/14, 2012/13, 2011/12)
+  1. FC Admira Wacker Mödling   5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+  2. FC RB Salzburg             5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+  3. FK Austria Wien            5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+  4. SK Rapid Wien              5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+  5. SK Sturm Graz              5  (2017/18, 2014/15, 2013/14, 2012/13, 2011/12)
+  6. SC Wiener Neustadt         4  (2014/15, 2013/14, 2012/13, 2011/12)
   7. SV Ried                    4  (2014/15, 2013/14, 2012/13, 2011/12)
-  8. FC Wacker Innsbruck        3  (2013/14, 2012/13, 2011/12)
-  9. Wolfsberger AC             3  (2014/15, 2013/14, 2012/13)
- 10. SV Grödig                  2  (2014/15, 2013/14)
- 11. SV Mattersburg             2  (2012/13, 2011/12)
- 12. Kapfenberger SV            1  (2011/12)
- 13. SCR Altach                 1  (2014/15)
+  8. Wolfsberger AC             4  (2017/18, 2014/15, 2013/14, 2012/13)
+  9. FC Wacker Innsbruck        3  (2013/14, 2012/13, 2011/12)
+ 10. SV Mattersburg             3  (2017/18, 2012/13, 2011/12)
+ 11. SCR Altach                 2  (2017/18, 2014/15)
+ 12. SV Grödig                  2  (2014/15, 2013/14)
+ 13. Kapfenberger SV            1  (2011/12)
+ 14. LASK Linz                  1  (2017/18)
+ 15. SKN St. Pölten             1  (2017/18)
 
 
-  2. Liga - 4 records
+  2. Liga - 6 records
     2. Liga 2012/13  - teams: 0, matches: 0, rounds: 0
     2. Liga 2013/14  - teams: 0, matches: 0, rounds: 0
     2. Liga 2014/15  - teams: 10, matches: 180, rounds: 36
+    2. Liga 2017/18  - teams: 10, matches: 185, rounds: 37
     2. Liga 2018/19  - teams: 16, matches: 241, rounds: 30
+    2. Liga 2019/20  - teams: 16, matches: 240, rounds: 30
 
-2. Liga  - 4 seasons
+2. Liga  - 6 seasons
 
-  1. Austria Lustenau           2  (2018/19, 2014/15)
-  2. FC Liefering               2  (2018/19, 2014/15)
-  3. Floridsdorfer AC           2  (2018/19, 2014/15)
-  4. Kapfenberger SV            2  (2018/19, 2014/15)
-  5. SV Horn                    2  (2018/19, 2014/15)
-  6. Austria Klagenfurt         1  (2018/19)
-  7. FC Blau-Weiß Linz          1  (2018/19)
-  8. FC Juniors OÖ              1  (2018/19)
-  9. FC Wacker Innsbruck        1  (2014/15)
- 10. FC Wacker Innsbruck II     1  (2018/19)
- 11. LASK Linz                  1  (2014/15)
- 12. SC Wiener Neustadt         1  (2018/19)
- 13. SK Vorwärts Steyr          1  (2018/19)
- 14. SKN St. Pölten             1  (2014/15)
- 15. SKU Amstetten              1  (2018/19)
- 16. SV Lafnitz                 1  (2018/19)
- 17. SV Mattersburg             1  (2014/15)
- 18. SV Ried                    1  (2018/19)
- 19. TSV Hartberg               1  (2014/15)
- 20. WSG Tirol                  1  (2018/19)
- 21. Young Violets Austria Wien   1  (2018/19)
+  1. Austria Lustenau           4  (2019/20, 2018/19, 2017/18, 2014/15)
+  2. FC Liefering               4  (2019/20, 2018/19, 2017/18, 2014/15)
+  3. Floridsdorfer AC           4  (2019/20, 2018/19, 2017/18, 2014/15)
+  4. Kapfenberger SV            4  (2019/20, 2018/19, 2017/18, 2014/15)
+  5. FC Blau-Weiß Linz          3  (2019/20, 2018/19, 2017/18)
+  6. FC Wacker Innsbruck        3  (2019/20, 2017/18, 2014/15)
+  7. SV Horn                    3  (2019/20, 2018/19, 2014/15)
+  8. SV Ried                    3  (2019/20, 2018/19, 2017/18)
+  9. Austria Klagenfurt         2  (2019/20, 2018/19)
+ 10. FC Juniors OÖ              2  (2019/20, 2018/19)
+ 11. SC Wiener Neustadt         2  (2018/19, 2017/18)
+ 12. SK Vorwärts Steyr          2  (2019/20, 2018/19)
+ 13. SKU Amstetten              2  (2019/20, 2018/19)
+ 14. SV Lafnitz                 2  (2019/20, 2018/19)
+ 15. TSV Hartberg               2  (2017/18, 2014/15)
+ 16. WSG Tirol                  2  (2018/19, 2017/18)
+ 17. Young Violets Austria Wien   2  (2019/20, 2018/19)
+ 18. FC Dornbirn 1913           1  (2019/20)
+ 19. FC Wacker Innsbruck II     1  (2018/19)
+ 20. Grazer AK                  1  (2019/20)
+ 21. LASK Linz                  1  (2014/15)
+ 22. SKN St. Pölten             1  (2014/15)
+ 23. SV Mattersburg             1  (2014/15)
 
 
   ÖFB Cup - 4 records

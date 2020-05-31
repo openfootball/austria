@@ -1,84 +1,94 @@
-37 datafiles:
-[1/37] >2011-12/1-bundesliga-i.txt< - 1 section(s):
+38 datafiles:
+[1/38] >2011-12/1-bundesliga-i.txt< - 1 section(s):
     0 lines, 0 matches - Bundesliga (at.1) 2011/12, 0 team refs, 0 round defs
-[2/37] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
+[2/38] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
     61 lines, 40 matches - Bundesliga (at.1) 2011/12, 10 team refs, 8 round defs
-[3/37] >2011-12/cup.txt< - 1 section(s):
+[3/38] >2011-12/cup.txt< - 1 section(s):
     15 lines, 7 matches - ÖFB Cup (at.cup) 2011/12, 8 team refs, 3 round defs
-[4/37] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+[4/38] >2012-13/1-bundesliga-i.txt< - 1 section(s):
     157 lines, 100 matches - Bundesliga (at.1) 2012/13, 10 team refs, 20 round defs
-[5/37] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+[5/38] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
     117 lines, 80 matches - Bundesliga (at.1) 2012/13, 10 team refs, 16 round defs
-[6/37] >2012-13/2-liga1.txt< - 1 section(s):
+[6/38] >2012-13/2-liga1.txt< - 1 section(s):
     0 lines, 0 matches - 2. Liga (at.2) 2012/13, 0 team refs, 0 round defs
-[7/37] >2012-13/cup.txt< - 1 section(s):
+[7/38] >2012-13/cup.txt< - 1 section(s):
     83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13, 64 team refs, 6 round defs
-[8/37] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+[8/38] >2013-14/1-bundesliga-i.txt< - 1 section(s):
     171 lines, 105 matches - Bundesliga (at.1) 2013/14, 10 team refs, 21 round defs
-[9/37] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+[9/38] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
     118 lines, 75 matches - Bundesliga (at.1) 2013/14, 10 team refs, 15 round defs
-[10/37] >2013-14/2-liga1.txt< - 1 section(s):
+[10/38] >2013-14/2-liga1.txt< - 1 section(s):
     0 lines, 0 matches - 2. Liga (at.2) 2013/14, 0 team refs, 0 round defs
-[11/37] >2013-14/cup.txt< - 1 section(s):
+[11/38] >2013-14/cup.txt< - 1 section(s):
     82 lines, 63 matches - ÖFB Cup (at.cup) 2013/14, 64 team refs, 6 round defs
-[12/37] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+[12/38] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     144 lines, 95 matches - Bundesliga (at.1) 2014/15, 10 team refs, 19 round defs
-[13/37] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+[13/38] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
     119 lines, 85 matches - Bundesliga (at.1) 2014/15, 10 team refs, 17 round defs
-[14/37] >2014-15/2-liga1-i.txt< - 1 section(s):
+[14/38] >2014-15/2-liga1-i.txt< - 1 section(s):
     142 lines, 100 matches - 2. Liga (at.2) 2014/15, 10 team refs, 20 round defs
-[15/37] >2014-15/2-liga1-ii.txt< - 1 section(s):
+[15/38] >2014-15/2-liga1-ii.txt< - 1 section(s):
     112 lines, 80 matches - 2. Liga (at.2) 2014/15, 10 team refs, 16 round defs
-[16/37] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
+[16/38] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[17/37] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
+[17/38] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[18/37] >2014-15/cup.txt< - 1 section(s):
+[18/38] >2014-15/cup.txt< - 1 section(s):
     83 lines, 63 matches - ÖFB Cup (at.cup) 2014/15, 64 team refs, 6 round defs
-[19/37] >2015-16/1-bundesliga-i.txt< - 0 section(s):
+[19/38] >2015-16/1-bundesliga-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[20/37] >2015-16/1-bundesliga-ii.txt< - 0 section(s):
+[20/38] >2015-16/1-bundesliga-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[21/37] >2015-16/2-liga1-i.txt< - 0 section(s):
+[21/38] >2015-16/2-liga1-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[22/37] >2015-16/2-liga1-ii.txt< - 0 section(s):
+[22/38] >2015-16/2-liga1-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[23/37] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
+[23/38] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[24/37] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
+[24/38] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[25/37] >2015-16/cup.txt< - 0 section(s):
+[25/38] >2015-16/cup.txt< - 0 section(s):
   !! ERROR: NO sections found
-[26/37] >2016-17/1-bundesliga-i.txt< - 0 section(s):
+[26/38] >2016-17/1-bundesliga-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[27/37] >2016-17/1-bundesliga-ii.txt< - 0 section(s):
+[27/38] >2016-17/1-bundesliga-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[28/37] >2016-17/2-liga1-i.txt< - 0 section(s):
+[28/38] >2016-17/2-liga1-i.txt< - 0 section(s):
   !! ERROR: NO sections found
-[29/37] >2016-17/2-liga1-ii.txt< - 0 section(s):
+[29/38] >2016-17/2-liga1-ii.txt< - 0 section(s):
   !! ERROR: NO sections found
-[30/37] >2017-18/1-bundesliga-i.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[31/37] >2017-18/1-bundesliga-ii.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[32/37] >2017-18/2-liga1-i.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[33/37] >2017-18/2-liga1-ii.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[34/37] >2018-19/1-bundesliga.txt< - 1 section(s):
+[30/38] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    165 lines, 100 matches - Bundesliga (at.1) 2017/18, 10 team refs, 20 round defs
+[31/38] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+    129 lines, 80 matches - Bundesliga (at.1) 2017/18, 10 team refs, 16 round defs
+  !! 1 error(s) / warn(s):
+    WARN: 2 unmatched lines: ["RB Salzburg", "Wacker Innsbruck"]
+[32/38] >2017-18/2-liga1-i.txt< - 1 section(s):
+    147 lines, 101 matches - 2. Liga (at.2) 2017/18, 10 team refs, 21 round defs
+[33/38] >2017-18/2-liga1-ii.txt< - 1 section(s):
+    128 lines, 84 matches - 2. Liga (at.2) 2017/18, 10 team refs, 18 round defs
+[34/38] >2018-19/1-bundesliga.txt< - 1 section(s):
     198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Regular Season<, 12 team refs, 22 round defs
-[35/37] >2018-19/2-liga1.txt< - 1 section(s):
-    352 lines, 241 matches - 2. Liga (at.2) 2018/19, 16 team refs, 30 round defs
-[36/37] >2019-20/1-bundesliga.txt< - 0 section(s):
-  !! ERROR: NO sections found
-[37/37] >2019-20/2-liga1.txt< - 0 section(s):
-  !! ERROR: NO sections found
+[35/38] >2018-19/2-liga1.txt< - 1 section(s):
+    353 lines, 241 matches - 2. Liga (at.2) 2018/19, 16 team refs, 31 round defs
+[36/38] >2019-20/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Regular Season<, 12 team refs, 22 round defs
+[37/38] >2019-20/1-bundesliga-ii.txt< - 2 section(s):
+    10 lines, 6 matches - Bundesliga (at.1) 2019/20, stage: >Championship Round<, 7 team refs, 2 round defs
+  !! 1 error(s) / warn(s):
+    WARN: 2 duplicate names for >LASK Linz<: Linzer ASK | LinzerASK
+    10 lines, 6 matches - Bundesliga (at.1) 2019/20, stage: >Relegation Round<, 7 team refs, 2 round defs
+  !! 2 error(s) / warn(s):
+    WARN: 2 duplicate names for >LASK Linz<: Linzer ASK | LinzerASK
+    WARN: 2 duplicate names for >SKN St. Pölten<: SKN St. Pölten | SKN St.Pölten
+[38/38] >2019-20/2-liga1.txt< - 1 section(s):
+    338 lines, 240 matches - 2. Liga (at.2) 2019/20, 16 team refs, 30 round defs
 
 
-[1/37] >2011-12/1-bundesliga-i.txt< - 1 section(s):
+[1/38] >2011-12/1-bundesliga-i.txt< - 1 section(s):
     0 lines, 0 matches - Bundesliga (at.1) 2011/12
       0 teams (referenced):
-[2/37] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
+[2/38] >2011-12/1-bundesliga-ii.txt< - 1 section(s):
     61 lines, 40 matches - Bundesliga (at.1) 2011/12
       10 teams (referenced):
         8× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -100,7 +110,7 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[3/37] >2011-12/cup.txt< - 1 section(s):
+[3/38] >2011-12/cup.txt< - 1 section(s):
     15 lines, 7 matches - ÖFB Cup (at.cup) 2011/12
       8 teams (referenced):
         3× RB Salzburg ⇒ FC RB Salzburg
@@ -115,7 +125,7 @@
         Viertelfinale, 4 matches
         Halbfinale, 2 matches
         Finale, 1 matches
-[4/37] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+[4/38] >2012-13/1-bundesliga-i.txt< - 1 section(s):
     157 lines, 100 matches - Bundesliga (at.1) 2012/13
       10 teams (referenced):
         20× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -149,7 +159,7 @@
         18. Runde, 5 matches
         19. Runde, 5 matches
         20. Runde, 5 matches
-[5/37] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+[5/38] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
     117 lines, 80 matches - Bundesliga (at.1) 2012/13
       10 teams (referenced):
         16× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -179,10 +189,10 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[6/37] >2012-13/2-liga1.txt< - 1 section(s):
+[6/38] >2012-13/2-liga1.txt< - 1 section(s):
     0 lines, 0 matches - 2. Liga (at.2) 2012/13
       0 teams (referenced):
-[7/37] >2012-13/cup.txt< - 1 section(s):
+[7/38] >2012-13/cup.txt< - 1 section(s):
     83 lines, 63 matches - ÖFB Cup (at.cup) 2012/13
       64 teams (referenced):
         6× Austria Wien ⇒ FK Austria Wien
@@ -256,7 +266,7 @@
         Viertelfinale  //  Di+Mi 16.+17. April 2013, 4 matches
         Halbfinale     //  Di+Mi 7.+8. Mai 2013, 2 matches
         Finale         //  Do 30. Mai 2013, 1 matches
-[8/37] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+[8/38] >2013-14/1-bundesliga-i.txt< - 1 section(s):
     171 lines, 105 matches - Bundesliga (at.1) 2013/14
       10 teams (referenced):
         21× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -291,7 +301,7 @@
         19. Runde, 5 matches
         20. Runde, 5 matches
         21. Runde, 5 matches
-[9/37] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+[9/38] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
     118 lines, 75 matches - Bundesliga (at.1) 2013/14
       10 teams (referenced):
         15× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -320,10 +330,10 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[10/37] >2013-14/2-liga1.txt< - 1 section(s):
+[10/38] >2013-14/2-liga1.txt< - 1 section(s):
     0 lines, 0 matches - 2. Liga (at.2) 2013/14
       0 teams (referenced):
-[11/37] >2013-14/cup.txt< - 1 section(s):
+[11/38] >2013-14/cup.txt< - 1 section(s):
     82 lines, 63 matches - ÖFB Cup (at.cup) 2013/14
       64 teams (referenced):
         6× RB Salzburg ⇒ FC RB Salzburg
@@ -397,7 +407,7 @@
         Viertelfinale  //  Di+Mi 15.+16. April 2014, 4 matches
         Halbfinale     //  Di+Mi 6.+7. Mai 2014, 2 matches
         Finale         //  So 18. Mai 2014, 1 matches
-[12/37] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+[12/38] >2014-15/1-bundesliga-i.txt< - 1 section(s):
     144 lines, 95 matches - Bundesliga (at.1) 2014/15
       10 teams (referenced):
         19× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -430,7 +440,7 @@
         17. Runde, 5 matches
         18. Runde, 5 matches
         19. Runde, 5 matches
-[13/37] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+[13/38] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
     119 lines, 85 matches - Bundesliga (at.1) 2014/15
       10 teams (referenced):
         17× Admira Wacker ⇒ FC Admira Wacker Mödling
@@ -461,7 +471,7 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[14/37] >2014-15/2-liga1-i.txt< - 1 section(s):
+[14/38] >2014-15/2-liga1-i.txt< - 1 section(s):
     142 lines, 100 matches - 2. Liga (at.2) 2014/15
       10 teams (referenced):
         20× Austria Lustenau
@@ -495,7 +505,7 @@
         18. Runde, 5 matches
         19. Runde, 5 matches
         20. Runde, 5 matches
-[15/37] >2014-15/2-liga1-ii.txt< - 1 section(s):
+[15/38] >2014-15/2-liga1-ii.txt< - 1 section(s):
     112 lines, 80 matches - 2. Liga (at.2) 2014/15
       10 teams (referenced):
         16× Austria Lustenau
@@ -525,9 +535,9 @@
         34. Runde, 5 matches
         35. Runde, 5 matches
         36. Runde, 5 matches
-[16/37] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
-[17/37] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
-[18/37] >2014-15/cup.txt< - 1 section(s):
+[16/38] >2014-15/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
+[17/38] >2014-15/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
+[18/38] >2014-15/cup.txt< - 1 section(s):
     83 lines, 63 matches - ÖFB Cup (at.cup) 2014/15
       64 teams (referenced):
         6× Austria Wien ⇒ FK Austria Wien
@@ -601,22 +611,152 @@
         Viertelfinale, 4 matches
         Halbfinale, 2 matches
         Finale, 1 matches
-[19/37] >2015-16/1-bundesliga-i.txt< - 0 section(s):
-[20/37] >2015-16/1-bundesliga-ii.txt< - 0 section(s):
-[21/37] >2015-16/2-liga1-i.txt< - 0 section(s):
-[22/37] >2015-16/2-liga1-ii.txt< - 0 section(s):
-[23/37] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
-[24/37] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
-[25/37] >2015-16/cup.txt< - 0 section(s):
-[26/37] >2016-17/1-bundesliga-i.txt< - 0 section(s):
-[27/37] >2016-17/1-bundesliga-ii.txt< - 0 section(s):
-[28/37] >2016-17/2-liga1-i.txt< - 0 section(s):
-[29/37] >2016-17/2-liga1-ii.txt< - 0 section(s):
-[30/37] >2017-18/1-bundesliga-i.txt< - 0 section(s):
-[31/37] >2017-18/1-bundesliga-ii.txt< - 0 section(s):
-[32/37] >2017-18/2-liga1-i.txt< - 0 section(s):
-[33/37] >2017-18/2-liga1-ii.txt< - 0 section(s):
-[34/37] >2018-19/1-bundesliga.txt< - 1 section(s):
+[19/38] >2015-16/1-bundesliga-i.txt< - 0 section(s):
+[20/38] >2015-16/1-bundesliga-ii.txt< - 0 section(s):
+[21/38] >2015-16/2-liga1-i.txt< - 0 section(s):
+[22/38] >2015-16/2-liga1-ii.txt< - 0 section(s):
+[23/38] >2015-16/6-noe-nordwest-waldviertel-i.txt< - 0 section(s):
+[24/38] >2015-16/6-noe-nordwest-waldviertel-ii.txt< - 0 section(s):
+[25/38] >2015-16/cup.txt< - 0 section(s):
+[26/38] >2016-17/1-bundesliga-i.txt< - 0 section(s):
+[27/38] >2016-17/1-bundesliga-ii.txt< - 0 section(s):
+[28/38] >2016-17/2-liga1-i.txt< - 0 section(s):
+[29/38] >2016-17/2-liga1-ii.txt< - 0 section(s):
+[30/38] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    165 lines, 100 matches - Bundesliga (at.1) 2017/18
+      10 teams (referenced):
+        20× Austria Wien ⇒ FK Austria Wien
+        20× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        20× LASK ⇒ LASK Linz
+        20× RB Salzburg ⇒ FC RB Salzburg
+        20× Rapid Wien ⇒ SK Rapid Wien
+        20× SCR Altach
+        20× SKN St. Pölten
+        20× SV Mattersburg
+        20× Sturm Graz ⇒ SK Sturm Graz
+        20× Wolfsberger AC
+      20 rounds (referenced):
+        Runde 1, 5 matches
+        Runde 2, 5 matches
+        Runde 3, 5 matches
+        Runde 4, 5 matches
+        Runde 5, 5 matches
+        Runde 6, 5 matches
+        Runde 7, 5 matches
+        Runde 8, 5 matches
+        Runde 9, 5 matches
+        Runde 10, 5 matches
+        Runde 11, 5 matches
+        Runde 12, 5 matches
+        Runde 13, 5 matches
+        Runde 14, 5 matches
+        Runde 15, 5 matches
+        Runde 16, 5 matches
+        Runde 17, 5 matches
+        Runde 18, 5 matches
+        Runde 19, 5 matches
+        Runde 20, 5 matches
+[31/38] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+    129 lines, 80 matches - Bundesliga (at.1) 2017/18
+!! 2 unmatched lines:
+   >RB Salzburg<
+   >Wacker Innsbruck<
+      10 teams (referenced):
+        16× Austria Wien ⇒ FK Austria Wien
+        16× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        16× LASK ⇒ LASK Linz
+        16× RB Salzburg ⇒ FC RB Salzburg
+        16× Rapid Wien ⇒ SK Rapid Wien
+        16× SCR Altach
+        16× SKN St. Pölten
+        16× SV Mattersburg
+        16× Sturm Graz ⇒ SK Sturm Graz
+        16× Wolfsberger AC
+      16 rounds (referenced):
+        Runde 21, 5 matches
+        Runde 22, 5 matches
+        Runde 23, 5 matches
+        Runde 24, 5 matches
+        Runde 25, 5 matches
+        Runde 26, 5 matches
+        Runde 27, 5 matches
+        Runde 28, 5 matches
+        Runde 29, 5 matches
+        Runde 30, 5 matches
+        Runde 31, 5 matches
+        Runde 32, 5 matches
+        Runde 33, 5 matches
+        Runde 34, 5 matches
+        Runde 35, 5 matches
+        Runde 36, 5 matches
+[32/38] >2017-18/2-liga1-i.txt< - 1 section(s):
+    147 lines, 101 matches - 2. Liga (at.2) 2017/18
+      10 teams (referenced):
+        21× FC Wacker Innsbruck
+        21× TSV Hartberg
+        20× Austria Lustenau
+        20× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
+        20× FC Liefering
+        20× Floridsdorfer AC
+        20× Kapfenberger SV 1919 ⇒ Kapfenberger SV
+        20× SC Wiener Neustadt
+        20× SV Ried
+        20× WSG Wattens ⇒ WSG Tirol
+      21 rounds (referenced):
+        Runde 1, 5 matches
+        Runde 2, 5 matches
+        Runde 3, 5 matches
+        Runde 4, 5 matches
+        Runde 5, 5 matches
+        Runde 6, 5 matches
+        Runde 7, 5 matches
+        Nachtrag Runde 3, 1 matches
+        Runde 8, 5 matches
+        Runde 9, 5 matches
+        Runde 10, 5 matches
+        Runde 11, 5 matches
+        Runde 12, 5 matches
+        Runde 13, 5 matches
+        Runde 14, 5 matches
+        Runde 15, 5 matches
+        Runde 16, 5 matches
+        Runde 17, 5 matches
+        Runde 18, 5 matches
+        Runde 19, 5 matches
+        Runde 20, 5 matches
+[33/38] >2017-18/2-liga1-ii.txt< - 1 section(s):
+    128 lines, 84 matches - 2. Liga (at.2) 2017/18
+      10 teams (referenced):
+        18× Kapfenberger SV 1919 ⇒ Kapfenberger SV
+        18× WSG Wattens ⇒ WSG Tirol
+        17× FC Blau Weiß Linz ⇒ FC Blau-Weiß Linz
+        17× Floridsdorfer AC
+        17× SC Wiener Neustadt
+        17× TSV Hartberg
+        16× Austria Lustenau
+        16× FC Liefering
+        16× FC Wacker Innsbruck
+        16× SV Ried
+      18 rounds (referenced):
+        Runde 21, 5 matches
+        Runde 22, 5 matches
+        Runde 23, 5 matches
+        Nachtrag Runde 21, 1 matches
+        Nachtrag Runde 22 ×3, 3 matches
+        Runde 24, 5 matches
+        Runde 25, 5 matches
+        Runde 26, 5 matches
+        Runde 27, 5 matches
+        Runde 28, 5 matches
+        Runde 29, 5 matches
+        Runde 30, 5 matches
+        Runde 31, 5 matches
+        Runde 32, 5 matches
+        Runde 33, 5 matches
+        Runde 34, 5 matches
+        Runde 35, 5 matches
+        Runde 36, 5 matches
+[34/38] >2018-19/1-bundesliga.txt< - 1 section(s):
     198 lines, 132 matches - Bundesliga (at.1) 2018/19, stage: >Regular Season<
       12 teams (referenced):
         22× Austria Wien ⇒ FK Austria Wien
@@ -654,8 +794,8 @@
         Runde 20, 6 matches
         Runde 21, 6 matches
         Runde 22, 6 matches
-[35/37] >2018-19/2-liga1.txt< - 1 section(s):
-    352 lines, 241 matches - 2. Liga (at.2) 2018/19
+[35/38] >2018-19/2-liga1.txt< - 1 section(s):
+    353 lines, 241 matches - 2. Liga (at.2) 2018/19
       16 teams (referenced):
         31× SV Lafnitz
         31× WSG Wattens ⇒ WSG Tirol
@@ -672,6 +812,124 @@
         30× SV Horn
         30× SV Ried
         30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
+        30× Young Violets ⇒ Young Violets Austria Wien
+      31 rounds (referenced):
+        Runde 1, 8 matches
+        Runde 2, 8 matches
+        Runde 3, 8 matches
+        Runde 4, 8 matches
+        Runde 5, 8 matches
+        Runde 6, 8 matches
+        Runde 7, 8 matches
+        Runde 8, 8 matches
+        Runde 9, 8 matches
+        Runde 10, 8 matches
+        Runde 11, 8 matches
+        Runde 12, 8 matches
+        Runde 13, 8 matches
+        Runde 14, 8 matches
+        Runde 15, 8 matches
+        Runde 16, 8 matches
+        Runde 17, 8 matches
+        Nachtrag Runde 16, 1 matches
+        Runde 18, 8 matches
+        Runde 19, 8 matches
+        Runde 20, 8 matches
+        Runde 21, 8 matches
+        Runde 22, 8 matches
+        Runde 23, 8 matches
+        Runde 24, 8 matches
+        Runde 25, 8 matches
+        Runde 26, 8 matches
+        Runde 27, 8 matches
+        Runde 28, 8 matches
+        Runde 29, 8 matches
+        Runde 30, 8 matches
+[36/38] >2019-20/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 132 matches - Bundesliga (at.1) 2019/20, stage: >Regular Season<
+      12 teams (referenced):
+        22× Austria Wien ⇒ FK Austria Wien
+        22× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        22× Linzer ASK ⇒ LASK Linz
+        22× RB Salzburg ⇒ FC RB Salzburg
+        22× Rapid Wien ⇒ SK Rapid Wien
+        22× SCR Altach
+        22× SKN St. Pölten
+        22× SV Mattersburg
+        22× Sturm Graz ⇒ SK Sturm Graz
+        22× TSV Hartberg
+        22× WSG Tirol
+        22× Wolfsberger AC
+      22 rounds (referenced):
+        Runde 1, 6 matches
+        Runde 2, 6 matches
+        Runde 3, 6 matches
+        Runde 4, 6 matches
+        Runde 5, 6 matches
+        Runde 6, 6 matches
+        Runde 7, 6 matches
+        Runde 8, 6 matches
+        Runde 9, 6 matches
+        Runde 10, 6 matches
+        Runde 11, 6 matches
+        Runde 12, 6 matches
+        Runde 13, 6 matches
+        Runde 14, 6 matches
+        Runde 15, 6 matches
+        Runde 16, 6 matches
+        Runde 17, 6 matches
+        Runde 18, 6 matches
+        Runde 19, 6 matches
+        Runde 20, 6 matches
+        Runde 21, 6 matches
+        Runde 22, 6 matches
+[37/38] >2019-20/1-bundesliga-ii.txt< - 2 section(s):
+    10 lines, 6 matches - Bundesliga (at.1) 2019/20, stage: >Championship Round<
+      7 teams (referenced):
+        2× RB Salzburg ⇒ FC RB Salzburg
+        2× Rapid Wien ⇒ SK Rapid Wien
+        2× Sturm Graz ⇒ SK Sturm Graz
+        2× TSV Hartberg
+        2× Wolfsberger AC
+        Linzer ASK ⇒ LASK Linz
+        LinzerASK ⇒ LASK Linz
+!! ERROR: 1 duplicate team record(s) found:
+   2 duplicate names for >LASK Linz<: Linzer ASK | LinzerASK
+      2 rounds (referenced):
+        Runde 23, 3 matches
+        Runde 24, 3 matches
+    10 lines, 6 matches - Bundesliga (at.1) 2019/20, stage: >Relegation Round<
+      7 teams (referenced):
+        2× Austria Wien ⇒ FK Austria Wien
+        2× FC Admira Wacker ⇒ FC Admira Wacker Mödling
+        2× SCR Altach
+        2× SV Mattersburg
+        2× WSG Tirol
+        SKN St. Pölten
+        SKN St.Pölten ⇒ SKN St. Pölten
+!! ERROR: 1 duplicate team record(s) found:
+   2 duplicate names for >SKN St. Pölten<: SKN St. Pölten | SKN St.Pölten
+      2 rounds (referenced):
+        Runde 23, 3 matches
+        Runde 24, 3 matches
+[38/38] >2019-20/2-liga1.txt< - 1 section(s):
+    338 lines, 240 matches - 2. Liga (at.2) 2019/20
+      16 teams (referenced):
+        30× Austria Klagenfurt
+        30× Austria Lustenau
+        30× Blau-Weiß Linz ⇒ FC Blau-Weiß Linz
+        30× FC Dornbirn 1913
+        30× FC Juniors OÖ
+        30× FC Liefering
+        30× Floridsdorfer AC
+        30× Grazer AK
+        30× Kapfenberger SV
+        30× SKU Amstetten
+        30× SV Horn
+        30× SV Lafnitz
+        30× SV Ried
+        30× Vorwärts Steyr ⇒ SK Vorwärts Steyr
+        30× Wacker Innsbruck ⇒ FC Wacker Innsbruck
         30× Young Violets ⇒ Young Violets Austria Wien
       30 rounds (referenced):
         Runde 1, 8 matches
@@ -690,7 +948,7 @@
         Runde 14, 8 matches
         Runde 15, 8 matches
         Runde 16, 8 matches
-        Runde 17, 9 matches
+        Runde 17, 8 matches
         Runde 18, 8 matches
         Runde 19, 8 matches
         Runde 20, 8 matches
@@ -704,5 +962,3 @@
         Runde 28, 8 matches
         Runde 29, 8 matches
         Runde 30, 8 matches
-[36/37] >2019-20/1-bundesliga.txt< - 0 section(s):
-[37/37] >2019-20/2-liga1.txt< - 0 section(s):

@@ -1,22 +1,23 @@
+= Österr. Erste Liga 2017/18
 
 Runde 21
 [Fr 23.2.]
   SV Ried                 1-1 Floridsdorfer AC
   Austria Lustenau        2-1 SC Wiener Neustadt
-  WSG Wattens             3-2 Kapfenberger SV 1919             
+  WSG Wattens             - Kapfenberger SV 1919   ## verschoben, siehe Nachtrag
   FC Blau Weiß Linz       2-1 FC Liefering
   TSV Hartberg            0-2 FC Wacker Innsbruck
 
 Runde 22
 [Fr 2.3.]
   FC Wacker Innsbruck     2-1 Austria Lustenau
-  Kapfenberger SV 1919    1-4 FC Blau Weiß Linz       
-  SC Wiener Neustadt      1-1 TSV Hartberg              
+  Kapfenberger SV 1919    - FC Blau Weiß Linz     ## verschoben, siehe Nachtrag
+  SC Wiener Neustadt      - TSV Hartberg          ## verschoben, siehe Nachtrag
 [Sa 3.3]
   FC Liefering            1-1 SV Ried
 [Mo 5.3.]
-  Floridsdorfer AC        0-0 WSG Wattens                 
-  
+  Floridsdorfer AC        - WSG Wattens           ## verschoben, siehe Nachtrag
+
 Runde 23
 [Fr 9.3.]
   Austria Lustenau        3-1 Kapfenberger SV 1919
@@ -25,13 +26,13 @@ Runde 23
   Floridsdorfer AC        0-3 SC Wiener Neustadt
   TSV Hartberg            0-2 FC Liefering
 
-## Nachtrag Runde 21
+Nachtrag Runde 21
 [Mo 12.3.]
    WSG Wattens            3-2 Kapfenberger SV 1919
-## Nachtrag Runde 22
+Nachtrag Runde 22
 [Mo 12.3.]
    SC Wiener Neustadt     1-1 TSV Hartberg
-   
+
 Runde 24
 [Fr 16.3.]
   SV Ried                 1-3 FC Wacker Innsbruck
@@ -40,10 +41,10 @@ Runde 24
   Kapfenberger SV 1919    0-0 SC Wiener Neustadt
   FC Blau Weiß Linz       1-3 TSV Hartberg
 
-## Nachtrag Runde 22
+Nachtrag Runde 22
 [Di 20.3.]
-  Kapfenberger SV 1919    1-4 FC Blau Weiß Linz 
-  
+  Kapfenberger SV 1919    1-4 FC Blau Weiß Linz
+
 Runde 25
 [Fr 30.3.]
   Austria Lustenau        1-0 FC Blau Weiß Linz
@@ -60,7 +61,7 @@ Runde 26
   FC Liefering            1-1 Austria Lustenau
   FC Blau Weiß Linz       1-0 Floridsdorfer AC
   TSV Hartberg            4-0 Kapfenberger SV 1919
-  
+
 Runde 27
 [Fr 6.4.]
   Austria Lustenau        0-4 TSV Hartberg
@@ -68,11 +69,11 @@ Runde 27
   Kapfenberger SV 1919    0-0 SV Ried
   SC Wiener Neustadt      0-2 FC Liefering
   Floridsdorfer AC        0-2 FC Wacker Innsbruck
-  
-##Nachtrag Runde 21
+
+Nachtrag Runde 22
 [Di 10.4.]
-  Floridsdiorfer AC       0-0 WSG Wattens
-  
+  Floridsdorfer AC       0-0 WSG Wattens
+
 Runde 28
 [Fr 13.4.]
   SC Wiener Neustadt      1-0 SV Ried
@@ -122,19 +123,7 @@ Runde 33
   SC Wiener Neustadt      2-1 Kapfenberger SV 1919
   TSV Hartberg            2-2 FC Blau Weiß Linz
 
-## 8 Aufsteiger in 2. Liga 2018/19:
-  SV Horn
-  SKU Amstetten
-  Young Violets Austria Wien 
-  FC Wacker Innsbruck II
-  SV Lafnitz 
-  FC Vorwärts Steyr
-  Juniors Oberösterreich
-  SK Austria Klagenfurt 
-  
-## Meister 2. Liga 2017/18:
-  FC Wacker Innsbruck
-  
+
 Runde 34
 [Fr 18.5.]
   FC Blau Weiß Linz      0-2 Austria Lustenau
@@ -161,18 +150,17 @@ Runde 36
 
 
 
-## Relegationsspiele um einen 1. Bundesligaplatz:  
-[Do 31.5]
-SC Wiener Neustadt       0-2 SKN St. Pölten
-[ So 3.6.]
-SKN St. Pölten           1-1 SC Wiener Neustadt
-
-SKN St. Pölten in 1. Bundesliga 2018/19
+## Relegationsspiele um einen 1. Bundesligaplatz:
+# [Do 31.5]
+# SC Wiener Neustadt       0-2 SKN St. Pölten
+# [ So 3.6.]
+# SKN St. Pölten           1-1 SC Wiener Neustadt
+#
+# SKN St. Pölten in 1. Bundesliga 2018/19
 
 ## Aufsteiger in 1. Bundesliga 2018/19
-   FC Wacker Innsbruch
-   TSV Hartberg
-   
-## Sommerpause bis 27.7.18
+#   FC Wacker Innsbruch
+#   TSV Hartberg
 
+## Sommerpause bis 27.7.18
 
