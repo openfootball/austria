@@ -1,5 +1,12 @@
 # Notes
 
+## References
+
+- <http://www.rsssf.com/tableso/oost2019.html>
+- <https://de.wikipedia.org/wiki/Österreichische_Fußballmeisterschaft_2018/19>
+- <https://en.wikipedia.org/wiki/2018–19_Austrian_Football_Bundesliga>
+
+
 ## Bundesliga
 
 - Meister 1. Bundesliga 2018/19:
@@ -16,6 +23,9 @@
 
 
 ## 2. Liga
+
+Die 2. Liga ist die zweithöchste Spielklasse im österreichischen Profifußball und wurde in der Saison 2018/19 zum 44. Mal und das erste Mal unter diesem Namen ausgetragen  (vormals 1. Liga)
+
 
 - Absteiger in 2. Liga 2019/20:
   -  FC Wacker Innsbruck
