@@ -1,5 +1,4 @@
-######################################
-# Österreichische Bundesliga 2015/16
+= Österr. Bundesliga 2015/16
 
 1. Runde
 

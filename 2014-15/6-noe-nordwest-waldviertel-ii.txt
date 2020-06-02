@@ -1,6 +1,7 @@
+= Gebietsliga Nordwest/Waldviertel (NÖ) 2014-15
 
 
-26. Runde    ### note: vorgezogene 26.Runde
+26. Runde    ## vorgezogene 26.Runde
 
 [So 22.03.]
 SV Sieghartskirchen   1:2  SV Zwentendorf
@@ -9,7 +10,7 @@ USC Kirchberg/W.      0:0  USC Schweiggers
 SC Guntersdorf        2:0  USC Grafenwörth
 SV Rehberg            3:2  SC Weißenkirchen
 SC Echsenbach         0:1  Horn Amateure
-SC St. Martin         1:1  USV Groß Gerungs 
+SC St. Martin         1:1  USV Groß Gerungs
 
 
 14. Runde
@@ -33,15 +34,15 @@ SV Sieghartskirchen  0:2  Horn Amateure
 USV Groß Gerungs     2:2  SC Guntersdorf
 USC Grafenwörth      1:1  SV Zwentendorf
 USC Kirchberg/W.     0:5  USV Langenlois
-SC St. Martin        4:1  SC Weißenkirchen        
+SC St. Martin        4:1  SC Weißenkirchen
 
 
-16. Runde 
+16. Runde
 
 [So 12.4.]
 SC Weißenkirchen     1:2  USC Grafenwörth
 USC Schweiggers      4:1  SV Sieghartskirchen
-SC Guntersdorf       1:0  USC Kirchberg/w.
+SC Guntersdorf       1:0  USC Kirchberg/W.
 SV Zwentendorf       0:1  USV Groß Gerungs
 Horn Amateure        4:1  SC St. Martin
 USC Altenwörth       0:0  SV Rehberg
@@ -60,7 +61,7 @@ USC Grafenwörth      1:3  Horn Amateure
 SC St. Martin        1:4  USC Schweiggers
 
 
-18. Runde 
+18. Runde
 
 [So 26.4.]
 USC Kirchberg/W.     0:2  SV Rehberg
@@ -88,7 +89,7 @@ SV Rehberg           1:3  SC Echsenbach
 
 [So 10.5.]
 SC Echsenbach        1:4  SV Sieghartskirchen
-USC Kirchberg/W.     3:1  SC St. Martin 
+USC Kirchberg/W.     3:1  SC St. Martin
 USC Altenwörth       3:2  USV Groß Gerungs
 Horn Amateure        0:3  SC Weißenkirchen
 SC Guntersdorf       1:1  SV Rehberg
@@ -111,9 +112,9 @@ Horn Amateure        0:1  SC Guntersdorf
 22. Runde
 
 [So 24.5.]
-USC Altenwörth      3:1  SC Weißenkirchen   
-SC Echsenbach       5:4  USC Grafenwörth     
-SV Rehberg          1:1  SC St. Martin          
+USC Altenwörth      3:1  SC Weißenkirchen
+SC Echsenbach       5:4  USC Grafenwörth
+SV Rehberg          1:1  SC St. Martin
 USV Langenlois      2:3  SV Zwentendorf
 USC Schweiggers     2:1  Horn Amateure
 USC Kirchberg/W.    1:5  USV Groß Gerungs
@@ -141,7 +142,7 @@ SV Sieghartskirchen 1:0  USC Grafenwörth
 USC Kirchberg/W.    0:2  SC Weißenkirchen
 SC Echsenbach       2:0  SV Zwentendorf
 SV Rehberg          3:2  USV Groß Gerungs
-SC Guntersdorf      1:0  SC St. Martin 
+SC Guntersdorf      1:0  SC St. Martin
 
 
 25. Runde
@@ -156,7 +157,7 @@ USC Altenwörth     2:3  SC Guntersdorf
 SV Zwentendorf     1:4  SV Rehberg
 
 
-## Aufsteiger Nordwest Waldviertel:
-## - SV Admira Gföhl
-## - USV Raabs/Thaya
+# Aufsteiger Nordwest Waldviertel:
+# - SV Admira Gföhl
+# - USV Raabs/Thaya
 

@@ -4,19 +4,19 @@ Runde 21
 [Fr 23.2.]
   SV Ried                 1-1 Floridsdorfer AC
   Austria Lustenau        2-1 SC Wiener Neustadt
-  WSG Wattens             - Kapfenberger SV 1919   ## verschoben, siehe Nachtrag
+## WSG Wattens             - Kapfenberger SV 1919   ## verschoben, siehe Nachtrag
   FC Blau Weiß Linz       2-1 FC Liefering
   TSV Hartberg            0-2 FC Wacker Innsbruck
 
 Runde 22
 [Fr 2.3.]
   FC Wacker Innsbruck     2-1 Austria Lustenau
-  Kapfenberger SV 1919    - FC Blau Weiß Linz     ## verschoben, siehe Nachtrag
-  SC Wiener Neustadt      - TSV Hartberg          ## verschoben, siehe Nachtrag
+## Kapfenberger SV 1919    - FC Blau Weiß Linz     ## verschoben, siehe Nachtrag
+## SC Wiener Neustadt      - TSV Hartberg          ## verschoben, siehe Nachtrag
 [Sa 3.3]
   FC Liefering            1-1 SV Ried
 [Mo 5.3.]
-  Floridsdorfer AC        - WSG Wattens           ## verschoben, siehe Nachtrag
+## Floridsdorfer AC        - WSG Wattens           ## verschoben, siehe Nachtrag
 
 Runde 23
 [Fr 9.3.]

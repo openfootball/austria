@@ -1,5 +1,4 @@
-#################################
-# Österr. Erste Liga 2015/16
+= Österr. Erste Liga 2015/16
 
 
 1. Runde

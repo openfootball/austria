@@ -8,9 +8,57 @@ Runde 23
 
 Runde 24
 [Sa. 21.3.]
-  Wolfsberger AC         - LinzerASK
+  Wolfsberger AC         - Linzer ASK
   TSV Hartberg           - RB Salzburg
   Rapid Wien             - Sturm Graz
+
+Runde 25
+[Sa. 4.4.]
+  Wolfsberger AC         - TSV Hartberg
+  Sturm Graz             - RB Salzburg
+  Linzer ASK             - Rapid Wien
+
+Runde 26
+[Sa. 11.4.]
+  Rapid Wien             - Wolfsberger AC
+  TSV Hartberg           - Sturm Graz
+  RB Salzburg            - Linzer ASK
+
+Runde 27
+[Sa. 18.4.]
+  Wolfsberger AC         - RB Salzburg
+  TSV Hartberg           - Rapid Wien
+  Linzer ASK             - Sturm Graz
+
+Runde 28
+[Di. 21.4.]
+  RB Salzburg            - Wolfsberger AC
+  Rapid Wien             - TSV Hartberg
+  Sturm Graz             - Linzer ASK
+
+Runde 29
+[Sa. 25.4.]
+  Wolfsberger AC         - Sturm Graz
+  TSV Hartberg            - Linzer ASK
+  Rapid Wien             - RB Salzburg
+
+Runde 30
+[Sa. 2.5.]
+  RB Salzburg            - TSV Hartberg
+  Linzer ASK             - Wolfsberger AC
+  Sturm Graz             - Rapid Wien
+
+Runde 31
+[Sa. 9.5.]
+  RB Salzburg            - Sturm Graz
+  Rapid Wien             - Linzer ASK
+  TSV Hartberg           - Wolfsberger AC
+
+Runde 32
+[Sa. 16.5.]
+  Linzer ASK             - RB Salzburg
+  Wolfsberger AC         - Rapid Wien
+  Sturm Graz             - TSV Hartberg
 
 
 
@@ -20,7 +68,7 @@ Runde 23
 [Sa. 14.3.]
   Austria Wien           - FC Admira Wacker
   SV Mattersburg         - SCR Altach
-  WSG Tirol              - SKN St.Pölten
+  WSG Tirol              - SKN St. Pölten
 
 Runde 24
 [Sa. 21.3.]
@@ -28,88 +76,51 @@ Runde 24
   SKN St. Pölten         - Austria Wien
   FC Admira Wacker       - SV Mattersburg
 
-
-
-
-__END__
-
 Runde 25
 [Sa. 4.4.]
   Austria Wien           - SCR Altach
   SKN St. Pölten         - FC Admira Wacker
   WSG Tirol              - SV Mattersburg
-  Wolfsberger AC         - TSV Hartberg
-  Sturm Graz             - RB Salzburg
-  Linzer ASK             - Rapid Wien
+
 Runde 26
-
-
 [Sa. 11.4.]
-  SCR Altach             - Rapid Wien
+  SCR Altach             - SKN St. Pölten
   SV Mattersburg         - Austria Wien
   FC Admira Wacker       - WSG Tirol
-  Rapid Wien             - Wolfsberger AC
-  TSV Hartberg           - Sturm Graz
-  RB Salzberg            - Linzer ASK
-
-
 
 Runde 27
 [Sa. 18.4.]
   Austria Wien           - WSG Tirol
   SKN St. Pölten         - SV Mattersburg
   FC Admira Wacker       - SCR Altach
-  Wolfsberger AC         - RB Salzburg
-  TSV Hartberg           - Rapid Wien
-  Linzer ASK             - Sturm Graz
-
 
 Runde 28
 [Di. 21.4.]
   SCR Altach             - FC Admira Wacker
   SV Mattersburg         - SKN St. Pölten
   WSG Tirol              - Austria Wien
-  RB Salzburg            - Wolfsberger AC
-  Rapid Wien             - TSV Hartberg
-  Sturm Graz             - Linzer ASK
-
 
 Runde 29
 [Sa. 25.4.]
   SCR Altach             - SV Mattersburg
   SKN St. Pölten         - WSG Tirol
   FC Admira Wacker       - Austria Wien
-  Wolfsberger AC         - Sturm Graz
-  SV Hartberg            - Linzer ASK
-  Rapid Wien             - RB Salzburg
-
 
 Runde 30
 [Sa. 2.5.]
   Austria Wien           - SKN St. Pölten
   SV Mattersburg         - FC Admira Wacker
   WSG Tirol              - SCR Altach
-  RB Salzburg            - TSV Hartberg
-  Linzer ASK             - Wolfsberger AC
-  Sturm Graz             - Rapid Wien
-
 
 Runde 31
-Sa.9.5.
+[Sa. 9.5.]
   SCR Altach             - Austria Wien
   SV Mattersburg         - WSG Tirol
   FC Admira Wacker       - SKN St. Pölten
-  RB Salzburg            - Sturm Graz
-  Rapid Wien             - Linzer ASK
-  TSV Hartberg           - Wolfsberger AC
-
 
 Runde 32
 [Sa. 16.5.]
   Austria Wien           - SV Mattersburg
   SKN St. Pölten         - SCR Altach
-  WSG Tirol              - Admira Wacker
-  Linzer ASK             - RB Salzburg
-  Wolfsberger AC         - Rapid Wien
-  Sturm Graz             - TSV Hartberg
+  WSG Tirol              - FC Admira Wacker
 

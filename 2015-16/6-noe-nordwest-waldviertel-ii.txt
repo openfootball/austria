@@ -1,10 +1,8 @@
-#####################################################
-# Gebietsliga Nordwest/Waldviertel (NÖ) - Frühjahr
+= Gebietsliga Nordwest/Waldviertel (NÖ) 2015-16    # Frühjahr
 
 
-     vorgezogene 26. Runde
-
-[So 20.3.]    
+26. Runde     ## vorgezogene 26. Runde
+[So 20.3.]
 USC Grafenwörth       1-1 USC Altenwörth
 USV Langenlois        0-1 USC Schweiggers
 SV Sieghartskirchen   5-1 USV Raabs/Thaya
@@ -44,10 +42,10 @@ SC Echsenbach         1-0 USV Raabs/Thaya
 USC Grafenwörth       1-0 USV Langenlois
 USV Raabs/Thaya       0-1 SC Admira Gföhl
 SV Zwentendorf        0-0 SC Weißenkirchen
-USC Schweiggers       4-2 SV Sieghartskirchen   
+USC Schweiggers       4-2 SV Sieghartskirchen
 USC Altenwörth        1-2 SC Echsenbach
 SV Horn II            2-2 SV Rehberg
-USV Groß Gerungs      2-2 SC St. Martin     
+USV Groß Gerungs      2-2 SC St. Martin
 
 
 17. Runde
@@ -121,11 +119,6 @@ USV Langenlois        8-1 SV Zwentendorf
 SV Sieghartskirchen   2-1 SC Echsenbach
 USC Grafenwörth       2-1 SC Admira Gföhl
 
-Aufsteiger in Nordwest-Waldviertel Liga (2 Plätze):
-
-SV Weitra oder SCU Nondorf.
-KSV Röschitz oder USV St. Bernhard.
-
 
 23. Runde
 
@@ -138,9 +131,7 @@ SC Admira Gföhl       0-4 SV Sieghartskirchen
 USV Raabs/Thaya       0-2 USV Langenlois
 SV Horn II            0-5 USV Groß Gerungs
 
-Aufsteiger in Nordwest-Waldviertel Liga:
 
-SV Weitra.
 
 24. Runde
 
@@ -166,24 +157,31 @@ SC Admira Gföhl       3-1 SC Echsenbach
 USC Schweiggers       2-3 USV Groß Gerungs
 
 
-2 Aufsteiger in Gebietsliga Nordwest-Waldviertel:
-  
-SV Weitra und KSV Röschitz.
 
-
-2 Absteiger Gebietsliga Nordwest-Waldviertel:
-
-USV Raabs/Thaya und SV Zwentendorf. 
-
-
-1 Aufsteiger in 2. Landesliga- West:
-
-SV Sieghartskirchen.
-
-
-Gebietsliga Nordwest-Waldviertel 2015/16 ist beendet. 
-
-Gebietsliga Nordwest-Waldviertel 2016/17 beginnt am 21.08.16.
+# Aufsteiger in Nordwest-Waldviertel Liga (2 Plätze):
+#
+# SV Weitra oder SCU Nondorf.
+# KSV Röschitz oder USV St. Bernhard.
+#
+# Aufsteiger in Nordwest-Waldviertel Liga:
+#
+# SV Weitra.
+#
+# 2 Aufsteiger in Gebietsliga Nordwest-Waldviertel:
+#
+# SV Weitra und KSV Röschitz.
+#
+# 2 Absteiger Gebietsliga Nordwest-Waldviertel:
+#
+# USV Raabs/Thaya und SV Zwentendorf.
+#
+# 1 Aufsteiger in 2. Landesliga- West:
+#
+# SV Sieghartskirchen.
+#
+# Gebietsliga Nordwest-Waldviertel 2015/16 ist beendet.
+#
+# Gebietsliga Nordwest-Waldviertel 2016/17 beginnt am 21.08.16.
 
 
 

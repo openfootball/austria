@@ -1,166 +1,148 @@
+= Österr. Erste Liga 2016/17
+
 Runde 21
 
 [Fr 24.2.]
-	FC Liefering             0-3 LASK Linz
-	FC Blau Weiß Linz        3-0 SC Wiener Neustadt
-	FC Wacker Innsbruck      0-1 WSG Wattens
-	SV Horn                  2-1 Kapfenberger SV 1919
-	Floridsdorfer AC         1-0 Austria Lustenau
+  FC Liefering             0-3 LASK Linz
+  FC Blau Weiß Linz        3-0 SC Wiener Neustadt
+  FC Wacker Innsbruck      0-1 WSG Wattens
+  SV Horn                  2-1 Kapfenberger SV 1919
+  Floridsdorfer AC         1-0 Austria Lustenau
 
 Runde 22
 
 [Fr 3.3.]
-	FC Liefering             1-0 Floridsdorfer AC
-	LASK Linz                3-1 FC Wacker Innsbruck
-	WSG Wattens              3-0 SC Wiener Neustadt
-	Austria Lustenau         0-0 Kapfenberger SV 1919
-	SV Horn                  0-2 FC Blau Weiß Linz
+  FC Liefering             1-0 Floridsdorfer AC
+  LASK Linz                3-1 FC Wacker Innsbruck
+  WSG Wattens              3-0 SC Wiener Neustadt
+  Austria Lustenau         0-0 Kapfenberger SV 1919
+  SV Horn                  0-2 FC Blau Weiß Linz
 
 Runde 23
 
 [Fr 10.3.]
-	SC Wiener Neustadt       0-2 LASK Linz
-	FC Blau Weiß Linz        0-0 Austria Lustenau
-	FC Wacker Innsbruck      0-2 FC Liefering
-	Kapfenberger SV 1919     2-1 WSG Wattens
-	Floridsdorfer AC         0-2 SV Horn
+  SC Wiener Neustadt       0-2 LASK Linz
+  FC Blau Weiß Linz        0-0 Austria Lustenau
+  FC Wacker Innsbruck      0-2 FC Liefering
+  Kapfenberger SV 1919     2-1 WSG Wattens
+  Floridsdorfer AC         0-2 SV Horn
 
 Runde 24
 
 [Di 14.3.]
-	FC Liefering             1-1 Kapfenberger SV 1919
-	LASK Linz                2-0 WSG Wattens
-	FC Wacker Innsbruck      1-0 Austria Lustenau
-	SV Horn                  2-0 SC Wiener Neustadt
-	Floridsdorfer AC         1-2 FC Blau Weiß Linz
+  FC Liefering             1-1 Kapfenberger SV 1919
+  LASK Linz                2-0 WSG Wattens
+  FC Wacker Innsbruck      1-0 Austria Lustenau
+  SV Horn                  2-0 SC Wiener Neustadt
+  Floridsdorfer AC         1-2 FC Blau Weiß Linz
 
 Runde 25
 
 [Fr 17.3.]
-	SC Wiener Neustadt       0-3 Floridsdorfer AC
-	FC Blau Weiß Linz        3-1 FC Wacker Innsbruck
-	WSG Wattens              1-1 SV Horn
-	Austria Lustenau         2-0 FC Liefering
-	Kapfenberger SV 1919     2-2 LASK Linz
+  SC Wiener Neustadt       0-3 Floridsdorfer AC
+  FC Blau Weiß Linz        3-1 FC Wacker Innsbruck
+  WSG Wattens              1-1 SV Horn
+  Austria Lustenau         2-0 FC Liefering
+  Kapfenberger SV 1919     2-2 LASK Linz
 
 Runde 26
 
 [Fr 31.3.]
-	SC Wiener Neustadt       1-1 Austria Lustenau
-	FC Blau Weiß Linz        1-2 Kapfenberger SV 1919
-	WSG Wattens              5-0 FC Liefering
-	SV Horn                  1-2 FC Wacker Innsbruck
-	Floridsdorfer AC         1-3 LASK Linz
+  SC Wiener Neustadt       1-1 Austria Lustenau
+  FC Blau Weiß Linz        1-2 Kapfenberger SV 1919
+  WSG Wattens              5-0 FC Liefering
+  SV Horn                  1-2 FC Wacker Innsbruck
+  Floridsdorfer AC         1-3 LASK Linz
 
 Runde 27
 
 [Fr 7.4.]
-	FC Liefering             0-3 FC Blau Weiß Linz
-	LASK Linz                2-1 SV Horn
-	FC Wacker Innsbruck      2-2 SC Wiener Neustadt
-	Austria Lustenau         2-2 WSG Wattens
-	Kapfenberger SV 1919     0-1 Floridsdorfer AC
+  FC Liefering             0-3 FC Blau Weiß Linz
+  LASK Linz                2-1 SV Horn
+  FC Wacker Innsbruck      2-2 SC Wiener Neustadt
+  Austria Lustenau         2-2 WSG Wattens
+  Kapfenberger SV 1919     0-1 Floridsdorfer AC
 
 Runde 28
 
 [Fr 14.4.]
-	SC Wiener Neustadt       3-1 Kapfenberger SV 1919
-	LASK Linz                2-0 Austria Lustenau
-	WSG Wattens              3-3 FC Blau Weiß Linz
-	SV Horn                  0-1 FC Liefering
-	Floridsdorfer AC         1-2 FC Wacker Innsbruck
+  SC Wiener Neustadt       3-1 Kapfenberger SV 1919
+  LASK Linz                2-0 Austria Lustenau
+  WSG Wattens              3-3 FC Blau Weiß Linz
+  SV Horn                  0-1 FC Liefering
+  Floridsdorfer AC         1-2 FC Wacker Innsbruck
 
 Runde 29
 
 [Di 18.4.]
-	FC Liefering             2-1 SC Wiener Neustadt     
-	FC Blau Weiß Linz        1-1 LASK Linz
-	FC Wacker Innsbruck      3-3 Kapfenberger SV 1919
-	SV Horn                  1-2 Austria Lustenau
-	Floridsdorfer AC         0-2 WSG Wattens
+  ## FC Liefering           - SC Wiener Neustadt  ## verschoben, siehe Nachtrag
+  FC Blau Weiß Linz        1-1 LASK Linz
+  FC Wacker Innsbruck      3-3 Kapfenberger SV 1919
+  SV Horn                  1-2 Austria Lustenau
+  Floridsdorfer AC         0-2 WSG Wattens
 
 Runde 30
-
 [Fr 21.4.]
-	SC Wiener Neustadt       0-0 FC Blau Weiß Linz
-	LASK Linz                3-0 FC Liefering
-	WSG Wattens              3-4 FC Wacker Innsbruck
-	Austria Lustenau         0-0 Floridsdorfer AC
-	Kapfenberger SV 1919     1-1 SV Horn
-	
-LASK Linz Meister und somit  Aufsteiger in 1. Bundesliga 17/18	
+  SC Wiener Neustadt       0-0 FC Blau Weiß Linz
+  LASK Linz                3-0 FC Liefering
+  WSG Wattens              3-4 FC Wacker Innsbruck
+  Austria Lustenau         0-0 Floridsdorfer AC
+  Kapfenberger SV 1919     1-1 SV Horn
 
-Diesesmal nur ein Absteiger in die Regionalligen.
-	
+
 Nachtrag Runde 29
 [Di 25.4.]
-         FC Liefering            2-1  SC Wiener Neustadt  
+  FC Liefering            2-1  SC Wiener Neustadt
 
 Runde 31
-
 [Fr 28.4.]
-	SC Wiener Neustadt       2-0  WSG Wattens
-	FC Blau Weiß Linz        1-4  SV Horn
-	FC Wacker Innsbruck      2-3  LASK Linz    
-	Kapfenberger SV 1919     2-3  Austria Lustenau
-	Floridsdorfer AC         0-3  FC Liefering
+  SC Wiener Neustadt       2-0  WSG Wattens
+  FC Blau Weiß Linz        1-4  SV Horn
+  ## FC Wacker Innsbruck    -  LASK Linz    ## verschoben, siehe Nachtrag
+  Kapfenberger SV 1919     2-3  Austria Lustenau
+  Floridsdorfer AC         0-3  FC Liefering
 
 Runde 32
-
 [Di 2.5.]
-	FC Liefering             0-3  FC Wacker Innsbruck
-	LASK Linz                1-0  SC Wiener Neustadt
-	WSG Wattens              4-1  Kapfenberger SV 1919
-	Austria Lustenau         1-4  FC Blau Weiß Linz
-	SV Horn                  0-2  Floridsdorfer AC
+  FC Liefering             0-3  FC Wacker Innsbruck
+  LASK Linz                1-0  SC Wiener Neustadt
+  WSG Wattens              4-1  Kapfenberger SV 1919
+  Austria Lustenau         1-4  FC Blau Weiß Linz
+  SV Horn                  0-2  Floridsdorfer AC
 
 Runde 33
-
 [Fr 5.5.]
-	SC Wiener Neustadt       3-1  SV Horn
-	FC Blau Weiß Linz        0-0  Floridsdorfer AC
-	WSG Wattens              2-0  LASK Linz
-	Austria Lustenau         2-1  FC Wacker Innsbruck
-	Kapfenberger SV 1919     0-3  FC Liefering
+  SC Wiener Neustadt       3-1  SV Horn
+  FC Blau Weiß Linz        0-0  Floridsdorfer AC
+  WSG Wattens              2-0  LASK Linz
+  Austria Lustenau         2-1  FC Wacker Innsbruck
+  Kapfenberger SV 1919     0-3  FC Liefering
 
 Nachtrag Runde 31
 [Mo 8.5.]
-        FC Wacker Innsbruck      2-3  LASK Linz
+  FC Wacker Innsbruck      2-3  LASK Linz
 
 Runde 34
-
 [Fr 12.5.]
-	FC Liefering            4-1  Austria Lustenau
-	LASK Linz               1-1  Kapfenberger SV 1919
-	FC Wacker Innsbruck     2-1  FC Blau Weiß Linz
-	SV Horn                 2-3  WSG Wattens
-	Floridsdorfer AC        3-0  SC Wiener Neustadt
+  FC Liefering            4-1  Austria Lustenau
+  LASK Linz               1-1  Kapfenberger SV 1919
+  FC Wacker Innsbruck     2-1  FC Blau Weiß Linz
+  SV Horn                 2-3  WSG Wattens
+  Floridsdorfer AC        3-0  SC Wiener Neustadt
 
 Runde 35
-
 [Fr 19.5.]
-	FC Liefering            2-3  WSG Wattens
-	LASK Linz               2-2  Floridsdorfer AC
-	FC Wacker Innsbruck     3-0  SV Horn
-	Austria Lustenau        2-0  SC Wiener Neustadt
-	Kapfenberger SV 1919    3-2  FC Blau Weiß Linz
+  FC Liefering            2-3  WSG Wattens
+  LASK Linz               2-2  Floridsdorfer AC
+  FC Wacker Innsbruck     3-0  SV Horn
+  Austria Lustenau        2-0  SC Wiener Neustadt
+  Kapfenberger SV 1919    3-2  FC Blau Weiß Linz
 
 Runde 36
-
 [Fr 26.5.]
-	SC Wiener Neustadt     1-3   FC Wacker Innsbruck
-	FC Blau Weiß Linz      0-0   FC Liefering
-	WSG Wattens            2-2   Austria Lustenau
-	SV Horn                1-2   LASK Linz
-	Floridsdorfer AC       3-1   Kapfenberger SV 1919
-	
-Absteiger 2.Liga 2016/17
-        SV Horn
-	
-Aufsteiger 2. Liga 2017/18
-        TSV Hartberg 
-	
-Sommerpause bis 21.7. 2017
-	
-	
+  SC Wiener Neustadt     1-3   FC Wacker Innsbruck
+  FC Blau Weiß Linz      0-0   FC Liefering
+  WSG Wattens            2-2   Austria Lustenau
+  SV Horn                1-2   LASK Linz
+  Floridsdorfer AC       3-1   Kapfenberger SV 1919
 
