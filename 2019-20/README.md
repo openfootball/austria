@@ -2,7 +2,7 @@
 
 ### Standings
 
-#### Bundesliga, Regular Season
+#### Bundesliga, Grunddurchgang
 
 
 ```
@@ -23,7 +23,7 @@
 ```
 
 
-#### Bundesliga, Championship Round
+#### Bundesliga, Finaldurchgang - Meister
 
 
 ```
@@ -32,7 +32,7 @@
 ```
 
 
-#### Bundesliga, Relegation Round
+#### Bundesliga, Finaldurchgang - Qualifikation
 
 
 ```
@@ -70,28 +70,4 @@
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
-
-### Results Tables
-
-```
-Home \ Away           FCW  RIE  KSV  ALU  FAC       KLA                                FCL
-FC Wacker Innsb (FCW)  *   2-3  1-2   ?   1-0   ?   2-4  1-1  2-0  2-1  1-0  0-3  1-1   ?    ?   2-1
-SV Ried (RIE)          ?    *    ?   1-0   ?    ?   1-3  3-1  1-2  4-1  4-0   ?   1-0   ?    ?   3-1
-Kapfenberger SV (KSV)  ?   2-3   *    ?   2-1  1-1  1-2   ?   2-0  1-1   ?   1-2  2-1  0-2   ?   2-2
-Austria Lustena (ALU) 2-3  1-1  3-2   *   1-2  2-1   ?    ?   0-2   ?   4-1  0-1   ?   3-2  2-3   ?
-Floridsdorfer A (FAC) 2-0  1-2   ?    ?    *    ?   0-2  3-3  2-0  0-2  0-3  1-0   ?   0-0   ?   0-0
-FC Blau-Weiß Li ()    1-0  2-3  1-1   ?   2-3   *    ?    ?   1-1   ?    ?   1-5  2-0  2-4  4-3   ?
-Austria Klagenf (KLA)  ?   1-1   ?   3-3   ?   3-1   *   2-0   ?   1-1  1-1   ?   1-1  4-4  2-1   ?
-SV Horn ()            0-1   ?   5-1  2-4  2-2  2-4   ?    *   4-2   ?   1-1   ?   1-4   ?   2-2  1-3
-Grazer AK ()           ?    ?    ?    ?   1-2  2-0  1-2  0-0   *   2-2   ?    ?    ?   1-1  2-3  2-1
-SKU Amstetten ()       ?   1-2   ?   2-0   ?   2-2   ?   2-4  3-3   *   0-2  1-1  2-1  1-1  3-2  1-2
-FC Dornbirn 191 ()    0-4  0-5  6-1  1-3   ?   2-2  0-0   ?   2-1   ?    *    ?    ?   2-2   ?   2-2
-SV Lafnitz ()          ?   0-1  0-3  0-2   ?    ?   0-3  2-3  1-1   ?   1-1   *   1-1  2-0   ?   0-0
-SK Vorwärts Ste ()    2-0   ?   2-0  3-1  1-0  0-1   ?    ?   2-2   ?   3-2   ?    *    ?   0-0  0-0
-FC Liefering (FCL)    2-2  0-1   ?    ?    ?   2-1  3-1  3-2   ?   2-3   ?   4-1  1-3   *   2-1  0-4
-Young Violets A ()    1-2  0-0  4-1  0-2  4-1   ?   4-1  1-5   ?   3-0  0-1  2-3   ?    ?    *    ?
-FC Juniors OÖ ()       ?    ?   1-0  8-5  2-2  0-5  0-2   ?    ?    ?    ?   1-2  3-1   ?   2-4   *
-
-```
-
 

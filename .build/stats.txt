@@ -1,53 +1,87 @@
 # Stats
 
-100 teams, 2078 matches
+129 teams, 3301 matches
 
 
-3 leagues
-at.1 - Bundesliga |  7 events
+5 leagues
+at.1 - Bundesliga |  9 events
 at.2 - 2. Liga |  6 events
-at.cup - ÖFB Cup |  4 events
+at.6.n.west.nww - Gebietsliga Nordwest/Waldviertel (NÖ) |  2 events
+at.cup - ÖFB Cup |  5 events
+at.rel.1 - Bundesliga - Relegation |  1 events
 
 
-7 seasons
+9 seasons
 2019/20 |  2 events
 2018/19 |  2 events
-2017/18 |  2 events
-2014/15 |  3 events
-2013/14 |  3 events
-2012/13 |  3 events
+2017/18 |  3 events
+2016/17 |  2 events
+2015/16 |  4 events
+2014/15 |  4 events
+2013/14 |  2 events
+2012/13 |  2 events
 2011/12 |  2 events
 
 
-17 events:
+23 events:
   2019/20 (2):
-== at.1 - Bundesliga 2019/20 |  0 Teams, 144 Matches, 455 Goals (+0 a.e.t.)
-    0 Groups, 24 Rounds (24 Matchdays, 0 K.O.s)
-1 (6)  2 (6)  3 (6)  4 (6)  5 (6)  6 (6)  7 (6)  8 (6)  9 (6)  10 (6)  11 (6)  12 (6)  13 (6)  14 (6)  15 (6)  16 (6)  17 (6)  18 (6)  19 (6)  20 (6)  21 (6)  22 (6)  23 (6)  24 (6)  
+== at.1 - Bundesliga 2019/20 |  0 Teams, 192 Matches, 455 Goals (+0 a.e.t.)
+    0 Groups, 32 Rounds (32 Matchdays, 0 K.O.s)
+1 (6)  2 (6)  3 (6)  4 (6)  5 (6)  6 (6)  7 (6)  8 (6)  9 (6)  10 (6)  11 (6)  12 (6)  13 (6)  14 (6)  15 (6)  16 (6)  17 (6)  18 (6)  19 (6)  20 (6)  21 (6)  22 (6)  23 (6)  24 (6)  25 (6)  26 (6)  27 (6)  28 (6)  29 (6)  30 (6)  31 (6)  32 (6)  
 
 == at.2 - 2. Liga 2019/20 |  16 Teams, 240 Matches, 501 Goals (+0 a.e.t.)
     0 Groups, 30 Rounds (30 Matchdays, 0 K.O.s)
 1 (8)  2 (8)  3 (8)  4 (8)  5 (8)  6 (8)  7 (8)  8 (8)  9 (8)  10 (8)  11 (8)  12 (8)  13 (8)  14 (8)  15 (8)  16 (8)  17 (8)  18 (8)  19 (8)  20 (8)  21 (8)  22 (8)  23 (8)  24 (8)  25 (8)  26 (8)  27 (8)  28 (8)  29 (8)  30 (8)  
 
   2018/19 (2):
-== at.1 - Bundesliga 2018/19 |  0 Teams, 132 Matches, 364 Goals (+0 a.e.t.)
-    0 Groups, 22 Rounds (22 Matchdays, 0 K.O.s)
-1 (6)  2 (6)  3 (6)  4 (6)  5 (6)  6 (6)  7 (6)  8 (6)  9 (6)  10 (6)  11 (6)  12 (6)  13 (6)  14 (6)  15 (6)  16 (6)  17 (6)  18 (6)  19 (6)  20 (6)  21 (6)  22 (6)  
+== at.1 - Bundesliga 2018/19 |  0 Teams, 195 Matches, 562 Goals (+0 a.e.t.)
+    0 Groups, 35 Rounds (35 Matchdays, 0 K.O.s)
+1 (6)  2 (6)  3 (6)  4 (6)  5 (6)  6 (6)  7 (6)  8 (6)  9 (6)  10 (6)  11 (6)  12 (6)  13 (6)  14 (6)  15 (6)  16 (6)  17 (6)  18 (6)  19 (6)  20 (6)  21 (6)  22 (6)  23 (6)  24 (6)  25 (6)  26 (6)  27 (6)  28 (6)  29 (6)  30 (6)  31 (6)  32 (6)  33 (1)  34 (1)  35 (1)  
 
-== at.2 - 2. Liga 2018/19 |  16 Teams, 241 Matches, 712 Goals (+0 a.e.t.)
-    0 Groups, 30 Rounds (30 Matchdays, 0 K.O.s)
-1 (8)  2 (8)  3 (8)  4 (8)  5 (8)  6 (8)  7 (8)  8 (8)  9 (8)  10 (8)  11 (8)  12 (8)  13 (8)  14 (8)  15 (8)  16 (8)  17 (9)  18 (8)  19 (8)  20 (8)  21 (8)  22 (8)  23 (8)  24 (8)  25 (8)  26 (8)  27 (8)  28 (8)  29 (8)  30 (8)  
+== at.2 - 2. Liga 2018/19 |  16 Teams, 240 Matches, 710 Goals (+0 a.e.t.)
+    0 Groups, 31 Rounds (31 Matchdays, 0 K.O.s)
+1 (8)  2 (8)  3 (8)  4 (8)  5 (8)  6 (8)  7 (8)  8 (8)  9 (8)  10 (8)  11 (8)  12 (8)  13 (8)  14 (8)  15 (8)  16 (7)  17 (8)  18 (1)  19 (8)  20 (8)  21 (8)  22 (8)  23 (8)  24 (8)  25 (8)  26 (8)  27 (8)  28 (8)  29 (8)  30 (8)  31 (8)  
 
-  2017/18 (2):
+  2017/18 (3):
 == at.1 - Bundesliga 2017/18 |  10 Teams, 180 Matches, 520 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
 
-== at.2 - 2. Liga 2017/18 |  10 Teams, 185 Matches, 523 Goals (+0 a.e.t.)
-    0 Groups, 37 Rounds (37 Matchdays, 0 K.O.s)
-1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (1)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (7)  25 (6)  26 (5)  27 (5)  28 (6)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  37 (5)  
+== at.2 - 2. Liga 2017/18 |  10 Teams, 180 Matches, 507 Goals (+0 a.e.t.)
+    0 Groups, 39 Rounds (39 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (4)  4 (5)  5 (5)  6 (5)  7 (5)  8 (1)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (4)  23 (2)  24 (5)  25 (1)  26 (3)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  37 (5)  38 (5)  39 (5)  
 
-  2014/15 (3):
+== at.rel.1 - Bundesliga - Relegation 2017/18 |  2 Teams, 2 Matches, 4 Goals (+0 a.e.t.)
+    0 Groups, 2 Rounds (2 Matchdays, 0 K.O.s)
+1 (1)  2 (1)  
+
+  2016/17 (2):
+== at.1 - Bundesliga 2016/17 |  10 Teams, 180 Matches, 488 Goals (+0 a.e.t.)
+    0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
+
+== at.2 - 2. Liga 2016/17 |  10 Teams, 180 Matches, 516 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (4)  30 (5)  31 (1)  32 (4)  33 (5)  34 (5)  35 (1)  36 (5)  37 (5)  38 (5)  
+
+  2015/16 (4):
+== at.1 - Bundesliga 2015/16 |  10 Teams, 180 Matches, 477 Goals (+0 a.e.t.)
+    0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
+
+== at.2 - 2. Liga 2015/16 |  10 Teams, 180 Matches, 529 Goals (+0 a.e.t.)
+    0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
+1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
+
+== at.6.n.west.nww - Gebietsliga Nordwest/Waldviertel (NÖ) 2015/16 |  14 Teams, 182 Matches, 624 Goals (+0 a.e.t.)
+    0 Groups, 26 Rounds (26 Matchdays, 0 K.O.s)
+1 (7)  2 (7)  3 (7)  4 (7)  5 (7)  6 (7)  7 (7)  8 (7)  9 (7)  10 (7)  11 (7)  12 (7)  13 (7)  14 (7)  15 (7)  16 (7)  17 (7)  18 (7)  19 (7)  20 (7)  21 (7)  22 (7)  23 (7)  24 (7)  25 (7)  26 (7)  
+
+== at.cup - ÖFB Cup 2015/16 |  64 Teams, 32 Matches, 136 Goals (+0 a.e.t.)
+    0 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
+1 (32)  2 (0)  3 (0)  4 (0)  5 (0)  6 (0)  
+
+  2014/15 (4):
 == at.1 - Bundesliga 2014/15 |  10 Teams, 180 Matches, 527 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
@@ -56,31 +90,27 @@ at.cup - ÖFB Cup |  4 events
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
 
+== at.6.n.west.nww - Gebietsliga Nordwest/Waldviertel (NÖ) 2014/15 |  14 Teams, 182 Matches, 583 Goals (+0 a.e.t.)
+    0 Groups, 26 Rounds (26 Matchdays, 0 K.O.s)
+1 (7)  2 (7)  3 (7)  4 (7)  5 (7)  6 (7)  7 (7)  8 (7)  9 (7)  10 (7)  11 (7)  12 (7)  13 (7)  14 (7)  15 (7)  16 (7)  17 (7)  18 (7)  19 (7)  20 (7)  21 (7)  22 (7)  23 (7)  24 (7)  25 (7)  26 (7)  
+
 == at.cup - ÖFB Cup 2014/15 |  64 Teams, 63 Matches, 253 Goals (+0 a.e.t.)
     0 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
 1 (32)  2 (16)  3 (8)  4 (4)  5 (2)  6 (1)  
 
-  2013/14 (3):
+  2013/14 (2):
 == at.1 - Bundesliga 2013/14 |  10 Teams, 180 Matches, 596 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
-
-== at.2 - 2. Liga 2013/14 |  0 Teams, 0 Matches, 0 Goals (+0 a.e.t.)
-    0 Groups, 0 Rounds (0 Matchdays, 0 K.O.s)
-
 
 == at.cup - ÖFB Cup 2013/14 |  64 Teams, 63 Matches, 227 Goals (+0 a.e.t.)
     0 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
 1 (32)  2 (16)  3 (8)  4 (4)  5 (2)  6 (1)  
 
-  2012/13 (3):
+  2012/13 (2):
 == at.1 - Bundesliga 2012/13 |  10 Teams, 180 Matches, 548 Goals (+0 a.e.t.)
     0 Groups, 36 Rounds (36 Matchdays, 0 K.O.s)
 1 (5)  2 (5)  3 (5)  4 (5)  5 (5)  6 (5)  7 (5)  8 (5)  9 (5)  10 (5)  11 (5)  12 (5)  13 (5)  14 (5)  15 (5)  16 (5)  17 (5)  18 (5)  19 (5)  20 (5)  21 (5)  22 (5)  23 (5)  24 (5)  25 (5)  26 (5)  27 (5)  28 (5)  29 (5)  30 (5)  31 (5)  32 (5)  33 (5)  34 (5)  35 (5)  36 (5)  
-
-== at.2 - 2. Liga 2012/13 |  0 Teams, 0 Matches, 0 Goals (+0 a.e.t.)
-    0 Groups, 0 Rounds (0 Matchdays, 0 K.O.s)
-
 
 == at.cup - ÖFB Cup 2012/13 |  64 Teams, 63 Matches, 216 Goals (+0 a.e.t.)
     0 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
@@ -101,11 +131,13 @@ at.cup - ÖFB Cup |  4 events
 
 13 logs:
 [warn] skipping line (no match found): >[So 15.10]<
-[warn] skipping line (no match found): >RB Salzburg<
-[warn] skipping line (no match found): >Wacker Innsbruck<
 [warn] skipping line (no match found): >[So 22.4]<
-[warn] skipping line (no match found): >RB Salzburg<
-[warn] skipping line (no match found): >Wacker Innsbruck<
+[warn] skipping line (no match found): >[Sa 3.3]<
+[warn] skipping line (no match found): >[So. 6.10]<
+[warn] skipping line (no match found): >[So. 18.8]<
+[warn] skipping line (no match found): >[So. 6.10]<
+[warn] skipping line (no match found): >[So 15.10]<
+[warn] skipping line (no match found): >[So 22.4]<
 [warn] skipping line (no match found): >[Sa 3.3]<
 [warn] skipping line (no match found): >[So. 6.10]<
 [warn] skipping line (no match found): >[So. 18.8]<
