@@ -266,16 +266,16 @@ Runde 19
 
 Runde 20
 [Fr. 13.3.]
-  Grazer AK               - Austria Lustenau            # Termin verschoben
-  SV Ried                 - SV Lafnitz                  # Termin verschoben
-  FC Juniors OÖ           - Wacker Innsbruck            # Termin verschoben
-  Young Violets           - Blau-Weiß Linz              # Termin verschoben
-  SV Horn                 - FC Liefering                # Termin verschoben
-  Floridsdorfer AC        - Vorwärts Steyr              # Termin verschoben
+  Grazer AK               1-1  Austria Lustenau            # Termin verschoben
+  SV Ried                 3-1  SV Lafnitz                  # Termin verschoben
+  FC Juniors OÖ           2-1  Wacker Innsbruck            # Termin verschoben
+  Young Violets           3-0  Blau-Weiß Linz              # Termin verschoben
+  SV Horn                 1-1  FC Liefering                # Termin verschoben
+  Floridsdorfer AC        0-0  Vorwärts Steyr              # Termin verschoben
 [Sa. 14.3.]
-  FC Dornbirn 1913        - SKU Amstetten               # Termin verschoben
+  FC Dornbirn 1913        0-4  SKU Amstetten               # Termin verschoben
 [So. 15.3.]
-  Austria Klagenfurt      - Kapfenberger SV             # Termin verschoben
+  Austria Klagenfurt      3-2  Kapfenberger SV             # Termin verschoben
 
 
 Runde 21

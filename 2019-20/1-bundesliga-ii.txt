@@ -2,15 +2,15 @@
 
 Runde 23
 [Sa. 14.3.]
-  Linzer ASK             - TSV Hartberg
-  Sturm Graz             - Wolfsberger AC
-  RB Salzburg            - Rapid Wien
+  Linzer ASK             1-2  TSV Hartberg
+  Sturm Graz             1-2  Wolfsberger AC
+  RB Salzburg            2-0  Rapid Wien
 
 Runde 24
 [Sa. 21.3.]
-  Wolfsberger AC         - Linzer ASK
-  TSV Hartberg           - RB Salzburg
-  Rapid Wien             - Sturm Graz
+  Wolfsberger AC         3-3  Linzer ASK
+  TSV Hartberg           0-6  RB Salzburg
+  Rapid Wien             4-0  Sturm Graz
 
 Runde 25
 [Sa. 4.4.]
@@ -66,15 +66,15 @@ Runde 32
 
 Runde 23
 [Sa. 14.3.]
-  Austria Wien           - FC Admira Wacker
-  SV Mattersburg         - SCR Altach
-  WSG Tirol              - SKN St. Pölten
+  Austria Wien           1-0  FC Admira Wacker
+  SV Mattersburg         1-1  SCR Altach
+  WSG Tirol              0-5  SKN St. Pölten
 
 Runde 24
 [Sa. 21.3.]
-  SCR Altach             - WSG Tirol
-  SKN St. Pölten         - Austria Wien
-  FC Admira Wacker       - SV Mattersburg
+  SCR Altach             1-1  WSG Tirol
+  SKN St. Pölten         1-1  Austria Wien
+  FC Admira Wacker       0-2  SV Mattersburg
 
 Runde 25
 [Sa. 4.4.]
