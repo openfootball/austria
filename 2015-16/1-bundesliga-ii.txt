@@ -1,162 +1,159 @@
-= Österr. Bundesliga 2015/16     ## Frühjahr
+= Österr. Bundesliga 2015/16
 
 
 21. Runde
-
 [Sa 6.2.]
-   Rapid Wien        3-0  Wolfsberger AC
-   SCR Altach        2-2  Sturm Graz
-   SV Grödig         0-1  Austria Wien
-   Admira Wacker     1-2  RB Salzburg
-   SV Mattersburg    3-3  SV Ried
+  SCR Altach               2-2  Sturm Graz
+  Rapid Wien               3-0  Wolfsberger AC
+  SV Grödig                0-1  Austria Wien
+  SV Mattersburg           3-3  SV Ried
+[So 7.2.]
+  FC Admira Wacker         1-2  RB Salzburg
 
 
 22. Runde
-
 [Sa 13.2.]
-   SCR Altach        1-2  SV Mattersburg
-   Wolfsberger AC    0-0  Sturm Graz
-   SV Ried           1-0  RB Salzburg
-   Austria Wien      0-3  Rapid Wien
-   SV Grödig         2-2  Admira Wacker
+  SV Ried                  1-0  RB Salzburg
+  SCR Altach               1-2  SV Mattersburg
+  Wolfsberger AC           0-0  Sturm Graz
+  SV Grödig                2-2  FC Admira Wacker
+[So 14.2.]
+  Austria Wien             0-3  Rapid Wien
 
 
 23. Runde
-
 [Sa 20.2.]
-   RB Salzburg       2-0  SCR Altach
-   Sturm Graz        0-2  Rapid Wien
-   Wolfsberger AC    2-0  SV Grödig
-   Austria Wien      2-2  SV Mattersburg
-   Admira Wacker     0-0  SV Ried
+  Austria Wien             2-2  SV Mattersburg
+  RB Salzburg              2-0  SCR Altach
+  Wolfsberger AC           2-0  SV Grödig
+  FC Admira Wacker         0-0  SV Ried
+[So 21.2.]
+  Sturm Graz               0-2  Rapid Wien
 
 
 24. Runde
-
 [Sa 27.2.]
-   RB Salzburg       4-1  Austria Wien
-   Rapid Wien        3-2  SV Grödig
-   SCR Altach        1-2  Admira Wacker
-   SV Ried           0-1  Sturm Graz
-   SV Mattersburg    1-1  Wolfsberger AC
+  SV Ried                  0-1  Sturm Graz
+  SCR Altach               1-2  FC Admira Wacker
+  SV Mattersburg           1-1  Wolfsberger AC
+[So 28.2.]
+  Rapid Wien               3-2  SV Grödig
+  RB Salzburg              4-1  Austria Wien
 
 
 25. Runde
-
 [Di 1.3.]
-   Rapid Wien        3-0  SV Mattersburg
-   Sturm Graz        0-0  RB Salzburg
-   Wolfsberger AC    1-0  SCR Altach
-   SV Grödig         2-2  SV Ried
-   Admira Wacker     0-3  Austria Wien
+  Wolfsberger AC           1-0  SCR Altach
+[Mi 2.3.]
+  Rapid Wien               3-0  SV Mattersburg
+  SV Grödig                2-2  SV Ried
+  FC Admira Wacker         0-3  Austria Wien
+  Sturm Graz               0-0  RB Salzburg
 
 
 26. Runde
-
 [Sa 5.3.]
-   RB Salzburg       3-0  SV Grödig
-   SCR Altach        0-0  Rapid Wien
-   Austria Wien      3-1  SV Ried
-   Admira Wacker     0-2  Wolfsberger AC
-   SV Mattersburg    1-0  Sturm Graz
+  RB Salzburg              3-0  SV Grödig
+  Austria Wien             3-1  SV Ried
+  FC Admira Wacker         0-2  Wolfsberger AC
+  SV Mattersburg           1-0  Sturm Graz
+[So 6.3.]
+  SCR Altach               0-0  Rapid Wien
 
 
 27. Runde
-
 [Sa 12.3.]
-   Rapid Wien        0-4  Admira Wacker
-   Sturm Graz        1-1  Austria Wien
-   Wolfsberger AC    1-1  RB Salzburg
-   SV Ried           0-2  SCR Altach
-   SV Grödig         0-1  SV Mattersburg
+  Wolfsberger AC           1-1  RB Salzburg
+  Rapid Wien               0-4  FC Admira Wacker
+  SV Ried                  0-2  SCR Altach
+  SV Grödig                0-1  SV Mattersburg
+[So 13.3.]
+  Sturm Graz               1-1  Austria Wien
 
 
 28. Runde
-
 [Sa 19.3.]
-   SV Ried           1-0  Rapid Wien
-   Admira Wacker     1-0  Sturm Graz
-   Austria Wien      0-0  Wolfsberger AC
-   SCR Altach        1-0  SV Grödig
-   RB Salzburg       2-1  SV Mattersburg
+  Austria Wien             0-0  Wolfsberger AC
+  FC Admira Wacker         1-0  Sturm Graz
+  SCR Altach               1-0  SV Grödig
+  RB Salzburg              2-1  SV Mattersburg
+[So 20.3.]
+  SV Ried                  1-0  Rapid Wien
 
 
 29. Runde
-
 [Sa 2.4.]
-   Rapid Wien        1-1  RB Salzburg
-   SV Grödig         1-3  Sturm Graz
-   Wolfsberger AC    1-0  SV Ried
-   SCR Altach        2-0  Austria Wien
-   SV Mattersburg    0-3  Admira Wacker
+  SV Grödig                1-3  Sturm Graz
+  Wolfsberger AC           1-0  SV Ried
+  SCR Altach               2-0  Austria Wien
+  SV Mattersburg           0-3  FC Admira Wacker
+[So 3.4.]
+  Rapid Wien               1-1  RB Salzburg
 
 
 30. Runde
-
 [Sa 9.4.]
-   Wolfsberger AC    2-2  Rapid Wien
-   Sturm Graz        4-1  SCR Altach
-   Austria Wien      0-2  SV Grödig
-   RB Salzburg       1-0  Admira Wacker
-   SV Ried           1-0  SV Mattersburg
+  Sturm Graz               4-1  SCR Altach
+  Wolfsberger AC           2-2  Rapid Wien
+  Austria Wien             0-2  SV Grödig
+  SV Ried                  1-0  SV Mattersburg
+[So 10.4.]
+  RB Salzburg              1-0  FC Admira Wacker
 
 
 31. Runde
-
 [Sa 16.4.]
-   SV Mattersburg    0-0  SCR Altach
-   Sturm Graz        1-0  Wolfsberger AC
-   RB Salzburg       2-1  SV Ried
-   Rapid Wien        1-0  Austria Wien
-   Admira Wacker     1-1  SV Grödig
+  RB Salzburg              2-1  SV Ried
+  SV Mattersburg           0-0  SCR Altach
+  Sturm Graz               1-0  Wolfsberger AC
+  FC Admira Wacker         1-1  SV Grödig
+[So 17.4.]
+  Rapid Wien               1-0  Austria Wien
 
 
 32. Runde
-
 [Sa 23.4.]
-   SCR Altach        1-3  RB Salzburg
-   Rapid Wien        2-0  Sturm Graz
-   SV Grödig         0-1  Wolfsberger AC
-   SV Mattersburg    0-9  Austria Wien
-   SV Ried           1-0  Admira Wacker
+  SV Mattersburg           0-9  Austria Wien
+  SCR Altach               1-3  RB Salzburg
+  SV Grödig                0-1  Wolfsberger AC
+  SV Ried                  1-0  FC Admira Wacker
+[So 24.4.]
+  Rapid Wien               2-0  Sturm Graz
 
 
 33. Runde
-
 [Sa 30.4.]
-   Austria Wien      0-2  RB Salzburg
-   SV Grödig         2-0  Rapid Wien
-   Admira Wacker     2-1  SCR Altach
-   Sturm Graz        0-0  SV Ried
-   Wolfsberger AC    2-0  SV Mattersburg
+  SV Grödig                2-0  Rapid Wien
+  FC Admira Wacker         2-1  SCR Altach
+  Sturm Graz               0-0  SV Ried
+  Wolfsberger AC           2-0  SV Mattersburg
+[So 1.5.]
+  Austria Wien             0-2  RB Salzburg
 
 
 34. Runde
-
 [Sa 7.5.]
-   SV Mattersburg    0-2  Rapid Wien
-   RB Salzburg       1-1  Sturm Graz
-   SCR Altach        1-1  Wolfsberger AC
-   SV Ried           2-0  SV Grödig
-   Austria Wien      3-1  Admira Wacker
+  Austria Wien             3-1  FC Admira Wacker
+  RB Salzburg              1-1  Sturm Graz
+  SCR Altach               1-1  Wolfsberger AC
+  SV Ried                  2-0  SV Grödig
+[So 8.5.]
+  SV Mattersburg           0-2  Rapid Wien
 
 
 35. Runde
-
 [Mi 11.5.]
-   SV Grödig         1-2  RB Salzburg
-   Rapid Wien        1-1  SCR Altach
-   SV Ried           0-5  Austria Wien
-   Wolfsberger AC    1-2  Admira Wacker
-   Sturm Graz        1-1  SV Mattersburg
+  SV Grödig                1-2  RB Salzburg
+  Rapid Wien               1-1  SCR Altach
+  SV Ried                  0-5  Austria Wien
+  Wolfsberger AC           1-2  FC Admira Wacker
+  Sturm Graz               1-1  SV Mattersburg
 
 
 36. Runde
-
 [So 15.5.]
-   Admira Wacker     1-3  Rapid Wien
-   Austria Wien      3-0  Sturm Graz
-   RB Salzburg       1-0  Wolfsberger AC
-   SCR Altach        0-0  SV Ried
-   SV Mattersburg    2-3  SV Grödig
-
+  FC Admira Wacker         1-3  Rapid Wien
+  Austria Wien             3-0  Sturm Graz
+  RB Salzburg              1-0  Wolfsberger AC
+  SCR Altach               0-0  SV Ried
+  SV Mattersburg           2-3  SV Grödig

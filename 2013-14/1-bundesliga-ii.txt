@@ -1,164 +1,155 @@
-= Österr. Bundesliga 2013/14     ## Frühjahr
+= Österr. Bundesliga 2013/14
+
+
+19. Runde
+[So 2.2.]
+  SC Wiener Neustadt       1-5  RB Salzburg
 
 
 22. Runde
-
 [Sa 8.2.]
-  SV Ried             2:1  Wr. Neustadt
-  Wolfsberger AC      3:2  Wacker Innsbruck
-  RB Salzburg         6:0  SV Grödig
-  Admira Wacker       1:1  Sturm Graz
+  FC Admira Wacker         1-1  Sturm Graz
+  SV Ried                  2-1  SC Wiener Neustadt
+  Wolfsberger AC           3-2  FC Wacker Innsbruck
+  RB Salzburg              6-0  SV Grödig
 [So 9.2.]
-  Rapid Wien          3:1  Austria Wien
+  Rapid Wien               3-1  Austria Wien
 
 
 23. Runde
-
 [Sa 15.2.]
-  SV Grödig           3:0  Wolfsberger AC
-  Wacker Innsbruck    1:1  SV Ried
-  Sturm Graz          1:4  RB Salzburg
-  Austria Wien        1:1  Wr. Neustadt
+  Sturm Graz               1-4  RB Salzburg
+  SV Grödig                3-0  Wolfsberger AC
+  FC Wacker Innsbruck      1-1  SV Ried
+  Austria Wien             1-1  SC Wiener Neustadt
 [So 16.2.]
-  Admira Wacker       2:1  Rapid Wien
+  FC Admira Wacker         2-1  Rapid Wien
 
 
 24. Runde
-
 [Sa 22.2.]
-  SV Ried             2:2  Sturm Graz
-  Wolfsberger AC      0:0  Austria Wien
-  Rapid Wien          0:0  SV Grödig
-  Wr. Neustadt        1:0  Wacker Innsbruck
+  Wolfsberger AC           0-0  Austria Wien
+  SC Wiener Neustadt       1-0  FC Wacker Innsbruck
+  Rapid Wien               0-0  SV Grödig
+  SV Ried                  2-2  Sturm Graz
 [So 23.2.]
-  RB Salzburg         6:1  Admira Wacker
+  RB Salzburg              6-1  FC Admira Wacker
 
 
 25. Runde
-
 [Sa 1.3.]
-  SV Grödig           1:2  Wr. Neustadt
-  Sturm Graz          1:4  Wolfsberger AC
-  Austria Wien        2:1  Wacker Innsbruck
-  Admira Wacker       2:2  SV Ried
+  Austria Wien             2-1  FC Wacker Innsbruck
+  SV Grödig                1-2  SC Wiener Neustadt
+  Sturm Graz               1-4  Wolfsberger AC
+  FC Admira Wacker         2-2  SV Ried
 [So 2.3.]
-  RB Salzburg         6:3  Rapid Wien
+  RB Salzburg              6-3  Rapid Wien
 
 
 26. Runde
-
 [Sa 8.3.]
-  SV Ried             1:3  RB Salzburg
-  Wolfsberger AC      2:3  Admira Wacker
-  Wr. Neustadt        2:1  Sturm Graz
-  Austria Wien        2:0  SV Grödig
+  SV Ried                  1-3  RB Salzburg
+  Wolfsberger AC           2-3  FC Admira Wacker
+  SC Wiener Neustadt       2-1  Sturm Graz
+  Austria Wien             2-0  SV Grödig
 [So 9.3.]
-  Wacker Innsbruck    1:1  Rapid Wien
+  FC Wacker Innsbruck      1-1  Rapid Wien
 
 
 27. Runde
-
 [Sa 15.3.]
-  SV Grödig           1:1  Wacker Innsbruck
-  Rapid Wien          1:0  SV Ried
-  Admira Wacker       3:0  Wr. Neustadt
-  Sturm Graz          1:1  Austria Wien
+  SV Grödig                1-1  FC Wacker Innsbruck
+  Sturm Graz               1-1  Austria Wien
+  Rapid Wien               1-0  SV Ried
+  FC Admira Wacker         3-0  SC Wiener Neustadt
 [So 16.3.]
-  RB Salzburg         5:0  Wolfsberger AC
+  RB Salzburg              5-0  Wolfsberger AC
 
 
 28. Runde
-
 [Sa 22.3.]
-  SV Ried             1:4  SV Grödig
-  Sturm Graz          3:1  Wacker Innsbruck
-  Rapid Wien          3:0  Wolfsberger AC
-  Admira Wacker       0:1  Austria Wien
+  Rapid Wien               3-0  Wolfsberger AC
+  FC Admira Wacker         0-1  Austria Wien
+  Sturm Graz               3-1  FC Wacker Innsbruck
+  SV Ried                  1-4  SV Grödig
 [So 23.3.]
-  RB Salzburg         5:0  Wr. Neustadt
+  RB Salzburg              5-0  SC Wiener Neustadt
 
 
 29. Runde
-
 [Di 25.3.]
-  Wacker Innsbruck     0:0  Admira Wacker
+  FC Wacker Innsbruck      0-0  FC Admira Wacker
 [Mi 26.3.]
-  Wolfsberger AC       0:2  SV Ried
-  SV Grödig            0:6  Sturm Graz
-  Wr. Neustadt         0:3  Rapid Wien
-  Austria Wien         3:0  RB Salzburg
+  Wolfsberger AC           0-2  SV Ried
+  SV Grödig                0-6  Sturm Graz
+  SC Wiener Neustadt       0-3  Rapid Wien
+  Austria Wien             3-0  RB Salzburg
 
 
 30. Runde
-
 [Sa 29.3.]
-  Admira Wacker        4:0  SV Grödig
-  RB Salzburg          0:0  Wacker Innsbruck
-  Rapid Wien           2:0  Sturm Graz
-  Wolfsberger AC       4:0  Wr. Neustadt
+  Rapid Wien               2-0  Sturm Graz
+  FC Admira Wacker         4-0  SV Grödig
+  RB Salzburg              0-0  FC Wacker Innsbruck
+  Wolfsberger AC           4-0  SC Wiener Neustadt
 [So 30.3.]
-  SV Ried              2:2  Austria Wien
+  SV Ried                  2-2  Austria Wien
 
 
 31. Runde
-
 [Sa 5.4.]
-  Wr. Neustadt         1:1 SV Ried
-  Wacker Innsbruck     0:1 Wolfsberger AC
-  SV Grödig            1:3 RB Salzburg
-  Sturm Graz           1:1 Admira Wacker
+  SV Grödig                1-3  RB Salzburg
+  SC Wiener Neustadt       1-1  SV Ried
+  FC Wacker Innsbruck      0-1  Wolfsberger AC
+  Sturm Graz               1-1  FC Admira Wacker
 [So 6.4.]
-  Austria Wien         0:1 Rapid Wien
+  Austria Wien             0-1  Rapid Wien
 
 
 32. Runde
-
 [Sa 12.4.]
-  Wolfsberger AC       1:2  SV Grödig
-  SV Ried              1:2  Wacker Innsbruck
-  RB Salzburg          1:2  Sturm Graz
-  Rapid Wien           0:0  Admira Wacker
+  RB Salzburg              1-2  Sturm Graz
+  Wolfsberger AC           1-2  SV Grödig
+  SV Ried                  1-2  FC Wacker Innsbruck
+  Rapid Wien               0-0  FC Admira Wacker
 [So 13.4.]
-  Wr. Neustadt     0:2  Austria Wien
+  SC Wiener Neustadt       0-2  Austria Wien
 
 
 33. Runde
-
 [Sa 19.4.]
-  Sturm Graz           2:1  SV Ried
-  Austria Wien         3:1  Wolfsberger AC
-  Wacker Innsbruck     3:1  Wr. Neustadt
-  Admira Wacker        2:3  RB Salzburg
+  Austria Wien             3-1  Wolfsberger AC
+  Sturm Graz               2-1  SV Ried
+  FC Wacker Innsbruck      3-1  SC Wiener Neustadt
+  FC Admira Wacker         2-3  RB Salzburg
 [So 20.4.]
-  SV Grödig            2:2  Rapid Wien
+  SV Grödig                2-2  Rapid Wien
 
 
 34. Runde
-
 [Sa 26.4.]
-  Wr. Neustadt         1:3  SV Grödig
-  Rapid Wien           2:1  RB Salzburg
-  Wacker Innsbruck     1:1  Austria Wien
-  SV Ried              3:0  Admira Wacker
+  SV Ried                  3-0  FC Admira Wacker
+  SC Wiener Neustadt       1-3  SV Grödig
+  FC Wacker Innsbruck      1-1  Austria Wien
+  Rapid Wien               2-1  RB Salzburg
 [So 27.4.]
-  Wolfsberger AC       0:1  Sturm Graz
+  Wolfsberger AC           0-1  Sturm Graz
 
 
 35. Runde
-
 [So 4.5.]
-  RB Salzburg          4:0  SV Ried
-  Rapid Wien           2:0  Wacker Innsbruck
-  Admira Wacker        1:0  Wolfsberger AC
-  Sturm Graz           1:2  Wr. Neustadt
-  SV Grödig            2:1  Austria Wien
+  Rapid Wien               2-0  FC Wacker Innsbruck
+  SV Grödig                2-1  Austria Wien
+  FC Admira Wacker         1-0  Wolfsberger AC
+  Sturm Graz               1-2  SC Wiener Neustadt
+  RB Salzburg              4-0  SV Ried
 
 
 36. Runde
-
 [So 11.5.]
-  Wacker Innsbruck     3:3  SV Grödig
-  Austria Wien         1:2  Sturm Graz
-  SV Ried              2:5  Rapid Wien
-  Wolfsberger AC       2:0  RB Salzburg
-  Wr. Neustadt         5:2  Admira Wacker
+  FC Wacker Innsbruck      3-3  SV Grödig
+  Austria Wien             1-2  Sturm Graz
+  Wolfsberger AC           2-0  RB Salzburg
+  SV Ried                  2-5  Rapid Wien
+[Mo 12.5.]
+  SC Wiener Neustadt       5-2  FC Admira Wacker

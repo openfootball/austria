@@ -1,400 +1,410 @@
 = Österr. 2. Liga 2019/20
 
-Runde 1
-[Fr. 26.7.]
-  SV Ried                 1-3 Austria Klagenfurt
-  Vorwärts Steyr          2-0 Wacker Innsbruck
-  Young Violets           1-5 SV Horn
-  Blau-Weiß Linz          1-1 Kapfenberger SV
-  FC Dornbirn 1913        1-3 Austria Lustenau
-  FC Liefering            2-3 SKU Amstetten
-  SV Lafnitz              0-0 FC Juniors OÖ
-[So. 28.7.]
-  Floridsdorfer AC        2-0 Grazer AK
+
+1. Runde
+[Fr 26.7.]
+  SV Ried                  1-3  SK Austria Klagenfurt
+  FC Blau Weiß Linz        1-1  Kapfenberger SV
+  FC Liefering             2-3  SKU Amstetten
+  Young Violets            1-5  SV Horn
+  SV Lafnitz               0-0  FC Juniors OÖ
+  Vorwärts Steyr           2-0  FC Wacker Innsbruck
+  FC Dornbirn              1-3  Austria Lustenau
+[So 28.7.]
+  Floridsdorfer AC         2-0  Grazer AK
 
 
-Runde 2
-[Fr. 2.8.]
-  Grazer AK               2-0 Blau-Weiß Linz
-  Austria Lustenau        1-1 SV Ried
-  FC Juniors OÖ           3-1 Vorwärts Steyr
-  Kapfenberger SV         1-2 SV Lafnitz
-  SV Horn                 2-2 Floridsdorfer AC
-  SKU Amstetten           3-2 Young Violets
-[So. 4.8.]
-  Wacker Innsbruck        1-0 FC Dornbirn 1913
-  Austria Klagenfurt      4-4 FC Liefering
+2. Runde
+[Fr 2.8.]
+  Austria Lustenau         1-1  SV Ried
+  Kapfenberger SV          1-2  SV Lafnitz
+  FC Juniors OÖ            3-1  Vorwärts Steyr
+  SKU Amstetten            3-2  Young Violets
+  SV Horn                  2-2  Floridsdorfer AC
+  Grazer AK                2-0  FC Blau Weiß Linz
+[So 4.8.]
+  FC Wacker Innsbruck      1-0  FC Dornbirn
+  SK Austria Klagenfurt    4-4  FC Liefering
 
 
-Runde 3
-[Fr. 9.8.]
-  Grazer AK               0-0 SV Horn
-  Vorwärts Steyr          0-1 Blau-Weiß Linz
-  FC Juniors OÖ           1-0 Kapfenberger SV
-  Young Violets           0-2 Austria Lustenau
-  FC Dornbirn 1913        0-0 Austria Klagenfurt
-  Floridsdorfer AC        2-0 Wacker Innsbruck
-  SV Lafnitz              2-0 FC Liefering
-[So. 11.8.]
-  SV Ried                 4-1 SKU Amstetten
-
-Runde 4
-[Fr. 16.8.]
-  Vorwärts Steyr          1-0 Floridsdorfer AC
-  Kapfenberger SV         1-2 Austria Klagenfurt
-  Blau-Weiß Linz          4-3 Young Violets
-  Wacker Innsbruck        2-1 FC Juniors OÖ
-  SKU Amstetten           0-2 FC Dornbirn 1913
-  FC Liefering            3-2 SV Horn
-  SV Lafnitz              0-1 SV Ried
-[So. 18.8]
-  Austria Lustenau        0-2 Grazer AK
+3. Runde
+[Fr 9.8.]
+  FC Juniors OÖ            1-0  Kapfenberger SV
+  Floridsdorfer AC         2-0  FC Wacker Innsbruck
+  Young Violets            0-2  Austria Lustenau
+  SV Lafnitz               2-0  FC Liefering
+  Vorwärts Steyr           0-1  FC Blau Weiß Linz
+  FC Dornbirn              0-0  SK Austria Klagenfurt
+  Grazer AK                0-0  SV Horn
+[So 11.8.]
+  SV Ried                  4-1  SKU Amstetten
 
 
-Runde 5
-[Fr. 23.8.]
-  SV Ried                 1-2 Grazer AK
-  Floridsdorfer AC        0-0 FC Liefering
-  FC Juniors OÖ           8-5 Austria Lustenau
-  Young Violets           2-3 SV Lafnitz
-  SV Horn                 1-4 Vorwärts Steyr
-  Wacker Innsbruck        2-1 SKU Amstetten
-[Sa. 24.8.]
-  FC Dornbirn 1913        6-1 Kapfenberger SV
-[So. 25.8.]
-  Austria Klagenfurt      3-1 Blau-Weiß Linz
+4. Runde
+[Fr 16.8.]
+  FC Wacker Innsbruck      2-1  FC Juniors OÖ
+  Kapfenberger SV          1-2  SK Austria Klagenfurt
+  FC Blau Weiß Linz        4-3  Young Violets
+  SKU Amstetten            0-2  FC Dornbirn
+  FC Liefering             3-2  SV Horn
+  SV Lafnitz               0-1  SV Ried
+  Vorwärts Steyr           1-0  Floridsdorfer AC
+[So 18.8.]
+  Austria Lustenau         0-2  Grazer AK
 
 
-Runde 6
-[Fr. 30.8.]
-  Grazer AK               2-1 FC Juniors OÖ
-  Kapfenberger SV         2-3 SV Ried
-  Blau-Weiß Linz          1-0 Wacker Innsbruck
-  SKU Amstetten           2-4 SV Horn
-  FC Liefering            2-1 Young Violets
-  SV Lafnitz              0-3 Austria Klagenfurt
-[Sa. 31.8.]
-  Vorwärts Steyr          3-2 FC Dornbirn 1913
-[So. 1.9.]
-  Austria Lustenau        1-2 Floridsdorfer AC
+5. Runde
+[Fr 23.8.]
+  FC Wacker Innsbruck      2-1  SKU Amstetten
+  SV Ried                  1-2  Grazer AK
+  FC Juniors OÖ            8-5  Austria Lustenau
+  Floridsdorfer AC         0-0  FC Liefering
+  Young Violets            2-3  SV Lafnitz
+  SV Horn                  1-4  Vorwärts Steyr
+[Sa 24.8.]
+  FC Dornbirn              6-1  Kapfenberger SV
+[So 25.8.]
+  SK Austria Klagenfurt    3-1  FC Blau Weiß Linz
 
 
-Runde 7
-[Fr. 13.9.]
-  Austria Klagenfurt      3-3 Austria Lustenau
-  Young Violets           0-0 SV Ried
-  SV Horn                 5-1 Kapfenberger SV
-  SKU Amstetten           2-1 Vorwärts Steyr
-  Floridsdorfer AC        1-0 SV Lafnitz
-[Sa. 14.9.]
-  Wacker Innsbruck        2-0 Grazer AK
-  FC Dornbirn 1913        2-2 FC Liefering
-[So. 15.9.]
-  FC Juniors OÖ           0-5 Blau-Weiß Linz
+6. Runde
+[Fr 30.8.]
+  Kapfenberger SV          2-3  SV Ried
+  FC Blau Weiß Linz        1-0  FC Wacker Innsbruck
+  SKU Amstetten            2-4  SV Horn
+  FC Liefering             2-1  Young Violets
+  SV Lafnitz               0-3  SK Austria Klagenfurt
+  Grazer AK                2-1  FC Juniors OÖ
+[Sa 31.8.]
+  Vorwärts Steyr           3-2  FC Dornbirn
+[So 1.9.]
+  Austria Lustenau         1-2  Floridsdorfer AC
 
 
-Runde 8
-[Fr. 20.9.]
-  Grazer AK               1-2 Austria Klagenfurt
-  Austria Lustenau        2-1 Blau-Weiß Linz
-  SV Ried                 3-1 FC Juniors OÖ
-  Kapfenberger SV         1-1 SKU Amstetten
-  SV Lafnitz              2-3 SV Horn
-[Sa. 21.9.]
-  Floridsdorfer AC        0-3 FC Dornbirn 1913
-  FC Liefering            2-2 Wacker Innsbruck
-[So. 22.9.]
-  Vorwärts Steyr          0-0 Young Violets
+7. Runde
+[Fr 13.9.]
+  SKU Amstetten            2-1  Vorwärts Steyr
+  SK Austria Klagenfurt    3-3  Austria Lustenau
+  Floridsdorfer AC         1-1  SV Lafnitz
+  Young Violets            0-0  SV Ried
+  SV Horn                  5-1  Kapfenberger SV
+[Sa 14.9.]
+  FC Wacker Innsbruck      2-0  Grazer AK
+  FC Dornbirn              2-2  FC Liefering
+[So 15.9.]
+  FC Juniors OÖ            0-5  FC Blau Weiß Linz
 
 
-Runde 9
-[Fr. 27.9.]
-  Young Violets           4-1 Floridsdorfer AC
-  Kapfenberger SV         0-2 FC Liefering
-  SV Horn                 2-4 Austria Lustenau
-  SKU Amstetten           1-2 FC Juniors OÖ
-[Sa. 28.9.]
-  Wacker Innsbruck        0-3 SV Lafnitz
-  FC Dornbirn 1913        2-1 Grazer AK
-[So. 29.9.]
-  Austria Klagenfurt      1-1 Vorwärts Steyr
-  Blau-Weiß Linz          2-3 SV Ried
+8. Runde
+[Fr 20.9.]
+  SV Ried                  3-1  FC Juniors OÖ
+  Austria Lustenau         2-1  FC Blau Weiß Linz
+  Kapfenberger SV          1-1  SKU Amstetten
+  SV Lafnitz               2-3  SV Horn
+  Grazer AK                1-2  SK Austria Klagenfurt
+[Sa 21.9.]
+  FC Liefering             2-2  FC Wacker Innsbruck
+  Floridsdorfer AC         0-3  FC Dornbirn
+[So 22.9.]
+  Vorwärts Steyr           0-0  Young Violets
 
 
-Runde 10
-[Fr. 4.10.]
-  FC Juniors OÖ           0-2 Austria Klagenfurt
-  SV Ried                 1-0 Vorwärts Steyr
-  SV Horn                 2-4 Blau-Weiß Linz
-  Wacker Innsbruck        1-2 Kapfenberger SV
-  Floridsdorfer AC        0-2 SKU Amstetten
-[Sa. 5.10.]
-  SV Lafnitz              1-1 FC Dornbirn 1913
-  Grazer AK               2-3 Young Violets
-[So. 6.10]
-  Austria Lustenau        3-2 FC Liefering
+9. Runde
+[Fr 27.9.]
+  Kapfenberger SV          0-2  FC Liefering
+  SKU Amstetten            1-2  FC Juniors OÖ
+  Young Violets            4-1  Floridsdorfer AC
+  SV Horn                  2-4  Austria Lustenau
+[Sa 28.9.]
+  FC Wacker Innsbruck      0-3  SV Lafnitz
+  FC Dornbirn              3-1  Grazer AK
+[So 29.9.]
+  FC Blau Weiß Linz        2-3  SV Ried
+  SK Austria Klagenfurt    1-1  Vorwärts Steyr
 
 
-Runde 11
-[Fr. 18.10.]
-  Vorwärts Steyr          3-1 Austria Lustenau
-  Austria Klagenfurt      2-0 SV Horn
-  Young Violets           1-2 Wacker Innsbruck
-  Blau-Weiß Linz          2-3 Floridsdorfer AC
-  SKU Amstetten           1-1 SV Lafnitz
-[Sa. 19.10.]
-  FC Liefering            0-1 SV Ried
-  FC Dornbirn 1913        2-2 FC Juniors OÖ
-[So. 20.10.]
-  Kapfenberger SV         2-0 Grazer AK
+10. Runde
+[Fr 4.10.]
+  FC Juniors OÖ            0-2  SK Austria Klagenfurt
+  FC Wacker Innsbruck      1-2  Kapfenberger SV
+  SV Ried                  1-0  Vorwärts Steyr
+  Floridsdorfer AC         0-2  SKU Amstetten
+  SV Horn                  2-4  FC Blau Weiß Linz
+[Sa 5.10.]
+  Grazer AK                2-3  Young Violets
+  SV Lafnitz               1-1  FC Dornbirn
+[So 6.10.]
+  Austria Lustenau         3-2  FC Liefering
 
 
-Runde 12
-[Fr. 25.10.]
-  Grazer AK               1-1 FC Liefering
-  Austria Lustenau        3-2 Kapfenberger SV
-  Wacker Innsbruck        2-3 SV Ried
-  SKU Amstetten           2-2 Blau-Weiß Linz
-  SV Lafnitz              1-1 Vorwärts Steyr
-[Sa. 26.10.]
-  FC Juniors OÖ           2-4 Young Violets
-  SV Horn                 1-1 FC Dornbirn 1913
-[So.27.10.]
-  Floridsdorfer AC        0-2 Austria Klagenfurt
+11. Runde
+[Fr 18.10.]
+  FC Blau Weiß Linz        2-3  Floridsdorfer AC
+  SK Austria Klagenfurt    2-0  SV Horn
+  SKU Amstetten            1-1  SV Lafnitz
+  Young Violets            1-2  FC Wacker Innsbruck
+  Vorwärts Steyr           3-1  Austria Lustenau
+[Sa 19.10.]
+  FC Liefering             0-1  SV Ried
+  FC Dornbirn              2-2  FC Juniors OÖ
+[So 20.10.]
+  Kapfenberger SV          2-0  Grazer AK
 
 
-Runde 13
-[Fr. 1.11.]
-  SV Ried                 3-1 SV Horn
-  Vorwärts Steyr          2-2 Grazer AK
-  Austria Klagenfurt      1-1 SKU Amstetten
-  Kapfenberger SV         2-1 Floridsdorfer AC
-  Blau-Weiß Linz          1-5 SV Lafnitz
-  FC Liefering            0-4 FC Juniors OÖ
-[Sa. 2.11.]
-  Young Violets           0-1 FC Dornbirn 1913
-[So. 3.11.]
-  Austria Lustenau        2-3 Wacker Innsbruck
+12. Runde
+[Fr 25.10.]
+  FC Wacker Innsbruck      2-3  SV Ried
+  Austria Lustenau         3-2  Kapfenberger SV
+  SKU Amstetten            2-2  FC Blau Weiß Linz
+  SV Lafnitz               1-1  Vorwärts Steyr
+  Grazer AK                1-1  FC Liefering
+[Sa 26.10.]
+  FC Juniors OÖ            2-4  Young Violets
+  SV Horn                  1-1  FC Dornbirn
+[So 27.10.]
+  Floridsdorfer AC         0-2  SK Austria Klagenfurt
 
 
-Runde 14
-[Fr. 8.11.]
-  Young Violets           4-1 Kapfenberger SV
-  SV Horn                 1-3 FC Juniors OÖ
-  Wacker Innsbruck        2-4 Austria Klagenfurt
-  SKU Amstetten           2-0 Austria Lustenau
-  Floridsdorfer AC        1-2 SV Ried
-[Sa. 9.11.]
-  FC Dornbirn 1913        2-2 Blau-Weiß Linz
-  FC Liefering            1-3 Vorwärts Steyr
-[So. 10.11.]
-  SV Lafnitz              1-1 Grazer AK
+13. Runde
+[Fr 1.11.]
+  SV Ried                  3-1  SV Horn
+  Kapfenberger SV          2-1  Floridsdorfer AC
+  FC Blau Weiß Linz        1-5  SV Lafnitz
+  SK Austria Klagenfurt    1-1  SKU Amstetten
+  FC Liefering             0-4  FC Juniors OÖ
+  Vorwärts Steyr           2-2  Grazer AK
+[Sa 2.11.]
+  Young Violets            0-1  FC Dornbirn
+[So 3.11.]
+  Austria Lustenau         2-3  FC Wacker Innsbruck
 
 
-Runde 15
-[Fr. 22.11.]
-  Grazer AK               2-2 SKU Amstetten
-  Austria Klagenfurt      2-1 Young Violets
-  Kapfenberger SV         2-1 Vorwärts Steyr
-  Blau-Weiß Linz          2-4 FC Liefering
-  SV Horn                 0-1 Wacker Innsbruck
-[Sa. 23.11.]
-  Austria Lustenau        0-1 SV Lafnitz
-  FC Juniors OÖ           2-2 Floridsdorfer AC
-[So. 24.11.]
-  SV Ried                 4-0 FC Dornbirn 1913
+14. Runde
+[Fr 8.11.]
+  Floridsdorfer AC         1-2  SV Ried
+  SKU Amstetten            2-0  Austria Lustenau
+  Young Violets            4-1  Kapfenberger SV
+  SV Horn                  1-3  FC Juniors OÖ
+  FC Wacker Innsbruck      2-4  SK Austria Klagenfurt
+[Sa 9.11.]
+  FC Liefering             1-3  Vorwärts Steyr
+  FC Dornbirn              2-2  FC Blau Weiß Linz
+[So 10.11.]
+  SV Lafnitz               1-1  Grazer AK
 
 
-Runde 16
-[Fr. 29.11.]
-  Young Violets           4-1 Austria Klagenfurt
-  Wacker Innsbruck        1-1 SV Horn
-  SKU Amstetten           3-3 Grazer AK
-  Floridsdorfer AC        0-0 FC Juniors OÖ
-  SV Lafnitz              0-2 Austria Lustenau
-[Sa. 30.11.]
-  Vorwärts Steyr          2-0 Kapfenberger SV
-  FC Dornbirn 1913        0-5 SV Ried
-[So. 1.12.]
-  FC Liefering            2-1 Blau-Weiß Linz
+15. Runde
+[Fr 22.11.]
+  Kapfenberger SV          2-1  Vorwärts Steyr
+  FC Blau Weiß Linz        2-4  FC Liefering
+  SK Austria Klagenfurt    2-1  Young Violets
+  SV Horn                  0-1  FC Wacker Innsbruck
+  Grazer AK                2-2  SKU Amstetten
+[Sa 23.11.]
+  Austria Lustenau         0-1  SV Lafnitz
+  FC Juniors OÖ            2-2  Floridsdorfer AC
+[So 24.11.]
+  SV Ried                  4-0  FC Dornbirn
 
 
- # Winterpause incl. 20.2.
+16. Runde
+[Fr 29.11.]
+  SV Lafnitz               0-2  Austria Lustenau
+  Floridsdorfer AC         0-0  FC Juniors OÖ
+  Young Violets            4-1  SK Austria Klagenfurt
+  FC Wacker Innsbruck      1-1  SV Horn
+  SKU Amstetten            3-3  Grazer AK
+[Sa 30.11.]
+  Vorwärts Steyr           2-0  Kapfenberger SV
+  FC Dornbirn              0-5  SV Ried
+[So 1.12.]
+  FC Liefering             5-1  FC Blau Weiß Linz
 
 
-Runde 17
-[Fr. 21.2.]
-  Austria Lustenau        4-1 FC Dornbirn 1913
-  Austria Klagenfurt      1-1 SV Ried
-  FC Juniors OÖ           1-2 SV Lafnitz
-  Kapfenberger SV         1-1 Blau-Weiß Linz
-  SV Horn                 2-2 Young Violets
-  SKU Amstetten           1-1 FC Liefering
-[So. 23.2.]
-  Wacker Innsbruck        1-1 Vorwärts Steyr
-  Grazer AK               1-2 Floridsdorfer AC
+17. Runde
+[Fr 21.2.]
+  SK Austria Klagenfurt    1-1  SV Ried
+  Kapfenberger SV          1-1  FC Blau Weiß Linz
+  SKU Amstetten            1-1  FC Liefering
+  SV Horn                  2-2  Young Violets
+  FC Juniors OÖ            1-2  SV Lafnitz
+  Austria Lustenau         4-1  FC Dornbirn
+[So 23.2.]
+  Grazer AK                1-2  Floridsdorfer AC
+  FC Wacker Innsbruck      1-1  Vorwärts Steyr
 
 
-Runde 18
-[Fr. 28.2.]
-  SV Ried                 1-0 Austria Lustenau
-  Vorwärts Steyr          0-0 FC Juniors OÖ
-  Young Violets           3-0 SKU Amstetten
-  Floridsdorfer AC        3-3 SV Horn
-[Sa. 29.2.]
-  FC Liefering            3-1 Austria Klagenfurt
-  SV Lafnitz              0-3 Kapfenberger SV
-  Blau-Weiß Linz          1-1 Grazer AK
-[So. 1.3.]
-  FC Dornbirn 1913        0-4 Wacker Innsbruck
+18. Runde
+[Fr 28.2.]
+  SV Ried                  1-0  Austria Lustenau
+  Vorwärts Steyr           0-0  FC Juniors OÖ
+  Young Violets            3-0  SKU Amstetten
+  Floridsdorfer AC         3-3  SV Horn
+[Sa 29.2.]
+  SV Lafnitz               0-3  Kapfenberger SV
+  FC Blau Weiß Linz        1-1  Grazer AK
+  FC Liefering             3-1  SK Austria Klagenfurt
+[So 1.3.]
+  FC Dornbirn              0-4  FC Wacker Innsbruck
 
 
-Runde 19
-[Fr. 6.3.]
-  Blau-Weiß Linz          2-0 Vorwärts Steyr
-  SV Horn                 4-2 Grazer AK
-[Sa. 7.3.]
-  Austria Lustenau        2-3 Young Violets
-  Austria Klagenfurt      1-1 FC Dornbirn 1913
-  Wacker Innsbruck        1-0 Floridsdorfer AC
-  FC Liefering            4-1 SV Lafnitz
-[So. 8.3.]
-  SKU Amstetten           1-2 SV Ried
-[Di. 10.3.]
-  Kapfenberger SV         2-2 FC Juniors OÖ
+19. Runde
+[Fr 6.3.]
+  FC Blau Weiß Linz        2-0  Vorwärts Steyr
+  SV Horn                  4-2  Grazer AK
+[Sa 7.3.]
+  FC Wacker Innsbruck      1-0  Floridsdorfer AC
+  Austria Lustenau         2-3  Young Violets
+  FC Liefering             4-1  SV Lafnitz
+  SK Austria Klagenfurt    1-1  FC Dornbirn
+[So 8.3.]
+  SKU Amstetten            1-2  SV Ried
+[Di 10.3.]
+  Kapfenberger SV          2-2  FC Juniors OÖ
 
 
-Runde 20
-[Fr. 13.3.]
-  Grazer AK               1-1  Austria Lustenau            # Termin verschoben
-  SV Ried                 3-1  SV Lafnitz                  # Termin verschoben
-  FC Juniors OÖ           2-1  Wacker Innsbruck            # Termin verschoben
-  Young Violets           3-0  Blau-Weiß Linz              # Termin verschoben
-  SV Horn                 1-1  FC Liefering                # Termin verschoben
-  Floridsdorfer AC        0-0  Vorwärts Steyr              # Termin verschoben
-[Sa. 14.3.]
-  FC Dornbirn 1913        0-4  SKU Amstetten               # Termin verschoben
-[So. 15.3.]
-  Austria Klagenfurt      3-2  Kapfenberger SV             # Termin verschoben
+20. Runde
+[Fr 5.6.]
+  Young Violets            3-0  FC Blau Weiß Linz
+  FC Dornbirn              0-4  SKU Amstetten
+  SV Horn                  1-1  FC Liefering
+  Floridsdorfer AC         0-0  Vorwärts Steyr
+  SV Ried                  3-1  SV Lafnitz
+[Sa 6.6.]
+  FC Juniors OÖ            2-1  FC Wacker Innsbruck
+  Grazer AK                1-1  Austria Lustenau
+[So 7.6.]
+  SK Austria Klagenfurt    3-2  Kapfenberger SV
 
 
-Runde 21
-[Fr. 20.3.]
-  Grazer AK               4-2  SV Ried                     # Termin verschoben
-  Vorwärts Steyr          2-2  SV Horn                     # Termin verschoben
-  Blau-Weiß Linz          1-2  Austria Klagenfurt          # Termin verschoben
-  SKU Amstetten           2-3  Wacker Innsbruck            # Termin verschoben
-[Sa. 21.3.]
-  Austria Lustenau        2-2  FC Juniors OÖ               # Termin verschoben
-  FC Liefering            3-0  Floridsdorfer AC            # Termin verschoben
-  SV Lafnitz              0-0  Young Violets               # Termin verschoben
-  Kapfenberger SV         0-1  FC Dornbirn 1913            # Termin verschoben
+21. Runde
+[Mi 10.6.]
+  SV Lafnitz               0-0  Young Violets
+  Kapfenberger SV          0-1  FC Dornbirn
+  SKU Amstetten            2-3  FC Wacker Innsbruck
+  Grazer AK                4-2  SV Ried
+  Austria Lustenau         2-2  FC Juniors OÖ
+  Vorwärts Steyr           2-2  SV Horn
+[Do 11.6.]
+  FC Blau Weiß Linz        1-2  SK Austria Klagenfurt
+  FC Liefering             3-0  Floridsdorfer AC
 
 
-Runde 22
-[Fr. 3.4.]
-  SV Ried                 - Kapfenberger SV
-  Austria Klagenfurt      - SV Lafnitz
-  FC Juniors OÖ           - Grazer AK
-  Young Violets           - FC Liefering
-  SV Horn                 - SKU Amstetten
-  Wacker Innsbruck        - Blau-Weiß Linz
-  Floridsdorfer AC        - Austria Lustenau
-[Sa. 4.4.]
-  FC Dornbirn 1913        - Vorwärts Steyr
+22. Runde
+[Sa 13.6.]
+  FC Dornbirn              0-2  Vorwärts Steyr
+  FC Juniors OÖ            1-0  Grazer AK
+  SV Horn                  1-2  SKU Amstetten
+[So 14.6.]
+  Floridsdorfer AC         2-1  Austria Lustenau
+  SV Ried                  5-0  Kapfenberger SV
+  FC Wacker Innsbruck      2-0  FC Blau Weiß Linz
+  Young Violets            2-0  FC Liefering
+  SK Austria Klagenfurt    2-1  SV Lafnitz
 
 
-Runde 23
-[Fr. 10.4.]
-  Grazer AK               - Wacker Innsbruck
-  Austria Lustenau        - Austria Klagenfurt
-  SV Ried                 - Young Violets
-  Vorwärts Steyr          - SKU Amstetten
-  Kapfenberger SV         - SV Horn
-  Blau-Weiß Linz          - FC Juniors OÖ
-  FC Liefering            - FC Dornbirn 1913
-  SV Lafnitz              - Floridsdorfer AC
+23. Runde
+[Fr 19.6.]
+  Grazer AK                0-1  FC Wacker Innsbruck
+  SV Lafnitz               2-2  Floridsdorfer AC
+  SV Ried                  1-3  Young Violets
+  Kapfenberger SV          3-1  SV Horn
+  FC Liefering             5-1  FC Dornbirn
+  Austria Lustenau         0-2  SK Austria Klagenfurt
+[Sa 20.6.]
+  FC Blau Weiß Linz        2-2  FC Juniors OÖ
+[So 21.6.]
+  Vorwärts Steyr           2-0  SKU Amstetten
 
 
-Runde 24
-[Fr. 17.4.]
-  Austria Klagenfurt      - Grazer AK
-  FC Juniors OÖ           - SV Ried
-  Young Violets           - Vorwärts Steyr
-  Blau-Weiß Linz          - Austria Lustenau
-  SV Horn                 - SV Lafnitz
-  Wacker Innsbruck        - FC Liefering
-  FC Dornbirn 1913        - Floridsdorfer AC
-  SKU Amstetten           - Kapfenberger SV
+24. Runde
+[Di 23.6.]
+  FC Juniors OÖ            3-2  SV Ried
+  FC Blau Weiß Linz        2-1  Austria Lustenau
+  FC Dornbirn              1-1  Floridsdorfer AC
+  SV Horn                  3-2  SV Lafnitz
+  SK Austria Klagenfurt    1-2  Grazer AK
+[Mi 24.6.]
+  FC Wacker Innsbruck      1-4  FC Liefering
+  SKU Amstetten            2-0  Kapfenberger SV
+  Young Violets            1-4  Vorwärts Steyr
 
 
-Runde 25
-[Fr. 24.4.]
-  Grazer AK               - FC Dornbirn 1913
-  Austria Lustenau        - SV Horn
-  SV Ried                 - Blau-Weiß Linz
-  Vorwärts Steyr          - Austria Klagenfurt
-  FC Juniors OÖ           - SKU Amstetten
-  Floridsdorfer AC        - Young Violets
-  FC Liefering            - Kapfenberger SV
-  SV Lafnitz              - Wacker Innsbruck
+25. Runde
+[Fr 26.6.]
+  Austria Lustenau         1-2  SV Horn
+  SV Ried                  1-3  FC Blau Weiß Linz
+[Sa 27.6.]
+  FC Liefering             3-2  Kapfenberger SV
+  FC Juniors OÖ            1-3  SKU Amstetten
+  Floridsdorfer AC         1-1  Young Violets
+  Grazer AK                1-1  FC Dornbirn
+  SV Lafnitz               1-1  FC Wacker Innsbruck
+[So 28.6.]
+  Vorwärts Steyr           1-2  SK Austria Klagenfurt
 
 
-Runde 26
-[Sa. 2.5.]
-  Vorwärts Steyr          - SV Ried
-  Austria Klagenfurt      - FC Juniors OÖ
-  Young Violets           - Grazer AK
-  Kapfenberger SV         - Wacker Innsbruck
-  Blau-Weiß Linz          - SV Horn
-  FC Dornbirn 1913        - SV Lafnitz
-  SKU Amstetten           - Floridsdorfer AC
-  FC Liefering            - Austria Lustenau
+26. Runde
+[Fr 3.7.]
+  Kapfenberger SV          -  FC Wacker Innsbruck
+  FC Liefering             -  Austria Lustenau
+  FC Blau Weiß Linz        -  SV Horn
+  Vorwärts Steyr           -  SV Ried
+[Sa 4.7.]
+  FC Dornbirn              -  SV Lafnitz
+  SK Austria Klagenfurt    -  FC Juniors OÖ
+[So 5.7.]
+  Young Violets            -  Grazer AK
+  SKU Amstetten            -  Floridsdorfer AC
 
 
-Runde 27
-[Fr. 8.5.]
-  Grazer AK               - Kapfenberger SV
-  Austria Lustenau        - Vorwärts Steyr
-  SV Ried                 - FC Liefering
-  FC Juniors OÖ           - FC Dornbirn 1913
-  SV Horn                 - Austria Klagenfurt
-  Wacker Innsbruck        - Young Violets
-  Floridsdorfer AC        - Blau-Weiß Linz
-  SV Lafnitz              - SKU Amstetten
+27. Runde
+[Fr 10.7.]
+  Floridsdorfer AC         -  FC Blau Weiß Linz
+  SV Lafnitz               -  SKU Amstetten
+  FC Wacker Innsbruck      -  Young Violets
+  SV Horn                  -  SK Austria Klagenfurt
+[Sa 11.7.]
+  Austria Lustenau         -  Vorwärts Steyr
+  FC Juniors OÖ            -  FC Dornbirn
+  Grazer AK                -  Kapfenberger SV
+[So 12.7.]
+  SV Ried                  -  FC Liefering
 
 
-Runde 28
-[Fr. 15.5.]
-  SV Ried                 - Wacker Innsbruck
-  Vorwärts Steyr          - SV Lafnitz
-  Austria Klagenfurt      - Floridsdorfer AC
-  Young Violets           - FC Juniors OÖ
-  Kapfenberger SV         - Austria Lustenau
-  Blau-Weiß Linz          - SKU Amstetten
-  FC Dornbirn 1913        - SV Horn
-  FC Liefering            - Grazer AK
+28. Runde
+[Fr 17.7.]
+  Kapfenberger SV          -  Austria Lustenau
+  Young Violets            -  FC Juniors OÖ
+  FC Blau Weiß Linz        -  SKU Amstetten
+  SV Ried                  -  FC Wacker Innsbruck
+  Vorwärts Steyr           -  SV Lafnitz
+[Sa 18.7.]
+  SK Austria Klagenfurt    -  Floridsdorfer AC
+  FC Dornbirn              -  SV Horn
+[So 19.7.]
+  FC Liefering             -  Grazer AK
 
 
-Runde 29
-[Do. 21.5.]
-  Grazer AK               - Vorwärts Steyr
-  FC Juniors OÖ           - FC Liefering
-  SV Horn                 - SV Ried
-  Wacker Innsbruck        - Austria Lustenau
-  FC Dornbirn 1913        - Young Violets
-  SKU Amstetten           - Austria Klagenfurt
-  Floridsdorfer AC        - Kapfenberger SV
-  SV Lafnitz              - Blau-Weiß Linz
+29. Runde
+[Fr 24.7.]
+  SV Horn                  -  SV Ried
+  FC Wacker Innsbruck      -  Austria Lustenau
+  Floridsdorfer AC         -  Kapfenberger SV
+  SV Lafnitz               -  FC Blau Weiß Linz
+  SKU Amstetten            -  SK Austria Klagenfurt
+  FC Juniors OÖ            -  FC Liefering
+  FC Dornbirn              -  Young Violets
+  Grazer AK                -  Vorwärts Steyr
 
 
-Runde 30
-[So. 24.5.]
-  Grazer AK               - SV Lafnitz
-  Austria Lustenau        - SKU Amstetten
-  SV Ried                 - Floridsdorfer AC
-  Vorwärts Steyr          - FC Liefering
-  Austria Klagenfurt      - Wacker Innsbruck
-  FC Juniors OÖ           - SV Horn
-  Kapfenberger SV         - Young Violets
-  Blau-Weiß Linz          - FC Dornbirn 1913
+30. Runde
+[Fr 31.7.]
+  SK Austria Klagenfurt    -  FC Wacker Innsbruck
+  SV Ried                  -  Floridsdorfer AC
+  Austria Lustenau         -  SKU Amstetten
+  Vorwärts Steyr           -  FC Liefering
+  Kapfenberger SV          -  Young Violets
+  Grazer AK                -  SV Lafnitz
+  FC Juniors OÖ            -  SV Horn
+  FC Blau Weiß Linz        -  FC Dornbirn
