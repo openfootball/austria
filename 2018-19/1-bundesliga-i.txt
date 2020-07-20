@@ -1,247 +1,243 @@
 = Österr. Bundesliga 2018/19, Grunddurchgang
 
 
-Runde 1
+1. Runde
 [Fr 27.7.]
-  Austria Wien            2-1 FC Wacker Innsbruck
+  FK Austria Wien           2:1  FC Wacker Innsbruck
 [Sa 28.7.]
-  Sturm Graz              3-2 TSV Hartberg
-  SCR Altach              2-3 SV Mattersburg
+  SCR Altach                2:3  SV Mattersburg
+  SK Sturm Graz             3:2  TSV Hartberg
 [So 29.7.]
-  SKN St. Pölten          4-3 Wolfsberger AC
-  FC Admira Wacker        0-3 Rapid Wien
-  RB Salzburg             3-1 LASK
+  FC RB Salzburg            3:1  LASK Linz
+  FC Admira Wacker Mödling   0:3  SK Rapid Wien
+  SKN St. Pölten            4:3  Wolfsberger AC
 
 
-Runde 2
+2. Runde
 [Sa 4.8.]
-  Rapid Wien              1-1 SCR Altach
-  SV Mattersburg          0-2 RB Salzburg
-  FC Wacker Innsbruck     2-3 Sturm Graz
+  SK Rapid Wien             1:1  SCR Altach
+  FC Wacker Innsbruck       2:3  SK Sturm Graz
+  SV Mattersburg            0:2  FC RB Salzburg
 [So 5.8.]
-  TSV Hartberg            0-1 FC Admira Wacker
-  LASK                    0-0 SKN St. Pölten
-  Wolfsberger AC          1-0 Austria Wien
+  Wolfsberger AC            1:0  FK Austria Wien
+  LASK Linz                 0:0  SKN St. Pölten
+  TSV Hartberg              0:1  FC Admira Wacker Mödling
 
 
-Runde 3
+3. Runde
 [Sa 11.8.]
-  RB Salzburg             2-0 Austria Wien
-  SCR Altach              1-2 FC Wacker Innsbruck
-  TSV Hartberg            4-2 SV Mattersburg
+  FC RB Salzburg            2:0  FK Austria Wien
+  SCR Altach                1:2  FC Wacker Innsbruck
+  TSV Hartberg              4:2  SV Mattersburg
 [So 12.8.]
-  SKN St. Pölten          2-0 Sturm Graz
-  FC Admira Wacker        0-1 LASK
-  Rapid Wien              0-0 Wolfsberger AC
+  SK Rapid Wien             0:0  Wolfsberger AC
+  FC Admira Wacker Mödling   0:1  LASK Linz
+  SKN St. Pölten            2:0  SK Sturm Graz
 
 
-Runde 4
+4. Runde
 [Sa 18.8.]
-  FC Wacker Innsbruck     0-2 SKN St. Pölten
-  RB Salzburg             2-0 TSV Hartberg
-  SV Mattersburg          0-6 Wolfsberger AC
+  FC Wacker Innsbruck       0:2  SKN St. Pölten
+  SV Mattersburg            0:6  Wolfsberger AC
+  FC RB Salzburg            2:0  TSV Hartberg
 [So 19.8.]
-  Sturm Graz              1-1 SCR Altach
-  Austria Wien            4-0 FC Admira Wacker
-  LASK                    2-1 Rapid Wien
+  SK Sturm Graz             1:1  SCR Altach
+  FK Austria Wien           4:0  FC Admira Wacker Mödling
+  LASK Linz                 2:1  SK Rapid Wien
 
 
-Runde 5
+5. Runde
 [Sa 25.8.]
-  SCR Altach              2-3 RB Salzburg
-  Wolfsberger AC          1-1 Sturm Graz
-  SKN St. Pölten          0-0 Austria Wien
+  Wolfsberger AC            1:1  SK Sturm Graz
+  SCR Altach                2:3  FC RB Salzburg
+  SKN St. Pölten            0:0  FK Austria Wien
 [So 26.8.]
-  TSV Hartberg            0-1 LASK
-  FC Admira Wacker        0-0 SV Mattersburg
-  Rapid Wien              2-1 FC Wacker Innsbruck
+  FC Admira Wacker Mödling   0:0  SV Mattersburg
+  SK Rapid Wien             2:1  FC Wacker Innsbruck
+  TSV Hartberg              0:1  LASK Linz
 
 
-Runde 6
+6. Runde
 [Sa 1.9.]
-  Austria Wien            2-1 SV Mattersburg
-  SCR Altach              1-2 SKN St. Pölten
-  FC Wacker Innsbruck     2-1 TSV Hartberg
+  SCR Altach                1:2  SKN St. Pölten
+  FC Wacker Innsbruck       2:1  TSV Hartberg
+  FK Austria Wien           2:1  SV Mattersburg
 [So 2.9.]
-  LASK                    2-0 Wolfsberger AC
-  RB Salzburg             3-1 FC Admira Wacker
-  Sturm Graz              1-1 Rapid Wien
+  LASK Linz                 2:0  Wolfsberger AC
+  SK Sturm Graz             1:1  SK Rapid Wien
+  FC RB Salzburg            3:1  FC Admira Wacker Mödling
 
 
-Runde 7
+7. Runde
 [Sa 15.9.]
-  FC Admira Wacker        1-2 Sturm Graz
-  SKN St. Pölten          1-3 RB Salzburg
-  TSV Hartberg            2-1 SCR Altach
+  SKN St. Pölten            1:3  FC RB Salzburg
+  TSV Hartberg              2:1  SCR Altach
+  FC Admira Wacker Mödling   2:3  SK Sturm Graz
 [So 16.9.]
-  Wolfsberger AC          3-1 FC Wacker Innsbruck
-  SV Mattersburg          1-3 LASK
-  Rapid Wien              0-1 Austria Wien
+  Wolfsberger AC            3:1  FC Wacker Innsbruck
+  SV Mattersburg            1:3  LASK Linz
+  SK Rapid Wien             0:1  FK Austria Wien
 
 
-Runde 8
+8. Runde
 [Sa 22.9.]
-  SCR Altach              0-1 Wolfsberger AC
-  SKN St. Pölten          3-0 TSV Hartberg
-  Sturm Graz              1-2 SV Mattersburg
+  SK Sturm Graz             1:2  SV Mattersburg
+  SCR Altach                0:1  Wolfsberger AC
+  SKN St. Pölten            3:0  TSV Hartberg
 [So 23.9.]
-  RB Salzburg             2-1 Rapid Wien
-  Austria Wien            0-3 LASK
-  FC Wacker Innsbruck     1-3 FC Admira Wacker
+  FK Austria Wien           0:3  LASK Linz
+  FC Wacker Innsbruck       1:3  FC Admira Wacker Mödling
+  FC RB Salzburg            2:1  SK Rapid Wien
 
 
-Runde 9
+9. Runde
 [Sa 29.9.]
-  Rapid Wien              0-2 SKN St. Pölten
-  FC Admira Wacker        2-4 SCR Altach
-  Wolfsberger AC          1-4 RB Salzburg
+  FC Admira Wacker Mödling   2:4  SCR Altach
+  Wolfsberger AC            1:4  FC RB Salzburg
+  SK Rapid Wien             0:2  SKN St. Pölten
 [So 30.9.]
-  LASK                    0-0 Sturm Graz
-  SV Mattersburg          2-1 FC Wacker Innsbruck
-  TSV Hartberg            0-1 Austria Wien
+  SV Mattersburg            2:1  FC Wacker Innsbruck
+  TSV Hartberg              0:1  FK Austria Wien
+  LASK Linz                 0:0  SK Sturm Graz
 
 
-Runde 10
+10. Runde
 [Sa 6.10.]
-  SCR Altach              2-0 Austria Wien
-  Wolfsberger AC          3-4 TSV Hartberg
-  SKN St. Pölten          0-0 FC Admira Wacker
+  SKN St. Pölten            0:0  FC Admira Wacker Mödling
+  SCR Altach                2:0  FK Austria Wien
+  Wolfsberger AC            3:4  TSV Hartberg
 [So 7.10.]
-  Sturm Graz              1-2 RB Salzburg
-  Rapid Wien              1-0 SV Mattersburg
-  FC Wacker Innsbruck     1-0 LASK
+  FC Wacker Innsbruck       1:0  LASK Linz
+  SK Rapid Wien             1:0  SV Mattersburg
+  SK Sturm Graz             1:2  FC RB Salzburg
 
 
-Runde 11
+11. Runde
 [Sa 20.10.]
-  RB Salzburg             1-1 FC Wacker Innsbruck
-  LASK                    1-1 SCR Altach
-  TSV Hartberg            3-0 Rapid Wien
+  FC RB Salzburg            1:1  FC Wacker Innsbruck
+  LASK Linz                 1:1  SCR Altach
+  TSV Hartberg              3:0  SK Rapid Wien
 [So 21.10.]
-  FC Admira Wacker        0-0 Wolfsberger AC
-  SV Mattersburg          2-0 SKN St. Pölten
-  Austria Wien            1-1 Sturm Graz
+  FC Admira Wacker Mödling   0:0  Wolfsberger AC
+  SV Mattersburg            2:0  SKN St. Pölten
+  FK Austria Wien           1:1  SK Sturm Graz
 
 
-
-Runde 12
+12. Runde
 [Sa 27.10.]
-  SV Mattersburg          1-1 SCR Altach
-  FC Wacker Innsbruck     0-0 Austria Wien
-  TSV Hartberg            2-0 Sturm Graz
+  TSV Hartberg              2:0  SK Sturm Graz
+  SV Mattersburg            1:1  SCR Altach
+  FC Wacker Innsbruck       0:0  FK Austria Wien
 [So 28.10.]
-  Rapid Wien              2-0 FC Admira Wacker
-  Wolfsberger AC          1-0 SKN St. Pölten
-  LASK                    3-3 RB Salzburg
+  Wolfsberger AC            1:0  SKN St. Pölten
+  SK Rapid Wien             2:0  FC Admira Wacker Mödling
+  LASK Linz                 3:3  FC RB Salzburg
 
 
-Runde 13
+13. Runde
 [Sa 3.11.]
-  Sturm Graz              1-1 FC Wacker Innsbruck
-  FC Admira Wacker        2-3 TSV Hartberg
-  SKN St. Pölten          2-2 LASK
+  SK Sturm Graz             1:1  FC Wacker Innsbruck
+  FC Admira Wacker Mödling   2:3  TSV Hartberg
+  SKN St. Pölten            2:2  LASK Linz
 [So 4.11.]
-  Austria Wien            2-3 Wolfsberger AC
-  SCR Altach              2-2 Rapid Wien
-  RB Salzburg             2-1 SV Mattersburg
+  FK Austria Wien           2:3  Wolfsberger AC
+  FC RB Salzburg            2:1  SV Mattersburg
+  SCR Altach                2:2  SK Rapid Wien
 
 
-Runde 14
+14. Runde
 [Sa 10.11.]
-  FC Wacker Innsbruck     1-0 SCR Altach
-  Sturm Graz              0-0 SKN St. Pölten
-  LASK                    5-1 FC Admira Wacker
+  FC Wacker Innsbruck       1:0  SCR Altach
+  LASK Linz                 5:1  FC Admira Wacker Mödling
+  SK Sturm Graz             0:0  SKN St. Pölten
 [So 11.11.]
-  Austria Wien            0-2 RB Salzburg
-  SV Mattersburg          1-2 TSV Hartberg
-  Wolfsberger AC          3-1 Rapid Wien
+  Wolfsberger AC            3:1  SK Rapid Wien
+  SV Mattersburg            1:2  TSV Hartberg
+  FK Austria Wien           0:2  FC RB Salzburg
 
 
-Runde 15
+15. Runde
 [Sa 24.11.]
-  TSV Hartberg            0-4 RB Salzburg
-  Wolfsberger AC          2-2 SV Mattersburg
-  FC Admira Wacker        1-2 Austria Wien
+  Wolfsberger AC            2:2  SV Mattersburg
+  FC Admira Wacker Mödling   1:2  FK Austria Wien
+  TSV Hartberg              0:4  FC RB Salzburg
 [So 25.11.]
-  SCR Altach              0-2 Sturm Graz
-  SKN St. Pölten          2-0 FC Wacker Innsbruck
-  Rapid Wien              0-1 LASK
+  SCR Altach                0:2  SK Sturm Graz
+  SKN St. Pölten            2:0  FC Wacker Innsbruck
+  SK Rapid Wien             0:1  LASK Linz
 
 
-Runde 16
+16. Runde
 [Sa 1.12.]
-  Austria Wien            2-0 SKN St. Pölten
-  LASK                    3-3 TSV Hartberg
-  SV Mattersburg          2-2 FC Admira Wacker
+  SV Mattersburg            2:2  FC Admira Wacker Mödling
+  FK Austria Wien           2:0  SKN St. Pölten
+  LASK Linz                 3:3  TSV Hartberg
 [So 2.12.]
-  RB Salzburg             1-0 SCR Altach
-  Sturm Graz              3-0 Wolfsberger AC
-  FC Wacker Innsbruck     0-1 Rapid Wien
+  FC RB Salzburg            1:0  SCR Altach
+  FC Wacker Innsbruck       0:1  SK Rapid Wien
+  SK Sturm Graz             3:0  Wolfsberger AC
 
 
-Runde 17
+17. Runde
 [Sa 8.12.]
-  Wolfsberger AC          1-1 LASK
-  FC Admira Wacker        2-2 RB Salzburg
-  SKN St. Pölten          2-1 SCR Altach
+  SKN St. Pölten            2:1  SCR Altach
+  Wolfsberger AC            1:1  LASK Linz
+  FC Admira Wacker Mödling   2:2  FC RB Salzburg
 [So 9.12.]
-  SV Mattersburg          2-1 Austria Wien
-  TSV Hartberg            2-2 FC Wacker Innsbruck
-  Rapid Wien              0-0 Sturm Graz
+  TSV Hartberg              2:2  FC Wacker Innsbruck
+  SV Mattersburg            2:1  FK Austria Wien
+  SK Rapid Wien             0:0  SK Sturm Graz
 
 
-Runde 18
+18. Runde
 [Sa 15.12.]
-  FC Wacker Innsbruck     0-0 Wolfsberger AC
-  LASK                    2-1 SV Mattersburg
-  Sturm Graz              3-0 FC Admira Wacker
+  FC Wacker Innsbruck       0:0  Wolfsberger AC
+  LASK Linz                 2:1  SV Mattersburg
+  SK Sturm Graz             3:0  FC Admira Wacker Mödling
 [So 16.12.]
-  RB Salzburg             5-1 SKN St. Pölten
-  SCR Altach              6-1 TSV Hartberg
-  Austria Wien            6-1 Rapid Wien
+  SCR Altach                6:1  TSV Hartberg
+  FC RB Salzburg            5:1  SKN St. Pölten
+  FK Austria Wien           6:1  SK Rapid Wien
 
 
-# Winterpause bis Fr.22.2.2019
-
-
-Runde 19
+19. Runde
 [Fr 22.2.]
-  LASK                    2-0 Austria Wien
+  LASK Linz                 2:0  FK Austria Wien
 [Sa 23.2.]
-  Wolfsberger AC          0-0 SCR Altach
-  FC Admira Wacker        3-0 FC Wacker Innsbruck
+  Wolfsberger AC            0:0  SCR Altach
+  FC Admira Wacker Mödling   3:0  FC Wacker Innsbruck
 [So 24.2.]
-  Rapid Wien              2-0 RB Salzburg
-  SV Mattersburg          1-1 Sturm Graz
-  TSV Hartberg            1-1 SKN St. Pölten
+  SV Mattersburg            1:1  SK Sturm Graz
+  TSV Hartberg              1:1  SKN St. Pölten
+  SK Rapid Wien             2:0  FC RB Salzburg
 
-Runde 20
+
+20. Runde
 [Sa 2.3.]
-  RB Salzburg             3-0 Wolfsberger AC
-  SCR Altach              0-1 FC Admira Wacker
-  SKN St. Pölten          0-4 Rapid Wien
+  FC RB Salzburg            3:0  Wolfsberger AC
+  SCR Altach                0:1  FC Admira Wacker Mödling
+  SKN St. Pölten            0:4  SK Rapid Wien
 [So 3.3.]
-  Sturm Graz              0-3 LASK
-  FC Wacker Innsbruck     0-1 SV Mattersburg
-  Austria Wien            4-2 TSV Hartberg
+  SK Sturm Graz             0:3  LASK Linz
+  FK Austria Wien           4:2  TSV Hartberg
+  FC Wacker Innsbruck       0:1  SV Mattersburg
 
 
-Runde 21
+21. Runde
 [So 10.3.]
-  RB Salzburg             0-0 Sturm Graz
-  SV Mattersburg          2-1 Rapid Wien
-  Austria Wien            1-3 SCR Altach
-  TSV Hartberg            1-1 Wolfsberger AC
-  FC Admira Wacker        3-2 SKN St. Pölten
-  LASK                    2-0 FC Wacker Innsbruck
+  TSV Hartberg              1:1  Wolfsberger AC
+  SV Mattersburg            2:1  SK Rapid Wien
+  LASK Linz                 2:0  FC Wacker Innsbruck
+  FC Admira Wacker Mödling   3:2  SKN St. Pölten
+  FC RB Salzburg            0:0  SK Sturm Graz
+  FK Austria Wien           1:3  SCR Altach
 
 
-Runde 22
+22. Runde
 [So 17.3.]
-  FC Wacker Innsbruck     0-2 RB Salzburg
-  SCR Altach              1-2 LASK
-  Wolfsberger AC          2-2 FC Admira Wacker
-  SKN St. Pölten          0-1 SV Mattersburg
-  Sturm Graz              1-0 Austria Wien
-  Rapid Wien              2-2 TSV Hartberg
-
+  SKN St. Pölten            0:1  SV Mattersburg
+  SK Rapid Wien             2:2  TSV Hartberg
+  SCR Altach                1:2  LASK Linz
+  SK Sturm Graz             1:0  FK Austria Wien
+  Wolfsberger AC            2:2  FC Admira Wacker Mödling
+  FC Wacker Innsbruck       0:2  FC RB Salzburg

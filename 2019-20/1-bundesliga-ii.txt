@@ -1,126 +1,159 @@
 = Österr. Bundesliga 2019/20, Finaldurchgang - Meister
 
-Runde 23
-[Sa. 14.3.]
-  Linzer ASK             1-2  TSV Hartberg
-  Sturm Graz             1-2  Wolfsberger AC
-  RB Salzburg            2-0  Rapid Wien
 
-Runde 24
-[Sa. 21.3.]
-  Wolfsberger AC         3-3  Linzer ASK
-  TSV Hartberg           0-6  RB Salzburg
-  Rapid Wien             4-0  Sturm Graz
+23. Runde
+[Mi 3.6.]
+  LASK Linz                 1:2  TSV Hartberg
+  SK Sturm Graz             1:2  Wolfsberger AC
+  FC RB Salzburg            2:0  SK Rapid Wien
 
-Runde 25
-[Sa. 4.4.]
-  Wolfsberger AC         2-4  TSV Hartberg
-  Sturm Graz             1-5  RB Salzburg
-  Linzer ASK             0-1  Rapid Wien
 
-Runde 26
-[Sa. 11.4.]
-  Rapid Wien             - Wolfsberger AC
-  TSV Hartberg           - Sturm Graz
-  RB Salzburg            - Linzer ASK
+24. Runde
+[So 7.6.]
+  Wolfsberger AC            3:3  LASK Linz
+  SK Rapid Wien             4:0  SK Sturm Graz
+  TSV Hartberg              0:6  FC RB Salzburg
 
-Runde 27
-[Sa. 18.4.]
-  Wolfsberger AC         - RB Salzburg
-  TSV Hartberg           - Rapid Wien
-  Linzer ASK             - Sturm Graz
 
-Runde 28
-[Di. 21.4.]
-  RB Salzburg            - Wolfsberger AC
-  Rapid Wien             - TSV Hartberg
-  Sturm Graz             - Linzer ASK
+25. Runde
+[Mi 10.6.]
+  Wolfsberger AC            2:4  TSV Hartberg
+  LASK Linz                 0:1  SK Rapid Wien
+  SK Sturm Graz             1:5  FC RB Salzburg
 
-Runde 29
-[Sa. 25.4.]
-  Wolfsberger AC         - Sturm Graz
-  TSV Hartberg            - Linzer ASK
-  Rapid Wien             - RB Salzburg
 
-Runde 30
-[Sa. 2.5.]
-  RB Salzburg            - TSV Hartberg
-  Linzer ASK             - Wolfsberger AC
-  Sturm Graz             - Rapid Wien
+26. Runde
+[So 14.6.]
+  SK Rapid Wien             2:1  Wolfsberger AC
+  TSV Hartberg              1:2  SK Sturm Graz
+  FC RB Salzburg            3:1  LASK Linz
 
-Runde 31
-[Sa. 9.5.]
-  RB Salzburg            - Sturm Graz
-  Rapid Wien             - Linzer ASK
-  TSV Hartberg           - Wolfsberger AC
 
-Runde 32
-[Sa. 16.5.]
-  Linzer ASK             - RB Salzburg
-  Wolfsberger AC         - Rapid Wien
-  Sturm Graz             - TSV Hartberg
+27. Runde
+[Mi 17.6.]
+  Wolfsberger AC            0:0  FC RB Salzburg
+  LASK Linz                 4:0  SK Sturm Graz
+  TSV Hartberg              0:1  SK Rapid Wien
 
+
+28. Runde
+[So 21.6.]
+  SK Sturm Graz             0:2  LASK Linz
+  SK Rapid Wien             0:1  TSV Hartberg
+  FC RB Salzburg            2:2  Wolfsberger AC
+
+
+29. Runde
+[Mi 24.6.]
+  TSV Hartberg              1:5  LASK Linz
+  Wolfsberger AC            2:0  SK Sturm Graz
+  SK Rapid Wien             2:7  FC RB Salzburg
+
+
+30. Runde
+[So 28.6.]
+  FC RB Salzburg            3:0  TSV Hartberg
+  SK Sturm Graz             2:3  SK Rapid Wien
+  LASK Linz                 0:1  Wolfsberger AC
+
+
+31. Runde
+[Mi 1.7.]
+  TSV Hartberg              3:3  Wolfsberger AC
+  FC RB Salzburg            5:2  SK Sturm Graz
+  SK Rapid Wien             3:1  LASK Linz
+
+
+32. Runde
+[So 5.7.]
+  Wolfsberger AC            3:1  SK Rapid Wien
+  LASK Linz                 0:3  FC RB Salzburg
+  SK Sturm Graz             1:4  TSV Hartberg
 
 
 = Österr. Bundesliga 2019/20, Finaldurchgang - Qualifikation
 
-Runde 23
-[Sa. 14.3.]
-  Austria Wien           1-0  FC Admira Wacker
-  SV Mattersburg         1-1  SCR Altach
-  WSG Tirol              0-5  SKN St. Pölten
 
-Runde 24
-[Sa. 21.3.]
-  SCR Altach             1-1  WSG Tirol
-  SKN St. Pölten         1-1  Austria Wien
-  FC Admira Wacker       0-2  SV Mattersburg
+23. Runde
+[Di 2.6.]
+  WSG Tirol                 0:5  SKN St. Pölten
+  SV Mattersburg            1:1  SCR Altach
+  FK Austria Wien           1:0  FC Admira Wacker Mödling
 
-Runde 25
-[Sa. 4.4.]
-  Austria Wien           0-2  SCR Altach
-  SKN St. Pölten         0-3  FC Admira Wacker
-  WSG Tirol              1-1  SV Mattersburg
 
-Runde 26
-[Sa. 11.4.]
-  SCR Altach             - SKN St. Pölten
-  SV Mattersburg         - Austria Wien
-  FC Admira Wacker       - WSG Tirol
+24. Runde
+[Sa 6.6.]
+  SKN St. Pölten            1:1  FK Austria Wien
+  SCR Altach                1:1  WSG Tirol
+  FC Admira Wacker Mödling   0:2  SV Mattersburg
 
-Runde 27
-[Sa. 18.4.]
-  Austria Wien           - WSG Tirol
-  SKN St. Pölten         - SV Mattersburg
-  FC Admira Wacker       - SCR Altach
 
-Runde 28
-[Di. 21.4.]
-  SCR Altach             - FC Admira Wacker
-  SV Mattersburg         - SKN St. Pölten
-  WSG Tirol              - Austria Wien
+25. Runde
+[Di 9.6.]
+  WSG Tirol                 1:1  SV Mattersburg
+  SKN St. Pölten            0:3  FC Admira Wacker Mödling
+  FK Austria Wien           0:2  SCR Altach
 
-Runde 29
-[Sa. 25.4.]
-  SCR Altach             - SV Mattersburg
-  SKN St. Pölten         - WSG Tirol
-  FC Admira Wacker       - Austria Wien
 
-Runde 30
-[Sa. 2.5.]
-  Austria Wien           - SKN St. Pölten
-  SV Mattersburg         - FC Admira Wacker
-  WSG Tirol              - SCR Altach
+26. Runde
+[Sa 13.6.]
+  FC Admira Wacker Mödling   0:3  WSG Tirol
+  SV Mattersburg            1:4  FK Austria Wien
+  SCR Altach                2:0  SKN St. Pölten
 
-Runde 31
-[Sa. 9.5.]
-  SCR Altach             - Austria Wien
-  SV Mattersburg         - WSG Tirol
-  FC Admira Wacker       - SKN St. Pölten
 
-Runde 32
-[Sa. 16.5.]
-  Austria Wien           - SV Mattersburg
-  SKN St. Pölten         - SCR Altach
-  WSG Tirol              - FC Admira Wacker
+27. Runde
+[Di 16.6.]
+  SKN St. Pölten            1:0  SV Mattersburg
+  FK Austria Wien           1:0  WSG Tirol
+  FC Admira Wacker Mödling   1:1  SCR Altach
 
+
+28. Runde
+[Sa 20.6.]
+  SCR Altach                1:1  FC Admira Wacker Mödling
+  WSG Tirol                 1:2  FK Austria Wien
+  SV Mattersburg            2:0  SKN St. Pölten
+
+
+29. Runde
+[Di 23.6.]
+  FC Admira Wacker Mödling   0:2  FK Austria Wien
+  SCR Altach                1:1  SV Mattersburg
+  SKN St. Pölten            1:1  WSG Tirol
+
+
+30. Runde
+[Sa 27.6.]
+  FK Austria Wien           2:5  SKN St. Pölten
+  WSG Tirol                 0:1  SCR Altach
+  SV Mattersburg            1:2  FC Admira Wacker Mödling
+
+
+31. Runde
+[Di 30.6.]
+  SCR Altach                1:2  FK Austria Wien
+  FC Admira Wacker Mödling   0:3  SKN St. Pölten
+  SV Mattersburg            4:1  WSG Tirol
+
+
+32. Runde
+[Sa 4.7.]
+  FK Austria Wien           1:0  SV Mattersburg
+  WSG Tirol                 0:0  FC Admira Wacker Mödling
+  SKN St. Pölten            2:0  SCR Altach
+
+
+= Österr. Bundesliga 2019/20, Europa League Play-off
+
+
+Halbfinale
+[Mi 8.7.]
+  FK Austria Wien           1:0  SCR Altach
+
+
+Finale
+[Sa 11.7.]
+  FK Austria Wien           2:3  TSV Hartberg
+[Mi 15.7.]
+  TSV Hartberg              0:0  FK Austria Wien
