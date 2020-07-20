@@ -58,6 +58,15 @@
 ## ÖFB Cup 2015/16
 
 - start_at: 2015-07-17
-- team3: false       # no game for 3rd/4th place
 - note: timezone for games (play_at) is *always* CET (central european time)
 - 64 Teams
+
+
+```
+1. Runde       //  17. - 19. Juli 2015
+2. Runde       //  22./23. September 2015
+Achtelfinale   //  27./28. Oktober 2015
+Viertelfinale  //  9./10. Februar 2016
+Halbfinale     // 19./20. April 2016
+Finale         // 20./21./22. Mai 2016
+```

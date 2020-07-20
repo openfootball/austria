@@ -1,25 +1,94 @@
 = ÖFB Cup 2011/12
 
 
-Viertelfinale
+1. Runde
+[Fr 5.8.]
+  Young Violets Austria Wien   4:0  First Vienna FC
+  SK Rapid Wien II          1:0  SC Wiener Neustadt
+  FC Dornbirn 1913          4:0  SV Stegersbach
+  ASC Götzendorf            3:2  SKN St. Pölten
+  ATSV Wolfsberg            1:2  Wolfsberger AC
+  Post SV Wien              0:3  Kapfenberger SV
+  SK Sturm Graz II         2:5 (2:2) n.V.  LASK Linz
+  DSV Leoben                2:3  FC Lustenau 07
+  SC Kundl                  0:3  TSV Hartberg
+  ASKÖ Donau Linz           0:3  SV Grödig
+  USV Allerheiligen         1:0  Union Vöcklamarkt
+  Wiener Sport-Club         1:2  ASK Bad Vöslau
+  SKU Amstetten             4:1  SC Schwaz
+[Sa 6.8.]
+  WSG Tirol                2:2 (1:1) n.V. 3:5 i.E.  SV St. Margarethen
+  FC Hellas Kagran          0:4  FC Wacker Innsbruck
+  Union Innsbruck           3:2  SV Grieskirchen
+  SC-ESV Parndorf           3:0  Austria Salzburg
+  SAK Klagenfurt            3:1  1. SC Sollenau
+  SC Weiz                   5:1  TSV Neumarkt
+  SW Bregenz                0:2  Austria Lustenau
+  SK Vorwärts Steyr         1:6  FC Admira Wacker Mödling
+  Union St. Florian         2:0  SCR Altach
+  Kapfenberger SV II        1:3  SV Mattersburg
+  FC RB Salzburg II         5:0  SC Brunn am Gebirge
+  SV Grödig II              0:4  SK Sturm Graz
+  ASKÖ Stinatz              1:3  FC Blau-Weiß Linz
+  FC Juniors OÖ             0:7  SK Rapid Wien
+[So 7.8.]
+  SVG Reichenau            0:0 (0:0) n.V. 4:1 i.E.  Austria Klagenfurt
+  ASK Baumgarten            0:3  FC RB Salzburg
+  FC Admira Wacker Mödling II   1:3  FK Austria Wien
+  FC Gratkorn               0:3  SV Ried
+  Villacher SV              4:2  SC Retz
 
+
+2. Runde
+[Di 20.9.]
+  Union Innsbruck           0:7  Austria Lustenau
+  SK Rapid Wien II          4:2  Wolfsberger AC
+  FC Dornbirn 1913          0:2  SV Grödig
+  Union St. Florian         0:2  FC Blau-Weiß Linz
+  SC-ESV Parndorf           0:1  FC Admira Wacker Mödling
+  Young Violets Austria Wien   0:5  LASK Linz
+  ASC Götzendorf            2:3  SV Ried
+  Villacher SV             1:2 (1:1) n.V.  TSV Hartberg
+  SKU Amstetten            2:4 (2:2) n.V.  FC Lustenau 07
+[Mi 21.9.]
+  ASK Bad Vöslau            1:4  SK Rapid Wien
+  SAK Klagenfurt            0:4  FC RB Salzburg
+  SVG Reichenau            2:1 (1:1) n.V.  Kapfenberger SV
+  SC Weiz                   0:4  SK Sturm Graz
+  FC RB Salzburg II        1:1 (1:1) n.V. 5:4 i.E.  SV Mattersburg
+  USV Allerheiligen         1:3  FK Austria Wien
+  SV St. Margarethen        0:3  FC Wacker Innsbruck
+
+
+Achtelfinale
+[Di 25.10.]
+  Austria Lustenau          4:1  FC Lustenau 07
+  FC Wacker Innsbruck       0:1  SV Grödig
+  FC RB Salzburg II         3:1  FC Blau-Weiß Linz
+  SK Rapid Wien II          0:2  TSV Hartberg
+[Mi 26.10.]
+  SVG Reichenau             0:2  FK Austria Wien
+  SK Rapid Wien            1:2 (1:1) n.V.  SV Ried
+  FC RB Salzburg            2:1  LASK Linz
+  SK Sturm Graz             3:1  FC Admira Wacker Mödling
+
+
+Viertelfinale
 [Di 10.4.]
-  18.00   SV Grödig   2:3   SV Ried
+  SV Grödig                 2:3  SV Ried
 [Mi 11.4.]
-  18.00   Austria Lustenau   1:2  Austria Wien
-  19.00   RB Salzburg  4:1  RB Salzburg II
-  19.00   Sturm Graz   2:4 (2:2) n.V.   TSV Hartberg
+  Austria Lustenau          1:2  FK Austria Wien
+  SK Sturm Graz            2:4 (2:2) n.V.  TSV Hartberg
+  FC RB Salzburg            4:1  FC RB Salzburg II
+
 
 Halbfinale
-
 [Di 1.5.]
-  18.00   TSV Hartberg   0:1   RB Salzburg
+  TSV Hartberg              0:1  FC RB Salzburg
 [Mi 2.5.]
-  20.30   SV Ried        2:0   Austria Wien
+  SV Ried                   2:0  FK Austria Wien
 
 
 Finale
-
 [So 20.5.]
-  16.00   RB Salzburg   3:0   SV Ried
-
+  FC RB Salzburg            3:0  SV Ried

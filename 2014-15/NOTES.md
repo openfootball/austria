@@ -38,5 +38,13 @@
 
 - see <https://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2014/15>
 - start_at: 2014-07-11
-- team3: false       -- no game for 3rd/4th place
 - 64 Teams
+
+```
+1. Runde       //  11.-13. Juli 2014
+2. Runde       //  23.+24. Sep 2014
+Achtelfinale   //  28.+29. Okt 2014
+Viertelfinale  //  7.+8. Apr 2015
+Halbfinale     //  28.+29. Apr 2015
+Finale         //  3. Juni 2015
+```
