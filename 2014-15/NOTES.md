@@ -34,6 +34,18 @@
 - start_at: 2014-07-18
 - 10 Teams
 
+
+```
+# Aufsteiger 2. Liga -- Austria Salzburg und Austria Klagenfurt
+#
+# ESV Parndorf        2-1    Austria Klagenfurt
+# Austria Klagenfurt  4-1 nV ESV Parndorf
+#
+# Austria Salzburg  ??
+```
+
+
+
 ## ÖFB Cup 2014/15
 
 - see <https://de.wikipedia.org/wiki/Österreichischer_Fußball-Cup_2014/15>

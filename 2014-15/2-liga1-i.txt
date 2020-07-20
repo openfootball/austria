@@ -2,195 +2,194 @@
 
 
 1. Runde
-
 [Fr 18.7.]
-  18.30  SV Mattersburg   2:0 Wacker Innsbruck
-  18.30  LASK Linz        2:1 Kapfenberger SV
-  18.30  Austria Lustenau 0:0 Floridsdorfer AC
-  18.30  TSV Hartberg     0:3 FC Liefering
+  SV Mattersburg            2:0  FC Wacker Innsbruck
+  LASK Linz                 2:1  Kapfenberger SV
+  Austria Lustenau          0:0  Floridsdorfer AC
+  TSV Hartberg              0:3  FC Liefering
 [Mo 21.7.]
-  19.30   SKN St. Pölten  3:0 SV Horn
+  SKN St. Pölten            3:0  SV Horn
 
 
 2. Runde
-
 [Fr 25.7.]
-  18.30  Wacker Innsbruck 1:2 Austria Lustenau
-  18.30  SV Horn          0:0 SV Mattersburg
-  18.30  LASK Linz        0:0 TSV Hartberg
-  18.30  FC Liefering     1:1 Floridsdorfer AC
+  FC Wacker Innsbruck       1:2  Austria Lustenau
+  FC Liefering              1:1  Floridsdorfer AC
+  LASK Linz                 0:0  TSV Hartberg
+  SV Horn                   0:0  SV Mattersburg
 [Mo 28.7.]
-  19.30  Kapfenberger SV  2:2 SKN St. Pölten
+  Kapfenberger SV           2:2  SKN St. Pölten
 
 
 3. Runde
-
 [Fr 1.8.]
-    Floridsdorfer AC 2:1 SV Horn
-    FC Liefering     2:0 Austria Lustenau
-    Kapfenberger SV  0:0 Wacker Innsbruck
-    TSV Hartberg     0:4 SV Mattersburg
-    SKN St. Pölten   1:0 LASK Linz
+  TSV Hartberg              0:4  SV Mattersburg
+  Kapfenberger SV           0:0  FC Wacker Innsbruck
+  Floridsdorfer AC          2:1  SV Horn
+  FC Liefering              2:0  Austria Lustenau
 
 
 4. Runde
-
+[Mo 4.8.]
+  SV Mattersburg            4:0  SKN St. Pölten
 [Di 5.8.]
-    SV Mattersburg   4:0 SKN St. Pölten
-    Floridsdorfer AC 2:2 Kapfenberger SV
-    SV Horn          3:0 TSV Hartberg
-    Austria Lustenau 1:2 LASK Linz
-    Wacker Innsbruck 0:1 FC Liefering
+  FC Wacker Innsbruck       0:1  FC Liefering
+  SV Horn                   3:0  TSV Hartberg
+  Austria Lustenau          1:2  LASK Linz
+  Floridsdorfer AC          2:2  Kapfenberger SV
 
 
 5. Runde
-
 [Fr 8.8.]
-         Austria Lustenau 5:0 TSV Hartberg
-         LASK Linz        1:0 SV Mattersburg
-         Kapfenberger SV  0:0 SV Horn
-         Wacker Innsbruck 2:1 Floridsdorfer AC
-         SKN St. Pölten   2:3 FC Liefering
+  FC Wacker Innsbruck       2:1  Floridsdorfer AC
+  Austria Lustenau          5:0  TSV Hartberg
+  Kapfenberger SV           0:0  SV Horn
+  LASK Linz                 1:0  SV Mattersburg
+
+
+3. Runde
+[Mo 11.8.]
+  SKN St. Pölten            1:0  LASK Linz
 
 
 6. Runde
-
 [Fr 15.8.]
-         Floridsdorfer AC 0:1 SKN St. Pölten
-         FC Liefering     3:2 Kapfenberger SV
-         SV Mattersburg   2:0 Austria Lustenau
-         TSV Hartberg     0:3 Wacker Innsbruck
-         SV Horn          0:2 LASK Linz
+  SV Horn                   0:2  LASK Linz
+  SV Mattersburg            2:0  Austria Lustenau
+  FC Liefering              3:2  Kapfenberger SV
+  TSV Hartberg              0:3  FC Wacker Innsbruck
+  Floridsdorfer AC          0:1  SKN St. Pölten
+
+
+5. Runde
+[Mo 18.8.]
+  SKN St. Pölten            2:3  FC Liefering
 
 
 7. Runde
-
-[Fr 2.8.]
-         Austria Lustenau 0:1 SV Horn
-         LASK Linz        2:0 FC Liefering
-         SV Mattersburg   2:0 Floridsdorfer AC
-         TSV Hartberg     1:3 Kapfenberger SV
-         SKN St. Pölten   0:1 Wacker Innsbruck
+[Fr 22.8.]
+  SV Mattersburg            2:0  Floridsdorfer AC
+  Austria Lustenau          0:1  SV Horn
+  TSV Hartberg              1:3  Kapfenberger SV
+  LASK Linz                 2:0  FC Liefering
+  SKN St. Pölten            0:1  FC Wacker Innsbruck
 
 
 8. Runde
-
 [Fr 29.8.]
-         Floridsdorfer AC 3:2 TSV Hartberg
-         SKN St. Pölten   1:1 Austria Lustenau
-         FC Liefering     4:1 SV Horn
-         Kapfenberger SV  2:2 SV Mattersburg
-         Wacker Innsbruck 1:0 LASK Linz
+  SKN St. Pölten            1:1  Austria Lustenau
+  Kapfenberger SV           2:2  SV Mattersburg
+  FC Liefering              4:1  SV Horn
+  Floridsdorfer AC          3:2  TSV Hartberg
+  FC Wacker Innsbruck       1:0  LASK Linz
+
 
 9. Runde
-
 [Fr 12.9.]
-         SV Horn          0:3 Wacker Innsbruck
-         Austria Lustenau 1:3 Kapfenberger SV
-         SV Mattersburg   3:6 FC Liefering
-         TSV Hartberg     1:0 SKN St. Pölten
-         LASK Linz        5:1 Floridsdorfer AC
+  SV Mattersburg            3:6  FC Liefering
+  Austria Lustenau          1:3  Kapfenberger SV
+  SV Horn                   0:3  FC Wacker Innsbruck
+  TSV Hartberg              1:0  SKN St. Pölten
+  LASK Linz                 5:1  Floridsdorfer AC
+
 
 10. Runde
-
+[Mo 15.9.]
+  Floridsdorfer AC          3:3  Austria Lustenau
 [Di 16.9.]
-         Floridsdorfer AC 3:3 Austria Lustenau
-         SV Horn          1:0 SKN St. Pölten
-         FC Liefering     0:3 TSV Hartberg
-         Wacker Innsbruck 1:1 SV Mattersburg
-         Kapfenberger SV  1:1 LASK Linz
+  FC Liefering              0:3  TSV Hartberg
+  FC Wacker Innsbruck       1:1  SV Mattersburg
+  Kapfenberger SV           1:1  LASK Linz
+  SV Horn                   1:0  SKN St. Pölten
+
 
 11. Runde
-
 [Fr 19.9.]
-         Floridsdorfer AC 2:2 FC Liefering
-         SKN St. Pölten   1:0 Kapfenberger SV
-         Austria Lustenau 1:1 Wacker Innsbruck
-         TSV Hartberg     2:2 LASK Linz
-         SV Mattersburg   2:0 SV Horn
+  SKN St. Pölten            1:0  Kapfenberger SV
+  Austria Lustenau          1:1  FC Wacker Innsbruck
+  TSV Hartberg              2:2  LASK Linz
+  Floridsdorfer AC          2:2  FC Liefering
+  SV Mattersburg            2:0  SV Horn
 
 
 12. Runde
-
 [Fr 26.9.]
-         SV Horn          0:2 Floridsdorfer AC
-         Austria Lustenau 5:2 FC Liefering
-         Wacker Innsbruck 0:3 Kapfenberger SV
-         SV Mattersburg   1:0 TSV Hartberg
-         LASK Linz        2:1 SKN St. Pölten
+  FC Wacker Innsbruck       0:3  Kapfenberger SV
+  SV Mattersburg            1:0  TSV Hartberg
+  LASK Linz                 2:1  SKN St. Pölten
+  SV Horn                   0:2  Floridsdorfer AC
+  Austria Lustenau          5:2  FC Liefering
 
 
 13. Runde
-
 [Fr 3.10.]
-         SKN St. Pölten   0:2 SV Mattersburg
-         LASK Linz        3:1 Austria Lustenau
-         FC Liefering     4:1 Wacker Innsbruck
-         TSV Hartberg     3:1 SV Horn
-         Kapfenberger SV  0:0 Floridsdorfer AC
+  SKN St. Pölten            0:2  SV Mattersburg
+  Kapfenberger SV           0:0  Floridsdorfer AC
+  TSV Hartberg              3:1  SV Horn
+  LASK Linz                 3:1  Austria Lustenau
+  FC Liefering              4:1  FC Wacker Innsbruck
+
 
 14. Runde
-
 [Fr 17.10.]
-         Floridsdorfer AC 2:0 Wacker Innsbruck
-         SV Horn          4:1 Kapfenberger SV
-         FC Liefering     1:2 SKN St. Pölten
-         SV Mattersburg   0:1 LASK Linz
-         TSV Hartberg     0:1 Austria Lustenau
+  SV Horn                   4:1  Kapfenberger SV
+  FC Liefering              1:2  SKN St. Pölten
+  TSV Hartberg              0:1  Austria Lustenau
+  Floridsdorfer AC          2:0  FC Wacker Innsbruck
+  SV Mattersburg            0:1  LASK Linz
+
 
 15. Runde
-
+[Mo 20.10.]
+  FC Wacker Innsbruck       0:2  TSV Hartberg
 [Di 21.10.]
-         SKN St. Pölten   1:1 Floridsdorfer AC
-         Austria Lustenau 3:3 SV Mattersburg
-         LASK Linz        2:0 SV Horn
-         Wacker Innsbruck 2:0 TSV Hartberg
-         Kapfenberger SV  0:1 FC Liefering
+  LASK Linz                 2:0  SV Horn
+  SKN St. Pölten            1:1  Floridsdorfer AC
+  Kapfenberger SV           0:1  FC Liefering
+  Austria Lustenau          3:3  SV Mattersburg
+
 
 16. Runde
-
 [Fr 24.10.]
-         Floridsdorfer AC 2:2 SV Mattersburg
-         SV Horn          1:0 Austria Lustenau
-         FC Liefering     1:0 LASK Linz
-         Wacker Innsbruck 0:1 SKN St. Pölten
-         Kapfenberger SV  1:0 TSV Hartberg
+  FC Wacker Innsbruck       0:1  SKN St. Pölten
+  SV Horn                   1:0  Austria Lustenau
+  Kapfenberger SV           1:0  TSV Hartberg
+  Floridsdorfer AC          2:2  SV Mattersburg
+  FC Liefering              1:0  LASK Linz
 
 
 17. Runde
-
+[Mo 3.11.]
+  LASK Linz                 4:1  FC Wacker Innsbruck
 [Di 4.11.]
-        SV Horn           2:1 FC Liefering
-        Austria Lustenau  2:1 SKN St. Pölten
-        LASK Linz         4:1 Wacker Innsbruck
-        SV Mattersburg    4:2 Kapfenberger SV
-        TSV Hartberg      1:1 Floridsdorfer AC
+  Austria Lustenau          2:1  SKN St. Pölten
+  SV Mattersburg            4:2  Kapfenberger SV
+  SV Horn                   2:1  FC Liefering
+  TSV Hartberg              1:1  Floridsdorfer AC
 
 
 18. Runde
-
 [Fr 7.11.]
-        Floridsdorfer AC  0:0 LASK Linz
-        SKN St. Pölten    1:0 TSV Hartberg
-        FC Liefering      3:1 SV Mattersburg
-        Wacker Innsbruck  2:0 SV Horn
-        Kapfenberger SV   1:1 Austria Lustenau
+  FC Wacker Innsbruck       2:0  SV Horn
+  SKN St. Pölten            1:0  TSV Hartberg
+  Kapfenberger SV           1:1  Austria Lustenau
+  Floridsdorfer AC          0:0  LASK Linz
+  FC Liefering              3:1  SV Mattersburg
+
 
 19. Runde
-
 [Fr 21.11.]
-        SV Horn           1:0 SKN St. Pölten
-        Austria Lustenau  0:3 Floridsdorfer AC
-        LASK Linz         0:0 Kapfenberger SV
-        SV Mattersburg    3:1 Wacker Innsbruck
-        TSV Hartberg      3:1 FC Liefering
+  SV Horn                   1:0  SKN St. Pölten
+  Austria Lustenau          0:3  Floridsdorfer AC
+  TSV Hartberg              3:1  FC Liefering
+  LASK Linz                 0:0  Kapfenberger SV
+  SV Mattersburg            3:1  FC Wacker Innsbruck
 
 
 20. Runde
-
 [Fr 28.11.]
-        SV Horn           0:1 SV Mattersburg
-        SKN St. Pölten    2:2 Kapfenberger SV
-        FC Liefering      3:1 Floridsdorfer AC
-        Wacker Innsbruck  1:2 Austria Lustenau
-        TSV Hartberg      2:2 LASK Linz
+  FC Wacker Innsbruck       1:2  Austria Lustenau
+  SKN St. Pölten            2:2  Kapfenberger SV
+  SV Horn                   0:1  SV Mattersburg
+  FC Liefering              3:1  Floridsdorfer AC
+  TSV Hartberg              2:2  LASK Linz
