@@ -95,15 +95,43 @@ Example:
 Use the `sportdb` command line tool to build your own `austria.db` copy
 from the plain text data sets. [More »](https://github.com/openfootball/datafile)
 
-### Examples
+
+### Alternative I - Use the Quick Starter Templates
+
+Use the quick starter datafile templates to start from scratch. Examples:
 
 Build the database for all Austrian clubs, leagues and seasons:
 
     $ sportdb new at
 
-Build the database for the 2019/20 season:
+Build the database for the 2020/21 season:
 
-    $ sportdb new at2019-20
+    $ sportdb new at2020-21
+
+[More »](https://github.com/openfootball/quick-starter)
+
+
+
+### Alternative II - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
+Try in your working folder (that is, `/austria`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db` and
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
+
 
 
 ## Questions? Comments?
