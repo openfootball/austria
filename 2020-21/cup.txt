@@ -41,23 +41,26 @@
 [Di 22.9.]
   19.30  SC Weiz                  0:1 (0:1)  ASK Elektra Wien
 [Mi 30.9.]
-  19.00  SC Schwaz                -  VfB Hohenems
+  19.00  SC Schwaz                1:3 (1:3)  VfB Hohenems
 
 
 2. Runde
 [Fr 16.10.]
-  FC Wacker Innsbruck      -  SV Stripfing
-  SCR Altach               -  SV Seekirchen
-  SKU Amstetten            -  USV Allerheiligen
-  SK Rapid Wien            -  1. Wiener Neustädter SC
-  LASK Linz                -  SV Wörgl
-  SK Vorwärts Steyr        -  First Vienna FC
-  FC Blau-Weiß Linz        -  SVG Reichenau
-  TSV Hartberg             -  ASKÖ Gmünd
-  FK Austria Wien          -  Wiener Sport-Club
-  SKN St. Pölten           -  FC RB Salzburg
-  Wolfsberger AC           -  SV Ried
-  FC Admira Wacker Mödling  -  Kapfenberger SV
-  SV Lafnitz               -  Austria Klagenfurt
-  WSG Tirol                -  Floridsdorfer AC
-  SV Horn                  -  ASK Elektra Wien
+  18.00  FC Admira Wacker Mödling  -  Kapfenberger SV
+  18.30  WSG Tirol                -  Floridsdorfer AC
+  19.00  SV Lafnitz               -  Austria Klagenfurt
+         USV Allerheiligen        -  SKU Amstetten
+  19.30  SV Horn                  -  ASK Elektra Wien
+  20.25  Wiener Sport-Club        -  FK Austria Wien
+[Sa 17.10.]
+  14.45  SKN St. Pölten           -  FC RB Salzburg
+  15.00  ASKÖ Gmünd               -  TSV Hartberg
+  16.00  SVG Reichenau            -  FC Blau-Weiß Linz
+  17.00  FC Wacker Innsbruck      -  SV Stripfing
+         SCR Altach               -  SV Seekirchen
+         1. Wiener Neustädter SC  -  SK Rapid Wien
+         LASK Linz                -  SV Wörgl
+  20.25  First Vienna FC          -  SK Vorwärts Steyr
+[So 18.10.]
+  17.00  SK Sturm Graz            -  VfB Hohenems
+  17.15  Wolfsberger AC           -  SV Ried

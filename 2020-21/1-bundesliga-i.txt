@@ -26,104 +26,112 @@
 
 3. Runde
 [Sa 26.9.]
-  17.00  SCR Altach               -  WSG Tirol
-         SKN St. Pölten           -  SK Rapid Wien
-         SV Ried                  -  FC RB Salzburg
+  17.00  SCR Altach               0:2 (0:1)  WSG Tirol
+         SKN St. Pölten           1:2 (1:2)  SK Rapid Wien
+         SV Ried                  1:3 (0:1)  FC RB Salzburg
 [So 27.9.]
-  14.30  FK Austria Wien          -  FC Admira Wacker Mödling
-         TSV Hartberg             -  SK Sturm Graz
-  17.00  LASK Linz                -  Wolfsberger AC
+  14.30  FK Austria Wien          2:2 (1:1)  FC Admira Wacker Mödling
+         TSV Hartberg             1:1 (0:1)  SK Sturm Graz
+  17.00  LASK Linz                3:1 (1:0)  Wolfsberger AC
 
 
 4. Runde
 [Sa 3.10.]
-  17.00  FC Admira Wacker Mödling  -  SV Ried
-         WSG Tirol                -  FK Austria Wien
-         Wolfsberger AC           -  SKN St. Pölten
+  17.00  FC Admira Wacker Mödling  3:1 (2:0)  SV Ried
+         WSG Tirol                0:2 (0:0)  FK Austria Wien
+         Wolfsberger AC           2:4 (1:3)  SKN St. Pölten
 [So 4.10.]
-  14.30  SK Sturm Graz            -  SCR Altach
-         FC RB Salzburg           -  TSV Hartberg
-  17.00  SK Rapid Wien            -  LASK Linz
+  14.30  SK Sturm Graz            4:0 (3:0)  SCR Altach
+         FC RB Salzburg           7:1 (2:0)  TSV Hartberg
+  17.00  SK Rapid Wien            3:0 (2:0)  LASK Linz
 
 
 5. Runde
 [Sa 24.10.]
-  Wolfsberger AC           -  SK Rapid Wien
-  LASK Linz                -  SKN St. Pölten
-  FK Austria Wien          -  FC RB Salzburg
-  SCR Altach               -  FC Admira Wacker Mödling
-  WSG Tirol                -  TSV Hartberg
-  SV Ried                  -  SK Sturm Graz
+  17.00  FK Austria Wien          -  FC RB Salzburg
+         SCR Altach               -  FC Admira Wacker Mödling
+         SV Ried                  -  SK Sturm Graz
+[So 25.10.]
+  14.30  LASK Linz                -  SKN St. Pölten
+         WSG Tirol                -  TSV Hartberg
+  17.00  Wolfsberger AC           -  SK Rapid Wien
 
 
 6. Runde
 [Sa 31.10.]
-  FC RB Salzburg           -  WSG Tirol
-  SK Rapid Wien            -  SCR Altach
-  TSV Hartberg             -  FK Austria Wien
-  SK Sturm Graz            -  LASK Linz
-  SKN St. Pölten           -  SV Ried
-  FC Admira Wacker Mödling  -  Wolfsberger AC
+  17.00  FC RB Salzburg           -  WSG Tirol
+         TSV Hartberg             -  FK Austria Wien
+         SKN St. Pölten           -  SV Ried
+[So 1.11.]
+  14.30  SK Rapid Wien            -  SCR Altach
+         FC Admira Wacker Mödling  -  Wolfsberger AC
+  17.00  SK Sturm Graz            -  LASK Linz
 
 
 7. Runde
 [Sa 7.11.]
-  SK Rapid Wien            -  FC RB Salzburg
-  Wolfsberger AC           -  SK Sturm Graz
-  LASK Linz                -  FC Admira Wacker Mödling
-  SCR Altach               -  FK Austria Wien
-  SKN St. Pölten           -  WSG Tirol
-  SV Ried                  -  TSV Hartberg
+  17.00  SCR Altach               -  FK Austria Wien
+         SKN St. Pölten           -  WSG Tirol
+         SV Ried                  -  TSV Hartberg
+[So 8.11.]
+  14.30  Wolfsberger AC           -  SK Sturm Graz
+         LASK Linz                -  FC Admira Wacker Mödling
+  17.00  SK Rapid Wien            -  FC RB Salzburg
 
 
 8. Runde
 [Sa 21.11.]
-  FC RB Salzburg           -  SK Sturm Graz
-  TSV Hartberg             -  LASK Linz
-  FK Austria Wien          -  SKN St. Pölten
-  SCR Altach               -  Wolfsberger AC
-  WSG Tirol                -  FC Admira Wacker Mödling
-  SV Ried                  -  SK Rapid Wien
+  17.00  FC RB Salzburg           -  SK Sturm Graz
+         TSV Hartberg             -  LASK Linz
+         SCR Altach               -  Wolfsberger AC
+[So 22.11.]
+  14.30  FK Austria Wien          -  SKN St. Pölten
+         WSG Tirol                -  FC Admira Wacker Mödling
+  17.00  SV Ried                  -  SK Rapid Wien
 
 
 9. Runde
 [Sa 28.11.]
-  SK Rapid Wien            -  FK Austria Wien
-  Wolfsberger AC           -  SV Ried
-  LASK Linz                -  SCR Altach
-  SK Sturm Graz            -  WSG Tirol
-  SKN St. Pölten           -  FC RB Salzburg
-  FC Admira Wacker Mödling  -  TSV Hartberg
+  17.00  SK Sturm Graz            -  WSG Tirol
+         SKN St. Pölten           -  FC RB Salzburg
+         FC Admira Wacker Mödling  -  TSV Hartberg
+[So 29.11.]
+  14.30  Wolfsberger AC           -  SV Ried
+         LASK Linz                -  SCR Altach
+  17.00  SK Rapid Wien            -  FK Austria Wien
 
 
 10. Runde
 [Sa 5.12.]
-  LASK Linz                -  SV Ried
-  TSV Hartberg             -  SK Rapid Wien
-  FK Austria Wien          -  SK Sturm Graz
-  SCR Altach               -  SKN St. Pölten
-  FC Admira Wacker Mödling  -  FC RB Salzburg
-  WSG Tirol                -  Wolfsberger AC
+  17.00  FK Austria Wien          -  SK Sturm Graz
+         SCR Altach               -  SKN St. Pölten
+         FC Admira Wacker Mödling  -  FC RB Salzburg
+[So 6.12.]
+  14.30  TSV Hartberg             -  SK Rapid Wien
+         WSG Tirol                -  Wolfsberger AC
+  17.00  LASK Linz                -  SV Ried
 
 
 11. Runde
 [Sa 12.12.]
-  FC RB Salzburg           -  LASK Linz
-  SK Rapid Wien            -  WSG Tirol
-  Wolfsberger AC           -  FK Austria Wien
-  SK Sturm Graz            -  FC Admira Wacker Mödling
-  SKN St. Pölten           -  TSV Hartberg
-  SV Ried                  -  SCR Altach
+  17.00  SK Sturm Graz            -  FC Admira Wacker Mödling
+         SKN St. Pölten           -  TSV Hartberg
+         SV Ried                  -  SCR Altach
+[So 13.12.]
+  14.30  SK Rapid Wien            -  WSG Tirol
+         Wolfsberger AC           -  FK Austria Wien
+  17.00  FC RB Salzburg           -  LASK Linz
 
 
 12. Runde
 [Sa 19.12.]
-  FK Austria Wien          -  LASK Linz
-  TSV Hartberg             -  SCR Altach
-  FC Admira Wacker Mödling  -  SK Rapid Wien
-  WSG Tirol                -  SV Ried
-  SK Sturm Graz            -  SKN St. Pölten
-  FC RB Salzburg           -  Wolfsberger AC
+  17.00  TSV Hartberg             -  SCR Altach
+         FC Admira Wacker Mödling  -  SK Rapid Wien
+         SK Sturm Graz            -  SKN St. Pölten
+[So 20.12.]
+  14.30  WSG Tirol                -  SV Ried
+         FC RB Salzburg           -  Wolfsberger AC
+  17.00  FK Austria Wien          -  LASK Linz
 
 
 13. Runde
