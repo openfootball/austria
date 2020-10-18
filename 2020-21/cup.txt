@@ -46,21 +46,33 @@
 
 2. Runde
 [Fr 16.10.]
-  18.00  FC Admira Wacker Mödling  -  Kapfenberger SV
-  18.30  WSG Tirol                -  Floridsdorfer AC
-  19.00  SV Lafnitz               -  Austria Klagenfurt
-         USV Allerheiligen        -  SKU Amstetten
-  19.30  SV Horn                  -  ASK Elektra Wien
-  20.25  Wiener Sport-Club        -  FK Austria Wien
+  18.00  FC Admira Wacker Mödling  2:2 (1:1, 1:0) n.V. 3:4 i.E.  Kapfenberger SV
+  18.30  WSG Tirol                0:1 (0:1)  Floridsdorfer AC
+  19.00  SV Lafnitz               2:4 (0:3)  Austria Klagenfurt
+  19.30  SV Horn                  0:3 (0:0)  ASK Elektra Wien
+  20.25  Wiener Sport-Club        1:3 (0:1)  FK Austria Wien
 [Sa 17.10.]
-  14.45  SKN St. Pölten           -  FC RB Salzburg
-  15.00  ASKÖ Gmünd               -  TSV Hartberg
-  16.00  SVG Reichenau            -  FC Blau-Weiß Linz
-  17.00  FC Wacker Innsbruck      -  SV Stripfing
-         SCR Altach               -  SV Seekirchen
-         1. Wiener Neustädter SC  -  SK Rapid Wien
-         LASK Linz                -  SV Wörgl
-  20.25  First Vienna FC          -  SK Vorwärts Steyr
+  14.45  SKN St. Pölten           0:3 (0:1)  FC RB Salzburg
+  15.00  ASKÖ Gmünd               3:4 (3:3, 2:1) n.V.  TSV Hartberg
+         VfB Hohenems             1:2 (0:1)  SK Sturm Graz
+  17.00  FC Wacker Innsbruck      1:0 (0:0)  SV Stripfing
+         SCR Altach               7:0 (3:0)  SV Seekirchen
+         1. Wiener Neustädter SC  1:5 (1:3)  SK Rapid Wien
+         LASK Linz                3:0 (1:0)  SV Wörgl
+  20.25  First Vienna FC          3:2 (2:0)  SK Vorwärts Steyr
 [So 18.10.]
-  17.00  SK Sturm Graz            -  VfB Hohenems
   17.15  Wolfsberger AC           -  SV Ried
+[Di 3.11.]
+  18.00  USV Allerheiligen        -  SKU Amstetten
+[Mi 4.11.]
+  18.00  SVG Reichenau            -  FC Blau-Weiß Linz
+
+
+3. Runde
+[Mi 4.11.]
+  SCR Altach               -  First Vienna FC
+  LASK Linz                -  ASK Elektra Wien
+  SK Sturm Graz            -  FC Wacker Innsbruck
+  Floridsdorfer AC         -  Austria Klagenfurt
+  FK Austria Wien          -  TSV Hartberg
+  FC RB Salzburg           -  SK Rapid Wien
