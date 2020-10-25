@@ -72,23 +72,23 @@
 
 6. Runde
 [Fr 23.10.]
-  18.30  Young Violets Austria Wien  -  Austria Lustenau
-         FC Wacker Innsbruck      -  FC Blau-Weiß Linz
-         SK Vorwärts Steyr        -  SK Rapid Wien II
-         SV Lafnitz               -  Austria Klagenfurt
-         FC Juniors OÖ            -  Kapfenberger SV
-         FC Dornbirn 1913         -  SV Horn
-         Grazer AK                -  SKU Amstetten
-  20.25  Floridsdorfer AC         -  FC Liefering
+  18.30  Young Violets Austria Wien  1:1 (0:0)  Austria Lustenau
+         FC Wacker Innsbruck      0:4 (0:2)  FC Blau-Weiß Linz
+         SK Vorwärts Steyr        1:1 (0:1)  SK Rapid Wien II
+         SV Lafnitz               2:1 (0:1)  Austria Klagenfurt
+         FC Juniors OÖ            0:5 (0:2)  Kapfenberger SV
+         FC Dornbirn 1913         0:0  SV Horn
+         Grazer AK                2:1 (1:1)  SKU Amstetten
+  20.25  Floridsdorfer AC         1:3 (0:1)  FC Liefering
 
 
 7. Runde
 [Mo 26.10.]
-  10.30  Kapfenberger SV          -  Austria Klagenfurt
+  10.30  Floridsdorfer AC         -  Young Violets Austria Wien
+         Kapfenberger SV          -  Austria Klagenfurt
          SK Rapid Wien II         -  Austria Lustenau
   14.30  FC Liefering             -  SV Lafnitz
          FC Dornbirn 1913         -  FC Wacker Innsbruck
-  15.00  Floridsdorfer AC         -  Young Violets Austria Wien
   17.00  Grazer AK                -  FC Blau-Weiß Linz
   18.30  SKU Amstetten            -  FC Juniors OÖ
          SV Horn                  -  SK Vorwärts Steyr
@@ -96,14 +96,14 @@
 
 8. Runde
 [Fr 30.10.]
-  18.30  FC Wacker Innsbruck      -  SV Horn
+  18.30  Young Violets Austria Wien  -  FC Liefering
+         FC Wacker Innsbruck      -  SV Horn
          SK Vorwärts Steyr        -  Floridsdorfer AC
          SV Lafnitz               -  Kapfenberger SV
          FC Juniors OÖ            -  Grazer AK
 [Sa 31.10.]
   12.00  FC Blau-Weiß Linz        -  SK Rapid Wien II
   14.30  Austria Klagenfurt       -  SKU Amstetten
-         Young Violets Austria Wien  -  FC Liefering
 [So 1.11.]
   10.30  Austria Lustenau         -  FC Dornbirn 1913
 
@@ -124,15 +124,16 @@
 
 10. Runde
 [Fr 20.11.]
+  18.00  FC Blau-Weiß Linz        -  SV Horn
   18.30  FC Liefering             -  Kapfenberger SV
          SKU Amstetten            -  Young Violets Austria Wien
          SV Lafnitz               -  SK Vorwärts Steyr
-         FC Blau-Weiß Linz        -  SV Horn
          Austria Lustenau         -  Floridsdorfer AC
-         SK Rapid Wien II         -  Grazer AK
+  20.25  Austria Klagenfurt       -  FC Wacker Innsbruck
 [Sa 21.11.]
-  14.30  Austria Klagenfurt       -  FC Wacker Innsbruck
-         FC Juniors OÖ            -  FC Dornbirn 1913
+  14.30  FC Juniors OÖ            -  FC Dornbirn 1913
+[So 22.11.]
+  10.30  SK Rapid Wien II         -  Grazer AK
 
 
 11. Runde
@@ -163,7 +164,8 @@
 
 13. Runde
 [Fr 11.12.]
-  18.30  Young Violets Austria Wien  -  SK Rapid Wien II
+  18.30  Austria Klagenfurt       -  FC Liefering
+         Young Violets Austria Wien  -  SK Rapid Wien II
          FC Wacker Innsbruck      -  SV Lafnitz
          FC Blau-Weiß Linz        -  FC Juniors OÖ
          Austria Lustenau         -  Grazer AK
@@ -171,8 +173,6 @@
          Kapfenberger SV          -  SV Horn
 [Sa 12.12.]
   14.30  SK Vorwärts Steyr        -  FC Dornbirn 1913
-[So 13.12.]
-  14.30  Austria Klagenfurt       -  FC Liefering
 
 
 14. Runde
