@@ -62,25 +62,21 @@
   20.25  First Vienna FC          3:2 (2:0)  SK Vorwärts Steyr
 [So 18.10.]
   17.15  Wolfsberger AC           2:2 (2:2, 1:2) n.V. 4:3 i.E.  SV Ried
-[Di 3.11.]
-  USV Allerheiligen        -  SKU Amstetten
+[Sa 14.11.]
+  15.00  USV Allerheiligen        0:1 (0:0) n.V.  SKU Amstetten
+  16.00  SVG Reichenau            0:3 (0:2)  FC Blau-Weiß Linz
 
 
 Achtelfinale
-[Di 3.11.]
-  Floridsdorfer AC         -  Austria Klagenfurt
-  FK Austria Wien          -  TSV Hartberg
-
-
-2. Runde
-[Mi 4.11.]
-  SVG Reichenau            -  FC Blau-Weiß Linz
-
-
-Achtelfinale
-[Mi 4.11.]
-  First Vienna FC          -  SCR Altach
-  SK Sturm Graz            -  FC Wacker Innsbruck
+[Sa 14.11.]
+  20.25  Floridsdorfer AC         1:3 (1:1, 0:0) n.V.  Austria Klagenfurt
+[Di 24.11.]
+  Wolfsberger AC           -  SKU Amstetten
+  Kapfenberger SV          -  FC Blau-Weiß Linz
+  20.25  SK Sturm Graz            -  FC Wacker Innsbruck
+[Mi 25.11.]
+  17.15  FK Austria Wien          -  TSV Hartberg
+  20.25  First Vienna FC          -  SCR Altach
 [Mi 16.12.]
   18.00  LASK Linz                -  ASK Elektra Wien
   20.30  FC RB Salzburg           -  SK Rapid Wien
