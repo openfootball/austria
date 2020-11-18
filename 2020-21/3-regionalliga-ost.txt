@@ -35,8 +35,8 @@
   19.30  1. Wiener Neustädter SC  0:1 (0:0)  ASV Draßburg
 [Sa 12.9.]
   17.00  FC Admira Wacker Mödling II  1:2 (1:1)  SV Stripfing
-  18.00  SC Team Wiener Linien    2:0 (1:0)  SC Neusiedl am See
-         Wiener Viktoria          0:3 (0:2)  Wiener Sport-Club
+  18.00  Wiener Viktoria          0:3 (0:2)  Wiener Sport-Club
+         SC Team Wiener Linien    2:0 (1:0)  SC Neusiedl am See
 
 
 1. Runde
@@ -56,9 +56,9 @@
 
 5. Runde
 [Fr 18.9.]
-  19.30  FCM Traiskirchen         3:1 (1:1)  Wiener Viktoria
+  19.30  ASV Draßburg             1:2 (0:1)  SC Team Wiener Linien
          Wiener Sport-Club        1:0 (1:0)  1. Wiener Neustädter SC
-         ASV Draßburg             1:2 (0:1)  SC Team Wiener Linien
+         FCM Traiskirchen         3:1 (1:1)  Wiener Viktoria
 [Sa 19.9.]
   16.30  SV Stripfing             2:1 (1:1)  ASK-BSC Bruck/Leitha
          SV Leobendorf            3:2  FC Marchfeld
@@ -66,8 +66,8 @@
 
 6. Runde
 [Fr 25.9.]
-  19.30  1. Wiener Neustädter SC  0:2 (0:1)  SC Team Wiener Linien
-         ASK-BSC Bruck/Leitha     4:2 (3:1)  FC Mauerwerk
+  19.30  ASK-BSC Bruck/Leitha     4:2 (3:1)  FC Mauerwerk
+         1. Wiener Neustädter SC  0:2 (0:1)  SC Team Wiener Linien
          Wiener Sport-Club        1:1 (1:1)  FCM Traiskirchen
 [Sa 26.9.]
   17.00  FC Marchfeld             3:0 (0:0)  SC Neusiedl am See
@@ -75,9 +75,9 @@
 
 7. Runde
 [Fr 2.10.]
-  19.30  ASV Draßburg             2:2 (2:2)  FC Marchfeld
   SC Neusiedl am See       -  FC Admira Wacker Mödling II
-  19.30  FCM Traiskirchen         5:0 (1:0)  1. Wiener Neustädter SC
+  19.30  ASV Draßburg             2:2 (2:2)  FC Marchfeld
+         FCM Traiskirchen         5:0 (1:0)  1. Wiener Neustädter SC
 [Sa 3.10.]
   16.30  SV Stripfing             0:2 (0:2)  Wiener Sport-Club
          SV Leobendorf            2:0 (0:0)  ASK-BSC Bruck/Leitha
@@ -88,9 +88,9 @@
 8. Runde
 [Fr 9.10.]
   19.00  ASK-BSC Bruck/Leitha     6:1 (3:1)  SC Neusiedl am See
-  19.30  FC Marchfeld             2:1 (0:0)  SC Team Wiener Linien
+  19.30  FCM Traiskirchen         0:1 (0:0)  SV Stripfing
          Wiener Sport-Club        0:1 (0:0)  FC Mauerwerk
-         FCM Traiskirchen         0:1 (0:0)  SV Stripfing
+         FC Marchfeld             2:1 (0:0)  SC Team Wiener Linien
 [Sa 10.10.]
   16.00  FC Admira Wacker Mödling II  2:2 (1:1)  ASV Draßburg
   17.00  Wiener Viktoria          0:3 (0:0)  SV Leobendorf
@@ -119,9 +119,9 @@
 10. Runde
 [Fr 23.10.]
   ASK-BSC Bruck/Leitha     -  SC Team Wiener Linien
-  19.30  FCM Traiskirchen         3:1 (2:1)  SV Leobendorf
   1. Wiener Neustädter SC  -  FC Marchfeld
   19.30  Wiener Sport-Club        2:0 (1:0)  SC Neusiedl am See
+         FCM Traiskirchen         3:1 (2:1)  SV Leobendorf
 [Sa 24.10.]
   15.30  SV Stripfing             2:0 (1:0)  FC Mauerwerk
   16.00  Wiener Viktoria          2:1 (1:1)  ASV Draßburg
@@ -161,10 +161,10 @@
 
 12. Runde
 [Fr 6.11.]
-  1. Wiener Neustädter SC  -  FC Admira Wacker Mödling II
-  Wiener Sport-Club        -  SC Team Wiener Linien
-  FCM Traiskirchen         -  ASV Draßburg
   ASK-BSC Bruck/Leitha     -  FC Marchfeld
+  Wiener Sport-Club        -  SC Team Wiener Linien
+  1. Wiener Neustädter SC  -  FC Admira Wacker Mödling II
+  FCM Traiskirchen         -  ASV Draßburg
 [Sa 7.11.]
   SV Stripfing             -  SC Neusiedl am See
 [So 8.11.]
@@ -182,8 +182,8 @@
   ASV Draßburg             -  SV Stripfing
   FC Marchfeld             -  Wiener Viktoria
 [Sa 14.11.]
-  SC Team Wiener Linien    -  FCM Traiskirchen
   SV Leobendorf            -  1. Wiener Neustädter SC
+  SC Team Wiener Linien    -  FCM Traiskirchen
 [So 15.11.]
   FC Admira Wacker Mödling II  -  ASK-BSC Bruck/Leitha
 
@@ -201,9 +201,9 @@
 14. Runde
 [Fr 5.3.]
   19.00  SC Neusiedl am See       -  SV Leobendorf
-  19.30  ASV Draßburg             -  FC Mauerwerk
+  19.30  1. Wiener Neustädter SC  -  ASK-BSC Bruck/Leitha
          FC Marchfeld             -  Wiener Sport-Club
-         1. Wiener Neustädter SC  -  ASK-BSC Bruck/Leitha
+         ASV Draßburg             -  FC Mauerwerk
 [Sa 6.3.]
   18.00  SC Team Wiener Linien    -  SV Stripfing
 [So 7.3.]
@@ -213,11 +213,11 @@
 15. Runde
 [Fr 12.3.]
   19.00  SC Neusiedl am See       -  1. Wiener Neustädter SC
-  19.30  FC Marchfeld             -  FCM Traiskirchen
-         Wiener Sport-Club        -  FC Admira Wacker Mödling II
+  19.30  Wiener Sport-Club        -  FC Admira Wacker Mödling II
+         FC Marchfeld             -  FCM Traiskirchen
 [Sa 13.3.]
-  15.30  FC Mauerwerk             -  SC Team Wiener Linien
   SV Leobendorf            -  ASV Draßburg
+  15.30  FC Mauerwerk             -  SC Team Wiener Linien
 [So 14.3.]
   Wiener Viktoria          -  ASK-BSC Bruck/Leitha
 
@@ -225,9 +225,9 @@
 16. Runde
 [Fr 19.3.]
   19.00  ASK-BSC Bruck/Leitha     -  Wiener Sport-Club
-  19.30  1. Wiener Neustädter SC  -  Wiener Viktoria
+  19.30  ASV Draßburg             -  SC Neusiedl am See
          FC Marchfeld             -  SV Stripfing
-         ASV Draßburg             -  SC Neusiedl am See
+         1. Wiener Neustädter SC  -  Wiener Viktoria
 [Sa 20.3.]
   18.00  SC Team Wiener Linien    -  SV Leobendorf
 [So 21.3.]
@@ -237,8 +237,8 @@
 17. Runde
 [Fr 26.3.]
   19.00  SC Neusiedl am See       -  SC Team Wiener Linien
-  19.30  Wiener Sport-Club        -  Wiener Viktoria
-         FCM Traiskirchen         -  ASK-BSC Bruck/Leitha
+  19.30  FCM Traiskirchen         -  ASK-BSC Bruck/Leitha
+         Wiener Sport-Club        -  Wiener Viktoria
          ASV Draßburg             -  1. Wiener Neustädter SC
 [Sa 27.3.]
   15.30  FC Mauerwerk             -  FC Marchfeld

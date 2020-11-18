@@ -87,8 +87,8 @@
   10.30  Floridsdorfer AC         2:1 (0:1)  Young Violets Austria Wien
          Kapfenberger SV          1:1 (0:0)  Austria Klagenfurt
          SK Rapid Wien II         1:2 (0:1)  Austria Lustenau
-  14.30  FC Dornbirn 1913         0:1 (0:1)  FC Wacker Innsbruck
-         FC Liefering             1:0 (0:0)  SV Lafnitz
+  14.30  FC Liefering             1:0 (0:0)  SV Lafnitz
+         FC Dornbirn 1913         0:1 (0:1)  FC Wacker Innsbruck
   17.00  Grazer AK                3:1 (1:0)  FC Blau-Weiß Linz
   18.30  SKU Amstetten            3:3 (2:2)  FC Juniors OÖ
          SV Horn                  0:0  SK Vorwärts Steyr
@@ -124,9 +124,9 @@
 10. Runde
 [Fr 20.11.]
   18.00  FC Blau-Weiß Linz        -  SV Horn
-  18.30  SV Lafnitz               -  SK Vorwärts Steyr
-         FC Liefering             -  Kapfenberger SV
+  18.30  FC Liefering             -  Kapfenberger SV
          SKU Amstetten            -  Young Violets Austria Wien
+         SV Lafnitz               -  SK Vorwärts Steyr
          Austria Lustenau         -  Floridsdorfer AC
   20.25  Austria Klagenfurt       -  FC Wacker Innsbruck
 [Sa 21.11.]
