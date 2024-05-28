@@ -1,0 +1,33 @@
+= Sportklub Rapid Wien    # Rapid Vienna
+
+21  Bernhard Unger (AUT)           GK    # 23 Apr 1999, Vienna  -- Mattersburg
+25  Paul Gartler (AUT)             GK    # 10 Mar 1997, Gleisdorf  -- Sturm Graz
+45  Niklas Hedl (AUT)              GK    # 17 Mar 2001, Vienna
+50  Laurenz Orgler (AUT)           GK    # 13 Oct 2004, Vienna
+
+ 6  Neraysho Kasanwirjo (NED)      DF    # 18 Feb 2002, Amsterdam  -- Feyenoord
+15  Terence Kongolo (NED)          DF    # 14 Feb 1994, Rotterdam  -- Fulham
+19  Michael Sollbauer (AUT)        DF    # 15 May 1990, Sankt Veit an der Glan  -- Dynamo Dresden
+20  Maximilian Hofmann (AUT)       DF    # 07 Aug 1993, Vienna  -- Wienerberg
+23  Jonas Auer (AUT)               DF    # 05 Aug 2000, Ruprechtshofen  -- Mladá Boleslav
+26  Martin Moormann (AUT)          DF    # 30 Apr 2001, Stockerau  -- SKN St. Pölten
+43  Leopold Querfeld (AUT)         DF    # 20 Dec 2003, Vienna
+55  Nenad Cvetković (SRB)          DF    # 06 Jan 1996, Užice  -- Voždovac
+
+ 5  Roman Kerschbaum (AUT)         MF    # 19 Jan 1994, Neunkirchen  -- Admira Wacker Mödling
+ 8  Lukas Grgić (AUT)              MF    # 17 Aug 1995, Wels  -- Hajduk Split
+10  Christoph Lang (AUT)           MF    # 07 Jan 2002, Deutschlandsberg  -- Sturm Graz
+13  Thorsten Schick (AUT)          MF    # 19 May 1990, Graz  -- Young Boys
+18  Matthias Seidl (AUT)           MF    # 24 Jan 2001  -- BW Linz
+22  Isak Jansson (SWE)             MF    # 31 Jan 2002, Kinna  -- Cartagena
+24  Dennis Kaygin (GER)            MF    # 02 Apr 2004  -- Mainz
+28  Moritz Oswald (AUT)            MF    # 05 Jan 2002
+30  Nicolas Bajlicz (AUT)          MF    # 08 Jul 2004, Vienna  -- Köln
+34  Nikolas Sattlberger (AUT)      MF    # 18 Jan 2004, Vienna
+
+ 7  Oliver Strunz (AUT)            FW    # 14 Jun 2000
+ 9  Guido Burgstaller (AUT)        FW    # 29 Apr 1989, Villach  -- St Pauli
+16  Thierry Gale (BRB)             FW    # 01 May 2002, Bridgetown  -- Dila Gori
+17  Fally Mayulu (FRA)             FW    # 15 Jul 2002  -- BW Linz
+27  Marco Grüll (AUT)              FW    # 06 Jul 1998, Schwarzach im Pongau  -- Ried
+49  Jovan Zivković (AUT)           FW    # 23 May 2006

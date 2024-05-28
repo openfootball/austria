@@ -1,0 +1,31 @@
+= Sportklub Austria Klagenfurt    # Austria Klagenfurt
+
+ 1  Marco Knaller (AUT)            GK    # 26 Mar 1987, Villach  -- Wacker Innsbruck
+13  Phillip Menzel (GER)           GK    # 18 Aug 1998, Kiel  -- Wolfsburg
+
+ 2  Solomon Bonnah (NED)           DF    # 19 Aug 2003, Amsterdam  -- RB Leipzig
+ 3  Matthias Dollinger (AUT)       DF    # 13 Apr 2005, Graz
+ 4  Nikola Djorić (SRB)            DF    # 03 Mar 2000, Belgrade  -- Rad
+ 8  Kosmas Gezos (GRE)             DF    # 15 Aug 1992, Athens  -- Akropolis IF
+17  Simon Straudi (ITA)            DF    # 27 Jan 1999, Bruneck  -- Werder Bremen
+31  Thorsten Mahrer (AUT)          DF    # 22 Jan 1990  -- Mattersburg
+33  Till Schumacher (GER)          DF    # 10 Dec 1997, Essen  -- Bohemians 1905
+34  Jannik Robatsch (AUT)          DF    # 28 Dec 2004  -- Klagenfurt
+37  Nicolas Wimmer (AUT)           DF    # 15 Mar 1995  -- BW Linz
+
+ 5  Bego Kujraković (BIH)          MF    # 22 Apr 2006  -- Klagenfurt
+ 6  Ali Loune (MAR)                MF    # 17 Mar 2002, Hanau  -- Nürnberg
+ 7  Florian Jaritz (AUT)           MF    # 18 Oct 1997, Klagenfurt  -- Wolfsberger AC
+10  Sinan Karweina (GER)           MF    # 29 Mar 1999, Gummersbach  -- Türkgücü München
+14  Christopher Cvetko (AUT)       MF    # 02 Apr 1997, Klagenfurt  -- Juniors OÖ
+19  Andy Irving (SCO)              MF    # 13 May 2000, Edinburgh  -- Türkgücü München
+20  Rico Benatelli (GER)           MF    # 17 Mar 1992, Bochum  -- St Pauli
+23  Max Besuschkow (GER)           MF    # 31 May 1997, Tübingen  -- Hannover 96
+24  Christopher Wernitznig (AUT)   MF    # 24 Feb 1990, Villach  -- Wolfsberger AC
+92  Fabio Markelić (AUT)           MF    # 09 Aug 2001, Villach
+
+ 9  Nicolas Binder (AUT)           FW    # 13 Jan 2002, Vienna  -- Rapid Vienna
+11  Sebastian Soto (USA)           FW    # 28 Jul 2000, Carlsbad  -- Norwich C
+39  Jonas Arweiler (GER)           FW    # 10 Apr 1997, Püttlingen  -- Almere C
+77  Aaron Sky Schwarz (AUT)        FW    # 20 Mar 2004  -- Rapid Vienna
+99  Anton Maglica (CRO)            FW    # 11 Nov 1991, Brčko  -- Zrinjski Mostar

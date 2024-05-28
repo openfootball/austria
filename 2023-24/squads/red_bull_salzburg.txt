@@ -1,0 +1,36 @@
+= Football Club Red Bull Salzburg    # Red Bull Salzburg
+
+13  Timo Horn (GER)                GK    # 12 May 1993, Cologne  -- Köln
+24  Alexander Schlager (AUT)       GK    # 01 Feb 1996, Salzburg  -- LASK Linz
+41  Jonas Krumrey (GER)            GK    # 25 Nov 2003, Prien am Chiemsee  -- FC Liefering
+
+ 3  Aleksa Terzić (SRB)            DF    # 17 Aug 1999, Belgrade  -- Fiorentina
+ 4  Hendry Blank (GER)             DF    # 21 Aug 2004  -- Borussia Dortmund
+ 5  Bryan Okoh (SUI)               DF    # 16 May 2003, Houston  -- Team Vaud
+ 6  Samson Baidoo (AUT)            DF    # 31 Mar 2004, Graz  -- FC Liefering
+17  Andreas Ulmer (AUT)            DF    # 30 Oct 1985, Linz  -- SV Ried
+22  Oumar Solet (FRA)              DF    # 07 Feb 2000, Melun  -- Lyon
+25  Flavius Daniliuc (AUT)         DF    # 27 Apr 2001, Vienna  -- Salernitana
+29  Daouda Guindo (MLI)            DF    # 14 Oct 2002  -- Guidars
+31  Strahinja Pavlović (SRB)       DF    # 24 May 2001, Šabac  -- Monaco
+39  Leandro Morgalla (GER)         DF    # 13 Sep 2004, Biedenkopf  -- 1860 Munich
+55  Lukas Wallner (AUT)            DF    # 26 Apr 2003, St Johann im Pongau  -- FC Liefering
+70  Amar Dedić (BIH)               DF    # 18 Aug 2002, Zell am See  -- FC Liefering
+
+ 7  Nicolás Capaldo (ARG)          MF    # 14 Sep 1997, Santa Rosa  -- Boca Juniors
+10  Luka Sučić (CRO)               MF    # 08 Sep 2002, Linz  -- FC Liefering
+14  Maurits Kjærgaard (DEN)        MF    # 26 Jun 2003, Herlev  -- Lyngby
+15  Mamady Diambou (MLI)           MF    # 11 Nov 2002, Bamako  -- Guidars
+18  Mads Bidstrup (DEN)            MF    # 25 Feb 2001, Køge  -- Brentford
+27  Lucas Gourna-Douath (FRA)      MF    # 05 Aug 2003, Villeneuve-Saint-Georges  -- St-Etienne
+30  Oscar Gloukh (ISR)             MF    # 01 Apr 2004, Rehovot  -- Maccabi Tel Aviv
+32  Forson Amankwah (GHA)          MF    # 31 Dec 2002  -- WAFA
+36  Justin Omoregie (AUT)          MF    # 21 Sep 2003  -- FC Liefering
+49  Moussa Yeo (MLI)               MF    # 01 Jun 2004  -- Guidars
+
+11  Fernando (BRA)                 FW    # 01 Mar 1999, Belo Horizonte  -- Shakhtar Donetsk
+19  Karim Konaté (CIV)             FW    # 21 Mar 2004, Koumassi  -- ASEC Mimosas
+20  Sekou Koita (MLI)              FW    # 28 Nov 1999, Kita  -- FC Liefering
+21  Petar Ratkov (SRB)             FW    # 18 Aug 2003, Belgrade  -- TSC Bačka Topola
+23  Roko Šimić (CRO)               FW    # 10 Sep 2003, Milan  -- Lokomotiva Zagreb
+45  Dorgeles Nene (MLI)            FW    # 23 Dec 2002, Kayes  -- Guidars

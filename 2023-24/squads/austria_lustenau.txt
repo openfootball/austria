@@ -1,0 +1,32 @@
+= Sportclub Austria Lustenau    # Austria Lustenau
+
+21  Ammar Helac (AUT)              GK    # 13 Jun 1998, Linz  -- Austria Vienna
+27  Domenik Schierl (AUT)          GK    # 20 Jul 1994  -- Wiener Neustadt
+29  Simon Nesler-Täubl (AUT)       GK    # 04 Jan 2005  -- Vorarlberg
+
+ 3  Kennedy Boateng (GHA)          DF    # 29 Nov 1996  -- Santa Clara
+ 4  Tobias Berger (AUT)            DF    # 02 Nov 2001  -- FC Liefering
+ 5  Leo Mätzler (AUT)              DF    # 17 Apr 2002, Dornbirn  -- Rheindorf Altach
+ 6  Darijo Grujčić (AUT)           DF    # 19 May 1999, Lustenau  -- Wacker Innsbruck
+ 7  Fabian Gmeiner (AUT)           DF    # 27 Jan 1997, Dornbirn  -- Sportfreunde Lotte
+11  Baïla Diallo (FRA)             DF    # 24 Jun 2001, Toulouse  -- Clermont
+13  Matheus Lins (BRA)             DF    # 24 Mar 2001, Praia Grande  -- SW Bregenz
+28  Anderson (BRA)                 DF    # 03 Jan 1998, São Paulo  -- Rheindorf Altach
+31  Matthias Maak (AUT)            DF    # 12 May 1992, Bruck an der Mur  -- Rheindorf Altach
+55  Luca Meisl (AUT)               DF    # 04 Mar 1999, Salzburg  -- Beerschot
+
+ 8  Torben Rhein (GER)             MF    # 12 Jan 2003, Berlin  -- Bayern Munich
+20  Nico Gorzel (GER)              MF    # 29 Jul 1998, Munich  -- Erzgebirge Aue
+23  Pius Grabher (AUT)             MF    # 11 Aug 1993, Lustenau  -- Ried
+25  Paterson Chato (GER)           MF    # 01 Dec 1996, Goma  -- Osnabrück
+30  Rafael Devisate (BRA)          MF    # 02 Aug 2005, Sorocaba  -- Atlético Mineiro
+33  Daniel Tiefenbach (HUN)        MF    # 10 Aug 1999  -- St. Gallen
+41  Enes Koç (AUT)                 MF    # 22 May 2005
+
+10  Lukas Fridrikas (AUT)          FW    # 30 Dec 1997  -- Austria Klagenfurt
+12  Leo Mikić (CRO)                FW    # 06 May 1997, Požega  -- Jeonnam Dragons
+15  Namory Cissé (AUT)             FW    # 05 Jan 2003  -- Fortuna Sittard
+18  Anthony Schmid (AUT)           FW    # 18 Jan 1999, Strasbourg  -- Floridsdorfer AC
+19  Ben Bobzien (GER)              FW    # 29 Apr 2003, Gießen  -- Mainz
+22  Yadaly Diaby (FRA)             FW    # 09 Aug 2000, Saint-Pierre  -- Clermont
+70  Stefano Surdanović (SRB)       FW    # 23 Nov 1998, Wels  -- Admira Wacker Mödling

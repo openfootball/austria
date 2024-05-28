@@ -1,0 +1,29 @@
+= Fußball Club Blau-Weiß Linz    # Blau-Weiß Linz
+
+ 1  Nicolas Schmid (AUT)           GK    # 22 Feb 1997, Linz  -- LASK Linz
+12  Andreas Lukse (AUT)            GK    # 08 Nov 1987, Vienna  -- First Vienna
+
+ 2  Fabio Strauss (AUT)            DF    # 06 Aug 1994, Salzburg  -- Admira Wacker Mödling
+ 5  Danilo Mitrović (SRB)          DF    # 23 Mar 2001, Novi Sad  -- Vojvodina
+ 8  Simon Pirkl (AUT)              DF    # 03 Apr 1997, Innsbruck  -- Horn
+14  Julian Gölles (AUT)            DF    # 22 Sep 1999  -- WSG Tirol
+15  Manuel Maranda (AUT)           DF    # 09 Jul 1997  -- SKN St. Pölten
+17  Alem Pašić (AUT)               DF    # 23 Aug 1997, Steyr  -- Vorwärts Steyr
+22  Fabian Windhager (AUT)         DF    # 07 Sep 2001  -- FC Liefering
+28  Marcel Schantl (AUT)           DF    # 17 Aug 2000  -- Hartberg
+
+ 4  Marco Krainz (AUT)             MF    # 17 May 1997, Vienna  -- Floridsdorfer AC
+ 6  Tobias Koch (AUT)              MF    # 06 Apr 2001  -- Sturm Graz
+ 7  Conor Noß (IRL)                MF    # 01 Jan 2001, Düsseldorf  -- B Mönchengladbach
+11  João Luiz (BRA)                MF    # 16 Feb 1999, Guanhães  -- SW Bregenz
+13  Michael Brandner (AUT)         MF    # 13 Feb 1995, Salzburg  -- Wiener Neustadt
+19  Alexander Briedl (AUT)         MF    # 21 Apr 2002, Salzburg  -- Horn
+20  Simon Seidl (AUT)              MF    # 04 Sep 2002  -- Kuchl
+23  Lukas Tursch (AUT)             MF    # 29 Mar 1996, Ternberg  -- SKN St. Pölten
+27  Stefan Haudum (AUT)            MF    # 27 Nov 1994, Eferding  -- Rheindorf Altach
+29  Mehmet Ibrahimi (GER)          MF    # 09 Feb 2003, Troisdorf  -- RB Leipzig
+30  Kristijan Dobras (AUT)         MF    # 09 Oct 1992, Steyr  -- Vaduz
+
+ 9  Ronivaldo (BRA)                FW    # 24 Mar 1989, Orós  -- Wacker Innsbruck
+10  Paul Mensah (GHA)              FW    # 13 Oct 1999, Kormantse  -- FC Botoșani
+18  Stefan Feiertag (AUT)          FW    # 18 Dec 2001, Horn  -- SKU Amstetten
