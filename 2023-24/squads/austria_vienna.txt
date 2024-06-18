@@ -1,32 +1,32 @@
-= Fussballklub Austria Wien    # Austria Vienna
+=  FK Austria Wien - Österr. Bundesliga 2023/24
 
- 1  Christian Früchtl (GER)        GK    # 28 Jan 2000, Bischofsmais  -- Bayern Munich
-13  Lukas Wedl (AUT)               GK    # 19 Oct 1995, Amstetten  -- Wacker Innsbruck
-99  Mirko Kos (AUT)                GK    # 12 Apr 1997, Mürzzuschlag
+  1,  Christian Früchtl (GER),           GK,   b. 2000,   Bayern Munich
+ 13,  Lukas Wedl,                        GK,   b. 1995,   Wacker Innsbruck
+ 99,  Mirko Kos,                         GK,   b. 1997,
 
- 2  Luca Pazourek (AUT)            DF    # 04 Feb 2005
- 3  Lucas Galvão (BRA)             DF    # 22 Jun 1991, São José do Rio Preto  -- Atromitos
- 4  Ziad El Sheiwi (AUT)           DF    # 11 Mar 2004
-19  Marvin Potzmann (AUT)          DF    # 07 Dec 1993, Vienna  -- LASK Linz
-21  Hakim Guenouche (FRA)          DF    # 30 May 2000, Nancy  -- Austria Lustenau
-24  Tin Plavotić (AUT)             DF    # 30 Jun 1997, Vienna  -- Ried
-40  Matteo Meisl (AUT)             DF    # 27 Dec 2000, Salzburg
-46  Johannes Handl (AUT)           DF    # 07 May 1998, Graz  -- Wacker Innsbruck
-66  Marvin Martins (LUX)           DF    # 17 Feb 1995, Luxembourg  -- Casa Pia
+  2,  Luca Pazourek,                     DF,   b. 2005,
+  3,  Lucas Galvão (BRA),                DF,   b. 1991,   Atromitos
+  4,  Ziad El Sheiwi,                    DF,   b. 2004,
+ 19,  Marvin Potzmann,                   DF,   b. 1993,   LASK Linz
+ 21,  Hakim Guenouche (FRA),             DF,   b. 2000,   Austria Lustenau
+ 24,  Tin Plavotić,                      DF,   b. 1997,   Ried
+ 40,  Matteo Meisl,                      DF,   b. 2000,
+ 46,  Johannes Handl,                    DF,   b. 1998,   Wacker Innsbruck
+ 66,  Marvin Martins (LUX),              DF,   b. 1995,   Casa Pia
 
- 8  James Holland (AUS)            MF    # 15 May 1989, Sydney  -- LASK Linz
-11  Manuel Polster (AUT)           MF    # 23 Dec 2002, Vienna  -- Stuttgart II
-22  Florian Wustinger (AUT)        MF    # 21 Jul 2003, Vienna
-26  Reinhold Ranftl (AUT)          MF    # 24 Jan 1992, Kapfenstein  -- Schalke
-30  Manfred Fischer (AUT)          MF    # 06 Aug 1995  -- Rheindorf Altach
-37  Moritz Wels (AUT)              MF    # 25 Sep 2004  -- Sturm Graz
-41  Frans Krätzig (GER)            MF    # 14 Jan 2003, Nuremberg  -- Bayern Munich
+  8,  James Holland (AUS),               MF,   b. 1989,   LASK Linz
+ 11,  Manuel Polster,                    MF,   b. 2002,   Stuttgart II
+ 22,  Florian Wustinger,                 MF,   b. 2003,
+ 26,  Reinhold Ranftl,                   MF,   b. 1992,   Schalke
+ 30,  Manfred Fischer,                   MF,   b. 1995,   Rheindorf Altach
+ 37,  Moritz Wels,                       MF,   b. 2004,   Sturm Graz
+ 41,  Frans Krätzig (GER),               MF,   b. 2003,   Bayern Munich
 
- 9  Muharem Huskovic (AUT)         FW    # 05 Mar 2003
-10  Fisnik Asllani (GER)           FW    # 08 Aug 2002, Berlin  -- 1899 Hoffenheim
-17  Andreas Gruber (AUT)           FW    # 29 Jun 1995, Mürzzuschlag  -- LASK Linz
-27  Romeo Vučić (AUT)              FW    # 30 Jan 2003, Vienna
-29  Marko Raguž (AUT)              FW    # 10 Jun 1998, Grieskirchen  -- LASK Linz
-33  Alexander Schmidt (AUT)        FW    # 19 Jan 1998, Vienna  -- Vizela
-36  Dominik Fitz (AUT)             FW    # 16 Jun 1999, Vienna
-60  Silva Kani (ISR)               FW    # 15 May 2003, Tel Aviv  -- Bnei Yehuda Tel Aviv
+  9,  Muharem Huskovic,                  FW,   b. 2003,
+ 10,  Fisnik Asllani (GER),              FW,   b. 2002,   1899 Hoffenheim
+ 17,  Andreas Gruber,                    FW,   b. 1995,   LASK Linz
+ 27,  Romeo Vučić,                       FW,   b. 2003,
+ 29,  Marko Raguž,                       FW,   b. 1998,   LASK Linz
+ 33,  Alexander Schmidt,                 FW,   b. 1998,   Vizela
+ 36,  Dominik Fitz,                      FW,   b. 1999,
+ 60,  Silva Kani (ISR),                  FW,   b. 2003,   Bnei Yehuda Tel Aviv

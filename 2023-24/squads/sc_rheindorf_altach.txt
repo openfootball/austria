@@ -1,33 +1,33 @@
-= Cashpoint Sportclub Rheindorf Altach    # SC Rheindorf Altach
+=  SCR Altach - Österr. Bundesliga 2023/24
 
- 1  Dejan Stojanović (MKD)         GK    # 19 Jul 1993, Feldkirch  -- Jahn Regensburg
-31  Alexander Eckmayr (AUT)        GK    # 06 Jul 1999, Munich  -- Hertha Wels
-32  Tobias Schützenauer (AUT)      GK    # 19 May 1997, Graz  -- Sturm Graz
-33  Paul Piffer (AUT)              GK    # 08 Apr 2006  -- Vorarlberg
+  1,  Dejan Stojanović (MKD),            GK,   b. 1993,   Jahn Regensburg
+ 31,  Alexander Eckmayr,                 GK,   b. 1999,   Hertha Wels
+ 32,  Tobias Schützenauer,               GK,   b. 1997,   Sturm Graz
+ 33,  Paul Piffer,                       GK,   b. 2006,   Vorarlberg
 
- 4  Felix Strauss (AUT)            DF    # 26 Mar 2001, Salzburg  -- BW Linz
- 5  Lukas Gugganig (AUT)           DF    # 14 Feb 1995, Spittal an der Drau  -- Osnabrück
- 6  Constantin Reiner (AUT)        DF    # 11 Jul 1997, Oberndorf bei Salzburg  -- Piast Gliwice
-12  Leonardo Lukačević (AUT)       DF    # 21 Jan 1999  -- Admira Wacker Mödling
-15  Paul-Friedrich Koller (AUT)    DF    # 22 Feb 2002, Judenburg  -- Grazer AK
-17  Nosa Edokpolor (AUT)           DF    # 22 Sep 1996, Benin City  -- BW Linz
-22  Pascal Estrada (AUT)           DF    # 12 Mar 2002, Leonding  -- Olimpija Ljubljana
-25  Sandro Ingolitsch (AUT)        DF    # 18 Apr 1997, Schwarzach im Pongau  -- Sturm Graz
-29  Mohamed Ouédraogo (BFA)        DF    # 02 Jan 2003  -- SC Majestic
+  4,  Felix Strauss,                     DF,   b. 2001,   BW Linz
+  5,  Lukas Gugganig,                    DF,   b. 1995,   Osnabrück
+  6,  Constantin Reiner,                 DF,   b. 1997,   Piast Gliwice
+ 12,  Leonardo Lukačević,                DF,   b. 1999,   Admira Wacker Mödling
+ 15,  Paul-Friedrich Koller,             DF,   b. 2002,   Grazer AK
+ 17,  Nosa Edokpolor,                    DF,   b. 1996,   BW Linz
+ 22,  Pascal Estrada,                    DF,   b. 2002,   Olimpija Ljubljana
+ 25,  Sandro Ingolitsch,                 DF,   b. 1997,   Sturm Graz
+ 29,  Mohamed Ouédraogo (BFA),           DF,   b. 2003,   SC Majestic
 
- 8  Mike-Steven Bähre (GER)        MF    # 10 Aug 1995, Garbsen  -- Meppen
-10  Dominik Reiter (AUT)           MF    # 04 Jan 1998, Grieskirchen  -- LASK Linz
-13  Djawal Kaiba (CMR)             MF    # 08 Feb 2003  -- Coton Sport
-14  Vesel Demaku (AUT)             MF    # 05 Feb 2000, Altenmarkt an der Triesting  -- Sturm Graz
-18  Jan Zwischenbrugger (AUT)      MF    # 16 Jun 1990, Au  -- Ried
-23  Lukas Jäger (AUT)              MF    # 12 Feb 1994, Alberschwende  -- Sturm Graz
-24  Manuel Prietl (AUT)            MF    # 03 Aug 1991, Deutschlandsberg  -- Arminia Bielefeld
-27  Christian Gebauer (AUT)        MF    # 20 Dec 1993, Innsbruck  -- Arminia Bielefeld
-28  Jan Jurčec (CRO)               MF    # 27 Nov 2000, Zagreb  -- Kustošija
-30  Lukas Fadinger (AUT)           MF    # 27 Sep 2000, Weiz  -- Hartberg
+  8,  Mike-Steven Bähre (GER),           MF,   b. 1995,   Meppen
+ 10,  Dominik Reiter,                    MF,   b. 1998,   LASK Linz
+ 13,  Djawal Kaiba (CMR),                MF,   b. 2003,   Coton Sport
+ 14,  Vesel Demaku,                      MF,   b. 2000,   Sturm Graz
+ 18,  Jan Zwischenbrugger,               MF,   b. 1990,   Ried
+ 23,  Lukas Jäger,                       MF,   b. 1994,   Sturm Graz
+ 24,  Manuel Prietl,                     MF,   b. 1991,   Arminia Bielefeld
+ 27,  Christian Gebauer,                 MF,   b. 1993,   Arminia Bielefeld
+ 28,  Jan Jurčec (CRO),                  MF,   b. 2000,   Kustošija
+ 30,  Lukas Fadinger,                    MF,   b. 2000,   Hartberg
 
- 7  Ousmane Diawara (SWE)          FW    # 10 Oct 1999, Bamako  -- Landskrona BoIS
- 9  Atdhe Nuhiu (KVX)              FW    # 29 Jul 1989, Priština  -- APOEL
-11  Sofian Bahloul (FRA)           FW    # 16 Dec 1999, Nantes  -- Wil
-20  Gustavo Santos (BRA)           FW    # 25 Jun 1996, Aracaju  -- Dornbirn
-21  Damian Maksimović (AUT)        FW    # 18 Nov 2004, Bregenz  -- Vaduz
+  7,  Ousmane Diawara (SWE),             FW,   b. 1999,   Landskrona BoIS
+  9,  Atdhe Nuhiu (KVX),                 FW,   b. 1989,   APOEL
+ 11,  Sofian Bahloul (FRA),              FW,   b. 1999,   Wil
+ 20,  Gustavo Santos (BRA),              FW,   b. 1996,   Dornbirn
+ 21,  Damian Maksimović,                 FW,   b. 2004,   Vaduz

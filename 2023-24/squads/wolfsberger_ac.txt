@@ -1,32 +1,32 @@
-= Riegler & Zechmeister Pellets Wolfsberger Athletik Club    # Wolfsberger AC
+=  Wolfsberger AC - Österr. Bundesliga 2023/24
 
- 1  Hendrik Bonmann (GER)          GK    # 22 Jan 1994, Essen  -- Würzburger Kickers
-21  David Skubl (AUT)              GK    # 18 Sep 2001, Neuhaus
-32  Lukas Gütlbauer (AUT)          GK    # 06 Dec 2000, Kirchdorf an der Krems  -- Ried
+  1,  Hendrik Bonmann (GER),             GK,   b. 1994,   Würzburger Kickers
+ 21,  David Skubl,                       GK,   b. 2001,
+ 32,  Lukas Gütlbauer,                   GK,   b. 2000,   Ried
 
- 3  Jonathan Scherzer (AUT)        DF    # 22 Jul 1995  -- Admira Wacker Mödling
- 4  Scott Kennedy (GER)            DF    # 31 Mar 1997, Calgary  -- Jahn Regensburg
- 5  Cheick Mamadou Diabaté (CIV)   DF    # 01 Jan 2004, Abidjan  -- Maccabi Petah Tikva
- 8  Simon Piesinger (AUT)          DF    # 13 May 1992, Linz  -- Randers
-13  Tobias Gruber (AUT)            DF    # 10 Jan 2005
-22  Dominik Baumgartner (AUT)      DF    # 20 Jul 1996, Horn  -- Bochum
-26  Lukas Ibertsberger (AUT)       DF    # 06 Aug 2003  -- Red Bull Salzburg
-27  Michael Novak (AUT)            DF    # 30 Dec 1990, Sankt Veit an der Glan  -- Mattersburg
+  3,  Jonathan Scherzer,                 DF,   b. 1995,   Admira Wacker Mödling
+  4,  Scott Kennedy (GER),               DF,   b. 1997,   Jahn Regensburg
+  5,  Cheick Mamadou Diabaté (CIV),      DF,   b. 2004,   Maccabi Petah Tikva
+  8,  Simon Piesinger,                   DF,   b. 1992,   Randers
+ 13,  Tobias Gruber,                     DF,   b. 2005,
+ 22,  Dominik Baumgartner,               DF,   b. 1996,   Bochum
+ 26,  Lukas Ibertsberger,                DF,   b. 2003,   Red Bull Salzburg
+ 27,  Michael Novak,                     DF,   b. 1990,   Mattersburg
 
- 6  Samson Tijani (NGA)            MF    # 17 May 2002, Enugu  -- Red Bull Salzburg
- 7  Konstantin Kerschbaumer (AUT)   MF    # 01 Jul 1992, Tulln  -- Heidenheim
-11  Thierno Ballo (AUT)            MF    # 02 Jan 2002, Abidjan  -- Chelsea
-14  Pascal Müller (AUT)            MF    # 15 Feb 2003
-16  Mario Leitgeb (AUT)            MF    # 30 Jun 1988, Graz  -- St. Gallen
-17  Nikolas Veratschnig (AUT)      MF    # 24 Jan 2003, Villach
-19  Sandro Altunashvili (GEO)      MF    # 19 May 1997, Tbilisi  -- Dinamo Batumi
-20  Augustine Boakye (GHA)         MF    # 03 Nov 2000, Bompata  -- WAFA
-23  Florian Rieder (AUT)           MF    # 16 May 1996  -- Austria Klagenfurt
-44  Ervin Omić (AUT)               MF    # 20 Jan 2003, Ried im Innkreis  -- Juventus
-97  Adis Jašić (AUT)               MF    # 12 Feb 2003, Sankt Veit an der Glan
+  6,  Samson Tijani (NGA),               MF,   b. 2002,   Red Bull Salzburg
+  7,  Konstantin Kerschbaumer,           MF,   b. 1992,   Heidenheim
+ 11,  Thierno Ballo,                     MF,   b. 2002,   Chelsea
+ 14,  Pascal Müller,                     MF,   b. 2003,
+ 16,  Mario Leitgeb,                     MF,   b. 1988,   St. Gallen
+ 17,  Nikolas Veratschnig,               MF,   b. 2003,
+ 19,  Sandro Altunashvili (GEO),         MF,   b. 1997,   Dinamo Batumi
+ 20,  Augustine Boakye (GHA),            MF,   b. 2000,   WAFA
+ 23,  Florian Rieder,                    MF,   b. 1996,   Austria Klagenfurt
+ 44,  Ervin Omić,                        MF,   b. 2003,   Juventus
+ 97,  Adis Jašić,                        MF,   b. 2003,
 
- 9  Bernhard Zimmermann (AUT)      FW    # 15 Feb 2002, Korneuburg  -- Rapid Vienna
-10  Thomas Sabitzer (AUT)          FW    # 12 Oct 2000  -- LASK Linz
-12  Sankara Karamoko (CIV)         FW    # 09 Nov 2003  -- ASEC Mimosas
-15  Michael Morgenstern (AUT)      FW    # 25 Feb 2006  -- Lendorf
-18  Thorsten Röcher (AUT)          FW    # 11 Jun 1991, Neunkirchen  -- Ingolstadt
+  9,  Bernhard Zimmermann,               FW,   b. 2002,   Rapid Vienna
+ 10,  Thomas Sabitzer,                   FW,   b. 2000,   LASK Linz
+ 12,  Sankara Karamoko (CIV),            FW,   b. 2003,   ASEC Mimosas
+ 15,  Michael Morgenstern,               FW,   b. 2006,   Lendorf
+ 18,  Thorsten Röcher,                   FW,   b. 1991,   Ingolstadt

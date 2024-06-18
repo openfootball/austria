@@ -1,36 +1,36 @@
-= Turn- und Sportverein Prolactal Hartberg    # TSV Hartberg
+=  TSV Hartberg - Österr. Bundesliga 2023/24
 
- 1  Raphael Sallinger (AUT)        GK    # 08 Dec 1995, Klagenfurt  -- Wolfsberger AC
-21  Harald Postl (AUT)             GK    # 29 Sep 2005
-39  Tobias Knoflach (AUT)          GK    # 30 Dec 1993, Vienna  -- Politehnica Iași
-40  Fabian Ehmann (AUT)            GK    # 28 Aug 1998, Graz  -- Horn
-44  Maximilian Pußwald (AUT)       GK    # 07 Mar 2002
+  1,  Raphael Sallinger,                 GK,   b. 1995,   Wolfsberger AC
+ 21,  Harald Postl,                      GK,   b. 2005,
+ 39,  Tobias Knoflach,                   GK,   b. 1993,   Politehnica Iași
+ 40,  Fabian Ehmann,                     GK,   b. 1998,   Horn
+ 44,  Maximilian Pußwald,                GK,   b. 2002,
 
- 3  Angelo Brückner (GER)          DF    # 29 Apr 2003, Munich  -- Bayern Munich II
- 5  Ibane Bowat (SCO)              DF    # 15 Sep 2002, Kingston upon Thames  -- Fulham
-12  Michael Steinwender (AUT)      DF    # 04 May 2000, Eisenstadt  -- SKN St. Pölten
-14  Paul Komposch (AUT)            DF    # 13 May 2001  -- Sturm Graz
-16  Manfred Gollner (AUT)          DF    # 22 Dec 1990, Judenburg  -- Wolfsberger AC
-18  Sam Schutti (AUT)              DF    # 06 Nov 2002  -- SKN St. Pölten
-20  Manuel Pfeifer (AUT)           DF    # 10 Sep 1999, Hartberg  -- Lafnitz
-31  Thomas Rotter (AUT)            DF    # 27 Jan 1992
-95  Damjan Kovačević (AUT)         DF    # 28 Aug 2004, Rottenmann  -- Vorarlberg
+  3,  Angelo Brückner (GER),             DF,   b. 2003,   Bayern Munich II
+  5,  Ibane Bowat (SCO),                 DF,   b. 2002,   Fulham
+ 12,  Michael Steinwender,               DF,   b. 2000,   SKN St. Pölten
+ 14,  Paul Komposch,                     DF,   b. 2001,   Sturm Graz
+ 16,  Manfred Gollner,                   DF,   b. 1990,   Wolfsberger AC
+ 18,  Sam Schutti,                       DF,   b. 2002,   SKN St. Pölten
+ 20,  Manuel Pfeifer,                    DF,   b. 1999,   Lafnitz
+ 31,  Thomas Rotter,                     DF,   b. 1992,
+ 95,  Damjan Kovačević,                  DF,   b. 2004,   Vorarlberg
 
- 7  Fabian Wilfinger (AUT)         MF    # 27 Aug 2003
-17  Mario Kröpfl (AUT)             MF    # 21 Dec 1989, Klagenfurt  -- Lafnitz
-23  Tobias Kainz (AUT)             MF    # 31 Oct 1992, Feldbach  -- Kapfenberg
-25  Julian Halwachs (AUT)          MF    # 25 Jan 2003  -- FC Liefering
-27  Dominik Prokop (AUT)           MF    # 02 Jun 1997, Vienna  -- HNK Gorica
-28  Jürgen Heil (AUT)              MF    # 04 Apr 1997  -- Anger
-32  Ousmane Diakité (MLI)          MF    # 25 Jul 2000  -- Red Bull Salzburg
-33  Dominik Frieser (AUT)          MF    # 09 Sep 1993, Graz  -- Cesena
-37  Maximilian Fillafer (AUT)      MF    # 26 Dec 2004  -- Spittal/Drau
-45  Mamadou Sangaré (MLI)          MF    # 26 Jun 2002, Bamako  -- Red Bull Salzburg
-77  Lind Hajdari (AUT)             MF    # 11 Aug 2005  -- AKA Burgenland
+  7,  Fabian Wilfinger,                  MF,   b. 2003,
+ 17,  Mario Kröpfl,                      MF,   b. 1989,   Lafnitz
+ 23,  Tobias Kainz,                      MF,   b. 1992,   Kapfenberg
+ 25,  Julian Halwachs,                   MF,   b. 2003,   FC Liefering
+ 27,  Dominik Prokop,                    MF,   b. 1997,   HNK Gorica
+ 28,  Jürgen Heil,                       MF,   b. 1997,   Anger
+ 32,  Ousmane Diakité (MLI),             MF,   b. 2000,   Red Bull Salzburg
+ 33,  Dominik Frieser,                   MF,   b. 1993,   Cesena
+ 37,  Maximilian Fillafer,               MF,   b. 2004,   Spittal/Drau
+ 45,  Mamadou Sangaré (MLI),             MF,   b. 2002,   Red Bull Salzburg
+ 77,  Lind Hajdari,                      MF,   b. 2005,   AKA Burgenland
 
- 8  Christoph Urdl (AUT)           FW    # 17 Aug 1999  -- Deutschlandsberger SC
-10  Donis Avdijaj (KVX)            FW    # 25 Aug 1996, Osnabrück  -- Zürich
-11  Maximilian Entrup (AUT)        FW    # 25 Jul 1997  -- Marchfeld Donauauen
-19  Onurhan Babuscu (AUT)          FW    # 05 Sep 2003, Baden bei Wien  -- Gaziantep
-30  Matthias Postl (AUT)           FW    # 29 Sep 2005
-70  Ruben Providence (FRA)         FW    # 07 Jul 2001, Lagny-sur-Marne  -- Roma
+  8,  Christoph Urdl,                    FW,   b. 1999,   Deutschlandsberger SC
+ 10,  Donis Avdijaj (KVX),               FW,   b. 1996,   Zürich
+ 11,  Maximilian Entrup,                 FW,   b. 1997,   Marchfeld Donauauen
+ 19,  Onurhan Babuscu,                   FW,   b. 2003,   Gaziantep
+ 30,  Matthias Postl,                    FW,   b. 2005,
+ 70,  Ruben Providence (FRA),            FW,   b. 2001,   Roma

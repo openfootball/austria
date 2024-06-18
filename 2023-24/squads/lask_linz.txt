@@ -1,34 +1,34 @@
-= Linzer Athletik Sport-Klub Linz    # LASK Linz
+=  LASK Linz - Österr. Bundesliga 2023/24
 
- 1  Tobias Lawal (AUT)             GK    # 07 Jun 2000, Linz  -- Wels
-28  Jörg Siebenhandl (AUT)         GK    # 18 Jan 1990, Vienna  -- Sturm Graz
-36  Lukas Jungwirth (AUT)          GK    # 30 Apr 2004, Linz
+  1,  Tobias Lawal,                      GK,   b. 2000,   Wels
+ 28,  Jörg Siebenhandl,                  GK,   b. 1990,   Sturm Graz
+ 36,  Lukas Jungwirth,                   GK,   b. 2004,
 
- 2  George Bello (USA)             DF    # 22 Jan 2002, Abuja  -- Arminia Bielefeld
- 4  Maksym Talovierov (UKR)        DF    # 28 Jun 2000, Nalchik  -- Slavia Prague
- 5  Philipp Ziereis (GER)          DF    # 14 Mar 1993, Schwarzhofen  -- St Pauli
- 6  Philipp Wiesinger (AUT)        DF    # 23 May 1994, Salzburg  -- FC Liefering
- 7  René Renner (AUT)              DF    # 29 Nov 1993, Wels  -- Mattersburg
-16  Andrés Andrade (PAN)           DF    # 16 Oct 1998, Ciudad de Panamá  -- Arminia Bielefeld
-22  Filip Stojković (SRB)          DF    # 22 Jan 1993, Belgrade  -- Rapid Vienna
-25  Sanoussy Ba (GER)              DF    # 05 Jan 2004, Hof  -- RB Leipzig
-26  Filip Twardzik (CZE)           DF    # 10 Feb 1993, Třinec  -- Spartak Trnava
-31  Yannis Letard (FRA)            DF    # 18 Aug 1998, Saint-Herblain  -- St. Gallen
-33  Felix Luckeneder (AUT)         DF    # 21 Mar 1994, Linz  -- Hartberg
+  2,  George Bello (USA),                DF,   b. 2002,   Arminia Bielefeld
+  4,  Maksym Talovierov (UKR),           DF,   b. 2000,   Slavia Prague
+  5,  Philipp Ziereis (GER),             DF,   b. 1993,   St Pauli
+  6,  Philipp Wiesinger,                 DF,   b. 1994,   FC Liefering
+  7,  René Renner,                       DF,   b. 1993,   Mattersburg
+ 16,  Andrés Andrade (PAN),              DF,   b. 1998,   Arminia Bielefeld
+ 22,  Filip Stojković (SRB),             DF,   b. 1993,   Rapid Vienna
+ 25,  Sanoussy Ba (GER),                 DF,   b. 2004,   RB Leipzig
+ 26,  Filip Twardzik (CZE),              DF,   b. 1993,   Spartak Trnava
+ 31,  Yannis Letard (FRA),               DF,   b. 1998,   St. Gallen
+ 33,  Felix Luckeneder,                  DF,   b. 1994,   Hartberg
 
- 8  Peter Michorl (AUT)            MF    # 09 May 1995, Vienna  -- Austria Vienna
-10  Robert Žulj (AUT)              MF    # 05 Feb 1992, Wels  -- Al-Ittihad Kalba
-14  Valon Berisha (KVX)            MF    # 07 Feb 1993, Malmö  -- Reims
-18  Branko Jovićić (SRB)           MF    # 18 Mar 1993, Čačak  -- FC Ural
-21  Ivan Ljubić (AUT)              MF    # 07 Jul 1996  -- Sturm Graz
-29  Florian Flecker (AUT)          MF    # 29 Oct 1995, Voitsberg  -- Hartberg
-30  Sascha Horvath (AUT)           MF    # 22 Aug 1996, Vienna  -- Hartberg
+  8,  Peter Michorl,                     MF,   b. 1995,   Austria Vienna
+ 10,  Robert Žulj,                       MF,   b. 1992,   Al-Ittihad Kalba
+ 14,  Valon Berisha (KVX),               MF,   b. 1993,   Reims
+ 18,  Branko Jovićić (SRB),              MF,   b. 1993,   FC Ural
+ 21,  Ivan Ljubić,                       MF,   b. 1996,   Sturm Graz
+ 29,  Florian Flecker,                   MF,   b. 1995,   Hartberg
+ 30,  Sascha Horvath,                    MF,   b. 1996,   Hartberg
 
- 9  Marin Ljubičić (CRO)           FW    # 28 Feb 2002, Split  -- Hajduk Split
-11  Moussa Koné (SEN)              FW    # 30 Dec 1996, Dakar  -- Nîmes
-17  Moses Usor (NGA)               FW    # 05 Feb 2002  -- Slavia Prague
-19  Lenny Pintor (FRA)             FW    # 05 Aug 2000, Sarcelles  -- St-Etienne
-23  Ibrahim Mustapha (GHA)         FW    # 18 Jun 2000, Tamale  -- Crvena Zvezda
-24  Elias Havel (AUT)              FW    # 16 Apr 2002  -- FC Liefering
-37  Lucas Copado (GER)             FW    # 10 Jan 2004, Munich  -- Bayern Munich
-44  Adil Taoui (FRA)               FW    # 10 Aug 2001, Limoges  -- Bastia
+  9,  Marin Ljubičić (CRO),              FW,   b. 2002,   Hajduk Split
+ 11,  Moussa Koné (SEN),                 FW,   b. 1996,   Nîmes
+ 17,  Moses Usor (NGA),                  FW,   b. 2002,   Slavia Prague
+ 19,  Lenny Pintor (FRA),                FW,   b. 2000,   St-Etienne
+ 23,  Ibrahim Mustapha (GHA),            FW,   b. 2000,   Crvena Zvezda
+ 24,  Elias Havel,                       FW,   b. 2002,   FC Liefering
+ 37,  Lucas Copado (GER),                FW,   b. 2004,   Bayern Munich
+ 44,  Adil Taoui (FRA),                  FW,   b. 2001,   Bastia

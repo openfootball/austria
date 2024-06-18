@@ -1,31 +1,31 @@
-= Sportklub Puntigamer Sturm Graz    # Sturm Graz
+=  SK Sturm Graz - Österr. Bundesliga 2023/24
 
- 1  Kjell Scherpen (NED)           GK    # 23 Jan 2000, Emmen  -- Brighton & HA
-16  Vítězslav Jaroš (CZE)          GK    # 23 Jul 2001, Příbram  -- Liverpool
-31  Luka Marić (AUT)               GK    # 19 Jul 2002
-40  Matteo Bignetti (AUT)          GK    # 06 May 2004, Bruck an der Mur  -- Eintract Frankfurt
+  1,  Kjell Scherpen (NED),              GK,   b. 2000,   Brighton & HA
+ 16,  Vítězslav Jaroš (CZE),             GK,   b. 2001,   Liverpool
+ 31,  Luka Marić,                        GK,   b. 2002,
+ 40,  Matteo Bignetti,                   GK,   b. 2004,   Eintract Frankfurt
 
- 2  Max Johnston (SCO)             DF    # 24 Dec 2003, Middlesbrough  -- Motherwell
- 5  Gregory Wüthrich (SUI)         DF    # 04 Dec 1994, Bern  -- Perth Glory
- 6  Alexandar Borković (AUT)       DF    # 11 Jun 1999, Vienna  -- 1899 Hoffenheim
-22  Jusuf Gazibegović (BIH)        DF    # 11 Mar 2000, Salzburg  -- FC Liefering
-24  Dimitri Lavalée (BEL)          DF    # 13 Jan 1997, Soumagne  -- Mechelen
-28  David Schnegg (AUT)            DF    # 29 Sep 1998, Vienna  -- Venezia
-35  Niklas Geyrhofer (AUT)         DF    # 11 Feb 2000
-42  David Affengruber (AUT)        DF    # 19 Mar 2001, Scheibbs  -- Red Bull Salzburg
+  2,  Max Johnston (SCO),                DF,   b. 2003,   Motherwell
+  5,  Gregory Wüthrich (SUI),            DF,   b. 1994,   Perth Glory
+  6,  Alexandar Borković,                DF,   b. 1999,   1899 Hoffenheim
+ 22,  Jusuf Gazibegović (BIH),           DF,   b. 2000,   FC Liefering
+ 24,  Dimitri Lavalée (BEL),             DF,   b. 1997,   Mechelen
+ 28,  David Schnegg,                     DF,   b. 1998,   Venezia
+ 35,  Niklas Geyrhofer,                  DF,   b. 2000,
+ 42,  David Affengruber,                 DF,   b. 2001,   Red Bull Salzburg
 
- 4  Jon Gorenc Stanković (SVN)     MF    # 14 Jan 1996, Ljubljana  -- Huddersfield T
- 8  Alexander Prass (AUT)          MF    # 26 May 2001  -- FC Liefering
-10  Otar Kiteishvili (GEO)         MF    # 26 Mar 1996, Rustavi  -- Dinamo Tbilisi
-14  Javi Serrano (ESP)             MF    # 16 Jan 2003, Madrid  -- Atlético Madrid B
-15  William Bøving (DEN)           MF    # 01 Mar 2003, Copenhagen  -- FC København
-19  Tomi Horvat (SVN)              MF    # 24 Mar 1999, Murska Sobota  -- Mura
-21  Samuel Stückler (AUT)          MF    # 14 Feb 2001
-25  Stephan Hierländer (AUT)       MF    # 03 Feb 1991, Villach  -- RB Leipzig
+  4,  Jon Gorenc Stanković (SVN),        MF,   b. 1996,   Huddersfield T
+  8,  Alexander Prass,                   MF,   b. 2001,   FC Liefering
+ 10,  Otar Kiteishvili (GEO),            MF,   b. 1996,   Dinamo Tbilisi
+ 14,  Javi Serrano (ESP),                MF,   b. 2003,   Atlético Madrid B
+ 15,  William Bøving (DEN),              MF,   b. 2003,   FC København
+ 19,  Tomi Horvat (SVN),                 MF,   b. 1999,   Mura
+ 21,  Samuel Stückler,                   MF,   b. 2001,
+ 25,  Stephan Hierländer,                MF,   b. 1991,   RB Leipzig
 
- 9  Szymon Wlodarczyk (POL)        FW    # 05 Jan 2003, Wałbrzych  -- Górnik Zabrze
-11  Manprit Sarkaria (AUT)         FW    # 26 Aug 1996, Vienna  -- SC Großfeld
-18  Mika Biereth (DEN)             FW    # 08 Feb 2003, Lambeth  -- Arsenal
-20  Seedy Jatta (NOR)              FW    # 18 Mar 2003  -- Vålerenga
-36  Amady Camara (MLI)             FW    # 28 May 2005, Bamako  -- FC Diarra
-38  Leon Grgić (AUT)               FW    # 22 Jan 2006, Bruck an der Mur
+  9,  Szymon Wlodarczyk (POL),           FW,   b. 2003,   Górnik Zabrze
+ 11,  Manprit Sarkaria,                  FW,   b. 1996,   SC Großfeld
+ 18,  Mika Biereth (DEN),                FW,   b. 2003,   Arsenal
+ 20,  Seedy Jatta (NOR),                 FW,   b. 2003,   Vålerenga
+ 36,  Amady Camara (MLI),                FW,   b. 2005,   FC Diarra
+ 38,  Leon Grgić,                        FW,   b. 2006,

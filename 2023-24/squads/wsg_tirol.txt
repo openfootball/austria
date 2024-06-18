@@ -1,32 +1,32 @@
-= Wattener Sportgemeinschaft Swarovski Tirol    # WSG Tirol
+=  WSG Tirol - Österr. Bundesliga 2023/24
 
- 1  Paul Schermer (AUT)            GK    # 04 Apr 2004
-13  Benjamin Ozegović (BIH)        GK    # 09 Aug 1999, Velika Kladuša  -- Rheindorf Altach
-25  Ferdinand Oswald (GER)         GK    # 05 Oct 1990, Weilheim  -- Schalke II
-40  Adam Stejskal (CZE)            GK    # 23 Aug 2002, Brno  -- Red Bull Salzburg
+  1,  Paul Schermer,                     GK,   b. 2004,
+ 13,  Benjamin Ozegović (BIH),           GK,   b. 1999,   Rheindorf Altach
+ 25,  Ferdinand Oswald (GER),            GK,   b. 1990,   Schalke II
+ 40,  Adam Stejskal (CZE),               GK,   b. 2002,   Red Bull Salzburg
 
- 3  David Gugganig (AUT)           DF    # 10 Feb 1997, Spittal an der Drau  -- Wolfsberger AC
- 5  Felix Bacher (AUT)             DF    # 25 Oct 2000, Lienz  -- Freiburg II
- 6  Lukas Sulzbacher (AUT)         DF    # 06 Apr 2000, Tulln an der Donau  -- Rapid Vienna
-22  Osarenren Okungbowa (AUT)      DF    # 13 May 1994, Vienna  -- Kickers Offenbach
-26  Dominik Štumberger (CRO)       DF    # 17 Apr 1999, Graz  -- Austria Lustenau
-27  David Jaunegg (AUT)            DF    # 28 Feb 2003, Hall in Tirol
-44  Kofi Schulz (GHA)              DF    # 21 Jul 1989, Berlin  -- SKN St. Pölten
+  3,  David Gugganig,                    DF,   b. 1997,   Wolfsberger AC
+  5,  Felix Bacher,                      DF,   b. 2000,   Freiburg II
+  6,  Lukas Sulzbacher,                  DF,   b. 2000,   Rapid Vienna
+ 22,  Osarenren Okungbowa,               DF,   b. 1994,   Kickers Offenbach
+ 26,  Dominik Štumberger (CRO),          DF,   b. 1999,   Austria Lustenau
+ 27,  David Jaunegg,                     DF,   b. 2003,
+ 44,  Kofi Schulz (GHA),                 DF,   b. 1989,   SKN St. Pölten
 
- 4  Valentino Müller (AUT)         MF    # 19 Jan 1999, Lustenau  -- LASK Linz
-10  Bror Blume (DEN)               MF    # 22 Jan 1992, Copenhagen  -- Aarhus
-14  Alexander Ranacher (AUT)       MF    # 20 Nov 1998, Lienz  -- Austria Lustenau
-17  Johannes Naschberger (AUT)     MF    # 25 Jan 2000, Lienz  -- Wörgl
-20  Cem Üstündag (AUT)             MF    # 20 Jan 2001, Schwaz
-23  Stefan Škrbo (AUT)             MF    # 23 Jan 2001
-28  Thomas Geris (AUT)             MF    # 16 Oct 2002, Innsbruck  -- Wacker Innsbruck
-30  Matthäus Taferner (AUT)        MF    # 30 Jan 2001, Klagenfurt  -- Wolfsberger AC
-98  Sandi Ogrinec (SVN)            MF    # 05 Jun 1998  -- Bravo
+  4,  Valentino Müller,                  MF,   b. 1999,   LASK Linz
+ 10,  Bror Blume (DEN),                  MF,   b. 1992,   Aarhus
+ 14,  Alexander Ranacher,                MF,   b. 1998,   Austria Lustenau
+ 17,  Johannes Naschberger,              MF,   b. 2000,   Wörgl
+ 20,  Cem Üstündag,                      MF,   b. 2001,
+ 23,  Stefan Škrbo,                      MF,   b. 2001,
+ 28,  Thomas Geris,                      MF,   b. 2002,   Wacker Innsbruck
+ 30,  Matthäus Taferner,                 MF,   b. 2001,   Wolfsberger AC
+ 98,  Sandi Ogrinec (SVN),               MF,   b. 1998,   Bravo
 
- 7  Luca Kronberger (AUT)          FW    # 15 Feb 2002, Schwarzach im Pongau  -- Sturm Graz
- 8  Mahamadou Diarra (MLI)         FW    # 30 Nov 2003  -- Stade Malien
- 9  Nik Prelec (SVN)               FW    # 10 Jun 2001, Maribor  -- Cagliari
-11  Aleksander Buksa (POL)         FW    # 15 Jan 2003, Kraków  -- Genoa
-18  Denis Tomić (AUT)              FW    # 17 Jan 1998  -- Wacker Innsbruck
-19  Justin Forst (AUT)             FW    # 21 Feb 2003, Innsbruck
-21  Yannick Vötter (AUT)           FW    # 17 Dec 2004
+  7,  Luca Kronberger,                   FW,   b. 2002,   Sturm Graz
+  8,  Mahamadou Diarra (MLI),            FW,   b. 2003,   Stade Malien
+  9,  Nik Prelec (SVN),                  FW,   b. 2001,   Cagliari
+ 11,  Aleksander Buksa (POL),            FW,   b. 2003,   Genoa
+ 18,  Denis Tomić,                       FW,   b. 1998,   Wacker Innsbruck
+ 19,  Justin Forst,                      FW,   b. 2003,
+ 21,  Yannick Vötter,                    FW,   b. 2004,
