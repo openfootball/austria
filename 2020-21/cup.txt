@@ -1,82 +1,104 @@
 = ÖFB Cup 2020/21
 
 
-1. Runde
-[Fr 28.8.]
-  18.00  Wolfsberger AC           5:2 (2:2, 1:0) n.V.  SC Neusiedl am See
-  19.00  WSC Hertha Wels          0:3 (0:2)  FC Admira Wacker Mödling
-         Austria Klagenfurt       7:1 (2:0)  ATSV Stadl-Paura
-         SV Grödig                1:2 (0:1)  SKU Amstetten
-         SK Treibach              1:2 (0:2)  SV Horn
-         FC Gleisdorf 09          1:1 (1:1, 0:1) n.V. 3:5 i.E.  SV Ried
-         First Vienna FC          4:0 (2:0)  FC Marchfeld
-         SV Wörgl                 4:2 (2:2)  Union Vöcklamarkt
-  19.30  Kapfenberger SV          5:1 (5:1)  FC Liefering
-  20.30  SK Sturm Graz            8:0 (5:0)  SV Innsbruck
-[Sa 29.8.]
-  17.00  ATSV Wolfsberg           1:3 (0:2)  SKN St. Pölten
-         FC Dornbirn 1913         1:3 (0:3)  USV Allerheiligen
-  17.30  Floridsdorfer AC         3:0 (1:0)  ASV Draßburg
-  18.00  ASV Schrems              1:3 (1:3)  FC Wacker Innsbruck
-         Austria Lustenau         1:2 (0:0)  SV Stripfing
-         TuS Bad Gleichenberg     0:1 (0:0) n.V.  SV Lafnitz
-  19.00  WSG Tirol                3:1 (0:1)  USV St. Anna
-  20.30  ASV Siegendorf           0:3 (0:0)  LASK Linz
-[So 30.8.]
-  11.00  Dornbirner SV            0:7 (0:3)  TSV Hartberg
-  11.15  FK Austria Wien          5:0 (1:0)  SC Retz
-  17.30  SK Rapid Wien            5:0 (2:0)  TSV St. Johann
-  18.00  Grazer AK                0:1 (0:1)  SV Seekirchen
-  19.00  FC Blau-Weiß Linz        5:1 (3:0)  SC Team Wiener Linien
-[Di 8.9.]
-  19.00  FC Deutschkreutz         0:3 (0:0)  1. Wiener Neustädter SC
-[Mi 9.9.]
-  19.30  Wiener Sport-Club        5:0 (2:0)  SV St. Jakob/Rosental
-  20.00  SK Vorwärts Steyr        1:0 (1:0)  ASK-BSC Bruck/Leitha
-  20.25  SW Bregenz               0:10 (0:8)  FC RB Salzburg
-[Sa 12.9.]
-  16.00  SV Wallern               0:1 (0:0)  SVG Reichenau
-[Mi 16.9.]
-  19.00  Union Gurten             1:3 (0:0)  SCR Altach
-[Di 22.9.]
-  19.30  SC Weiz                  0:1 (0:1)  ASK Elektra Wien
-[Mi 30.9.]
-  19.00  SC Schwaz                1:3 (1:3)  VfB Hohenems
+Round 1
+[Fri Aug/28]
+  18.00  Wolfsberger AC           5-2 a.e.t. (2-2, 1-0)  SC Neusiedl/See 1919
+  19.00  WSC Hertha               0-3 (0-2)  FC Admira Wacker
+         SK Austria Klagenfurt    7-1 (2-0)  ATSV Stadl-Paura
+         SV Grödig                1-2 (0-1)  SKU Amstetten
+         SK Treibach              1-2 (0-2)  SV Horn
+         FC Gleisdorf 09          3-5 pen. 1-1 a.e.t. (1-1, 0-1)  SV Ried
+         First Vienna FC          4-0 (2-0)  FC Marchfeld Donauauen
+         SV Wörgl                 4-2 (2-2)  Union Vöcklamarkt
+  19.30  Kapfenberger SV          5-1 (5-1)  USK Maximarkt Anif
+  20.30  Sturm Graz               8-0 (5-0)  SV Innsbruck
+[Sat Aug/29]
+  17.00  FC Dornbirn              1-3 (0-3)  USV Allerheiligen
+         ATSV Wolfsberg           1-3 (0-2)  SKN St. Pölten
+  17.30  Floridsdorfer AC         3-0 (1-0)  ASV Draßburg
+  18.00  ASV Schrems              1-3 (1-3)  FC Wacker Innsbruck
+         Austria Lustenau         1-2 (0-0)  SV Stripfing/Weiden
+         TuS Bad Gleichenberg     0-1 a.e.t. (0-0)  SV Lafnitz
+  19.00  WSG Tirol                3-1 (0-1)  USV St. Anna
+  20.30  ASV Siegendorf           0-3 (0-0)  LASK
+[Sun Aug/30]
+  11.00  Dornbirner SV            0-7 (0-3)  TSV Hartberg
+  11.15  Austria Wien             5-0 (1-0)  SC Retz
+  17.30  Rapid Wien               5-0 (2-0)  TSV St. Johann
+  18.00  Grazer AK                0-1 (0-1)  SV Seekirchen
+  19.00  FC Blau Weiß Linz        5-1 (3-0)  SC Team Wiener Linien
+[Tue Sep/8]
+  19.00  FC Deutschkreutz         0-3 (0-0)  1. Wiener Neustädter SC
+[Wed Sep/9]
+  19.30  Wiener Sport-Club        5-0 (2-0)  SV St. Jakob/Rosental
+  20.00  Vorwärts Steyr           1-0 (1-0)  ASK-BSC Bruck/Leitha
+  20.25  Schwarz-Weiß Bregenz     0-10 (0-8)  RB Salzburg
+[Sat Sep/12]
+  16.00  SV Wallern               0-1 (0-0)  SVG Reichenau
+[Wed Sep/16]
+  19.00  Union Gurten             1-3 (0-0)  SCR Altach
+[Tue Sep/22]
+  19.30  SC Weiz                  0-1 (0-1)  AS Koma Elektra
+[Wed Sep/30]
+  19.00  SC Schwaz                1-3 (1-3)  VfB Hohenems
 
 
-2. Runde
-[Fr 16.10.]
-  18.00  FC Admira Wacker Mödling  2:2 (1:1, 1:0) n.V. 3:4 i.E.  Kapfenberger SV
-  18.30  WSG Tirol                0:1 (0:1)  Floridsdorfer AC
-  19.00  SV Lafnitz               2:4 (0:3)  Austria Klagenfurt
-  19.30  SV Horn                  0:3 (0:0)  ASK Elektra Wien
-  20.25  Wiener Sport-Club        1:3 (0:1)  FK Austria Wien
-[Sa 17.10.]
-  14.45  SKN St. Pölten           0:3 (0:1)  FC RB Salzburg
-  15.00  ASKÖ Gmünd               3:4 (3:3, 2:1) n.V.  TSV Hartberg
-         VfB Hohenems             1:2 (0:1)  SK Sturm Graz
-  17.00  FC Wacker Innsbruck      1:0 (0:0)  SV Stripfing
-         SCR Altach               7:0 (3:0)  SV Seekirchen
-         1. Wiener Neustädter SC  1:5 (1:3)  SK Rapid Wien
-         LASK Linz                3:0 (1:0)  SV Wörgl
-  20.25  First Vienna FC          3:2 (2:0)  SK Vorwärts Steyr
-[So 18.10.]
-  17.15  Wolfsberger AC           2:2 (2:2, 1:2) n.V. 4:3 i.E.  SV Ried
-[Sa 14.11.]
-  15.00  USV Allerheiligen        0:1 (0:0) n.V.  SKU Amstetten
-  16.00  SVG Reichenau            0:3 (0:2)  FC Blau-Weiß Linz
+Round 2
+[Fri Oct/16]
+  18.00  FC Admira Wacker         3-4 pen. 2-2 a.e.t. (1-1, 1-0)  Kapfenberger SV
+  18.30  WSG Tirol                0-1 (0-1)  Floridsdorfer AC
+  19.00  SV Lafnitz               2-4 (0-3)  SK Austria Klagenfurt
+  19.30  SV Horn                  0-3 (0-0)  AS Koma Elektra
+  20.25  Wiener Sport-Club        1-3 (0-1)  Austria Wien
+[Sat Oct/17]
+  14.45  SKN St. Pölten           0-3 (0-1)  RB Salzburg
+  15.00  ASKÖ Gmünd               3-4 a.e.t. (3-3, 2-1)  TSV Hartberg
+         VfB Hohenems             1-2 (0-1)  Sturm Graz
+  17.00  SCR Altach               7-0 (3-0)  SV Seekirchen
+         1. Wiener Neustädter SC  1-5 (1-3)  Rapid Wien
+         LASK                     3-0 (1-0)  SV Wörgl
+         FC Wacker Innsbruck      1-0 (0-0)  SV Stripfing/Weiden
+  20.25  First Vienna FC          3-2 (2-0)  Vorwärts Steyr
+[Sun Oct/18]
+  17.15  Wolfsberger AC           4-3 pen. 2-2 a.e.t. (2-2, 1-2)  SV Ried
+[Sat Nov/14]
+  15.00  USV Allerheiligen        0-1 a.e.t. (0-0)  SKU Amstetten
+  16.00  SVG Reichenau            0-3 (0-2)  FC Blau Weiß Linz
 
 
-Achtelfinale
-[Sa 14.11.]
-  20.25  Floridsdorfer AC         1:3 (1:1, 0:0) n.V.  Austria Klagenfurt
-[Di 24.11.]
-  Wolfsberger AC           -  SKU Amstetten
-  Kapfenberger SV          -  FC Blau-Weiß Linz
-  20.25  SK Sturm Graz            -  FC Wacker Innsbruck
-[Mi 25.11.]
-  17.15  FK Austria Wien          -  TSV Hartberg
-  20.25  First Vienna FC          -  SCR Altach
-[Mi 16.12.]
-  18.00  LASK Linz                -  ASK Elektra Wien
-  20.30  FC RB Salzburg           -  SK Rapid Wien
+Round of 16
+[Sat Nov/14]
+  20.25  Floridsdorfer AC         1-3 a.e.t. (1-1, 0-0)  SK Austria Klagenfurt
+[Tue Nov/24]
+  20.25  Sturm Graz               1-0 (0-0)  FC Wacker Innsbruck
+[Wed Nov/25]
+  17.15  Austria Wien             5-3 (3-0)  TSV Hartberg
+  20.25  First Vienna FC          2-1 (1-1)  SCR Altach
+[Tue Dec/15]
+  18.00  Kapfenberger SV          2-0 (0-0)  FC Blau Weiß Linz
+[Wed Dec/16]
+  16.00  Wolfsberger AC           2-0 (1-0)  SKU Amstetten
+  18.00  LASK                     3-0 (3-0)  AS Koma Elektra
+  20.30  RB Salzburg              6-2 (3-1)  Rapid Wien
+
+
+Quarterfinals
+[Fri Feb/5]
+  18.00  Kapfenberger SV          1-2 a.e.t. (1-1, 1-1)  Wolfsberger AC
+  20.30  Sturm Graz               1-0 (0-0)  First Vienna FC
+[Sat Feb/6]
+  17.00  RB Salzburg              2-0 (1-0)  Austria Wien
+[Sun Feb/7]
+  17.00  LASK                     5-3 a.e.t. (2-2, 0-1)  SK Austria Klagenfurt
+
+
+Semifinals
+[Wed Mar/3]
+  19.00  Wolfsberger AC           0-1 a.e.t. (0-0)  LASK
+  21.05  Sturm Graz               0-4 (0-1)  RB Salzburg
+
+
+Final
+[Sat May/1]
+  20.30  LASK                     0-3 (0-1)  RB Salzburg
