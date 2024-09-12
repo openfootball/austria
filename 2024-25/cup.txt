@@ -1,39 +1,63 @@
 = ÖFB Cup 2024/25
 
 
+
 Round 1
 [Fri Jul/26]
-  18.00  Union Gurten             -  LASK
-         ATUS Velden              -  Grazer AK
-         SC Wiener Viktoria       -  DSV Leoben
-         FC Dornbirn              -  RB Salzburg
-         ASKÖ Köttmannsdorf       -  SV Horn
-  18.30  SK Treibach              -  Kapfenberger SV
-  19.00  SV Wallern               -  FC Kitzbühel
-         SC Weiz                  -  SV Lafnitz
-         FCM Traiskirchen         -  SKU Amstetten
-         SV Wals-Grünau           -  Austria Lustenau
-         SV Gloggnitz             -  SK Austria Klagenfurt
-         SK Bischofshofen         -  TSV Hartberg
-         ASV Draßburg             -  Wolfsberger AC
-  19.30  FC Marchfeld Donauauen   -  First Vienna FC
-         SV Oberwart              -  SV Stripfing/Weiden
-         Deutschlandsberger SC    -  SC Korneuburg
+  18.00  ASKÖ Köttmannsdorf       0-2 (0-1)  SV Horn
+         Union Gurten             0-3 (0-2)  LASK
+         ATUS Velden              3-4 pen. 2-2 a.e.t. (2-2, 1-0)  Grazer AK
+         SC Wiener Viktoria       2-1 a.e.t. (1-1, 0-0)  DSV Leoben
+         FC Dornbirn              0-6 (0-4)  RB Salzburg
+  18.30  SK Treibach              1-6 (0-4)  Kapfenberger SV 1919
+  19.00  SV Wallern               4-0 (2-0)  FC Kitzbühel
+         SC Weiz                  4-5 pen. 3-3 a.e.t. (2-2, 0-1)  SV Lafnitz
+         FCM Traiskirchen         1-4 (0-1)  SKU Amstetten
+         SV Wals-Grünau           1-2 (0-1)  Austria Lustenau
+         SV Gloggnitz             0-5 (0-4)  SK Austria Klagenfurt
+         SK Bischofshofen         1-11 (0-3)  TSV Hartberg
+         ASV Draßburg             0-7 (0-4)  Wolfsberger AC
+  19.30  Deutschlandsberger SC    5-0 (2-0)  SC Korneuburg
+         FC Marchfeld Donauauen   1-3 (1-0)  First Vienna FC
+         SV Oberwart              0-2 (0-1)  SV Stripfing/Weiden
 [Sat Jul/27]
-  17.00  Austria Salzburg         -  SVG Reichenau
-  17.30  SR Donaufeld             -  SCR Altach
-         Union Dietach            -  WSC Hertha
-  18.00  VfB Hohenems             -  ASKÖ Oedt
-         SV Wildon                -  FC Blau Weiß Linz
-  18.15  Kremser SC               -  Sturm Graz
-  18.30  SV Donau Wien            -  ASK Voitsberg
-  19.00  USV St. Anna             -  FC Admira Wacker
-         SV Leobendorf            -  SKN St. Pölten
-  19.30  ASV Siegendorf           -  Floridsdorfer AC
+  17.00  Austria Salzburg         1-2 (1-1)  SVG Reichenau
+  17.30  Union Dietach            0-2 (0-1)  WSC Hertha
+         SR Donaufeld             2-0 (1-0)  SCR Altach
+  18.00  ASK Klagenfurt           0-14 (0-5)  Sportunion Mauer
+         SC Schwaz                0-2 (0-0)  Schwarz-Weiß Bregenz
+         SV Wildon                0-5 (0-1)  FC Blau Weiß Linz
+         VfB Hohenems             2-4 pen. 4-4 a.e.t. (4-4, 2-4)  ASKÖ Oedt
+  18.15  Kremser SC               2-4 a.e.t. (2-2, 2-2)  Sturm Graz
+  18.30  SV Donau Wien            0-3 (0-1)  ASK Voitsberg
+  19.00  USV St. Anna             1-5 (0-2)  FC Admira Wacker
+         SV Leobendorf            2-3 (1-0)  SKN St. Pölten
+  19.30  ASV Siegendorf           2-1 (2-0)  Floridsdorfer AC
 [Sun Jul/28]
-  10.30  ASK Klagenfurt           -  Sportunion Mauer
-         SC Röthis                -  SV Ried
-  16.00  FC Pinzgau Saalfelden    -  Austria Wien
-  16.30  SC Imst                  -  WSG Tirol
-  17.00  SC Schwaz                -  Schwarz-Weiß Bregenz
-  18.30  SC Neusiedl/See 1919     -  Rapid Wien
+  16.00  FC Pinzgau Saalfelden    0-6 (0-4)  Austria Wien
+  16.30  SC Imst                  0-3 (0-1)  WSG Tirol
+  18.30  SC Neusiedl/See 1919     0-2 (0-1)  Rapid Wien
+  10.30  SC Röthis                0-11 (0-6)  SV Ried
+
+
+Round 2
+[Tue Aug/27]
+  19.00  First Vienna FC          0-3 (0-2)  SV Stripfing/Weiden
+         SV Horn                  3-1 (1-0)  SKU Amstetten
+         FC Admira Wacker         1-3 (0-1)  Austria Lustenau
+         SKN St. Pölten           0-2 (0-1)  Schwarz-Weiß Bregenz
+         Deutschlandsberger SC    2-4 (1-1)  WSG Tirol
+         SV Lafnitz               0-6 (0-3)  TSV Hartberg
+         ASV Siegendorf           0-5 (0-3)  SK Austria Klagenfurt
+[Wed Aug/28]
+  17.30  SVG Reichenau            0-9 (0-3)  Grazer AK
+  18.00  SV Ried                  1-3 (1-3)  Sturm Graz
+  18.30  WSC Hertha               0-1 (0-1)  FC Blau Weiß Linz
+  19.00  Kapfenberger SV 1919     0-2 (0-1)  ASK Voitsberg
+         ASKÖ Oedt                2-3 (1-2)  Austria Wien
+  19.30  SV Wallern               0-2 (0-0)  Wolfsberger AC
+[Tue Sep/17]
+  18.00  Sportunion Mauer         -  LASK
+[Wed Sep/25]
+  18.00  SC Wiener Viktoria       -  RB Salzburg
+         SR Donaufeld             -  Rapid Wien

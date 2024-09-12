@@ -1,361 +1,389 @@
 = Österr. 2. Liga 2024/25
 
 
+
 Matchday 1
 [Fri Aug/2]
-  SV Stripfing/Weiden      -  SV Ried
-  SV Horn                  -  Rapid Wien II
-  Floridsdorfer AC         -  SKN St. Pölten
-  Austria Lustenau         -  SV Lafnitz
-  FC Admira Wacker         -  Kapfenberger SV
-  Sturm Graz II            -  Schwarz-Weiß Bregenz
-  FC Liefering             -  First Vienna FC
-  ASK Voitsberg            -  SKU Amstetten
+  18.00  ASK Voitsberg            1-2 (1-0)  SKU Amstetten
+         SV Stripfing/Weiden      0-1 (0-0)  SV Ried
+         SV Horn                  2-3 (1-3)  Rapid Wien (A)
+         FC Admira Wacker         0-1 (0-1)  Kapfenberger SV 1919
+         FC Liefering             0-1 (0-0)  First Vienna FC
+[Sat Aug/3]
+  20.00  Sturm Graz (A)           0-0  Schwarz-Weiß Bregenz
+  14.30  Austria Lustenau         0-0  SV Lafnitz
+[Sun Aug/4]
+  10.30  Floridsdorfer AC         2-0 (0-0)  SKN St. Pölten
 
 
 Matchday 2
 [Fri Aug/9]
-  SKU Amstetten            -  SV Stripfing/Weiden
-  SV Lafnitz               -  FC Liefering
-  Schwarz-Weiß Bregenz     -  ASK Voitsberg
-  Rapid Wien II            -  Sturm Graz II
-  Kapfenberger SV          -  Floridsdorfer AC
-  SV Ried                  -  SV Horn
-  SKN St. Pölten           -  Austria Lustenau
-  First Vienna FC          -  FC Admira Wacker
+  18.00  SKU Amstetten            1-0 (1-0)  SV Stripfing/Weiden
+         SV Lafnitz               4-5 (1-4)  FC Liefering
+         Kapfenberger SV 1919     3-1 (1-0)  Floridsdorfer AC
+         SV Ried                  4-0 (2-0)  SV Horn
+  20.30  SKN St. Pölten           0-0  Austria Lustenau
+[Sat Aug/10]
+  20.00  Rapid Wien (A)           4-2 (3-1)  Sturm Graz (A)
+  14.30  Schwarz-Weiß Bregenz     2-1 (2-1)  ASK Voitsberg
+[Sun Aug/11]
+  10.30  First Vienna FC          0-2 (0-1)  FC Admira Wacker
 
 
 Matchday 3
 [Fri Aug/16]
-  SV Stripfing/Weiden      -  First Vienna FC
-  Floridsdorfer AC         -  SV Ried
-  Austria Lustenau         -  Rapid Wien II
-  SKN St. Pölten           -  SKU Amstetten
-  FC Admira Wacker         -  SV Lafnitz
-  Sturm Graz II            -  Kapfenberger SV
-  FC Liefering             -  Schwarz-Weiß Bregenz
-  ASK Voitsberg            -  SV Horn
+  18.00  FC Liefering             2-2 (1-1)  Schwarz-Weiß Bregenz
+         ASK Voitsberg            0-2 (0-1)  SV Horn
+         SV Stripfing/Weiden      2-2 (0-0)  First Vienna FC
+         Floridsdorfer AC         0-1 (0-1)  SV Ried
+         Austria Lustenau         2-2 (1-1)  Rapid Wien (A)
+  20.30  FC Admira Wacker         1-0 (1-0)  SV Lafnitz
+[Sat Aug/17]
+  20.00  Sturm Graz (A)           1-2 (1-1)  Kapfenberger SV 1919
+[Sun Aug/18]
+  10.30  SKN St. Pölten           1-1 (0-0)  SKU Amstetten
 
 
 Matchday 4
 [Fri Aug/23]
-  SKU Amstetten            -  Sturm Graz II
-  SV Lafnitz               -  SV Stripfing/Weiden
-  Schwarz-Weiß Bregenz     -  FC Admira Wacker
-  Rapid Wien II            -  ASK Voitsberg
-  SV Horn                  -  Austria Lustenau
-  Kapfenberger SV          -  SKN St. Pölten
-  SV Ried                  -  FC Liefering
-  First Vienna FC          -  Floridsdorfer AC
+  18.00  SKU Amstetten            3-1 (0-1)  Sturm Graz (A)
+         SV Lafnitz               2-2 (1-0)  SV Stripfing/Weiden
+         Schwarz-Weiß Bregenz     1-2 (0-0)  FC Admira Wacker
+         SV Horn                  1-2 (0-1)  Austria Lustenau
+         Kapfenberger SV 1919     2-0 (1-0)  SKN St. Pölten
+  20.30  First Vienna FC          0-2 (0-0)  Floridsdorfer AC
+[Sat Aug/24]
+  20.00  Rapid Wien (A)           4-0 (3-0)  ASK Voitsberg
+  14.30  SV Ried                  2-0 (0-0)  FC Liefering
 
 
 Matchday 5
 [Fri Aug/30]
-  SKU Amstetten            -  Schwarz-Weiß Bregenz
-  SV Stripfing/Weiden      -  SV Horn
-  SV Lafnitz               -  SV Ried
-  Austria Lustenau         -  Floridsdorfer AC
-  FC Admira Wacker         -  Rapid Wien II
-  First Vienna FC          -  SKN St. Pölten
-  FC Liefering             -  Sturm Graz II
-  ASK Voitsberg            -  Kapfenberger SV
+  18.00  FC Liefering             2-2 (1-0)  Sturm Graz (A)
+         SKU Amstetten            1-2 (1-1)  Schwarz-Weiß Bregenz
+         Austria Lustenau         1-1 (1-0)  Floridsdorfer AC
+  20.30  First Vienna FC          2-1 (0-1)  SKN St. Pölten
+[Sat Aug/31]
+  14.30  SV Lafnitz               0-3 (0-0)  SV Ried
+         SV Stripfing/Weiden      3-0 (1-0)  SV Horn
+[Sun Sep/1]
+  10.30  ASK Voitsberg            1-2 (1-1)  Kapfenberger SV 1919
 
 
 Matchday 6
 [Fri Sep/13]
-  Schwarz-Weiß Bregenz     -  SV Lafnitz
-  Rapid Wien II            -  SKU Amstetten
-  SV Horn                  -  First Vienna FC
-  Floridsdorfer AC         -  FC Liefering
-  Kapfenberger SV          -  Austria Lustenau
-  SV Ried                  -  ASK Voitsberg
-  SKN St. Pölten           -  FC Admira Wacker
-  Sturm Graz II            -  SV Stripfing/Weiden
+  20.30  SKN St. Pölten           -  FC Admira Wacker
+  18.00  Rapid Wien (A)           -  SKU Amstetten
+         Kapfenberger SV 1919     -  Austria Lustenau
+         SV Ried                  -  ASK Voitsberg
+[Sat Sep/14]
+  14.30  Schwarz-Weiß Bregenz     -  SV Lafnitz
+         Floridsdorfer AC         -  FC Liefering
+  20.00  Sturm Graz (A)           -  SV Stripfing/Weiden
+[Sun Sep/15]
+  10.30  SV Horn                  -  First Vienna FC
+
+
+Matchday 5
+[Tue Sep/17]
+  20.30  FC Admira Wacker         -  Rapid Wien (A)
 
 
 Matchday 7
 [Fri Sep/20]
-  SKU Amstetten            -  SV Ried
-  SV Stripfing/Weiden      -  Schwarz-Weiß Bregenz
-  SV Lafnitz               -  Kapfenberger SV
-  Austria Lustenau         -  Sturm Graz II
-  FC Admira Wacker         -  Floridsdorfer AC
-  First Vienna FC          -  Rapid Wien II
-  FC Liefering             -  SV Horn
-  ASK Voitsberg            -  SKN St. Pölten
+  18.00  ASK Voitsberg            -  SKN St. Pölten
+         SV Stripfing/Weiden      -  Schwarz-Weiß Bregenz
+         SV Lafnitz               -  Kapfenberger SV 1919
+         First Vienna FC          -  Rapid Wien (A)
+  20.30  FC Admira Wacker         -  Floridsdorfer AC
+[Sat Sep/21]
+  14.30  Austria Lustenau         -  Sturm Graz (A)
+[Sun Sep/22]
+  12.30  FC Liefering             -  SV Horn
+  10.30  SKU Amstetten            -  SV Ried
 
 
 Matchday 8
 [Fri Sep/27]
-  Schwarz-Weiß Bregenz     -  First Vienna FC
-  SV Horn                  -  SKU Amstetten
-  Floridsdorfer AC         -  SV Lafnitz
-  Kapfenberger SV          -  FC Liefering
-  SV Ried                  -  Rapid Wien II
-  SKN St. Pölten           -  SV Stripfing/Weiden
-  FC Admira Wacker         -  Austria Lustenau
-  Sturm Graz II            -  ASK Voitsberg
+  18.00  Schwarz-Weiß Bregenz     -  First Vienna FC
+         SV Horn                  -  SKU Amstetten
+         Kapfenberger SV 1919     -  FC Liefering
+         FC Admira Wacker         -  Austria Lustenau
+  20.30  SV Ried                  -  Rapid Wien (A)
+[Sat Sep/28]
+  20.00  Sturm Graz (A)           -  ASK Voitsberg
+  14.30  SKN St. Pölten           -  SV Stripfing/Weiden
+[Sun Sep/29]
+  10.30  Floridsdorfer AC         -  SV Lafnitz
 
 
 Matchday 9
 [Fri Oct/4]
-  SKU Amstetten            -  Kapfenberger SV
-  SV Stripfing/Weiden      -  FC Admira Wacker
-  Schwarz-Weiß Bregenz     -  SV Horn
-  Rapid Wien II            -  Floridsdorfer AC
-  SV Ried                  -  SKN St. Pölten
-  First Vienna FC          -  Sturm Graz II
-  FC Liefering             -  Austria Lustenau
-  ASK Voitsberg            -  SV Lafnitz
+  18.00  ASK Voitsberg            -  SV Lafnitz
+         SKU Amstetten            -  Kapfenberger SV 1919
+         SV Stripfing/Weiden      -  FC Admira Wacker
+         Schwarz-Weiß Bregenz     -  SV Horn
+         SV Ried                  -  SKN St. Pölten
+         First Vienna FC          -  Sturm Graz (A)
+[Sat Oct/5]
+  14.30  Rapid Wien (A)           -  Floridsdorfer AC
+[Sun Oct/6]
+  12.30  FC Liefering             -  Austria Lustenau
 
 
 Matchday 10
 [Fri Oct/18]
-  SV Stripfing/Weiden      -  ASK Voitsberg
-  SV Lafnitz               -  First Vienna FC
-  SV Horn                  -  Sturm Graz II
-  Floridsdorfer AC         -  Schwarz-Weiß Bregenz
-  Austria Lustenau         -  SV Ried
-  Kapfenberger SV          -  Rapid Wien II
-  SKN St. Pölten           -  FC Liefering
-  FC Admira Wacker         -  SKU Amstetten
+  18.00  SV Stripfing/Weiden      -  ASK Voitsberg
+         SV Lafnitz               -  First Vienna FC
+         SV Horn                  -  Sturm Graz (A)
+         Floridsdorfer AC         -  Schwarz-Weiß Bregenz
+         Austria Lustenau         -  SV Ried
+         Kapfenberger SV 1919     -  Rapid Wien (A)
+         SKN St. Pölten           -  FC Liefering
+         FC Admira Wacker         -  SKU Amstetten
 
 
 Matchday 11
 [Fri Oct/25]
-  Schwarz-Weiß Bregenz     -  Austria Lustenau
-  Rapid Wien II            -  SV Lafnitz
-  SV Horn                  -  SKN St. Pölten
-  First Vienna FC          -  ASK Voitsberg
-  Sturm Graz II            -  FC Admira Wacker
-  SV Ried                  -  Kapfenberger SV
-  FC Liefering             -  SV Stripfing/Weiden
-  SKU Amstetten            -  Floridsdorfer AC
+  18.00  Schwarz-Weiß Bregenz     -  Austria Lustenau
+         SV Horn                  -  SKN St. Pölten
+         First Vienna FC          -  ASK Voitsberg
+         SV Ried                  -  Kapfenberger SV 1919
+         SKU Amstetten            -  Floridsdorfer AC
+[Sat Oct/26]
+  14.30  Rapid Wien (A)           -  SV Lafnitz
+  20.00  Sturm Graz (A)           -  FC Admira Wacker
+  14.30  FC Liefering             -  SV Stripfing/Weiden
 
 
 Matchday 12
 [Fri Nov/1]
-  ASK Voitsberg            -  FC Liefering
-  SV Lafnitz               -  SV Horn
-  Rapid Wien II            -  Schwarz-Weiß Bregenz
-  Floridsdorfer AC         -  SV Stripfing/Weiden
-  Austria Lustenau         -  SKU Amstetten
-  Kapfenberger SV          -  First Vienna FC
-  SKN St. Pölten           -  Sturm Graz II
-  FC Admira Wacker         -  SV Ried
+  18.00  ASK Voitsberg            -  FC Liefering
+         SV Lafnitz               -  SV Horn
+         Floridsdorfer AC         -  SV Stripfing/Weiden
+         SKN St. Pölten           -  Sturm Graz (A)
+         FC Admira Wacker         -  SV Ried
+[Sat Nov/2]
+  14.30  Austria Lustenau         -  SKU Amstetten
+         Kapfenberger SV 1919     -  First Vienna FC
+         Rapid Wien (A)           -  Schwarz-Weiß Bregenz
 
 
 Matchday 13
 [Fri Nov/8]
-  SKU Amstetten            -  SV Lafnitz
-  SV Stripfing/Weiden      -  Kapfenberger SV
-  Schwarz-Weiß Bregenz     -  SKN St. Pölten
-  SV Horn                  -  Floridsdorfer AC
-  First Vienna FC          -  Austria Lustenau
-  Sturm Graz II            -  SV Ried
-  FC Liefering             -  Rapid Wien II
-  ASK Voitsberg            -  FC Admira Wacker
+  18.00  ASK Voitsberg            -  FC Admira Wacker
+         SKU Amstetten            -  SV Lafnitz
+         SV Stripfing/Weiden      -  Kapfenberger SV 1919
+         Schwarz-Weiß Bregenz     -  SKN St. Pölten
+         SV Horn                  -  Floridsdorfer AC
+         First Vienna FC          -  Austria Lustenau
+[Sat Nov/9]
+  20.00  Sturm Graz (A)           -  SV Ried
+  14.30  FC Liefering             -  Rapid Wien (A)
 
 
 Matchday 14
 [Fri Nov/22]
-  SKU Amstetten            -  First Vienna FC
-  SV Lafnitz               -  Sturm Graz II
-  Rapid Wien II            -  SKN St. Pölten
-  Floridsdorfer AC         -  ASK Voitsberg
-  Austria Lustenau         -  SV Stripfing/Weiden
-  Kapfenberger SV          -  SV Horn
-  SV Ried                  -  Schwarz-Weiß Bregenz
-  FC Admira Wacker         -  FC Liefering
+  18.00  SKU Amstetten            -  First Vienna FC
+         SV Lafnitz               -  Sturm Graz (A)
+         Rapid Wien (A)           -  SKN St. Pölten
+         Floridsdorfer AC         -  ASK Voitsberg
+         Austria Lustenau         -  SV Stripfing/Weiden
+         SV Ried                  -  Schwarz-Weiß Bregenz
+[Sat Nov/23]
+  14.30  FC Admira Wacker         -  FC Liefering
+         Kapfenberger SV 1919     -  SV Horn
 
 
 Matchday 15
 [Fri Nov/29]
-  SV Stripfing/Weiden      -  Rapid Wien II
-  Schwarz-Weiß Bregenz     -  Kapfenberger SV
-  SV Horn                  -  FC Admira Wacker
-  SKN St. Pölten           -  SV Lafnitz
-  First Vienna FC          -  SV Ried
-  Sturm Graz II            -  Floridsdorfer AC
-  FC Liefering             -  SKU Amstetten
-  ASK Voitsberg            -  Austria Lustenau
+  18.00  ASK Voitsberg            -  Austria Lustenau
+         SV Stripfing/Weiden      -  Rapid Wien (A)
+         Schwarz-Weiß Bregenz     -  Kapfenberger SV 1919
+         SV Horn                  -  FC Admira Wacker
+         SKN St. Pölten           -  SV Lafnitz
+         First Vienna FC          -  SV Ried
+[Sat Nov/30]
+  20.00  Sturm Graz (A)           -  Floridsdorfer AC
+  14.30  FC Liefering             -  SKU Amstetten
 
 
 Matchday 16
 [Fri Dec/6]
-  First Vienna FC          -  FC Liefering
-  SKU Amstetten            -  ASK Voitsberg
-  SV Ried                  -  SV Stripfing/Weiden
-  Rapid Wien II            -  SV Horn
-  SKN St. Pölten           -  Floridsdorfer AC
-  SV Lafnitz               -  Austria Lustenau
-  Kapfenberger SV          -  FC Admira Wacker
-  Schwarz-Weiß Bregenz     -  Sturm Graz II
+  18.00  First Vienna FC          -  FC Liefering
+         SKU Amstetten            -  ASK Voitsberg
+         SV Ried                  -  SV Stripfing/Weiden
+         Rapid Wien (A)           -  SV Horn
+         SKN St. Pölten           -  Floridsdorfer AC
+[Sat Dec/7]
+  14.30  Kapfenberger SV 1919     -  FC Admira Wacker
+         Schwarz-Weiß Bregenz     -  Sturm Graz (A)
+         SV Lafnitz               -  Austria Lustenau
 
 
 Matchday 17
 [Sun Feb/23]
+  SV Stripfing/Weiden      -  SKU Amstetten
+  FC Liefering             -  SV Lafnitz
   ASK Voitsberg            -  Schwarz-Weiß Bregenz
-  Sturm Graz II            -  Rapid Wien II
-  Floridsdorfer AC         -  Kapfenberger SV
+  Sturm Graz (A)           -  Rapid Wien (A)
+  Floridsdorfer AC         -  Kapfenberger SV 1919
   SV Horn                  -  SV Ried
   Austria Lustenau         -  SKN St. Pölten
   FC Admira Wacker         -  First Vienna FC
-  SV Stripfing/Weiden      -  SKU Amstetten
-  FC Liefering             -  SV Lafnitz
 
 
 Matchday 18
 [Fri Feb/28]
-  Schwarz-Weiß Bregenz     -  FC Liefering
   SV Horn                  -  ASK Voitsberg
   First Vienna FC          -  SV Stripfing/Weiden
   SV Ried                  -  Floridsdorfer AC
-  Rapid Wien II            -  Austria Lustenau
+  Rapid Wien (A)           -  Austria Lustenau
   SKU Amstetten            -  SKN St. Pölten
   SV Lafnitz               -  FC Admira Wacker
-  Kapfenberger SV          -  Sturm Graz II
+  Kapfenberger SV 1919     -  Sturm Graz (A)
+  Schwarz-Weiß Bregenz     -  FC Liefering
 
 
 Matchday 19
 [Fri Mar/7]
+  Sturm Graz (A)           -  SKU Amstetten
+  SV Stripfing/Weiden      -  SV Lafnitz
   FC Admira Wacker         -  Schwarz-Weiß Bregenz
-  ASK Voitsberg            -  Rapid Wien II
+  ASK Voitsberg            -  Rapid Wien (A)
   Austria Lustenau         -  SV Horn
-  SKN St. Pölten           -  Kapfenberger SV
+  SKN St. Pölten           -  Kapfenberger SV 1919
   FC Liefering             -  SV Ried
   Floridsdorfer AC         -  First Vienna FC
-  Sturm Graz II            -  SKU Amstetten
-  SV Stripfing/Weiden      -  SV Lafnitz
 
 
 Matchday 20
 [Fri Mar/14]
-  Sturm Graz II            -  FC Liefering
-  Kapfenberger SV          -  ASK Voitsberg
+  Kapfenberger SV 1919     -  ASK Voitsberg
   Schwarz-Weiß Bregenz     -  SKU Amstetten
   SV Horn                  -  SV Stripfing/Weiden
   SV Ried                  -  SV Lafnitz
   Floridsdorfer AC         -  Austria Lustenau
-  Rapid Wien II            -  FC Admira Wacker
+  Rapid Wien (A)           -  FC Admira Wacker
   SKN St. Pölten           -  First Vienna FC
+  Sturm Graz (A)           -  FC Liefering
 
 
 Matchday 21
 [Fri Mar/28]
+  SV Lafnitz               -  Schwarz-Weiß Bregenz
+  SKU Amstetten            -  Rapid Wien (A)
   First Vienna FC          -  SV Horn
   FC Liefering             -  Floridsdorfer AC
-  Austria Lustenau         -  Kapfenberger SV
+  Austria Lustenau         -  Kapfenberger SV 1919
   ASK Voitsberg            -  SV Ried
   FC Admira Wacker         -  SKN St. Pölten
-  SV Stripfing/Weiden      -  Sturm Graz II
-  SV Lafnitz               -  Schwarz-Weiß Bregenz
-  SKU Amstetten            -  Rapid Wien II
+  SV Stripfing/Weiden      -  Sturm Graz (A)
 
 
 Matchday 22
 [Fri Apr/4]
-  SKN St. Pölten           -  ASK Voitsberg
   SV Ried                  -  SKU Amstetten
   Schwarz-Weiß Bregenz     -  SV Stripfing/Weiden
-  Kapfenberger SV          -  SV Lafnitz
-  Sturm Graz II            -  Austria Lustenau
+  Kapfenberger SV 1919     -  SV Lafnitz
+  Sturm Graz (A)           -  Austria Lustenau
   Floridsdorfer AC         -  FC Admira Wacker
-  Rapid Wien II            -  First Vienna FC
+  Rapid Wien (A)           -  First Vienna FC
   SV Horn                  -  FC Liefering
+  SKN St. Pölten           -  ASK Voitsberg
 
 
 Matchday 23
 [Fri Apr/11]
-  SV Lafnitz               -  Floridsdorfer AC
-  FC Liefering             -  Kapfenberger SV
-  Rapid Wien II            -  SV Ried
-  SV Stripfing/Weiden      -  SKN St. Pölten
-  Austria Lustenau         -  FC Admira Wacker
-  ASK Voitsberg            -  Sturm Graz II
   First Vienna FC          -  Schwarz-Weiß Bregenz
   SKU Amstetten            -  SV Horn
+  SV Lafnitz               -  Floridsdorfer AC
+  FC Liefering             -  Kapfenberger SV 1919
+  Rapid Wien (A)           -  SV Ried
+  SV Stripfing/Weiden      -  SKN St. Pölten
+  Austria Lustenau         -  FC Admira Wacker
+  ASK Voitsberg            -  Sturm Graz (A)
 
 
 Matchday 24
 [Fri Apr/18]
-  Austria Lustenau         -  FC Liefering
   SV Lafnitz               -  ASK Voitsberg
-  Kapfenberger SV          -  SKU Amstetten
+  Kapfenberger SV 1919     -  SKU Amstetten
   FC Admira Wacker         -  SV Stripfing/Weiden
   SV Horn                  -  Schwarz-Weiß Bregenz
-  Floridsdorfer AC         -  Rapid Wien II
+  Floridsdorfer AC         -  Rapid Wien (A)
   SKN St. Pölten           -  SV Ried
-  Sturm Graz II            -  First Vienna FC
+  Sturm Graz (A)           -  First Vienna FC
+  Austria Lustenau         -  FC Liefering
 
 
 Matchday 25
 [Mon Apr/21]
-  Sturm Graz II            -  SV Horn
-  Schwarz-Weiß Bregenz     -  Floridsdorfer AC
-  SV Ried                  -  Austria Lustenau
-  Rapid Wien II            -  Kapfenberger SV
-  FC Liefering             -  SKN St. Pölten
-  SKU Amstetten            -  FC Admira Wacker
   ASK Voitsberg            -  SV Stripfing/Weiden
   First Vienna FC          -  SV Lafnitz
+  Sturm Graz (A)           -  SV Horn
+  Schwarz-Weiß Bregenz     -  Floridsdorfer AC
+  SV Ried                  -  Austria Lustenau
+  Rapid Wien (A)           -  Kapfenberger SV 1919
+  FC Liefering             -  SKN St. Pölten
+  SKU Amstetten            -  FC Admira Wacker
 
 
 Matchday 26
 [Fri Apr/25]
-  SV Stripfing/Weiden      -  FC Liefering
   Floridsdorfer AC         -  SKU Amstetten
   Austria Lustenau         -  Schwarz-Weiß Bregenz
-  SV Lafnitz               -  Rapid Wien II
+  SV Lafnitz               -  Rapid Wien (A)
   SKN St. Pölten           -  SV Horn
   ASK Voitsberg            -  First Vienna FC
-  FC Admira Wacker         -  Sturm Graz II
-  Kapfenberger SV          -  SV Ried
+  FC Admira Wacker         -  Sturm Graz (A)
+  Kapfenberger SV 1919     -  SV Ried
+  SV Stripfing/Weiden      -  FC Liefering
 
 
 Matchday 27
 [Fri May/2]
-  Schwarz-Weiß Bregenz     -  Rapid Wien II
-  SV Stripfing/Weiden      -  Floridsdorfer AC
-  SKU Amstetten            -  Austria Lustenau
-  First Vienna FC          -  Kapfenberger SV
-  Sturm Graz II            -  SKN St. Pölten
-  SV Ried                  -  FC Admira Wacker
   FC Liefering             -  ASK Voitsberg
   SV Horn                  -  SV Lafnitz
+  Schwarz-Weiß Bregenz     -  Rapid Wien (A)
+  SV Stripfing/Weiden      -  Floridsdorfer AC
+  SKU Amstetten            -  Austria Lustenau
+  First Vienna FC          -  Kapfenberger SV 1919
+  Sturm Graz (A)           -  SKN St. Pölten
+  SV Ried                  -  FC Admira Wacker
 
 
 Matchday 28
 [Fri May/9]
-  Rapid Wien II            -  FC Liefering
   FC Admira Wacker         -  ASK Voitsberg
   SV Lafnitz               -  SKU Amstetten
-  Kapfenberger SV          -  SV Stripfing/Weiden
+  Kapfenberger SV 1919     -  SV Stripfing/Weiden
   SKN St. Pölten           -  Schwarz-Weiß Bregenz
   Floridsdorfer AC         -  SV Horn
   Austria Lustenau         -  First Vienna FC
-  SV Ried                  -  Sturm Graz II
+  SV Ried                  -  Sturm Graz (A)
+  Rapid Wien (A)           -  FC Liefering
 
 
 Matchday 29
 [Fri May/16]
-  SKN St. Pölten           -  Rapid Wien II
+  First Vienna FC          -  SKU Amstetten
+  Sturm Graz (A)           -  SV Lafnitz
+  SKN St. Pölten           -  Rapid Wien (A)
   ASK Voitsberg            -  Floridsdorfer AC
   SV Stripfing/Weiden      -  Austria Lustenau
-  SV Horn                  -  Kapfenberger SV
+  SV Horn                  -  Kapfenberger SV 1919
   Schwarz-Weiß Bregenz     -  SV Ried
   FC Liefering             -  FC Admira Wacker
-  First Vienna FC          -  SKU Amstetten
-  Sturm Graz II            -  SV Lafnitz
 
 
 Matchday 30
 [Sun May/25]
-  SKU Amstetten            -  FC Liefering
   Austria Lustenau         -  ASK Voitsberg
-  Rapid Wien II            -  SV Stripfing/Weiden
-  Kapfenberger SV          -  Schwarz-Weiß Bregenz
+  Rapid Wien (A)           -  SV Stripfing/Weiden
+  Kapfenberger SV 1919     -  Schwarz-Weiß Bregenz
   FC Admira Wacker         -  SV Horn
   SV Lafnitz               -  SKN St. Pölten
   SV Ried                  -  First Vienna FC
-  Floridsdorfer AC         -  Sturm Graz II
+  Floridsdorfer AC         -  Sturm Graz (A)
+  SKU Amstetten            -  FC Liefering
