@@ -1,23 +1,28 @@
 = Österr. 2. Liga 2023/24
 
+# Date       Fri Jul/28 2023 - Sat May/25 2024 (302d)
+# Teams      16
+# Matches    240
+
+
 
 Matchday 1
 [Fri Jul/28]
-  17.45  SV Lafnitz               3-0 (1-0)  Kapfenberger SV
+  17.45  Schwarz-Weiß Bregenz     2-0 (2-0)  First Vienna FC
+         SV Lafnitz               3-0 (1-0)  Kapfenberger SV 1919
          Grazer AK                3-0 (2-0)  SKU Amstetten
          DSV Leoben               3-2 (1-2)  SV Horn
          FC Admira Wacker         1-0 (0-0)  SV Stripfing/Weiden
          FC Liefering             0-1 (0-1)  FC Dornbirn
-         Schwarz-Weiß Bregenz     2-0 (2-0)  First Vienna FC
 [Sun Jul/30]
-  10.30  Sturm Graz II            1-4 (0-1)  SKN St. Pölten
-         Floridsdorfer AC         1-1 (0-0)  SV Ried
+  10.30  Floridsdorfer AC         1-1 (0-0)  SV Ried
+         Sturm Graz II            1-4 (0-1)  SKN St. Pölten
 
 
 Matchday 2
 [Fri Aug/4]
   18.10  SV Stripfing/Weiden      1-4 (0-1)  DSV Leoben
-         Kapfenberger SV          1-1 (0-0)  Floridsdorfer AC
+         Kapfenberger SV 1919     1-1 (0-0)  Floridsdorfer AC
          FC Dornbirn              0-1 (0-1)  Grazer AK
          SKN St. Pölten           2-0 (1-0)  SV Lafnitz
   20.30  SV Ried                  2-2 (2-1)  FC Admira Wacker
@@ -29,30 +34,30 @@ Matchday 2
 
 Matchday 3
 [Fri Aug/11]
-  18.10  SV Stripfing/Weiden      1-0 (1-0)  SV Ried
-         SKN St. Pölten           0-1 (0-1)  FC Liefering
-         FC Admira Wacker         1-0 (1-0)  SV Horn
   20.30  First Vienna FC          2-3 (2-0)  Grazer AK
+  18.10  SKN St. Pölten           0-1 (0-1)  FC Liefering
+         FC Admira Wacker         1-0 (1-0)  SV Horn
+         SV Stripfing/Weiden      1-0 (1-0)  SV Ried
 [Sat Aug/12]
-  14.30  Schwarz-Weiß Bregenz     0-2 (0-1)  Kapfenberger SV
-         SV Lafnitz               1-0 (0-0)  FC Dornbirn
+  14.30  SV Lafnitz               1-0 (0-0)  FC Dornbirn
+         Schwarz-Weiß Bregenz     0-2 (0-1)  Kapfenberger SV 1919
 [Sun Aug/13]
-  10.30  DSV Leoben               1-0 (0-0)  SKU Amstetten
-         Sturm Graz II            2-2 (1-2)  Floridsdorfer AC
+  10.30  Sturm Graz II            2-2 (1-2)  Floridsdorfer AC
+         DSV Leoben               1-0 (0-0)  SKU Amstetten
 
 
 Matchday 4
 [Fri Aug/18]
-  18.10  FC Liefering             2-1 (0-1)  Schwarz-Weiß Bregenz
-         SV Ried                  2-0 (1-0)  DSV Leoben
+  20.30  Grazer AK                1-0 (1-0)  Sturm Graz II
+  18.10  SV Ried                  2-0 (1-0)  DSV Leoben
          SV Horn                  2-0 (2-0)  First Vienna FC
          Floridsdorfer AC         3-0 (1-0)  SV Lafnitz
          SKU Amstetten            1-1 (0-0)  SV Stripfing/Weiden
-  20.30  Grazer AK                1-0 (1-0)  Sturm Graz II
+         FC Liefering             2-1 (0-1)  Schwarz-Weiß Bregenz
 [Sat Aug/19]
   14.30  FC Dornbirn              1-0 (0-0)  FC Admira Wacker
 [Sun Aug/20]
-  12.30  Kapfenberger SV          0-3 (0-2)  SKN St. Pölten
+  12.30  Kapfenberger SV 1919     0-3 (0-2)  SKN St. Pölten
 
 
 Matchday 2
@@ -69,8 +74,8 @@ Matchday 5
          FC Liefering             1-1 (1-0)  SV Ried
   20.30  FC Dornbirn              0-5 (0-1)  Schwarz-Weiß Bregenz
 [Sun Aug/27]
-  10.30  SV Lafnitz               4-1 (1-0)  Grazer AK
-         Sturm Graz II            3-3 (0-1)  Kapfenberger SV
+  10.30  Sturm Graz II            3-3 (0-1)  Kapfenberger SV 1919
+         SV Lafnitz               4-1 (1-0)  Grazer AK
 
 
 Matchday 6
@@ -78,13 +83,13 @@ Matchday 6
   18.10  FC Admira Wacker         1-1 (1-1)  Sturm Graz II
          SKU Amstetten            0-1 (0-0)  SKN St. Pölten
          First Vienna FC          1-0 (1-0)  SV Stripfing/Weiden
-         Floridsdorfer AC         3-1 (1-0)  FC Liefering
   20.30  Grazer AK                1-0 (0-0)  SV Ried
+  18.10  Floridsdorfer AC         3-1 (1-0)  FC Liefering
 [Sat Sep/2]
-  14.30  Schwarz-Weiß Bregenz     2-1 (1-1)  SV Lafnitz
-         SV Horn                  3-0 (2-0)  FC Dornbirn
+  14.30  SV Horn                  3-0 (2-0)  FC Dornbirn
+         Schwarz-Weiß Bregenz     2-1 (1-1)  SV Lafnitz
 [Sun Sep/3]
-  10.30  Kapfenberger SV          2-1 (1-1)  DSV Leoben
+  10.30  Kapfenberger SV 1919     2-1 (1-1)  DSV Leoben
 
 
 Matchday 7
@@ -96,19 +101,19 @@ Matchday 7
          FC Liefering             1-2 (0-1)  SV Stripfing/Weiden
   20.30  DSV Leoben               1-2 (0-2)  Grazer AK
 [Sun Sep/17]
-  10.30  SV Ried                  2-0 (1-0)  Kapfenberger SV
-         Sturm Graz II            0-2 (0-1)  Schwarz-Weiß Bregenz
+  10.30  Sturm Graz II            0-2 (0-1)  Schwarz-Weiß Bregenz
+         SV Ried                  2-0 (1-0)  Kapfenberger SV 1919
 
 
 Matchday 8
 [Fri Sep/22]
-  18.10  SV Stripfing/Weiden      2-3 (1-1)  Kapfenberger SV
+  18.10  SV Stripfing/Weiden      2-3 (1-1)  Kapfenberger SV 1919
          SKU Amstetten            1-2 (0-2)  SV Lafnitz
-         DSV Leoben               0-4 (0-2)  Floridsdorfer AC
   21.00  FC Admira Wacker         2-2 (1-1)  SKN St. Pölten
+  18.10  DSV Leoben               0-4 (0-2)  Floridsdorfer AC
 [Sat Sep/23]
-  14.30  First Vienna FC          0-0  FC Dornbirn
-         Grazer AK                3-0 (2-0)  FC Liefering
+  14.30  Grazer AK                3-0 (2-0)  FC Liefering
+         First Vienna FC          0-0  FC Dornbirn
   20.00  Schwarz-Weiß Bregenz     0-0  SV Ried
 [Sun Sep/24]
   10.30  SV Horn                  4-0 (3-0)  Sturm Graz II
@@ -121,23 +126,23 @@ Matchday 9
          FC Dornbirn              1-3 (0-2)  SV Stripfing/Weiden
   20.30  SKN St. Pölten           1-3 (0-1)  Grazer AK
 [Sat Sep/30]
-  14.30  Kapfenberger SV          1-1 (0-0)  FC Admira Wacker
-         Floridsdorfer AC         1-2 (1-2)  Schwarz-Weiß Bregenz
+  14.30  Floridsdorfer AC         1-2 (1-2)  Schwarz-Weiß Bregenz
+         Kapfenberger SV 1919     1-1 (0-0)  FC Admira Wacker
 [Sun Oct/1]
-  10.30  SV Lafnitz               2-3 (2-2)  First Vienna FC
-         Sturm Graz II            3-2 (0-0)  SKU Amstetten
+  10.30  Sturm Graz II            3-2 (0-0)  SKU Amstetten
+         SV Lafnitz               2-3 (2-2)  First Vienna FC
 
 
 Matchday 10
 [Fri Oct/6]
-  18.10  SV Horn                  0-2 (0-0)  Kapfenberger SV
+  18.10  SV Horn                  0-2 (0-0)  Kapfenberger SV 1919
          SV Stripfing/Weiden      4-1 (3-1)  SKN St. Pölten
          DSV Leoben               1-1 (1-1)  SV Lafnitz
          SKU Amstetten            2-3 (2-1)  SV Ried
   20.30  First Vienna FC          2-2 (1-0)  Floridsdorfer AC
 [Sat Oct/7]
-  14.30  FC Dornbirn              2-3 (1-1)  Sturm Graz II
-         Grazer AK                1-0 (0-0)  Schwarz-Weiß Bregenz
+  14.30  Grazer AK                1-0 (0-0)  Schwarz-Weiß Bregenz
+         FC Dornbirn              2-3 (1-1)  Sturm Graz II
 [Sun Oct/8]
   10.30  FC Liefering             1-1 (1-0)  FC Admira Wacker
 
@@ -149,9 +154,9 @@ Matchday 11
          SV Lafnitz               0-3 (0-3)  SV Stripfing/Weiden
   20.30  FC Admira Wacker         0-0  Grazer AK
 [Sat Oct/21]
-  14.30  Schwarz-Weiß Bregenz     3-1 (2-0)  SV Horn
+  14.30  Kapfenberger SV 1919     3-2 (2-0)  FC Dornbirn
+         Schwarz-Weiß Bregenz     3-1 (2-0)  SV Horn
          Sturm Graz II            1-1 (0-0)  FC Liefering
-         Kapfenberger SV          3-2 (2-0)  FC Dornbirn
 [Sun Oct/22]
   10.30  SKN St. Pölten           1-2 (0-1)  DSV Leoben
 
@@ -161,60 +166,60 @@ Matchday 12
   18.10  FC Dornbirn              1-2 (0-0)  Floridsdorfer AC
          DSV Leoben               3-2 (3-1)  FC Admira Wacker
          SV Horn                  1-2 (1-1)  Grazer AK
-         SKU Amstetten            1-1 (0-1)  Kapfenberger SV
+         SKU Amstetten            1-1 (0-1)  Kapfenberger SV 1919
          SV Lafnitz               5-2 (4-1)  Sturm Graz II
 [Sat Oct/28]
-  14.30  First Vienna FC          2-0 (1-0)  FC Liefering
-         SV Stripfing/Weiden      1-1 (0-1)  Schwarz-Weiß Bregenz
+  14.30  SV Stripfing/Weiden      1-1 (0-1)  Schwarz-Weiß Bregenz
+         First Vienna FC          2-0 (1-0)  FC Liefering
 [Sun Oct/29]
   10.30  SV Ried                  1-1 (1-0)  SKN St. Pölten
 
 
 Matchday 13
 [Fri Nov/3]
-  18.10  Floridsdorfer AC         0-1 (0-1)  SV Horn
   20.30  FC Admira Wacker         1-0 (1-0)  SV Lafnitz
+  18.10  Floridsdorfer AC         0-1 (0-1)  SV Horn
 [Sat Nov/4]
   14.30  SKN St. Pölten           2-0 (2-0)  FC Dornbirn
-         Kapfenberger SV          0-0  First Vienna FC
+         Kapfenberger SV 1919     0-0  First Vienna FC
          FC Liefering             2-2 (0-2)  SKU Amstetten
 [Sun Nov/5]
-  10.30  Schwarz-Weiß Bregenz     0-0  DSV Leoben
   12.30  Grazer AK                3-0 (2-0)  SV Stripfing/Weiden
+  10.30  Schwarz-Weiß Bregenz     0-0  DSV Leoben
 
 
 Matchday 14
 [Fri Nov/10]
-  18.10  SV Ried                  5-0 (3-0)  SV Lafnitz
-         First Vienna FC          2-1 (0-1)  FC Admira Wacker
+  20.30  Schwarz-Weiß Bregenz     2-3 (1-1)  SKN St. Pölten
+  18.10  First Vienna FC          2-1 (0-1)  FC Admira Wacker
          SV Stripfing/Weiden      2-1 (1-1)  Sturm Graz II
          SV Horn                  3-1 (0-1)  SKU Amstetten
-  20.30  Schwarz-Weiß Bregenz     2-3 (1-1)  SKN St. Pölten
+         SV Ried                  5-0 (3-0)  SV Lafnitz
 [Sat Nov/11]
   14.30  DSV Leoben               6-0 (5-0)  FC Dornbirn
 [Sun Nov/12]
   10.30  Grazer AK                1-3 (1-2)  Floridsdorfer AC
-  12.30  FC Liefering             0-1 (0-0)  Kapfenberger SV
+  12.30  FC Liefering             0-1 (0-0)  Kapfenberger SV 1919
 
 
 Matchday 15
 [Fri Nov/24]
-  18.10  Floridsdorfer AC         2-0 (0-0)  SV Stripfing/Weiden
-         SKN St. Pölten           0-2 (0-1)  SV Horn
-  20.30  Kapfenberger SV          2-3 (1-1)  Grazer AK
+  20.30  Kapfenberger SV 1919     2-3 (1-1)  Grazer AK
+  18.10  SKN St. Pölten           0-2 (0-1)  SV Horn
+         Floridsdorfer AC         2-0 (0-0)  SV Stripfing/Weiden
 [Sat Nov/25]
-  14.30  FC Dornbirn              0-2 (0-1)  SV Ried
+  14.30  SV Lafnitz               1-6 (0-4)  FC Liefering
+         FC Dornbirn              0-2 (0-1)  SV Ried
          FC Admira Wacker         1-3 (1-1)  Schwarz-Weiß Bregenz
-         SV Lafnitz               1-6 (0-4)  FC Liefering
 [Sun Nov/26]
-  10.30  Sturm Graz II            0-2 (0-2)  DSV Leoben
-         SKU Amstetten            1-3 (0-1)  First Vienna FC
+  10.30  SKU Amstetten            1-3 (0-1)  First Vienna FC
+         Sturm Graz II            0-2 (0-2)  DSV Leoben
 
 
 Matchday 16
 [Fri Dec/1]
   18.10  SV Stripfing/Weiden      0-4 (0-2)  FC Admira Wacker
-         Kapfenberger SV          2-4 (1-2)  SV Lafnitz
+         Kapfenberger SV 1919     2-4 (1-2)  SV Lafnitz
          SKN St. Pölten           3-1 (3-0)  Sturm Graz II
 
 
@@ -225,24 +230,24 @@ Matchday 13
 
 Matchday 16
 [Fri Feb/16]
-  18.10  SV Horn                  0-3 (0-1)  DSV Leoben
   20.30  SV Ried                  0-2 (0-0)  Floridsdorfer AC
+  18.10  SV Horn                  0-3 (0-1)  DSV Leoben
 [Sat Feb/17]
-  14.30  SKU Amstetten            1-3 (0-1)  Grazer AK
+  14.30  First Vienna FC          1-2 (0-0)  Schwarz-Weiß Bregenz
+         SKU Amstetten            1-3 (0-1)  Grazer AK
          FC Dornbirn              1-2 (0-0)  FC Liefering
-         First Vienna FC          1-2 (0-0)  Schwarz-Weiß Bregenz
 
 
 Matchday 17
 [Fri Feb/23]
   18.10  DSV Leoben               4-0 (2-0)  SV Stripfing/Weiden
-         Floridsdorfer AC         0-0  Kapfenberger SV
+         Floridsdorfer AC         0-0  Kapfenberger SV 1919
          FC Liefering             2-1 (0-0)  SV Horn
   20.30  SV Lafnitz               0-1 (0-1)  SKN St. Pölten
 [Sat Feb/24]
-  14.30  Schwarz-Weiß Bregenz     0-1 (0-1)  SKU Amstetten
+  14.30  Sturm Graz II            1-1 (0-1)  First Vienna FC
+         Schwarz-Weiß Bregenz     0-1 (0-1)  SKU Amstetten
          Grazer AK                3-0 (2-0)  FC Dornbirn
-         Sturm Graz II            1-1 (0-1)  First Vienna FC
 [Sun Feb/25]
   10.30  FC Admira Wacker         3-2 (1-1)  SV Ried
 
@@ -254,9 +259,9 @@ Matchday 18
          SV Ried                  5-0 (2-0)  SV Stripfing/Weiden
   20.00  Grazer AK                2-2 (0-1)  First Vienna FC
 [Sat Mar/2]
-  14.30  Kapfenberger SV          1-3 (0-2)  Schwarz-Weiß Bregenz
+  14.30  FC Dornbirn              0-2 (0-1)  SV Lafnitz
+         Kapfenberger SV 1919     1-3 (0-2)  Schwarz-Weiß Bregenz
          FC Liefering             3-1 (2-1)  SKN St. Pölten
-         FC Dornbirn              0-2 (0-1)  SV Lafnitz
 [Sun Mar/3]
   10.30  SV Horn                  1-0 (0-0)  FC Admira Wacker
 
@@ -264,7 +269,7 @@ Matchday 18
 Matchday 19
 [Fri Mar/8]
   18.10  First Vienna FC          1-2 (0-2)  SV Horn
-         SKN St. Pölten           2-0 (0-0)  Kapfenberger SV
+         SKN St. Pölten           2-0 (0-0)  Kapfenberger SV 1919
          SV Lafnitz               2-1 (1-1)  Floridsdorfer AC
          SV Stripfing/Weiden      0-2 (0-1)  SKU Amstetten
          Schwarz-Weiß Bregenz     1-1 (0-0)  FC Liefering
@@ -277,26 +282,26 @@ Matchday 19
 
 Matchday 20
 [Fri Mar/15]
-  18.10  SKU Amstetten            1-3 (1-1)  FC Admira Wacker
+  18.10  Grazer AK                1-1 (0-0)  SV Lafnitz
+         SKU Amstetten            1-3 (1-1)  FC Admira Wacker
          SV Horn                  2-1 (0-0)  SV Stripfing/Weiden
          SV Ried                  3-2 (1-1)  FC Liefering
-         First Vienna FC          1-0 (0-0)  DSV Leoben
-         Grazer AK                1-1 (0-0)  SV Lafnitz
   20.30  Floridsdorfer AC         2-1 (1-1)  SKN St. Pölten
+  18.10  First Vienna FC          1-0 (0-0)  DSV Leoben
 [Sat Mar/16]
-  14.30  Kapfenberger SV          1-1 (0-0)  Sturm Graz II
+  14.30  Kapfenberger SV 1919     1-1 (0-0)  Sturm Graz II
 [Sun Mar/17]
   10.30  Schwarz-Weiß Bregenz     1-4 (1-2)  FC Dornbirn
 
 
 Matchday 21
 [Fri Mar/29]
-  18.10  DSV Leoben               0-0  Kapfenberger SV
-         SKN St. Pölten           3-1 (2-0)  SKU Amstetten
+  18.10  SKN St. Pölten           3-1 (2-0)  SKU Amstetten
   20.30  SV Ried                  0-1 (0-0)  Grazer AK
+  18.10  DSV Leoben               0-0  Kapfenberger SV 1919
 [Sat Mar/30]
-  14.30  FC Dornbirn              4-0 (1-0)  SV Horn
-         SV Lafnitz               3-0 (2-0)  Schwarz-Weiß Bregenz
+  14.30  SV Lafnitz               3-0 (2-0)  Schwarz-Weiß Bregenz
+         FC Dornbirn              4-0 (1-0)  SV Horn
 [Sun Mar/31]
   10.30  Sturm Graz II            1-3 (0-1)  FC Admira Wacker
          SV Stripfing/Weiden      3-2 (3-1)  First Vienna FC
@@ -305,10 +310,10 @@ Matchday 21
 
 Matchday 22
 [Fri Apr/5]
-  18.10  SV Horn                  2-1 (0-0)  SV Lafnitz
+  18.10  Kapfenberger SV 1919     1-3 (1-2)  SV Ried
+         SV Horn                  2-1 (0-0)  SV Lafnitz
          SV Stripfing/Weiden      1-2 (0-1)  FC Liefering
          First Vienna FC          7-3 (5-0)  SKN St. Pölten
-         Kapfenberger SV          1-3 (1-2)  SV Ried
 [Sat Apr/6]
   14.30  Grazer AK                1-1 (1-0)  DSV Leoben
          SKU Amstetten            0-1 (0-1)  FC Dornbirn
@@ -319,25 +324,25 @@ Matchday 22
 
 Matchday 23
 [Fri Apr/12]
-  18.10  Kapfenberger SV          3-1 (1-0)  SV Stripfing/Weiden
+  18.10  FC Dornbirn              1-0 (1-0)  First Vienna FC
+         Kapfenberger SV 1919     3-1 (1-0)  SV Stripfing/Weiden
          SKN St. Pölten           0-3 (0-1)  FC Admira Wacker
-         FC Liefering             2-0 (1-0)  Grazer AK
-         FC Dornbirn              1-0 (1-0)  First Vienna FC
   20.30  Floridsdorfer AC         0-2 (0-2)  DSV Leoben
+  18.10  FC Liefering             2-0 (1-0)  Grazer AK
 [Sat Apr/13]
   20.00  SV Ried                  5-0 (3-0)  Schwarz-Weiß Bregenz
 [Sun Apr/14]
-  10.30  Sturm Graz II            2-1 (1-1)  SV Horn
-         SV Lafnitz               2-2 (0-0)  SKU Amstetten
+  10.30  SV Lafnitz               2-2 (0-0)  SKU Amstetten
+         Sturm Graz II            2-1 (1-1)  SV Horn
 
 
 Matchday 24
 [Fri Apr/19]
-  18.10  FC Admira Wacker         1-0 (0-0)  Kapfenberger SV
+  18.10  DSV Leoben               1-2 (0-0)  FC Liefering
+         FC Admira Wacker         1-0 (0-0)  Kapfenberger SV 1919
          First Vienna FC          2-0 (2-0)  SV Lafnitz
          SKU Amstetten            1-4 (1-1)  Sturm Graz II
          SV Horn                  0-2 (0-1)  SV Ried
-         DSV Leoben               1-2 (0-0)  FC Liefering
   20.30  Schwarz-Weiß Bregenz     0-2 (0-1)  Floridsdorfer AC
 [Sat Apr/20]
   14.30  SV Stripfing/Weiden      2-2 (0-1)  FC Dornbirn
@@ -347,9 +352,9 @@ Matchday 24
 
 Matchday 25
 [Fri Apr/26]
-  18.10  SV Ried                  3-0 (3-0)  SKU Amstetten
-         Kapfenberger SV          1-3 (1-2)  SV Horn
-         SV Lafnitz               2-3 (0-3)  DSV Leoben
+  18.10  SV Lafnitz               2-3 (0-3)  DSV Leoben
+         SV Ried                  3-0 (3-0)  SKU Amstetten
+         Kapfenberger SV 1919     1-3 (1-2)  SV Horn
 [Sat Apr/27]
   14.15  Floridsdorfer AC         1-0 (0-0)  First Vienna FC
   14.30  FC Admira Wacker         0-0  FC Liefering
@@ -361,11 +366,11 @@ Matchday 25
 
 Matchday 26
 [Fri May/3]
-  18.10  FC Liefering             4-1 (3-0)  Sturm Graz II
-         FC Dornbirn              1-3 (0-1)  Kapfenberger SV
+  18.10  DSV Leoben               0-0  SKN St. Pölten
+         FC Liefering             4-1 (3-0)  Sturm Graz II
+         FC Dornbirn              1-3 (0-1)  Kapfenberger SV 1919
          SKU Amstetten            3-2 (2-1)  Floridsdorfer AC
          SV Stripfing/Weiden      1-1 (0-1)  SV Lafnitz
-         DSV Leoben               0-0  SKN St. Pölten
   20.30  Grazer AK                1-0 (0-0)  FC Admira Wacker
 [Sat May/4]
   14.30  SV Horn                  1-0 (0-0)  Schwarz-Weiß Bregenz
@@ -375,23 +380,23 @@ Matchday 26
 
 Matchday 27
 [Fri May/10]
-  18.10  FC Liefering             0-1 (0-0)  First Vienna FC
+  18.10  FC Admira Wacker         2-0 (0-0)  DSV Leoben
+         FC Liefering             0-1 (0-0)  First Vienna FC
          Schwarz-Weiß Bregenz     0-2 (0-2)  SV Stripfing/Weiden
-         FC Admira Wacker         2-0 (0-0)  DSV Leoben
   20.30  SKN St. Pölten           0-4 (0-3)  SV Ried
 [Sat May/11]
-  14.30  Floridsdorfer AC         1-1 (1-1)  FC Dornbirn
-         Grazer AK                1-1 (0-1)  SV Horn
+  14.30  Grazer AK                1-1 (0-1)  SV Horn
+         Floridsdorfer AC         1-1 (1-1)  FC Dornbirn
 [Sun May/12]
-  10.30  Kapfenberger SV          4-2 (1-2)  SKU Amstetten
-         Sturm Graz II            1-4 (1-3)  SV Lafnitz
+  10.30  Sturm Graz II            1-4 (1-3)  SV Lafnitz
+         Kapfenberger SV 1919     4-2 (1-2)  SKU Amstetten
 
 
 Matchday 28
 [Fri May/17]
   18.10  DSV Leoben               2-0 (2-0)  Schwarz-Weiß Bregenz
          FC Dornbirn              3-1 (0-1)  SKN St. Pölten
-         First Vienna FC          4-2 (0-2)  Kapfenberger SV
+         First Vienna FC          4-2 (0-2)  Kapfenberger SV 1919
          SKU Amstetten            1-1 (0-1)  FC Liefering
          SV Horn                  2-3 (1-0)  Floridsdorfer AC
          SV Lafnitz               1-3 (0-2)  FC Admira Wacker
@@ -404,7 +409,7 @@ Matchday 29
   16.00  Floridsdorfer AC         0-0  Grazer AK
          FC Admira Wacker         0-3 (0-1)  First Vienna FC
          FC Dornbirn              2-1 (0-0)  DSV Leoben
-         Kapfenberger SV          1-3 (1-0)  FC Liefering
+         Kapfenberger SV 1919     1-3 (1-0)  FC Liefering
          Sturm Graz II            2-0 (1-0)  SV Stripfing/Weiden
          SKU Amstetten            1-1 (1-1)  SV Horn
          SKN St. Pölten           2-2 (2-1)  Schwarz-Weiß Bregenz
@@ -413,11 +418,11 @@ Matchday 29
 
 Matchday 30
 [Sat May/25]
-  17.30  First Vienna FC          4-1 (3-1)  SKU Amstetten
-         Grazer AK                4-2 (2-1)  Kapfenberger SV
+  17.30  FC Liefering             4-3 (3-0)  SV Lafnitz
+         First Vienna FC          4-1 (3-1)  SKU Amstetten
+         Grazer AK                4-2 (2-1)  Kapfenberger SV 1919
          SV Horn                  1-3 (0-0)  SKN St. Pölten
          SV Ried                  1-0 (0-0)  FC Dornbirn
          SV Stripfing/Weiden      2-2 (2-1)  Floridsdorfer AC
          Schwarz-Weiß Bregenz     1-0 (0-0)  FC Admira Wacker
          DSV Leoben               2-1 (1-0)  Sturm Graz II
-         FC Liefering             4-3 (3-0)  SV Lafnitz

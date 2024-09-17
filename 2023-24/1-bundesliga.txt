@@ -3,7 +3,7 @@
 # Date       Fri Jul/28 2023 - Tue May/28 2024 (305d)
 # Teams      12
 # Matches    195
-# Stages     Regular Season (132)  Meistergruppe (30)  Qualifikationsgruppe (30)  Playoff (3)
+# Stages     Regular Season (132)  Playoffs - Championship (30)  Playoffs - Relegation (30)  Europa League Finals (3)
 
 
 # Regular Season
@@ -253,7 +253,7 @@ Matchday 22
          TSV Hartberg             1-1 (0-1)  Sturm Graz
 
 
-== Meistergruppe
+== Playoffs - Championship
 
 Matchday 23
 [Fri Mar/15]
@@ -328,7 +328,7 @@ Matchday 32
          Sturm Graz               2-0 (0-0)  SK Austria Klagenfurt
 
 
-== Qualifikationsgruppe
+== Playoffs - Relegation
 
 Matchday 23
 [Sat Mar/16]
@@ -404,7 +404,7 @@ Matchday 32
          SCR Altach               2-2 (1-1)  Austria Lustenau
 
 
-== Playoff
+== Europa League Finals
 
 Semifinals
 [Tue May/21]

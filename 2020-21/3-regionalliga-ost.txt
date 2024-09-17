@@ -1,31 +1,36 @@
 = Österr. Regionalliga Ost 2020/21
 
+# Date       Fri Aug/21 2020 - Sun Jun/6 2021 (289d)
+# Teams      13
+# Matches    156
+
+
 
 Matchday 1
 [Fri Aug/21]
-  19.00  ASK-BSC Bruck/Leitha     3-0 (2-0)  1. Wiener Neustädter SC
-         SV Leobendorf            1-0 (1-0)  SC Neusiedl/See 1919
+  19.00  SV Leobendorf            1-0 (1-0)  SC Neusiedl/See 1919
+         ASK-BSC Bruck/Leitha     3-0 (2-0)  1. Wiener Neustädter SC
 [Sat Aug/22]
-  15.00  FC Mauerwerk             3-1 (2-1)  ASV Draßburg
   18.00  SC Wiener Viktoria       1-2 (0-1)  FC Admira Wacker II
+  15.00  FC Mauerwerk             3-1 (2-1)  ASV Draßburg
 
 
 Matchday 2
 [Tue Aug/25]
-  19.00  ASK-BSC Bruck/Leitha     3-0 (2-0)  SC Wiener Viktoria
   19.30  FCM Traiskirchen         0-2 (0-0)  FC Marchfeld Donauauen
+  19.00  ASK-BSC Bruck/Leitha     3-0 (2-0)  SC Wiener Viktoria
 [Tue Sep/1]
   19.30  ASV Draßburg             3-4 (1-0)  SV Leobendorf
 
 
 Matchday 3
 [Fri Sep/4]
-  19.30  SC Neusiedl/See 1919     3-0 (1-0)  ASV Draßburg
-         Wiener Sport-Club        2-1 (1-0)  ASK-BSC Bruck/Leitha
+  19.30  Wiener Sport-Club        2-1 (1-0)  ASK-BSC Bruck/Leitha
+         SC Neusiedl/See 1919     3-0 (1-0)  ASV Draßburg
 [Sat Sep/5]
   16.30  SV Leobendorf            2-1 (1-1)  SC Team Wiener Linien
-  17.30  SV Stripfing/Weiden      3-0 (1-0)  FC Marchfeld Donauauen
   18.00  SC Wiener Viktoria       0-0  1. Wiener Neustädter SC
+  17.30  SV Stripfing/Weiden      3-0 (1-0)  FC Marchfeld Donauauen
 [Tue Sep/8]
   19.00  FCM Traiskirchen         3-1 (0-1)  FC Admira Wacker II
 
@@ -35,8 +40,8 @@ Matchday 4
   19.30  1. Wiener Neustädter SC  0-1 (0-0)  ASV Draßburg
 [Sat Sep/12]
   17.00  FC Admira Wacker II      1-2 (1-1)  SV Stripfing/Weiden
-  18.00  SC Wiener Viktoria       0-3 (0-2)  Wiener Sport-Club
-         SC Team Wiener Linien    2-0 (1-0)  SC Neusiedl/See 1919
+  18.00  SC Team Wiener Linien    2-0 (1-0)  SC Neusiedl/See 1919
+         SC Wiener Viktoria       0-3 (0-2)  Wiener Sport-Club
 
 
 Matchday 1
@@ -44,21 +49,21 @@ Matchday 1
   19.30  Wiener Sport-Club        2-1 (1-0)  FC Marchfeld Donauauen
 
 
-Matchday 2
-[Tue Sep/15]
-  19.30  1. Wiener Neustädter SC  2-0 (2-0)  SC Neusiedl/See 1919
-
-
 Matchday 4
 [Tue Sep/15]
   19.30  ASK-BSC Bruck/Leitha     2-1 (1-1)  FCM Traiskirchen
 
 
+Matchday 2
+[Tue Sep/15]
+  19.30  1. Wiener Neustädter SC  2-0 (2-0)  SC Neusiedl/See 1919
+
+
 Matchday 5
 [Fri Sep/18]
-  19.30  Wiener Sport-Club        1-0 (1-0)  1. Wiener Neustädter SC
+  19.30  FCM Traiskirchen         3-1 (1-1)  SC Wiener Viktoria
+         Wiener Sport-Club        1-0 (1-0)  1. Wiener Neustädter SC
          ASV Draßburg             1-2 (0-1)  SC Team Wiener Linien
-         FCM Traiskirchen         3-1 (1-1)  SC Wiener Viktoria
 [Sat Sep/19]
   16.30  SV Leobendorf            3-2  FC Marchfeld Donauauen
          SV Stripfing/Weiden      2-1 (1-1)  ASK-BSC Bruck/Leitha
@@ -66,33 +71,33 @@ Matchday 5
 
 Matchday 6
 [Fri Sep/25]
-  19.30  1. Wiener Neustädter SC  0-2 (0-1)  SC Team Wiener Linien
+  19.30  Wiener Sport-Club        1-1 (1-1)  FCM Traiskirchen
+         1. Wiener Neustädter SC  0-2 (0-1)  SC Team Wiener Linien
          ASK-BSC Bruck/Leitha     4-2 (3-1)  FC Mauerwerk
-         Wiener Sport-Club        1-1 (1-1)  FCM Traiskirchen
 [Sat Sep/26]
   17.00  FC Marchfeld Donauauen   3-0 (0-0)  SC Neusiedl/See 1919
 
 
 Matchday 7
 [Fri Oct/2]
-  19.30  ASV Draßburg             2-2 (2-2)  FC Marchfeld Donauauen
-         FCM Traiskirchen         5-0 (1-0)  1. Wiener Neustädter SC
+  19.30  FCM Traiskirchen         5-0 (1-0)  1. Wiener Neustädter SC
+         ASV Draßburg             2-2 (2-2)  FC Marchfeld Donauauen
 [Sat Oct/3]
-  16.30  SV Leobendorf            2-0 (0-0)  ASK-BSC Bruck/Leitha
-         SV Stripfing/Weiden      0-2 (0-2)  Wiener Sport-Club
+  16.30  SV Stripfing/Weiden      0-2 (0-2)  Wiener Sport-Club
+         SV Leobendorf            2-0 (0-0)  ASK-BSC Bruck/Leitha
 [Sun Oct/4]
   16.00  FC Mauerwerk             0-3 (0-0)  SC Wiener Viktoria
 
 
 Matchday 8
 [Fri Oct/9]
+  19.30  Wiener Sport-Club        0-1 (0-0)  FC Mauerwerk
+         FCM Traiskirchen         0-1 (0-0)  SV Stripfing/Weiden
   19.00  ASK-BSC Bruck/Leitha     6-1 (3-1)  SC Neusiedl/See 1919
-  19.30  FCM Traiskirchen         0-1 (0-0)  SV Stripfing/Weiden
-         FC Marchfeld Donauauen   2-1 (0-0)  SC Team Wiener Linien
-         Wiener Sport-Club        0-1 (0-0)  FC Mauerwerk
+  19.30  FC Marchfeld Donauauen   2-1 (0-0)  SC Team Wiener Linien
 [Sat Oct/10]
-  16.00  FC Admira Wacker II      2-2 (1-1)  ASV Draßburg
   17.00  SC Wiener Viktoria       0-3 (0-0)  SV Leobendorf
+  16.00  FC Admira Wacker II      2-2 (1-1)  ASV Draßburg
 
 
 Matchday 9
@@ -101,8 +106,8 @@ Matchday 9
 [Sun Oct/18]
   15.30  FC Mauerwerk             0-4 (0-3)  FCM Traiskirchen
 [Tue Oct/20]
-  19.00  ASV Draßburg             1-4 (1-1)  ASK-BSC Bruck/Leitha
   19.30  SC Neusiedl/See 1919     2-1 (1-1)  SC Wiener Viktoria
+  19.00  ASV Draßburg             1-4 (1-1)  ASK-BSC Bruck/Leitha
 
 
 Matchday 5
@@ -112,8 +117,8 @@ Matchday 5
 
 Matchday 10
 [Fri Oct/23]
-  19.30  Wiener Sport-Club        2-0 (1-0)  SC Neusiedl/See 1919
-         FCM Traiskirchen         3-1 (2-1)  SV Leobendorf
+  19.30  FCM Traiskirchen         3-1 (2-1)  SV Leobendorf
+         Wiener Sport-Club        2-0 (1-0)  SC Neusiedl/See 1919
 [Sat Oct/24]
   15.30  SV Stripfing/Weiden      2-0 (1-0)  FC Mauerwerk
   16.00  SC Wiener Viktoria       2-1 (1-1)  ASV Draßburg
@@ -146,14 +151,14 @@ Matchday 7
   SC Neusiedl/See 1919     -  FC Admira Wacker II      [cancelled]
 
 
-Matchday 1
-[Sat Feb/13]
-  SV Stripfing/Weiden      -  SC Team Wiener Linien    [cancelled]
-
-
 Matchday 11
 [Sat Feb/13]
   FC Mauerwerk             -  1. Wiener Neustädter SC  [cancelled]
+
+
+Matchday 1
+[Sat Feb/13]
+  SV Stripfing/Weiden      -  SC Team Wiener Linien    [cancelled]
 
 
 Matchday 9
@@ -166,25 +171,19 @@ Matchday 6
   SC Wiener Viktoria       -  SV Stripfing/Weiden      [cancelled]
 
 
-Matchday 11
-[Fri Feb/19]
-  SC Neusiedl/See 1919     -  FCM Traiskirchen         [cancelled]
-
-
 Matchday 4
 [Fri Feb/19]
   FC Marchfeld Donauauen   -  FC Mauerwerk             [cancelled]
 
 
-Matchday 10
-[Sat Feb/20]
-  ASK-BSC Bruck/Leitha     -  SC Team Wiener Linien    [cancelled]
-  1. Wiener Neustädter SC  -  FC Marchfeld Donauauen   [cancelled]
-
-
 Matchday 11
+[Fri Feb/19]
+  SC Neusiedl/See 1919     -  FCM Traiskirchen         [cancelled]
+
+
+Matchday 9
 [Sat Feb/20]
-  ASV Draßburg             -  Wiener Sport-Club        [cancelled]
+  SV Stripfing/Weiden      -  1. Wiener Neustädter SC  [cancelled]
 
 
 Matchday 6
@@ -192,9 +191,19 @@ Matchday 6
   FC Admira Wacker II      -  SV Leobendorf            [cancelled]
 
 
-Matchday 9
+Matchday 10
 [Sat Feb/20]
-  SV Stripfing/Weiden      -  1. Wiener Neustädter SC  [cancelled]
+  ASK-BSC Bruck/Leitha     -  SC Team Wiener Linien    [cancelled]
+
+
+Matchday 11
+[Sat Feb/20]
+  ASV Draßburg             -  Wiener Sport-Club        [cancelled]
+
+
+Matchday 10
+[Sat Feb/20]
+  1. Wiener Neustädter SC  -  FC Marchfeld Donauauen   [cancelled]
 
 
 Matchday 12
@@ -211,13 +220,13 @@ Matchday 12
 
 Matchday 13
 [Fri Mar/5]
+  ASV Draßburg             -  SV Stripfing/Weiden      [cancelled]
   FC Marchfeld Donauauen   -  SC Wiener Viktoria       [cancelled]
   SC Neusiedl/See 1919     -  FC Mauerwerk             [cancelled]
-  ASV Draßburg             -  SV Stripfing/Weiden      [cancelled]
 [Sat Mar/6]
+  SC Team Wiener Linien    -  FCM Traiskirchen         [cancelled]
   FC Admira Wacker II      -  ASK-BSC Bruck/Leitha     [cancelled]
   SV Leobendorf            -  1. Wiener Neustädter SC  [cancelled]
-  SC Team Wiener Linien    -  FCM Traiskirchen         [cancelled]
 
 
 Matchday 14
@@ -234,12 +243,12 @@ Matchday 14
 
 Matchday 15
 [Fri Mar/19]
+  Wiener Sport-Club        -  FC Admira Wacker II      [cancelled]
   FC Marchfeld Donauauen   -  FCM Traiskirchen         [cancelled]
   SC Neusiedl/See 1919     -  1. Wiener Neustädter SC  [cancelled]
-  Wiener Sport-Club        -  FC Admira Wacker II      [cancelled]
 [Sat Mar/20]
-  SV Leobendorf            -  ASV Draßburg             [cancelled]
   SC Wiener Viktoria       -  ASK-BSC Bruck/Leitha     [cancelled]
+  SV Leobendorf            -  ASV Draßburg             [cancelled]
 [Sun Mar/21]
   FC Mauerwerk             -  SC Team Wiener Linien    [cancelled]
 
@@ -258,10 +267,10 @@ Matchday 16
 
 Matchday 17
 [Fri Apr/2]
+  FCM Traiskirchen         -  ASK-BSC Bruck/Leitha     [cancelled]
   Wiener Sport-Club        -  SC Wiener Viktoria       [cancelled]
   ASV Draßburg             -  1. Wiener Neustädter SC  [cancelled]
   SC Neusiedl/See 1919     -  SC Team Wiener Linien    [cancelled]
-  FCM Traiskirchen         -  ASK-BSC Bruck/Leitha     [cancelled]
 [Sat Apr/3]
   SV Stripfing/Weiden      -  FC Admira Wacker II      [cancelled]
 [Sun Apr/4]
@@ -270,9 +279,9 @@ Matchday 17
 
 Matchday 18
 [Fri Apr/9]
+  FC Marchfeld Donauauen   -  SV Leobendorf            [cancelled]
   1. Wiener Neustädter SC  -  Wiener Sport-Club        [cancelled]
   ASK-BSC Bruck/Leitha     -  SV Stripfing/Weiden      [cancelled]
-  FC Marchfeld Donauauen   -  SV Leobendorf            [cancelled]
 [Sat Apr/10]
   SC Team Wiener Linien    -  ASV Draßburg             [cancelled]
   SC Wiener Viktoria       -  FCM Traiskirchen         [cancelled]
@@ -282,8 +291,8 @@ Matchday 18
 
 Matchday 19
 [Fri Apr/16]
-  SC Neusiedl/See 1919     -  FC Marchfeld Donauauen   [cancelled]
   FCM Traiskirchen         -  Wiener Sport-Club        [cancelled]
+  SC Neusiedl/See 1919     -  FC Marchfeld Donauauen   [cancelled]
 [Sat Apr/17]
   SC Team Wiener Linien    -  1. Wiener Neustädter SC  [cancelled]
   SV Leobendorf            -  FC Admira Wacker II      [cancelled]
@@ -294,10 +303,10 @@ Matchday 19
 
 Matchday 20
 [Fri Apr/23]
+  FC Marchfeld Donauauen   -  ASV Draßburg             [cancelled]
   1. Wiener Neustädter SC  -  FCM Traiskirchen         [cancelled]
   Wiener Sport-Club        -  SV Stripfing/Weiden      [cancelled]
   ASK-BSC Bruck/Leitha     -  SV Leobendorf            [cancelled]
-  FC Marchfeld Donauauen   -  ASV Draßburg             [cancelled]
 [Sat Apr/24]
   SC Wiener Viktoria       -  FC Mauerwerk             [cancelled]
 [Sun Apr/25]
@@ -306,12 +315,12 @@ Matchday 20
 
 Matchday 21
 [Fri Apr/30]
-  SC Neusiedl/See 1919     -  ASK-BSC Bruck/Leitha     [cancelled]
   ASV Draßburg             -  FC Admira Wacker II      [cancelled]
+  SC Neusiedl/See 1919     -  ASK-BSC Bruck/Leitha     [cancelled]
 [Sat May/1]
+  SV Leobendorf            -  SC Wiener Viktoria       [cancelled]
   SV Stripfing/Weiden      -  FCM Traiskirchen         [cancelled]
   SC Team Wiener Linien    -  FC Marchfeld Donauauen   [cancelled]
-  SV Leobendorf            -  SC Wiener Viktoria       [cancelled]
 [Sun May/2]
   FC Mauerwerk             -  Wiener Sport-Club        [cancelled]
 
@@ -330,12 +339,12 @@ Matchday 22
 
 Matchday 23
 [Fri May/14]
+  ASV Draßburg             -  SC Wiener Viktoria       [cancelled]
   FC Marchfeld Donauauen   -  1. Wiener Neustädter SC  [cancelled]
   SC Neusiedl/See 1919     -  Wiener Sport-Club        [cancelled]
-  ASV Draßburg             -  SC Wiener Viktoria       [cancelled]
 [Sat May/15]
-  SC Team Wiener Linien    -  ASK-BSC Bruck/Leitha     [cancelled]
   SV Leobendorf            -  FCM Traiskirchen         [cancelled]
+  SC Team Wiener Linien    -  ASK-BSC Bruck/Leitha     [cancelled]
 [Sun May/16]
   FC Mauerwerk             -  SV Stripfing/Weiden      [cancelled]
 
@@ -346,17 +355,17 @@ Matchday 24
   FCM Traiskirchen         -  SC Neusiedl/See 1919     [cancelled]
   1. Wiener Neustädter SC  -  FC Mauerwerk             [cancelled]
 [Sat May/22]
-  SV Stripfing/Weiden      -  SV Leobendorf            [cancelled]
   SC Wiener Viktoria       -  SC Team Wiener Linien    [cancelled]
+  SV Stripfing/Weiden      -  SV Leobendorf            [cancelled]
 [Sun May/23]
   FC Admira Wacker II      -  FC Marchfeld Donauauen   [cancelled]
 
 
 Matchday 25
 [Fri May/28]
+  FC Marchfeld Donauauen   -  ASK-BSC Bruck/Leitha     [cancelled]
   ASV Draßburg             -  FCM Traiskirchen         [cancelled]
   SC Neusiedl/See 1919     -  SV Stripfing/Weiden      [cancelled]
-  FC Marchfeld Donauauen   -  ASK-BSC Bruck/Leitha     [cancelled]
 [Sat May/29]
   SC Team Wiener Linien    -  Wiener Sport-Club        [cancelled]
   SV Leobendorf            -  FC Mauerwerk             [cancelled]
@@ -366,11 +375,11 @@ Matchday 25
 
 Matchday 26
 [Fri Jun/4]
+  1. Wiener Neustädter SC  -  SV Leobendorf            [cancelled]
   FCM Traiskirchen         -  SC Team Wiener Linien    [cancelled]
   ASK-BSC Bruck/Leitha     -  FC Admira Wacker II      [cancelled]
-  1. Wiener Neustädter SC  -  SV Leobendorf            [cancelled]
 [Sat Jun/5]
-  SC Wiener Viktoria       -  FC Marchfeld Donauauen   [cancelled]
   SV Stripfing/Weiden      -  ASV Draßburg             [cancelled]
+  SC Wiener Viktoria       -  FC Marchfeld Donauauen   [cancelled]
 [Sun Jun/6]
   FC Mauerwerk             -  SC Neusiedl/See 1919     [cancelled]

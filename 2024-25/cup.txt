@@ -1,5 +1,9 @@
 = ÖFB Cup 2024/25
 
+# Date       Fri Jul/26 - Wed Sep/25 2024 (61d)
+# Teams      64
+# Matches    48
+
 
 
 Round 1
@@ -56,7 +60,7 @@ Round 2
   19.00  Kapfenberger SV 1919     0-2 (0-1)  ASK Voitsberg
          ASKÖ Oedt                2-3 (1-2)  Austria Wien
   19.30  SV Wallern               0-2 (0-0)  Wolfsberger AC
-[Tue Sep/17]
+[Tue Sep/24]
   18.00  Sportunion Mauer         -  LASK
 [Wed Sep/25]
   18.00  SC Wiener Viktoria       -  RB Salzburg

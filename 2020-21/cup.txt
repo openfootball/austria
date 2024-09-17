@@ -1,5 +1,10 @@
 = ÖFB Cup 2020/21
 
+# Date       Fri Aug/28 2020 - Sat May/1 2021 (246d)
+# Teams      63
+# Matches    62
+
+
 
 Round 1
 [Fri Aug/28]
@@ -11,11 +16,11 @@ Round 1
          FC Gleisdorf 09          3-5 pen. 1-1 a.e.t. (1-1, 0-1)  SV Ried
          First Vienna FC          4-0 (2-0)  FC Marchfeld Donauauen
          SV Wörgl                 4-2 (2-2)  Union Vöcklamarkt
-  19.30  Kapfenberger SV          5-1 (5-1)  USK Maximarkt Anif
+  19.30  Kapfenberger SV 1919     5-1 (5-1)  USK Maximarkt Anif
   20.30  Sturm Graz               8-0 (5-0)  SV Innsbruck
 [Sat Aug/29]
-  17.00  FC Dornbirn              1-3 (0-3)  USV Allerheiligen
-         ATSV Wolfsberg           1-3 (0-2)  SKN St. Pölten
+  17.00  ATSV Wolfsberg           1-3 (0-2)  SKN St. Pölten
+         FC Dornbirn              1-3 (0-3)  USV Allerheiligen
   17.30  Floridsdorfer AC         3-0 (1-0)  ASV Draßburg
   18.00  ASV Schrems              1-3 (1-3)  FC Wacker Innsbruck
          Austria Lustenau         1-2 (0-0)  SV Stripfing/Weiden
@@ -23,11 +28,11 @@ Round 1
   19.00  WSG Tirol                3-1 (0-1)  USV St. Anna
   20.30  ASV Siegendorf           0-3 (0-0)  LASK
 [Sun Aug/30]
-  11.00  Dornbirner SV            0-7 (0-3)  TSV Hartberg
   11.15  Austria Wien             5-0 (1-0)  SC Retz
   17.30  Rapid Wien               5-0 (2-0)  TSV St. Johann
   18.00  Grazer AK                0-1 (0-1)  SV Seekirchen
   19.00  FC Blau Weiß Linz        5-1 (3-0)  SC Team Wiener Linien
+  11.00  Dornbirner SV            0-7 (0-3)  TSV Hartberg
 [Tue Sep/8]
   19.00  FC Deutschkreutz         0-3 (0-0)  1. Wiener Neustädter SC
 [Wed Sep/9]
@@ -46,7 +51,7 @@ Round 1
 
 Round 2
 [Fri Oct/16]
-  18.00  FC Admira Wacker         3-4 pen. 2-2 a.e.t. (1-1, 1-0)  Kapfenberger SV
+  18.00  FC Admira Wacker         3-4 pen. 2-2 a.e.t. (1-1, 1-0)  Kapfenberger SV 1919
   18.30  WSG Tirol                0-1 (0-1)  Floridsdorfer AC
   19.00  SV Lafnitz               2-4 (0-3)  SK Austria Klagenfurt
   19.30  SV Horn                  0-3 (0-0)  AS Koma Elektra
@@ -55,37 +60,44 @@ Round 2
   14.45  SKN St. Pölten           0-3 (0-1)  RB Salzburg
   15.00  ASKÖ Gmünd               3-4 a.e.t. (3-3, 2-1)  TSV Hartberg
          VfB Hohenems             1-2 (0-1)  Sturm Graz
-  17.00  SCR Altach               7-0 (3-0)  SV Seekirchen
+  17.00  FC Wacker Innsbruck      1-0 (0-0)  SV Stripfing/Weiden
+         SCR Altach               7-0 (3-0)  SV Seekirchen
          1. Wiener Neustädter SC  1-5 (1-3)  Rapid Wien
          LASK                     3-0 (1-0)  SV Wörgl
-         FC Wacker Innsbruck      1-0 (0-0)  SV Stripfing/Weiden
   20.25  First Vienna FC          3-2 (2-0)  Vorwärts Steyr
 [Sun Oct/18]
   17.15  Wolfsberger AC           4-3 pen. 2-2 a.e.t. (2-2, 1-2)  SV Ried
 [Sat Nov/14]
-  15.00  USV Allerheiligen        0-1 a.e.t. (0-0)  SKU Amstetten
   16.00  SVG Reichenau            0-3 (0-2)  FC Blau Weiß Linz
 
 
 Round of 16
 [Sat Nov/14]
   20.25  Floridsdorfer AC         1-3 a.e.t. (1-1, 0-0)  SK Austria Klagenfurt
+
+
+Round 2
+[Sat Nov/14]
+  15.00  USV Allerheiligen        0-1 a.e.t. (0-0)  SKU Amstetten
+
+
+Round of 16
 [Tue Nov/24]
   20.25  Sturm Graz               1-0 (0-0)  FC Wacker Innsbruck
 [Wed Nov/25]
   17.15  Austria Wien             5-3 (3-0)  TSV Hartberg
   20.25  First Vienna FC          2-1 (1-1)  SCR Altach
 [Tue Dec/15]
-  18.00  Kapfenberger SV          2-0 (0-0)  FC Blau Weiß Linz
+  18.00  Kapfenberger SV 1919     2-0 (0-0)  FC Blau Weiß Linz
 [Wed Dec/16]
-  16.00  Wolfsberger AC           2-0 (1-0)  SKU Amstetten
   18.00  LASK                     3-0 (3-0)  AS Koma Elektra
   20.30  RB Salzburg              6-2 (3-1)  Rapid Wien
+  16.00  Wolfsberger AC           2-0 (1-0)  SKU Amstetten
 
 
 Quarterfinals
 [Fri Feb/5]
-  18.00  Kapfenberger SV          1-2 a.e.t. (1-1, 1-1)  Wolfsberger AC
+  18.00  Kapfenberger SV 1919     1-2 a.e.t. (1-1, 1-1)  Wolfsberger AC
   20.30  Sturm Graz               1-0 (0-0)  First Vienna FC
 [Sat Feb/6]
   17.00  RB Salzburg              2-0 (1-0)  Austria Wien
@@ -95,8 +107,8 @@ Quarterfinals
 
 Semifinals
 [Wed Mar/3]
-  19.00  Wolfsberger AC           0-1 a.e.t. (0-0)  LASK
   21.05  Sturm Graz               0-4 (0-1)  RB Salzburg
+  19.00  Wolfsberger AC           0-1 a.e.t. (0-0)  LASK
 
 
 Final
