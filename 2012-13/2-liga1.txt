@@ -1,0 +1,355 @@
+= Österr. Erste Liga 2012/13
+
+# Date       Fri Jul/20 2012 - Fri May/24 2013 (308d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/20]
+  18.30  SV Grödig                3-0 (2-0)  FC Lustenau
+         Austria Lustenau         5-0 (3-0)  Kapfenberger SV 1919
+         FC Blau Weiß Linz        2-2 (2-1)  TSV Hartberg
+  20.30  SV Horn                  3-4 (1-3)  SCR Altach
+  18.30  SKN St. Pölten           5-2 (2-1)  First Vienna FC
+
+
+Matchday 2
+[Fri Jul/27]
+  18.30  FC Lustenau              1-1 (1-0)  SKN St. Pölten
+         SCR Altach               0-1 (0-1)  SV Grödig
+         Kapfenberger SV 1919     3-3 (1-3)  SV Horn
+         First Vienna FC          0-0  FC Blau Weiß Linz
+  20.30  TSV Hartberg             0-1 (0-1)  Austria Lustenau
+
+
+Matchday 3
+[Fri Aug/3]
+  18.30  TSV Hartberg             1-0 (1-0)  First Vienna FC
+         SKN St. Pölten           3-0 (2-0)  Kapfenberger SV 1919
+         SV Grödig                0-2 (0-2)  SV Horn
+         FC Blau Weiß Linz        0-1 (0-0)  FC Lustenau
+  20.30  Austria Lustenau         2-0 (1-0)  SCR Altach
+
+
+Matchday 4
+[Mon Aug/6]
+  18.30  Kapfenberger SV 1919     2-2 (1-0)  FC Blau Weiß Linz
+[Tue Aug/7]
+  18.30  SV Horn                  0-3 (0-1)  Austria Lustenau
+         SCR Altach               1-4 (1-2)  SKN St. Pölten
+         First Vienna FC          1-3 (1-0)  SV Grödig
+         FC Lustenau              0-1 (0-0)  TSV Hartberg
+
+
+Matchday 5
+[Fri Aug/10]
+  18.30  TSV Hartberg             1-1 (1-1)  Kapfenberger SV 1919
+         First Vienna FC          2-4 (1-2)  FC Lustenau
+         Austria Lustenau         2-2 (2-0)  SV Grödig
+         FC Blau Weiß Linz        0-2 (0-0)  SCR Altach
+  20.30  SKN St. Pölten           2-1 (1-0)  SV Horn
+
+
+Matchday 6
+[Fri Aug/17]
+  18.30  SCR Altach               3-0 (1-0)  FC Lustenau
+         Kapfenberger SV 1919     3-3 (1-0)  First Vienna FC
+         SV Grödig                0-0  TSV Hartberg
+  20.30  Austria Lustenau         3-0 (2-0)  SKN St. Pölten
+  18.30  SV Horn                  1-1 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 7
+[Fri Aug/24]
+  18.30  TSV Hartberg             0-2 (0-1)  SV Horn
+         FC Lustenau              2-0 (1-0)  Kapfenberger SV 1919
+         SKN St. Pölten           0-3 (0-1)  SV Grödig
+         FC Blau Weiß Linz        2-4 (1-3)  Austria Lustenau
+  20.30  First Vienna FC          2-1 (1-0)  SCR Altach
+
+
+Matchday 8
+[Fri Aug/31]
+  18.30  SV Horn                  1-0 (0-0)  First Vienna FC
+         SCR Altach               4-1 (3-0)  TSV Hartberg
+         SKN St. Pölten           4-1 (2-0)  FC Blau Weiß Linz
+         Austria Lustenau         1-1 (0-0)  FC Lustenau
+  20.30  SV Grödig                0-1 (0-0)  Kapfenberger SV 1919
+
+
+Matchday 9
+[Fri Sep/14]
+  18.30  FC Lustenau              1-2 (1-1)  SV Horn
+         First Vienna FC          0-5 (0-2)  Austria Lustenau
+         FC Blau Weiß Linz        1-3 (1-1)  SV Grödig
+  20.30  Kapfenberger SV 1919     1-1 (0-0)  SCR Altach
+  18.30  TSV Hartberg             3-1 (0-0)  SKN St. Pölten
+
+
+Matchday 10
+[Fri Sep/21]
+  18.30  First Vienna FC          1-5 (1-2)  SKN St. Pölten
+         FC Lustenau              1-1 (1-0)  SV Grödig
+         Kapfenberger SV 1919     0-0  Austria Lustenau
+         TSV Hartberg             1-3 (0-2)  FC Blau Weiß Linz
+  20.30  SCR Altach               3-0 (0-0)  SV Horn
+
+
+Matchday 11
+[Fri Sep/28]
+  18.30  SKN St. Pölten           2-1 (1-1)  FC Lustenau
+         SV Grödig                1-0 (1-0)  SCR Altach
+         SV Horn                  2-0 (0-0)  Kapfenberger SV 1919
+  20.30  FC Blau Weiß Linz        0-1 (0-1)  First Vienna FC
+  18.30  Austria Lustenau         3-1 (3-0)  TSV Hartberg
+
+
+Matchday 12
+[Fri Oct/5]
+  18.30  First Vienna FC          2-0 (1-0)  TSV Hartberg
+         Kapfenberger SV 1919     0-0  SKN St. Pölten
+         SV Horn                  0-3 (0-2)  SV Grödig
+         FC Lustenau              4-0 (1-0)  FC Blau Weiß Linz
+  20.30  SCR Altach               1-2 (0-1)  Austria Lustenau
+
+
+Matchday 13
+[Fri Oct/19]
+  18.30  TSV Hartberg             1-2 (1-1)  FC Lustenau
+         Austria Lustenau         4-1 (2-0)  SV Horn
+         FC Blau Weiß Linz        0-3 (0-1)  Kapfenberger SV 1919
+         SV Grödig                2-0 (0-0)  First Vienna FC
+  20.30  SKN St. Pölten           3-2 (1-1)  SCR Altach
+
+
+Matchday 14
+[Fri Oct/26]
+  18.30  SV Horn                  2-1 (1-0)  SKN St. Pölten
+         SV Grödig                1-0 (0-0)  Austria Lustenau
+         SCR Altach               1-1 (0-0)  FC Blau Weiß Linz
+  20.30  FC Lustenau              2-1 (1-0)  First Vienna FC
+  18.30  Kapfenberger SV 1919     1-2 (1-1)  TSV Hartberg
+
+
+Matchday 15
+[Fri Nov/2]
+  18.30  FC Blau Weiß Linz        3-0 (1-0)  SV Horn
+         First Vienna FC          3-1 (1-1)  Kapfenberger SV 1919
+         TSV Hartberg             3-0 (1-0)  SV Grödig
+  20.30  SKN St. Pölten           2-1 (1-1)  Austria Lustenau
+[Sat Nov/3]
+  16.00  FC Lustenau              0-1 (0-1)  SCR Altach
+
+
+Matchday 16
+[Fri Nov/9]
+  18.30  SV Grödig                3-4 (0-2)  SKN St. Pölten
+         SCR Altach               3-0 (1-0)  First Vienna FC
+         Austria Lustenau         2-1 (1-0)  FC Blau Weiß Linz
+  20.30  SV Horn                  0-0  TSV Hartberg
+  18.30  Kapfenberger SV 1919     2-4 (2-1)  FC Lustenau
+
+
+Matchday 17
+[Fri Nov/16]
+  18.30  First Vienna FC          3-0 (0-0)  SV Horn
+         TSV Hartberg             0-0  SCR Altach
+         FC Blau Weiß Linz        2-2 (2-1)  SKN St. Pölten
+         Kapfenberger SV 1919     2-0 (1-0)  SV Grödig
+  20.30  FC Lustenau              0-1 (0-0)  Austria Lustenau
+
+
+Matchday 18
+[Fri Nov/23]
+  18.30  SV Horn                  2-2 (1-2)  FC Lustenau
+         Austria Lustenau         3-0 (2-0)  First Vienna FC
+         SV Grödig                3-0 (1-0)  FC Blau Weiß Linz
+  20.30  SCR Altach               2-1 (1-0)  Kapfenberger SV 1919
+  18.30  SKN St. Pölten           4-1 (4-1)  TSV Hartberg
+
+
+Matchday 19
+[Fri Nov/30]
+  18.30  SV Horn                  0-1 (0-1)  SCR Altach
+         SKN St. Pölten           2-2 (1-1)  First Vienna FC
+         Austria Lustenau         2-0 (1-0)  Kapfenberger SV 1919
+         FC Blau Weiß Linz        0-1 (0-0)  TSV Hartberg
+  20.30  SV Grödig                4-1 (2-1)  FC Lustenau
+
+
+Matchday 20
+[Tue Feb/26]
+  18.30  FC Lustenau              3-1 (1-0)  SKN St. Pölten
+
+
+Matchday 21
+[Fri Mar/1]
+  18.30  FC Blau Weiß Linz        1-1 (0-1)  FC Lustenau
+         SKN St. Pölten           1-7 (1-5)  Kapfenberger SV 1919
+         TSV Hartberg             0-2 (0-1)  First Vienna FC
+  20.30  Austria Lustenau         2-2 (1-2)  SCR Altach
+
+
+Matchday 22
+[Fri Mar/8]
+  18.30  First Vienna FC          1-2 (0-1)  SV Grödig
+  20.30  SV Horn                  5-0 (2-0)  Austria Lustenau
+  18.30  SCR Altach               2-1 (1-1)  SKN St. Pölten
+         Kapfenberger SV 1919     1-0 (0-0)  FC Blau Weiß Linz
+         FC Lustenau              1-0 (0-0)  TSV Hartberg
+
+
+Matchday 23
+[Mon Mar/11]
+  18.30  TSV Hartberg             1-3 (1-1)  Kapfenberger SV 1919
+[Tue Mar/12]
+  18.30  Austria Lustenau         1-2 (0-1)  SV Grödig
+         First Vienna FC          1-0 (1-0)  FC Lustenau
+         SKN St. Pölten           1-1 (1-1)  SV Horn
+         FC Blau Weiß Linz        1-1 (0-1)  SCR Altach
+
+
+Matchday 24
+[Fri Mar/15]
+  18.30  SV Grödig                3-0 (1-0)  TSV Hartberg
+         Kapfenberger SV 1919     3-0 (1-0)  First Vienna FC
+         SCR Altach               0-0  FC Lustenau
+         SV Horn                  2-0 (0-0)  FC Blau Weiß Linz
+  20.30  Austria Lustenau         2-2 (2-2)  SKN St. Pölten
+
+
+Matchday 20
+[Mon Mar/18]
+  20.30  SCR Altach               1-0 (0-0)  SV Grödig
+  18.30  First Vienna FC          1-1 (1-1)  FC Blau Weiß Linz
+[Thu Mar/28]
+  18.30  TSV Hartberg             0-0  Austria Lustenau
+
+
+Matchday 21
+[Fri Mar/29]
+  18.30  SV Grödig                2-1 (1-0)  SV Horn
+
+
+Matchday 25
+[Mon Apr/1]
+  18.30  SKN St. Pölten           1-2 (1-0)  SV Grödig
+[Tue Apr/2]
+  18.30  FC Lustenau              1-3 (1-3)  Kapfenberger SV 1919
+         First Vienna FC          3-0 (2-0)  SCR Altach
+         FC Blau Weiß Linz        3-0 (3-0)  Austria Lustenau
+
+
+Matchday 26
+[Fri Apr/5]
+  20.30  SV Grödig                0-1 (0-1)  Kapfenberger SV 1919
+  18.30  Austria Lustenau         1-0 (1-0)  FC Lustenau
+         SV Horn                  2-3 (0-1)  First Vienna FC
+         SCR Altach               2-0 (1-0)  TSV Hartberg
+         SKN St. Pölten           2-1 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 27
+[Mon Apr/8]
+  18.30  Kapfenberger SV 1919     2-2 (1-0)  SCR Altach
+[Tue Apr/9]
+  18.30  First Vienna FC          0-0  Austria Lustenau
+         TSV Hartberg             0-0  SKN St. Pölten
+         FC Lustenau              1-1 (1-0)  SV Horn
+         FC Blau Weiß Linz        0-3 (0-1)  SV Grödig
+
+
+Matchday 28
+[Fri Apr/12]
+  20.30  First Vienna FC          2-2 (1-0)  SKN St. Pölten
+  18.30  Kapfenberger SV 1919     2-1 (0-0)  Austria Lustenau
+         SCR Altach               2-0 (1-0)  SV Horn
+         FC Lustenau              0-5 (0-2)  SV Grödig
+[Mon Apr/15]
+  18.30  TSV Hartberg             2-2 (0-1)  FC Blau Weiß Linz
+
+
+Matchday 29
+[Fri Apr/19]
+  18.30  SV Horn                  0-3 (0-1)  Kapfenberger SV 1919
+         Austria Lustenau         1-3 (1-1)  TSV Hartberg
+         SKN St. Pölten           2-2 (2-1)  FC Lustenau
+         SV Grödig                3-1 (1-1)  SCR Altach
+  20.30  FC Blau Weiß Linz        2-3 (1-1)  First Vienna FC
+
+
+Matchday 20
+[Tue Apr/23]
+  18.30  Kapfenberger SV 1919     2-1 (0-1)  SV Horn
+
+
+Matchday 30
+[Fri Apr/26]
+  18.30  FC Lustenau              4-3 (2-0)  FC Blau Weiß Linz
+         First Vienna FC          1-1 (1-1)  TSV Hartberg
+         Kapfenberger SV 1919     1-1 (1-1)  SKN St. Pölten
+         SV Horn                  1-1 (0-1)  SV Grödig
+  20.30  SCR Altach               2-0 (0-0)  Austria Lustenau
+
+
+Matchday 31
+[Mon Apr/29]
+  18.30  Austria Lustenau         0-1 (0-0)  SV Horn
+[Tue Apr/30]
+  18.30  TSV Hartberg             6-1 (3-0)  FC Lustenau
+         SKN St. Pölten           1-1 (1-0)  SCR Altach
+         FC Blau Weiß Linz        1-1 (0-0)  Kapfenberger SV 1919
+         SV Grödig                3-0 (1-0)  First Vienna FC
+
+
+Matchday 32
+[Fri May/3]
+  18.30  SCR Altach               2-1 (1-1)  FC Blau Weiß Linz
+         Kapfenberger SV 1919     2-1 (0-0)  TSV Hartberg
+         SV Horn                  2-0 (1-0)  SKN St. Pölten
+         FC Lustenau              1-2 (0-0)  First Vienna FC
+  20.30  SV Grödig                2-1 (1-0)  Austria Lustenau
+
+
+Matchday 25
+[Mon May/6]
+  18.30  TSV Hartberg             0-3 (0-2)  SV Horn
+
+
+Matchday 33
+[Fri May/10]
+  18.30  FC Lustenau              1-2 (1-2)  SCR Altach
+         First Vienna FC          2-1 (1-1)  Kapfenberger SV 1919
+         SKN St. Pölten           2-1 (1-1)  Austria Lustenau
+  20.30  TSV Hartberg             0-2 (0-0)  SV Grödig
+  18.30  FC Blau Weiß Linz        2-1 (2-0)  SV Horn
+
+
+Matchday 34
+[Fri May/17]
+  18.30  SV Horn                  2-1 (1-1)  TSV Hartberg
+         Kapfenberger SV 1919     2-0 (1-0)  FC Lustenau
+         SCR Altach               3-1 (1-1)  First Vienna FC
+         Austria Lustenau         1-0 (0-0)  FC Blau Weiß Linz
+  20.30  SV Grödig                2-2 (1-1)  SKN St. Pölten
+
+
+Matchday 35
+[Tue May/21]
+  18.30  TSV Hartberg             1-2 (1-1)  SCR Altach
+         FC Blau Weiß Linz        1-0 (0-0)  SKN St. Pölten
+         Kapfenberger SV 1919     1-1 (1-1)  SV Grödig
+         FC Lustenau              1-4 (1-1)  Austria Lustenau
+[Wed May/22]
+  18.30  First Vienna FC          3-1 (1-0)  SV Horn
+
+
+Matchday 36
+[Fri May/24]
+  20.30  SV Horn                  4-0 (3-0)  FC Lustenau
+         SCR Altach               2-0 (1-0)  Kapfenberger SV 1919
+         Austria Lustenau         1-0 (0-0)  First Vienna FC
+         SV Grödig                5-0 (3-0)  FC Blau Weiß Linz
+         SKN St. Pölten           1-0 (1-0)  TSV Hartberg

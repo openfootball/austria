@@ -1,0 +1,346 @@
+= Österr. Erste Liga 2016/17
+
+# Date       Fri Jul/22 2016 - Fri May/26 2017 (308d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/22]
+  18.30  FC Blau Weiß Linz        0-3 (0-1)  WSG Wattens
+         FC Wacker Innsbruck      2-1 (0-1)  Floridsdorfer AC
+         Kapfenberger SV 1919     3-1 (2-1)  1. Wiener Neustädter SC
+  20.30  Austria Lustenau         1-1 (0-0)  LASK Linz
+  18.30  FC Liefering             1-0 (1-0)  SV Horn
+
+
+Matchday 2
+[Fri Jul/29]
+  18.30  1. Wiener Neustädter SC  1-4 (1-1)  FC Liefering
+         WSG Wattens              0-0  Floridsdorfer AC
+         Austria Lustenau         2-1 (0-1)  SV Horn
+         Kapfenberger SV 1919     1-1 (1-1)  FC Wacker Innsbruck
+  20.30  LASK Linz                2-1 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 3
+[Fri Aug/5]
+  18.30  FC Liefering             4-2 (1-1)  LASK Linz
+         FC Blau Weiß Linz        0-1 (0-0)  1. Wiener Neustädter SC
+         SV Horn                  1-2 (0-0)  Kapfenberger SV 1919
+         Floridsdorfer AC         1-3 (1-0)  Austria Lustenau
+  20.30  FC Wacker Innsbruck      1-2 (1-1)  WSG Wattens
+
+
+Matchday 4
+[Fri Aug/12]
+  18.30  WSG Wattens              0-1 (0-0)  1. Wiener Neustädter SC
+         Austria Lustenau         1-3 (0-0)  Kapfenberger SV 1919
+         SV Horn                  2-1 (0-1)  FC Blau Weiß Linz
+  20.30  LASK Linz                1-0 (0-0)  FC Wacker Innsbruck
+  18.30  FC Liefering             2-1 (1-1)  Floridsdorfer AC
+
+
+Matchday 5
+[Mon Aug/15]
+  18.30  FC Blau Weiß Linz        1-1 (1-1)  Austria Lustenau
+[Tue Aug/16]
+  18.30  1. Wiener Neustädter SC  1-2 (0-0)  LASK Linz
+         FC Wacker Innsbruck      1-1 (1-0)  FC Liefering
+         Kapfenberger SV 1919     3-0 (0-0)  WSG Wattens
+         Floridsdorfer AC         2-1 (2-0)  SV Horn
+
+
+Matchday 6
+[Fri Aug/19]
+  18.30  LASK Linz                4-0 (3-0)  WSG Wattens
+         FC Wacker Innsbruck      0-1 (0-0)  Austria Lustenau
+         Floridsdorfer AC         2-1 (1-1)  FC Blau Weiß Linz
+  20.30  SV Horn                  0-1 (0-0)  1. Wiener Neustädter SC
+  18.30  FC Liefering             2-0 (0-0)  Kapfenberger SV 1919
+
+
+Matchday 7
+[Fri Aug/26]
+  18.30  1. Wiener Neustädter SC  0-3 (0-1)  Floridsdorfer AC
+         FC Blau Weiß Linz        2-2 (1-0)  FC Wacker Innsbruck
+         WSG Wattens              2-2 (0-0)  SV Horn
+         Austria Lustenau         1-1 (0-1)  FC Liefering
+  20.30  Kapfenberger SV 1919     1-2 (0-1)  LASK Linz
+
+
+Matchday 8
+[Fri Sep/9]
+  18.30  1. Wiener Neustädter SC  1-4 (1-1)  Austria Lustenau
+         FC Blau Weiß Linz        0-1 (0-0)  Kapfenberger SV 1919
+         WSG Wattens              1-1 (1-0)  FC Liefering
+         SV Horn                  2-1 (2-1)  FC Wacker Innsbruck
+  20.30  Floridsdorfer AC         2-3 (0-2)  LASK Linz
+
+
+Matchday 9
+[Mon Sep/12]
+  18.30  Austria Lustenau         4-0 (2-0)  WSG Wattens
+[Tue Sep/13]
+  18.30  LASK Linz                1-1 (0-1)  SV Horn
+         FC Wacker Innsbruck      3-2 (2-1)  1. Wiener Neustädter SC
+         Kapfenberger SV 1919     2-0 (0-0)  Floridsdorfer AC
+         FC Liefering             2-0 (0-0)  FC Blau Weiß Linz
+
+
+Matchday 10
+[Fri Sep/16]
+  18.30  1. Wiener Neustädter SC  2-0 (0-0)  Kapfenberger SV 1919
+         LASK Linz                3-1 (1-1)  Austria Lustenau
+         WSG Wattens              0-0  FC Blau Weiß Linz
+         Floridsdorfer AC         3-1 (2-0)  FC Wacker Innsbruck
+  20.30  SV Horn                  2-3 (0-1)  FC Liefering
+
+
+Matchday 11
+[Fri Sep/23]
+  18.30  FC Wacker Innsbruck      1-0 (1-0)  Kapfenberger SV 1919
+         SV Horn                  1-3 (0-2)  Austria Lustenau
+         Floridsdorfer AC         1-1 (1-1)  WSG Wattens
+  20.30  FC Blau Weiß Linz        2-0 (1-0)  LASK Linz
+  18.30  FC Liefering             3-1 (0-0)  1. Wiener Neustädter SC
+
+
+Matchday 12
+[Fri Sep/30]
+  18.30  1. Wiener Neustädter SC  3-2 (1-1)  FC Blau Weiß Linz
+         LASK Linz                3-3 (1-2)  FC Liefering
+         Austria Lustenau         1-1 (0-1)  Floridsdorfer AC
+         Kapfenberger SV 1919     1-0 (1-0)  SV Horn
+  20.30  WSG Wattens              2-1 (2-1)  FC Wacker Innsbruck
+
+
+Matchday 13
+[Fri Oct/14]
+  18.30  1. Wiener Neustädter SC  2-1 (0-0)  WSG Wattens
+         FC Blau Weiß Linz        1-0 (0-0)  SV Horn
+         FC Wacker Innsbruck      2-1 (0-0)  LASK Linz
+         Floridsdorfer AC         1-5 (0-2)  FC Liefering
+  20.30  Kapfenberger SV 1919     0-1 (0-1)  Austria Lustenau
+
+
+Matchday 14
+[Mon Oct/17]
+  18.30  FC Liefering             1-2 (1-1)  FC Wacker Innsbruck
+[Tue Oct/18]
+  18.30  WSG Wattens              3-3 (1-0)  Kapfenberger SV 1919
+         Austria Lustenau         0-0  FC Blau Weiß Linz
+         SV Horn                  2-1 (2-0)  Floridsdorfer AC
+         LASK Linz                2-2 (1-2)  1. Wiener Neustädter SC
+
+
+Matchday 15
+[Fri Oct/21]
+  18.30  FC Blau Weiß Linz        0-0  Floridsdorfer AC
+         WSG Wattens              3-2 (1-0)  LASK Linz
+         Austria Lustenau         2-2 (1-1)  FC Wacker Innsbruck
+         Kapfenberger SV 1919     1-0 (0-0)  FC Liefering
+  20.30  1. Wiener Neustädter SC  2-1 (0-0)  SV Horn
+
+
+Matchday 16
+[Mon Oct/31]
+  18.30  LASK Linz                3-1 (1-0)  Kapfenberger SV 1919
+[Tue Nov/1]
+  18.30  FC Wacker Innsbruck      1-1 (1-1)  FC Blau Weiß Linz
+         SV Horn                  2-0 (1-0)  WSG Wattens
+         Floridsdorfer AC         1-1 (0-0)  1. Wiener Neustädter SC
+         FC Liefering             3-5 (0-2)  Austria Lustenau
+
+
+Matchday 17
+[Fri Nov/4]
+  18.30  FC Liefering             0-0  WSG Wattens
+         LASK Linz                1-0 (1-0)  Floridsdorfer AC
+         FC Wacker Innsbruck      0-0  SV Horn
+         Austria Lustenau         1-0 (0-0)  1. Wiener Neustädter SC
+  20.30  Kapfenberger SV 1919     2-2 (2-1)  FC Blau Weiß Linz
+
+
+Matchday 18
+[Fri Nov/18]
+  18.30  WSG Wattens              2-4 (2-1)  Austria Lustenau
+         SV Horn                  1-4 (0-2)  LASK Linz
+         Floridsdorfer AC         0-1 (0-0)  Kapfenberger SV 1919
+  20.30  1. Wiener Neustädter SC  2-2 (0-0)  FC Wacker Innsbruck
+  18.30  FC Blau Weiß Linz        1-1 (0-1)  FC Liefering
+
+
+Matchday 19
+[Fri Nov/25]
+  18.30  FC Liefering             1-1 (0-1)  SV Horn
+         FC Blau Weiß Linz        0-0  WSG Wattens
+         FC Wacker Innsbruck      2-1 (0-1)  Floridsdorfer AC
+         Kapfenberger SV 1919     0-3 (0-1)  1. Wiener Neustädter SC
+  20.30  Austria Lustenau         2-4 (1-2)  LASK Linz
+
+
+Matchday 20
+[Fri Dec/2]
+  18.30  WSG Wattens              1-0 (0-0)  Floridsdorfer AC
+         Austria Lustenau         2-3 (1-1)  SV Horn
+         Kapfenberger SV 1919     1-3 (1-2)  FC Wacker Innsbruck
+  20.30  LASK Linz                4-0 (1-0)  FC Blau Weiß Linz
+  18.30  1. Wiener Neustädter SC  0-1 (0-0)  FC Liefering
+
+
+Matchday 21
+[Fri Feb/24]
+  18.30  FC Blau Weiß Linz        3-0 (1-0)  1. Wiener Neustädter SC
+         FC Wacker Innsbruck      0-1 (0-1)  WSG Wattens
+         SV Horn                  2-1 (1-0)  Kapfenberger SV 1919
+         Floridsdorfer AC         1-0 (0-0)  Austria Lustenau
+  20.30  FC Liefering             0-3 (0-2)  LASK Linz
+
+
+Matchday 22
+[Fri Mar/3]
+  18.30  FC Liefering             1-0 (0-0)  Floridsdorfer AC
+         WSG Wattens              3-0 (2-0)  1. Wiener Neustädter SC
+         Austria Lustenau         0-0  Kapfenberger SV 1919
+         SV Horn                  0-2 (0-0)  FC Blau Weiß Linz
+  20.30  LASK Linz                3-1 (0-1)  FC Wacker Innsbruck
+
+
+Matchday 23
+[Fri Mar/10]
+  18.30  FC Wacker Innsbruck      0-2 (0-0)  FC Liefering
+         Kapfenberger SV 1919     2-1 (1-1)  WSG Wattens
+         Floridsdorfer AC         0-2 (0-0)  SV Horn
+  20.30  FC Blau Weiß Linz        0-0  Austria Lustenau
+  18.30  1. Wiener Neustädter SC  0-2 (0-0)  LASK Linz
+
+
+Matchday 24
+[Mon Mar/13]
+  18.30  FC Wacker Innsbruck      1-0 (1-0)  Austria Lustenau
+[Tue Mar/14]
+  18.30  LASK Linz                2-0 (1-0)  WSG Wattens
+         SV Horn                  2-0 (1-0)  1. Wiener Neustädter SC
+         Floridsdorfer AC         1-2 (0-1)  FC Blau Weiß Linz
+         FC Liefering             1-1 (1-1)  Kapfenberger SV 1919
+
+
+Matchday 25
+[Fri Mar/17]
+  18.30  1. Wiener Neustädter SC  0-3 (0-2)  Floridsdorfer AC
+         FC Blau Weiß Linz        3-1 (1-0)  FC Wacker Innsbruck
+         WSG Wattens              1-1 (1-1)  SV Horn
+         Austria Lustenau         2-0 (1-0)  FC Liefering
+  20.30  Kapfenberger SV 1919     2-2 (0-2)  LASK Linz
+
+
+Matchday 26
+[Fri Mar/31]
+  18.30  1. Wiener Neustädter SC  1-1 (0-0)  Austria Lustenau
+         FC Blau Weiß Linz        1-2 (0-0)  Kapfenberger SV 1919
+         WSG Wattens              5-0 (2-0)  FC Liefering
+         Floridsdorfer AC         1-3 (0-1)  LASK Linz
+  20.30  SV Horn                  1-2 (0-1)  FC Wacker Innsbruck
+
+
+Matchday 27
+[Fri Apr/7]
+  18.30  LASK Linz                2-1 (2-0)  SV Horn
+         FC Wacker Innsbruck      2-2 (2-0)  1. Wiener Neustädter SC
+  20.30  Austria Lustenau         2-2 (1-1)  WSG Wattens
+  18.30  FC Liefering             0-3 (0-2)  FC Blau Weiß Linz
+[Sat Apr/8]
+  16.00  Kapfenberger SV 1919     0-1 (0-0)  Floridsdorfer AC
+
+
+Matchday 28
+[Fri Apr/14]
+  18.30  1. Wiener Neustädter SC  3-1 (1-0)  Kapfenberger SV 1919
+         WSG Wattens              3-3 (2-2)  FC Blau Weiß Linz
+         SV Horn                  0-1 (0-0)  FC Liefering
+         Floridsdorfer AC         1-2 (0-0)  FC Wacker Innsbruck
+  20.30  LASK Linz                2-0 (1-0)  Austria Lustenau
+
+
+Matchday 29
+[Mon Apr/17]
+  18.30  FC Blau Weiß Linz        1-1 (1-0)  LASK Linz
+[Tue Apr/18]
+  18.30  SV Horn                  1-2 (1-2)  Austria Lustenau
+         Floridsdorfer AC         0-2 (0-0)  WSG Wattens
+         FC Wacker Innsbruck      3-3 (1-2)  Kapfenberger SV 1919
+
+
+Matchday 30
+[Fri Apr/21]
+  18.30  Kapfenberger SV 1919     1-1 (1-1)  SV Horn
+         1. Wiener Neustädter SC  0-0  FC Blau Weiß Linz
+         LASK Linz                3-0 (1-0)  FC Liefering
+         Austria Lustenau         0-0  Floridsdorfer AC
+  20.30  WSG Wattens              3-4 (0-4)  FC Wacker Innsbruck
+
+
+Matchday 29
+[Tue Apr/25]
+  18.30  FC Liefering             2-1 (0-1)  1. Wiener Neustädter SC
+
+
+Matchday 31
+[Fri Apr/28]
+  18.30  FC Blau Weiß Linz        1-4 (1-0)  SV Horn
+         Kapfenberger SV 1919     2-3 (0-1)  Austria Lustenau
+         Floridsdorfer AC         0-3 (0-2)  FC Liefering
+  20.30  1. Wiener Neustädter SC  2-0 (0-0)  WSG Wattens
+
+
+Matchday 32
+[Mon May/1]
+  18.30  SV Horn                  0-2 (0-2)  Floridsdorfer AC
+[Tue May/2]
+  18.30  FC Liefering             0-3 (0-1)  FC Wacker Innsbruck
+         LASK Linz                1-0 (0-0)  1. Wiener Neustädter SC
+         WSG Wattens              4-1 (2-0)  Kapfenberger SV 1919
+         Austria Lustenau         1-4 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 33
+[Fri May/5]
+  20.30  WSG Wattens              2-0 (2-0)  LASK Linz
+  18.30  1. Wiener Neustädter SC  3-1 (1-0)  SV Horn
+         FC Blau Weiß Linz        0-0  Floridsdorfer AC
+         Austria Lustenau         2-1 (1-1)  FC Wacker Innsbruck
+         Kapfenberger SV 1919     0-3 (0-2)  FC Liefering
+
+
+Matchday 31
+[Mon May/8]
+  18.30  FC Wacker Innsbruck      2-3 (2-2)  LASK Linz
+
+
+Matchday 34
+[Fri May/12]
+  18.30  LASK Linz                1-1 (0-0)  Kapfenberger SV 1919
+         FC Wacker Innsbruck      2-1 (0-1)  FC Blau Weiß Linz
+         SV Horn                  2-3 (2-1)  WSG Wattens
+  20.30  Floridsdorfer AC         3-0 (2-0)  1. Wiener Neustädter SC
+  18.30  FC Liefering             4-1 (3-0)  Austria Lustenau
+
+
+Matchday 35
+[Fri May/19]
+  19.30  FC Liefering             2-3 (1-1)  WSG Wattens
+         LASK Linz                2-2 (1-1)  Floridsdorfer AC
+         FC Wacker Innsbruck      3-0 (1-0)  SV Horn
+         Austria Lustenau         2-0 (1-0)  1. Wiener Neustädter SC
+         Kapfenberger SV 1919     3-2 (1-1)  FC Blau Weiß Linz
+
+
+Matchday 36
+[Fri May/26]
+  19.30  FC Blau Weiß Linz        0-0  FC Liefering
+         WSG Wattens              2-2 (2-2)  Austria Lustenau
+         SV Horn                  1-2 (0-0)  LASK Linz
+         Floridsdorfer AC         3-1 (2-0)  Kapfenberger SV 1919
+         1. Wiener Neustädter SC  1-3 (1-1)  FC Wacker Innsbruck

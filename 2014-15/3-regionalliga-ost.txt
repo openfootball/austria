@@ -1,0 +1,444 @@
+= Österr. Regionalliga Ost 2014/15
+
+# Date       Fri Aug/1 2014 - Sat May/30 2015 (302d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Aug/1]
+  19.00  First Vienna FC          1-0 (0-0)  SV Neuberg
+         SC Sollenau              2-2 (2-1)  SC Ritzing
+         Austria Wien II          2-1 (1-0)  SV Mattersburg II
+         SC Neusiedl/See 1919     3-2 (2-1)  Rapid Wien II
+  19.30  Wiener Sportklub         0-1 (0-0)  SC/ESV Parndorf
+         SV Stegersbach           0-0  SR Donaufeld
+         SKU Amstetten            0-0  FC Admira Wacker II
+[Sat Aug/2]
+  18.30  SKN St. Pölten II        0-1 (0-1)  SV Schwechat
+
+
+Matchday 2
+[Fri Aug/8]
+  19.30  SV Schwechat             1-2 (1-0)  SC Neusiedl/See 1919
+         SKU Amstetten            2-1 (2-0)  SC Ritzing
+  19.00  SC/ESV Parndorf          3-1 (1-1)  Austria Wien II
+[Sat Aug/9]
+  18.00  SV Neuberg               1-4 (0-0)  Wiener Sportklub
+  17.30  SV Mattersburg II        2-0 (0-0)  SKN St. Pölten II
+[Sun Aug/10]
+  16.00  Rapid Wien II            1-1 (1-0)  SV Stegersbach
+         SR Donaufeld             2-3 (0-2)  SC Sollenau
+  16.15  FC Admira Wacker II      0-0  First Vienna FC
+
+
+Matchday 3
+[Thu Aug/14]
+  19.00  Austria Wien II          3-0 (1-0)  SV Neuberg
+         First Vienna FC          1-1 (0-0)  SKU Amstetten
+[Fri Aug/15]
+  19.00  SC Neusiedl/See 1919     3-0 (1-0)  SV Mattersburg II
+  19.30  SV Stegersbach           0-1 (0-0)  SV Schwechat
+  19.00  SC Sollenau              1-0 (0-0)  Rapid Wien II
+[Sat Aug/16]
+  17.00  SC Ritzing               4-1 (1-0)  SR Donaufeld
+  18.30  SKN St. Pölten II        2-1 (1-1)  SC/ESV Parndorf
+[Mon Aug/18]
+  19.30  Wiener Sportklub         3-1 (1-1)  FC Admira Wacker II
+
+
+Matchday 4
+[Fri Aug/22]
+  19.00  First Vienna FC          0-0  Wiener Sportklub
+  19.30  SV Schwechat             0-0  SC Sollenau
+         SKU Amstetten            3-0 (2-0)  SR Donaufeld
+  19.00  SC/ESV Parndorf          2-0 (1-0)  SC Neusiedl/See 1919
+[Sat Aug/23]
+  16.00  Rapid Wien II            1-2 (1-0)  SC Ritzing
+  17.30  SV Neuberg               0-3 (0-2)  SKN St. Pölten II
+         SV Mattersburg II        0-2 (0-0)  SV Stegersbach
+[Sun Aug/24]
+  10.30  FC Admira Wacker II      0-2 (0-0)  Austria Wien II
+
+
+Matchday 5
+[Fri Aug/29]
+  19.00  SC Sollenau              3-2 (0-1)  SV Mattersburg II
+         Austria Wien II          1-1 (0-1)  First Vienna FC
+         SC Neusiedl/See 1919     6-1 (2-1)  SV Neuberg
+  19.30  SV Stegersbach           0-3 (0-0)  SC/ESV Parndorf
+         Wiener Sportklub         4-4 (2-2)  SKU Amstetten
+[Sat Aug/30]
+  17.00  SC Ritzing               1-0 (1-0)  SV Schwechat
+[Sun Aug/31]
+  17.00  SKN St. Pölten II        1-2 (0-0)  FC Admira Wacker II
+  10.15  SR Donaufeld             3-1 (0-0)  Rapid Wien II
+
+
+Matchday 6
+[Fri Sep/5]
+  19.00  SC/ESV Parndorf          4-0 (1-0)  SC Sollenau
+         First Vienna FC          2-0 (1-0)  SKN St. Pölten II
+         FC Admira Wacker II      1-1 (1-1)  SC Neusiedl/See 1919
+         SV Mattersburg II        1-2 (1-0)  SC Ritzing
+  19.30  SV Schwechat             0-3 (0-0)  SR Donaufeld
+         SKU Amstetten            2-2 (0-1)  Rapid Wien II
+[Sun Sep/7]
+  10.30  SV Neuberg               1-1 (1-0)  SV Stegersbach
+[Tue Sep/9]
+  19.00  Austria Wien II          3-4 (2-2)  Wiener Sportklub
+
+
+Matchday 7
+[Fri Sep/12]
+  19.00  SC Neusiedl/See 1919     0-0  First Vienna FC
+         Austria Wien II          2-2 (0-2)  SKU Amstetten
+         SC Sollenau              2-2 (1-0)  SV Neuberg
+  20.00  SV Stegersbach           3-1 (2-0)  FC Admira Wacker II
+[Sat Sep/13]
+  17.00  SC Ritzing               1-1 (0-0)  SC/ESV Parndorf
+[Sun Sep/14]
+  16.00  Rapid Wien II            1-0 (0-0)  SV Schwechat
+  10.45  SR Donaufeld             2-3 (0-3)  SV Mattersburg II
+[Tue Sep/16]
+  19.00  SKN St. Pölten II        4-2 (0-0)  Wiener Sportklub
+
+
+Matchday 8
+[Fri Sep/19]
+  19.00  Austria Wien II          4-0 (3-0)  SKN St. Pölten II
+         First Vienna FC          2-0 (2-0)  SV Stegersbach
+  19.30  SKU Amstetten            2-2 (2-1)  SV Schwechat
+         Wiener Sportklub         3-1 (1-1)  SC Neusiedl/See 1919
+         SC/ESV Parndorf          0-1 (0-1)  SR Donaufeld
+[Sat Sep/20]
+  16.30  SV Mattersburg II        0-5 (0-1)  Rapid Wien II
+         SV Neuberg               0-3 (0-2)  SC Ritzing
+[Tue Sep/23]
+  19.00  FC Admira Wacker II      2-0 (1-0)  SC Sollenau
+
+
+Matchday 9
+[Fri Sep/26]
+  19.00  SC Sollenau              1-1 (1-0)  First Vienna FC
+         SC Neusiedl/See 1919     0-2 (0-1)  Austria Wien II
+  19.30  SV Schwechat             1-1 (0-1)  SV Mattersburg II
+         Rapid Wien II            3-2 (1-2)  SC/ESV Parndorf
+[Sat Sep/27]
+  17.00  SC Ritzing               1-1 (1-1)  FC Admira Wacker II
+         SKN St. Pölten II        1-1 (0-0)  SKU Amstetten
+  16.30  SV Stegersbach           2-1 (1-1)  Wiener Sportklub
+[Sun Sep/28]
+  11.00  SR Donaufeld             2-2 (1-2)  SV Neuberg
+
+
+Matchday 10
+[Fri Oct/3]
+  19.00  Austria Wien II          2-4 (2-2)  SV Stegersbach
+         First Vienna FC          1-3 (0-0)  SC Ritzing
+         SC/ESV Parndorf          2-3 (2-0)  SV Schwechat
+  19.30  Wiener Sportklub         2-3 (1-1)  SC Sollenau
+         SKU Amstetten            4-0 (2-0)  SV Mattersburg II
+[Sat Oct/4]
+  16.00  SKN St. Pölten II        3-2 (1-2)  SC Neusiedl/See 1919
+         SV Neuberg               2-1 (1-1)  Rapid Wien II
+[Sun Oct/5]
+  16.15  FC Admira Wacker II      0-0  SR Donaufeld
+
+
+Matchday 11
+[Fri Oct/10]
+  19.00  SC Neusiedl/See 1919     3-2 (3-1)  SKU Amstetten
+         SV Mattersburg II        1-1 (0-0)  SC/ESV Parndorf
+  19.30  SV Stegersbach           1-0 (0-0)  SKN St. Pölten II
+         SV Schwechat             7-0 (3-0)  SV Neuberg
+         Rapid Wien II            1-1 (0-0)  FC Admira Wacker II
+[Sat Oct/11]
+  17.00  SC Ritzing               4-2 (2-0)  Wiener Sportklub
+[Sun Oct/12]
+  10.15  SR Donaufeld             2-4 (2-1)  First Vienna FC
+
+
+Matchday 12
+[Fri Oct/17]
+  19.30  SKU Amstetten            3-0 (2-0)  SC/ESV Parndorf
+  19.00  SC Neusiedl/See 1919     1-2 (0-0)  SV Stegersbach
+         First Vienna FC          2-1 (0-0)  Rapid Wien II
+         Austria Wien II          1-1 (1-0)  SC Ritzing
+  19.30  Wiener Sportklub         1-0 (0-0)  SR Donaufeld
+[Sat Oct/18]
+  15.30  SKN St. Pölten II        3-0 (2-0)  SC Sollenau
+[Sun Oct/19]
+  11.00  SV Neuberg               1-1 (1-1)  SV Mattersburg II
+  16.15  FC Admira Wacker II      2-2 (2-1)  SV Schwechat
+
+
+Matchday 13
+[Fri Oct/24]
+  19.30  SV Stegersbach           1-0 (1-0)  SKU Amstetten
+  19.00  SC/ESV Parndorf          1-0 (0-0)  SV Neuberg
+         SC Sollenau              2-1 (2-1)  SC Neusiedl/See 1919
+  19.30  SV Schwechat             1-3 (1-2)  First Vienna FC
+         Rapid Wien II            1-1 (1-0)  Wiener Sportklub
+         SC Ritzing               4-3 (2-0)  SKN St. Pölten II
+[Sun Oct/26]
+  10.15  SR Donaufeld             2-2 (1-0)  Austria Wien II
+  10.30  SV Mattersburg II        3-0 (1-0)  FC Admira Wacker II
+
+
+Matchday 14
+[Thu Oct/30]
+  19.00  Austria Wien II          3-1 (1-1)  Rapid Wien II
+[Fri Oct/31]
+  19.00  SC Neusiedl/See 1919     0-4 (0-1)  SC Ritzing
+         First Vienna FC          3-0 (0-0)  SV Mattersburg II
+  19.30  Wiener Sportklub         1-0 (0-0)  SV Schwechat
+         SKN St. Pölten II        2-2 (1-0)  SR Donaufeld
+         SV Stegersbach           1-5 (0-2)  SC Sollenau
+         SKU Amstetten            5-0 (0-0)  SV Neuberg
+[Sun Nov/2]
+  15.30  FC Admira Wacker II      2-3 (2-1)  SC/ESV Parndorf
+
+
+Matchday 11
+[Tue Nov/4]
+  19.00  SC Sollenau              0-2 (0-2)  Austria Wien II
+
+
+Matchday 15
+[Fri Nov/7]
+  19.15  SC/ESV Parndorf          0-0  First Vienna FC
+  19.30  Rapid Wien II            1-0 (0-0)  SKN St. Pölten II
+         SV Schwechat             3-0 (1-0)  Austria Wien II
+  19.00  SC Sollenau              2-2 (2-2)  SKU Amstetten
+[Sat Nov/8]
+  14.00  SV Neuberg               3-4 (2-2)  FC Admira Wacker II
+[Sun Nov/9]
+  14.00  SC Ritzing               3-2 (1-2)  SV Stegersbach
+         SV Mattersburg II        3-0 (3-0)  Wiener Sportklub
+  11.00  SR Donaufeld             2-1 (2-1)  SC Neusiedl/See 1919
+
+
+Matchday 16
+[Fri Nov/14]
+  19.00  SC/ESV Parndorf          4-0 (2-0)  Wiener Sportklub
+         FC Admira Wacker II      1-1 (1-1)  SKU Amstetten
+         SV Mattersburg II        2-2 (0-2)  Austria Wien II
+  19.30  SV Schwechat             4-2 (1-1)  SKN St. Pölten II
+         Rapid Wien II            1-2 (1-1)  SC Neusiedl/See 1919
+[Sat Nov/15]
+  16.00  SC Ritzing               3-2 (1-0)  SC Sollenau
+[Sun Nov/16]
+  14.00  SV Neuberg               0-3 (0-0)  First Vienna FC
+  11.00  SR Donaufeld             2-1 (1-0)  SV Stegersbach
+
+
+Matchday 17
+[Fri Mar/6]
+  19.00  Austria Wien II          4-2 (1-1)  SC/ESV Parndorf
+         SC Neusiedl/See 1919     2-1 (1-0)  SV Schwechat
+         SC Sollenau              0-0  SR Donaufeld
+         First Vienna FC          1-3 (1-1)  FC Admira Wacker II
+  19.30  Wiener Sportklub         7-0 (3-0)  SV Neuberg
+         SV Stegersbach           0-4 (0-1)  Rapid Wien II
+[Sat Mar/7]
+  17.00  SC Ritzing               2-1 (1-0)  SKU Amstetten
+  15.30  SKN St. Pölten II        2-2 (1-0)  SV Mattersburg II
+
+
+Matchday 18
+[Fri Mar/13]
+  19.30  SKU Amstetten            0-0  First Vienna FC
+         SV Schwechat             1-0 (1-0)  SV Stegersbach
+  19.00  SC/ESV Parndorf          3-0 (1-0)  SKN St. Pölten II
+[Sat Mar/14]
+  15.00  SV Neuberg               1-1 (1-1)  Austria Wien II
+  17.00  SV Mattersburg II        1-1 (1-1)  SC Neusiedl/See 1919
+[Sun Mar/15]
+  15.30  Rapid Wien II            1-1 (0-0)  SC Sollenau
+         FC Admira Wacker II      4-0 (1-0)  Wiener Sportklub
+  11.00  SR Donaufeld             1-1 (1-1)  SC Ritzing
+
+
+Matchday 20
+[Wed Mar/18]
+  19.30  SKU Amstetten            1-0 (0-0)  Wiener Sportklub
+
+
+Matchday 19
+[Fri Mar/20]
+  19.00  SC Sollenau              0-3 (0-1)  SV Schwechat
+         Austria Wien II          1-3 (1-1)  FC Admira Wacker II
+  19.30  SV Stegersbach           0-0  SV Mattersburg II
+  19.00  SC Neusiedl/See 1919     2-1 (1-1)  SC/ESV Parndorf
+[Sat Mar/21]
+  17.00  SC Ritzing               1-0 (1-0)  Rapid Wien II
+  16.00  SKN St. Pölten II        1-0 (1-0)  SV Neuberg
+[Sun Mar/22]
+  15.00  SR Donaufeld             2-2 (1-0)  SKU Amstetten
+[Fri Mar/27]
+  18.30  Wiener Sportklub         3-5 (0-3)  First Vienna FC
+
+
+Matchday 20
+[Fri Mar/27]
+  18.30  SV Mattersburg II        2-0 (0-0)  SC Sollenau
+  18.45  Rapid Wien II            3-1 (2-1)  SR Donaufeld
+         SV Schwechat             0-0  SC Ritzing
+         SC/ESV Parndorf          4-1 (4-0)  SV Stegersbach
+[Sun Mar/29]
+  16.00  SV Neuberg               0-1 (0-0)  SC Neusiedl/See 1919
+
+
+Matchday 21
+[Fri Apr/3]
+  19.30  SC Ritzing               5-0 (2-0)  SV Mattersburg II
+         SV Stegersbach           1-1 (1-0)  SV Neuberg
+  19.00  SC Sollenau              1-4 (1-1)  SC/ESV Parndorf
+         SC Neusiedl/See 1919     0-2 (0-0)  FC Admira Wacker II
+  19.30  Wiener Sportklub         1-0 (1-0)  Austria Wien II
+[Sat Apr/4]
+  16.30  SKN St. Pölten II        2-1 (0-0)  First Vienna FC
+[Sun Apr/5]
+  10.15  SR Donaufeld             1-1 (1-1)  SV Schwechat
+  16.30  Rapid Wien II            0-4 (0-1)  SKU Amstetten
+
+
+Matchday 20
+[Tue Apr/7]
+  19.00  FC Admira Wacker II      2-2 (2-0)  SKN St. Pölten II
+         First Vienna FC          2-1 (1-0)  Austria Wien II
+
+
+Matchday 22
+[Fri Apr/10]
+  19.00  First Vienna FC          2-3 (1-1)  SC Neusiedl/See 1919
+         SC/ESV Parndorf          4-0 (1-0)  SC Ritzing
+  19.30  SKU Amstetten            1-1 (0-1)  Austria Wien II
+         SV Schwechat             0-0  Rapid Wien II
+         Wiener Sportklub         2-2 (1-1)  SKN St. Pölten II
+[Sat Apr/11]
+  18.30  SV Mattersburg II        3-1 (2-0)  SR Donaufeld
+  16.30  SV Neuberg               0-4 (0-1)  SC Sollenau
+[Sun Apr/12]
+  15.30  FC Admira Wacker II      1-1 (1-1)  SV Stegersbach
+
+
+Matchday 23
+[Fri Apr/17]
+  19.30  SV Stegersbach           1-1 (0-1)  First Vienna FC
+         SV Schwechat             0-3 (0-1)  SKU Amstetten
+  19.00  SC Neusiedl/See 1919     1-1 (0-0)  Wiener Sportklub
+[Sat Apr/18]
+  17.00  SC Ritzing               4-1 (2-1)  SV Neuberg
+  15.00  SKN St. Pölten II        1-0 (0-0)  Austria Wien II
+[Sun Apr/19]
+  14.00  SR Donaufeld             1-5 (0-2)  SC/ESV Parndorf
+  16.30  Rapid Wien II            2-1 (0-1)  SV Mattersburg II
+
+
+Matchday 24
+[Fri Apr/24]
+  19.00  Austria Wien II          0-1 (0-0)  SC Neusiedl/See 1919
+         First Vienna FC          2-3 (2-1)  SC Sollenau
+  19.30  Wiener Sportklub         1-2 (0-2)  SV Stegersbach
+         SKU Amstetten            3-1 (3-0)  SKN St. Pölten II
+[Sat Apr/25]
+  15.30  FC Admira Wacker II      1-1 (0-0)  SC Ritzing
+  19.00  SV Mattersburg II        0-1 (0-0)  SV Schwechat
+[Sun Apr/26]
+  10.30  SV Neuberg               1-5 (0-2)  SR Donaufeld
+
+
+Matchday 30
+[Tue Apr/28]
+  19.00  Austria Wien II          0-2 (0-0)  SV Schwechat
+  19.30  SKU Amstetten            1-4 (0-2)  SC Sollenau
+         SKN St. Pölten II        0-4 (0-1)  Rapid Wien II
+  19.00  First Vienna FC          0-2 (0-0)  SC/ESV Parndorf
+         FC Admira Wacker II      6-0 (2-0)  SV Neuberg
+         SC Neusiedl/See 1919     3-1 (0-1)  SR Donaufeld
+[Thu Apr/30]
+  19.30  Wiener Sportklub         2-2 (0-2)  SV Mattersburg II
+
+
+Matchday 25
+[Fri May/1]
+  19.30  SV Schwechat             0-1 (0-1)  SC/ESV Parndorf
+         Rapid Wien II            5-0 (3-0)  SV Neuberg
+  19.00  SC Neusiedl/See 1919     1-1 (1-0)  SKN St. Pölten II
+[Sat May/2]
+  17.00  SC Ritzing               1-1 (0-0)  First Vienna FC
+[Sun May/3]
+  16.30  SV Mattersburg II        4-0 (2-0)  SKU Amstetten
+  15.30  SV Stegersbach           0-3 (0-1)  Austria Wien II
+  10.15  SR Donaufeld             4-2 (1-1)  FC Admira Wacker II
+  14.30  SC Sollenau              2-2 (1-1)  Wiener Sportklub
+
+
+Matchday 24
+[Tue May/5]
+  19.00  SC/ESV Parndorf          1-1 (1-1)  Rapid Wien II
+
+
+Matchday 26
+[Fri May/8]
+  19.00  First Vienna FC          3-1 (1-0)  SR Donaufeld
+         SC/ESV Parndorf          1-4 (0-2)  SV Mattersburg II
+         Austria Wien II          0-4 (0-3)  SC Sollenau
+         FC Admira Wacker II      2-2 (0-2)  Rapid Wien II
+  19.30  SKU Amstetten            3-0 (0-0)  SC Neusiedl/See 1919
+         Wiener Sportklub         0-1 (0-1)  SC Ritzing
+[Sat May/9]
+  16.30  SV Neuberg               2-3 (2-0)  SV Schwechat
+         SKN St. Pölten II        4-0 (1-0)  SV Stegersbach
+
+
+Matchday 23
+[Tue May/12]
+  18.30  SC Sollenau              0-2 (0-1)  FC Admira Wacker II
+
+
+Matchday 27
+[Thu May/14]
+  17.00  SC Ritzing               1-1 (0-0)  Austria Wien II
+[Fri May/15]
+  19.00  SC Sollenau              1-3 (1-2)  SKN St. Pölten II
+         SC/ESV Parndorf          0-1 (0-0)  SKU Amstetten
+  19.30  Rapid Wien II            0-2 (0-2)  First Vienna FC
+         SV Stegersbach           1-1 (1-0)  SC Neusiedl/See 1919
+         SV Schwechat             4-0 (2-0)  FC Admira Wacker II
+[Sun May/17]
+  10.30  SV Mattersburg II        2-0 (0-0)  SV Neuberg
+  10.15  SR Donaufeld             0-3 (0-0)  Wiener Sportklub
+
+
+Matchday 30
+[Tue May/19]
+  19.30  SV Stegersbach           2-3 (0-1)  SC Ritzing
+
+
+Matchday 28
+[Fri May/22]
+  18.30  FC Admira Wacker II      1-0 (1-0)  SV Mattersburg II
+         First Vienna FC          1-1 (0-0)  SV Schwechat
+         Austria Wien II          5-0 (2-0)  SR Donaufeld
+         Wiener Sportklub         1-2 (1-1)  Rapid Wien II
+         SKU Amstetten            2-3 (1-1)  SV Stegersbach
+         SC Neusiedl/See 1919     0-4 (0-1)  SC Sollenau
+         SKN St. Pölten II        1-1 (0-0)  SC Ritzing
+         SV Neuberg               3-4 (1-1)  SC/ESV Parndorf
+
+
+Matchday 29
+[Fri May/29]
+  19.00  SC/ESV Parndorf          4-1 (2-0)  FC Admira Wacker II
+  18.30  SV Mattersburg II        1-1 (0-0)  First Vienna FC
+         SR Donaufeld             2-2 (0-1)  SKN St. Pölten II
+         SV Schwechat             1-2 (0-0)  Wiener Sportklub
+         SC Sollenau              0-0  SV Stegersbach
+         Rapid Wien II            3-3 (2-1)  Austria Wien II
+[Sat May/30]
+  15.00  SC Ritzing               0-1 (0-0)  SC Neusiedl/See 1919
+  16.30  SV Neuberg               1-4 (0-1)  SKU Amstetten

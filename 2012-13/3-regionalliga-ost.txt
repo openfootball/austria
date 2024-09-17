@@ -1,0 +1,436 @@
+= Österr. Regionalliga Ost 2012/13
+
+# Date       Fri Aug/3 2012 - Wed May/29 2013 (299d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Aug/3]
+  19.00  Austria Wien II          2-0 (1-0)  SC Retz
+         SV Mattersburg II        4-3 (3-2)  Wiener Sportklub
+  19.30  Rapid Wien II            7-0 (5-0)  SC Ritzing
+         SV Oberwart              0-1 (0-1)  SC/ESV Parndorf
+         SC Sollenau              2-1 (1-0)  FC Admira Wacker II
+  20.00  SKU Amstetten            2-2 (2-1)  SV Stegersbach
+         SV Schwechat             2-0 (1-0)  1. Simmeringer SC
+  18.15  SC Ostbahn XI            3-1 (2-1)  FAC Team für Wien
+
+
+Matchday 2
+[Fri Aug/10]
+  19.00  FAC Team für Wien        3-1 (0-0)  SV Schwechat
+         SC/ESV Parndorf          4-1 (1-0)  SV Stegersbach
+         FC Admira Wacker II      2-1 (1-1)  SV Mattersburg II
+  19.30  SV Oberwart              2-0 (1-0)  SC Sollenau
+         Wiener Sportklub         3-1 (0-0)  SC Ostbahn XI
+[Sat Aug/11]
+  17.30  1. Simmeringer SC        0-1 (0-0)  Rapid Wien II
+  19.00  SC Ritzing               2-6 (0-3)  Austria Wien II
+  17.30  SC Retz                  3-1 (1-0)  SKU Amstetten
+
+
+Matchday 3
+[Fri Aug/17]
+  18.00  SC Ostbahn XI            1-1 (0-1)  FC Admira Wacker II
+  19.00  Austria Wien II          1-0 (0-0)  1. Simmeringer SC
+         SV Mattersburg II        3-1 (2-0)  SV Oberwart
+  19.30  Rapid Wien II            2-5 (0-3)  FAC Team für Wien
+         SKU Amstetten            4-0 (1-0)  SC Ritzing
+         SV Stegersbach           1-2 (0-1)  SC Retz
+  20.00  SC Sollenau              2-2 (0-1)  SC/ESV Parndorf
+         SV Schwechat             2-1 (0-0)  Wiener Sportklub
+
+
+Matchday 4
+[Fri Aug/24]
+  19.00  SC/ESV Parndorf          3-4 (2-1)  SC Retz
+         FC Admira Wacker II      1-3 (0-1)  SV Schwechat
+  19.30  SV Oberwart              1-1 (1-0)  SC Ostbahn XI
+         SC Sollenau              2-6 (2-3)  SV Mattersburg II
+         Wiener Sportklub         1-2 (0-1)  Rapid Wien II
+  19.00  FAC Team für Wien        1-3 (0-2)  Austria Wien II
+[Sat Aug/25]
+  19.00  SC Ritzing               0-3 (0-2)  SV Stegersbach
+  15.30  1. Simmeringer SC        0-4 (0-1)  SKU Amstetten
+
+
+Matchday 5
+[Fri Aug/31]
+  19.00  Austria Wien II          2-2 (0-0)  Wiener Sportklub
+         SV Mattersburg II        2-3 (2-2)  SC/ESV Parndorf
+  19.30  Rapid Wien II            2-2 (1-0)  FC Admira Wacker II
+         SKU Amstetten            3-1 (1-1)  FAC Team für Wien
+  20.00  SV Schwechat             2-1 (1-1)  SV Oberwart
+[Sat Sep/1]
+  16.15  SC Retz                  2-1 (1-0)  SC Ritzing
+  18.00  SV Stegersbach           3-0 (1-0)  1. Simmeringer SC
+  16.00  SC Ostbahn XI            2-3 (1-1)  SC Sollenau
+
+
+Matchday 6
+[Thu Sep/6]
+  19.30  SV Mattersburg II        7-2 (3-2)  SC Ostbahn XI
+[Fri Sep/7]
+  19.00  FAC Team für Wien        3-2 (2-0)  SV Stegersbach
+         SC/ESV Parndorf          2-1 (0-1)  SC Ritzing
+         FC Admira Wacker II      3-3 (2-2)  Austria Wien II
+  19.30  SV Oberwart              3-3 (1-2)  Rapid Wien II
+         Wiener Sportklub         0-0  SKU Amstetten
+  20.00  SC Sollenau              1-0 (1-0)  SV Schwechat
+[Sat Sep/8]
+  15.30  1. Simmeringer SC        1-1 (1-0)  SC Retz
+
+
+Matchday 7
+[Fri Sep/14]
+  19.00  SV Stegersbach           3-1 (0-0)  Wiener Sportklub
+  19.30  Rapid Wien II            2-1 (1-1)  SC Sollenau
+         SKU Amstetten            2-0 (1-0)  FC Admira Wacker II
+  20.00  SV Schwechat             3-3 (1-1)  SV Mattersburg II
+  19.00  Austria Wien II          3-1 (3-1)  SV Oberwart
+[Sat Sep/15]
+  16.00  SC Ostbahn XI            1-2 (0-1)  SC/ESV Parndorf
+  16.15  SC Retz                  1-3 (1-1)  FAC Team für Wien
+  19.00  SC Ritzing               1-0 (0-0)  1. Simmeringer SC
+
+
+Matchday 8
+[Tue Sep/18]
+  19.00  FC Admira Wacker II      2-0 (1-0)  SV Stegersbach
+[Fri Sep/21]
+  19.00  FAC Team für Wien        5-2 (4-0)  SC Ritzing
+         SC/ESV Parndorf          1-0 (1-0)  1. Simmeringer SC
+  19.30  SV Oberwart              2-1 (1-1)  SKU Amstetten
+         SC Sollenau              0-2 (0-0)  Austria Wien II
+         Wiener Sportklub         3-0 (3-0)  SC Retz
+  19.00  SV Mattersburg II        1-0 (1-0)  Rapid Wien II
+[Sat Sep/22]
+  16.00  SC Ostbahn XI            0-1 (0-0)  SV Schwechat
+
+
+Matchday 9
+[Thu Sep/27]
+  19.00  Austria Wien II          3-2 (1-0)  SV Mattersburg II
+[Fri Sep/28]
+  19.30  Rapid Wien II            5-3 (4-1)  SC Ostbahn XI
+         SKU Amstetten            1-0 (0-0)  SC Sollenau
+  20.00  SV Schwechat             2-3 (2-1)  SC/ESV Parndorf
+  19.00  SV Stegersbach           2-2 (1-1)  SV Oberwart
+[Sat Sep/29]
+  15.30  SC Ritzing               0-5 (0-2)  Wiener Sportklub
+  16.15  SC Retz                  2-2 (1-1)  FC Admira Wacker II
+  15.30  1. Simmeringer SC        2-2 (0-1)  FAC Team für Wien
+
+
+Matchday 10
+[Wed Oct/3]
+  19.30  SV Schwechat             1-4 (1-4)  Rapid Wien II
+[Thu Oct/4]
+  20.00  SV Mattersburg II        2-1 (1-1)  SKU Amstetten
+[Fri Oct/5]
+  19.30  SV Oberwart              4-1 (3-1)  SC Retz
+         Wiener Sportklub         0-0  1. Simmeringer SC
+  20.00  SC Sollenau              0-1 (0-1)  SV Stegersbach
+  19.00  SC/ESV Parndorf          0-0  FAC Team für Wien
+[Sat Oct/6]
+  16.00  SC Ostbahn XI            1-3 (1-2)  Austria Wien II
+[Sun Oct/7]
+  15.30  FC Admira Wacker II      3-1 (1-1)  SC Ritzing
+
+
+Matchday 11
+[Fri Oct/12]
+  20.00  SKU Amstetten            0-0  SC Ostbahn XI
+         SV Stegersbach           1-1 (0-0)  SV Mattersburg II
+         SC Ritzing               1-2 (0-1)  SV Oberwart
+[Sat Oct/13]
+  15.30  1. Simmeringer SC        1-1 (1-0)  FC Admira Wacker II
+  16.00  Austria Wien II          3-0 (2-0)  SV Schwechat
+         SC Retz                  2-3 (0-1)  SC Sollenau
+  15.00  Rapid Wien II            1-1 (0-0)  SC/ESV Parndorf
+[Sun Oct/14]
+  15.00  FAC Team für Wien        3-1 (1-1)  Wiener Sportklub
+
+
+Matchday 12
+[Fri Oct/19]
+  19.00  SC/ESV Parndorf          2-1 (1-0)  Wiener Sportklub
+         SV Mattersburg II        6-4 (3-1)  SC Retz
+         FC Admira Wacker II      1-1 (1-1)  FAC Team für Wien
+  19.30  SV Oberwart              1-0 (0-0)  1. Simmeringer SC
+         Rapid Wien II            0-0  Austria Wien II
+  20.00  SC Sollenau              2-0 (0-0)  SC Ritzing
+         SV Schwechat             1-2 (1-2)  SKU Amstetten
+[Sat Oct/20]
+  15.00  SC Ostbahn XI            0-1 (0-1)  SV Stegersbach
+
+
+Matchday 13
+[Thu Oct/25]
+  19.30  SV Stegersbach           4-1 (2-0)  SV Schwechat
+  19.00  Austria Wien II          3-1 (0-1)  SC/ESV Parndorf
+[Fri Oct/26]
+  15.30  Wiener Sportklub         1-3 (1-0)  FC Admira Wacker II
+  19.30  SKU Amstetten            1-2 (0-1)  Rapid Wien II
+  14.30  SC Retz                  3-2 (2-1)  SC Ostbahn XI
+[Sat Oct/27]
+  15.30  1. Simmeringer SC        0-1 (0-0)  SC Sollenau
+  16.00  FAC Team für Wien        2-0 (1-0)  SV Oberwart
+  17.00  SC Ritzing               1-2 (1-0)  SV Mattersburg II
+
+
+Matchday 14
+[Fri Nov/2]
+  19.00  SV Mattersburg II        3-0 (0-0)  1. Simmeringer SC
+  19.30  Rapid Wien II            0-1 (0-1)  SV Stegersbach
+         SC Sollenau              1-3 (0-2)  FAC Team für Wien
+  20.00  SV Schwechat             1-2 (0-1)  SC Retz
+  19.00  Austria Wien II          2-2 (1-1)  SKU Amstetten
+[Sat Nov/3]
+  14.00  SC Ostbahn XI            0-0  SC Ritzing
+  17.00  SV Oberwart              1-1 (0-0)  Wiener Sportklub
+
+
+Matchday 15
+[Fri Nov/9]
+  19.00  FAC Team für Wien        3-1 (0-0)  SV Mattersburg II
+  19.30  SKU Amstetten            1-2 (1-2)  SC/ESV Parndorf
+         Wiener Sportklub         0-3 (0-1)  SC Sollenau
+[Sat Nov/10]
+  18.00  SV Stegersbach           3-0 (1-0)  Austria Wien II
+  15.30  1. Simmeringer SC        2-0 (1-0)  SC Ostbahn XI
+  17.00  SC Ritzing               0-3 (0-2)  SV Schwechat
+  14.00  SC Retz                  1-0 (1-0)  Rapid Wien II
+[Sun Nov/11]
+  15.30  FC Admira Wacker II      4-0 (0-0)  SV Oberwart
+
+
+Matchday 14
+[Tue Nov/13]
+  19.00  SC/ESV Parndorf          0-0  FC Admira Wacker II
+
+
+Matchday 17
+[Fri Mar/8]
+  20.00  SV Schwechat             0-0  FAC Team für Wien
+  19.30  SC Ostbahn XI            0-3 (0-1)  Wiener Sportklub
+         SV Stegersbach           1-1 (0-1)  SC/ESV Parndorf
+         Rapid Wien II            1-1 (1-0)  1. Simmeringer SC
+         SKU Amstetten            5-0 (3-0)  SC Retz
+         SC Sollenau              0-0  SV Oberwart
+  19.00  SV Mattersburg II        0-0  FC Admira Wacker II
+         Austria Wien II          2-1 (1-1)  SC Ritzing
+
+
+Matchday 18
+[Fri Mar/15]
+  19.30  SV Oberwart              0-0  SV Mattersburg II
+[Sat Mar/16]
+  16.00  SC Retz                  4-0 (1-0)  SV Stegersbach
+  15.30  1. Simmeringer SC        0-2 (0-1)  Austria Wien II
+[Sun Mar/17]
+  15.00  Wiener Sportklub         3-3 (0-0)  SV Schwechat
+  10.30  FAC Team für Wien        1-1 (1-1)  Rapid Wien II
+  16.00  SC/ESV Parndorf          2-0 (0-0)  SC Sollenau
+         SC Ritzing               1-1 (0-0)  SKU Amstetten
+         FC Admira Wacker II      3-2 (0-0)  SC Ostbahn XI
+
+
+Matchday 19
+[Thu Mar/21]
+  19.30  SKU Amstetten            5-2 (3-1)  1. Simmeringer SC
+  19.00  SV Mattersburg II        1-1 (0-1)  SC Sollenau
+[Fri Mar/22]
+  18.00  SC Ostbahn XI            3-2 (1-1)  SV Oberwart
+[Sat Mar/23]
+  19.00  SV Stegersbach           1-2 (0-1)  SC Ritzing
+  16.00  SC Retz                  2-4 (0-1)  SC/ESV Parndorf
+  15.00  Rapid Wien II            1-0 (1-0)  Wiener Sportklub
+
+
+Matchday 20
+[Fri Mar/29]
+  19.00  SC/ESV Parndorf          3-1 (1-0)  SV Mattersburg II
+  19.30  SC Ritzing               2-1 (0-0)  SC Retz
+
+
+Matchday 16
+[Mon Apr/1]
+  16.15  SC Ritzing               2-1 (1-1)  Rapid Wien II
+[Tue Apr/2]
+  19.30  SC/ESV Parndorf          2-0 (0-0)  SV Oberwart
+
+
+Matchday 21
+[Fri Apr/5]
+  19.00  Austria Wien II          1-1 (1-1)  FC Admira Wacker II
+  19.30  SKU Amstetten            3-0 (1-0)  Wiener Sportklub
+  20.00  SV Schwechat             1-5 (1-3)  SC Sollenau
+  19.30  Rapid Wien II            1-1 (0-1)  SV Oberwart
+  19.00  SV Stegersbach           1-2 (1-0)  FAC Team für Wien
+  19.30  SC Ostbahn XI            2-2 (1-0)  SV Mattersburg II
+[Sat Apr/6]
+  15.00  SC Ritzing               1-5 (1-3)  SC/ESV Parndorf
+  16.15  SC Retz                  2-0 (1-0)  1. Simmeringer SC
+
+
+Matchday 20
+[Tue Apr/9]
+  19.30  SC Sollenau              0-0  SC Ostbahn XI
+
+
+Matchday 19
+[Tue Apr/9]
+  19.00  Austria Wien II          2-0 (1-0)  FAC Team für Wien
+  19.30  SV Schwechat             0-3 (0-2)  FC Admira Wacker II
+
+
+Matchday 16
+[Tue Apr/9]
+  19.30  Wiener Sportklub         0-1 (0-1)  SV Mattersburg II
+
+
+Matchday 20
+[Tue Apr/9]
+  19.00  1. Simmeringer SC        1-1 (0-0)  SV Stegersbach
+
+
+Matchday 22
+[Fri Apr/12]
+  19.30  SV Oberwart              2-2 (0-2)  Austria Wien II
+         Wiener Sportklub         1-0 (1-0)  SV Stegersbach
+  19.00  SC/ESV Parndorf          6-1 (4-1)  SC Ostbahn XI
+         SV Mattersburg II        3-0 (2-0)  SV Schwechat
+[Sat Apr/13]
+  15.30  1. Simmeringer SC        0-1 (0-0)  SC Ritzing
+  18.00  FAC Team für Wien        2-2 (2-1)  SC Retz
+         SC Sollenau              2-1 (0-1)  Rapid Wien II
+  15.30  FC Admira Wacker II      0-0  SKU Amstetten
+
+
+Matchday 20
+[Tue Apr/16]
+  19.00  FAC Team für Wien        1-0 (0-0)  SKU Amstetten
+  19.30  FC Admira Wacker II      3-3 (2-2)  Rapid Wien II
+         SV Oberwart              2-1 (0-1)  SV Schwechat
+         Wiener Sportklub         3-2 (2-0)  Austria Wien II
+
+
+Matchday 23
+[Fri Apr/19]
+  19.30  SKU Amstetten            1-1 (1-1)  SV Oberwart
+  19.00  Austria Wien II          2-0 (1-0)  SC Sollenau
+  20.00  SV Schwechat             1-2 (1-0)  SC Ostbahn XI
+  19.30  Rapid Wien II            5-2 (1-2)  SV Mattersburg II
+  19.00  SV Stegersbach           0-4 (0-0)  FC Admira Wacker II
+[Sat Apr/20]
+  19.00  SC Ritzing               2-2 (1-1)  FAC Team für Wien
+  15.30  1. Simmeringer SC        0-5 (0-2)  SC/ESV Parndorf
+  16.15  SC Retz                  3-5 (0-2)  Wiener Sportklub
+
+
+Matchday 16
+[Mon Apr/22]
+  19.30  SV Stegersbach           1-0 (0-0)  SKU Amstetten
+[Tue Apr/23]
+  18.00  FC Admira Wacker II      4-2 (2-0)  SC Sollenau
+  18.30  FAC Team für Wien        1-1 (0-1)  SC Ostbahn XI
+         1. Simmeringer SC        0-0  SV Schwechat
+
+
+Matchday 24
+[Fri Apr/26]
+  20.00  SC Sollenau              1-2 (0-0)  SKU Amstetten
+  19.00  SC/ESV Parndorf          2-1 (1-0)  SV Schwechat
+         SV Mattersburg II        1-2 (0-1)  Austria Wien II
+  19.30  SV Oberwart              1-2 (1-1)  SV Stegersbach
+         Wiener Sportklub         3-0 (1-0)  SC Ritzing
+         SC Ostbahn XI            1-2 (1-2)  Rapid Wien II
+         FC Admira Wacker II      2-1 (0-0)  SC Retz
+[Sun Apr/28]
+  10.30  FAC Team für Wien        3-0 (1-0)  1. Simmeringer SC
+
+
+Matchday 16
+[Tue Apr/30]
+  18.00  SC Retz                  3-4 (0-2)  Austria Wien II
+
+
+Matchday 25
+[Fri May/3]
+  19.00  FAC Team für Wien        1-0 (0-0)  SC/ESV Parndorf
+         Austria Wien II          2-1 (1-0)  SC Ostbahn XI
+         Rapid Wien II            3-0 (1-0)  SV Schwechat
+  19.30  SKU Amstetten            1-1 (0-1)  SV Mattersburg II
+[Sat May/4]
+  16.15  SC Retz                  2-3 (1-1)  SV Oberwart
+  19.00  SC Ritzing               1-2 (0-1)  FC Admira Wacker II
+  19.30  SV Stegersbach           2-0 (0-0)  SC Sollenau
+  15.30  1. Simmeringer SC        1-3 (0-1)  Wiener Sportklub
+
+
+Matchday 30
+[Tue May/7]
+  19.30  SV Schwechat             1-2 (1-2)  SC Ritzing
+         SV Oberwart              2-2 (0-1)  FC Admira Wacker II
+         Rapid Wien II            1-2 (0-0)  SC Retz
+         SC/ESV Parndorf          0-0  SKU Amstetten
+         SC Ostbahn XI            4-1 (0-1)  1. Simmeringer SC
+  19.00  SV Mattersburg II        1-1 (0-1)  FAC Team für Wien
+         Austria Wien II          6-1 (2-0)  SV Stegersbach
+[Wed May/8]
+  19.30  SC Sollenau              2-2 (0-0)  Wiener Sportklub
+
+
+Matchday 26
+[Fri May/10]
+  19.00  SC/ESV Parndorf          3-0 (0-0)  Rapid Wien II
+         SV Mattersburg II        2-0 (0-0)  SV Stegersbach
+  20.00  SV Schwechat             2-2 (1-0)  Austria Wien II
+  19.30  SC Ostbahn XI            0-4 (0-1)  SKU Amstetten
+         SV Oberwart              2-1 (1-0)  SC Ritzing
+[Sat May/11]
+  18.00  Wiener Sportklub         0-3 (0-0)  FAC Team für Wien
+         SC Sollenau              2-2 (1-2)  SC Retz
+[Sun May/12]
+  15.30  FC Admira Wacker II      3-1 (0-1)  1. Simmeringer SC
+
+
+Matchday 27
+[Thu May/16]
+  19.00  FAC Team für Wien        1-3 (0-2)  FC Admira Wacker II
+         Austria Wien II          2-1 (0-1)  Rapid Wien II
+[Fri May/17]
+  19.30  SV Stegersbach           2-1 (0-1)  SC Ostbahn XI
+         SKU Amstetten            2-0 (1-0)  SV Schwechat
+         Wiener Sportklub         1-2 (0-1)  SC/ESV Parndorf
+[Sat May/18]
+  15.30  1. Simmeringer SC        1-2 (1-2)  SV Oberwart
+  16.15  SC Retz                  1-2 (0-2)  SV Mattersburg II
+  19.00  SC Ritzing               1-3 (0-2)  SC Sollenau
+
+
+Matchday 28
+[Fri May/24]
+  19.00  Rapid Wien II            0-1 (0-0)  SKU Amstetten
+         FC Admira Wacker II      1-3 (1-0)  Wiener Sportklub
+         SV Oberwart              2-2 (2-2)  FAC Team für Wien
+         SC/ESV Parndorf          3-2 (0-2)  Austria Wien II
+         SC Ostbahn XI            4-1 (1-1)  SC Retz
+         SV Schwechat             6-3 (4-0)  SV Stegersbach
+  20.00  SC Sollenau              2-1 (2-0)  1. Simmeringer SC
+  19.00  SV Mattersburg II        1-2 (0-0)  SC Ritzing
+
+
+Matchday 29
+[Wed May/29]
+  19.30  SV Stegersbach           2-2 (0-2)  Rapid Wien II
+  19.00  FAC Team für Wien        3-1 (1-0)  SC Sollenau
+  18.00  SC Retz                  4-3 (0-0)  SV Schwechat
+         SC Ritzing               1-1 (0-0)  SC Ostbahn XI
+         1. Simmeringer SC        1-5 (0-3)  SV Mattersburg II
+         FC Admira Wacker II      1-1 (0-0)  SC/ESV Parndorf
+         SKU Amstetten            2-0 (1-0)  Austria Wien II
+  19.30  Wiener Sportklub         1-3 (1-1)  SV Oberwart

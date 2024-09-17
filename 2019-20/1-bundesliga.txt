@@ -1,0 +1,411 @@
+= Österr. Bundesliga 2019/20
+
+# Date       Fri Jul/26 2019 - Wed Jul/15 2020 (355d)
+# Teams      12
+# Matches    195
+# Stages     Regular Season (132)  Playoffs - Relegation (30)  Playoffs - Championship (30)  Europa League Finals (3)
+
+
+# Regular Season
+
+Matchday 1
+[Fri Jul/26]
+  20.45  Rapid Wien               0-2 (0-1)  RB Salzburg
+[Sat Jul/27]
+  17.00  WSG Tirol                3-1 (1-0)  Austria Wien
+         FC Admira Wacker         0-3 (0-1)  Wolfsberger AC
+[Sun Jul/28]
+  17.00  Sturm Graz               3-0 (2-0)  SKN St. Pölten
+         LASK                     2-0 (1-0)  SCR Altach
+         SV Mattersburg           2-1 (1-0)  TSV Hartberg
+
+
+Matchday 2
+[Sat Aug/3]
+  17.00  Austria Wien             0-3 (0-1)  LASK
+         SCR Altach               3-2 (2-2)  WSG Tirol
+         TSV Hartberg             4-1 (2-0)  FC Admira Wacker
+[Sun Aug/4]
+  17.00  Wolfsberger AC           0-1 (0-1)  Sturm Graz
+         SKN St. Pölten           2-2 (1-1)  Rapid Wien
+         RB Salzburg              4-1 (3-0)  SV Mattersburg
+
+
+Matchday 3
+[Sat Aug/10]
+  17.00  RB Salzburg              5-2 (2-1)  Wolfsberger AC
+         Rapid Wien               2-1 (2-1)  SCR Altach
+         FC Admira Wacker         0-1 (0-1)  LASK
+[Sun Aug/11]
+  17.00  TSV Hartberg             1-0 (0-0)  Sturm Graz
+         WSG Tirol                1-1 (1-0)  SKN St. Pölten
+         SV Mattersburg           1-5 (0-2)  Austria Wien
+
+
+Matchday 4
+[Sat Aug/17]
+  17.00  LASK                     1-1 (0-1)  WSG Tirol
+         Wolfsberger AC           5-0 (2-0)  SV Mattersburg
+         SKN St. Pölten           0-6 (0-2)  RB Salzburg
+[Sun Aug/18]
+  17.00  Sturm Graz               0-1 (0-1)  Rapid Wien
+         SCR Altach               3-3 (0-3)  TSV Hartberg
+         Austria Wien             1-1 (1-0)  FC Admira Wacker
+
+
+Matchday 5
+[Sat Aug/24]
+  17.00  Rapid Wien               1-2 (0-1)  LASK
+         Wolfsberger AC           5-2 (3-1)  SCR Altach
+         SV Mattersburg           0-1 (0-1)  SKN St. Pölten
+[Sun Aug/25]
+  17.00  RB Salzburg              5-0 (3-0)  FC Admira Wacker
+         TSV Hartberg             2-2 (1-0)  Austria Wien
+         Sturm Graz               2-0 (1-0)  WSG Tirol
+
+
+Matchday 6
+[Sat Aug/31]
+  17.00  LASK                     0-1 (0-0)  Wolfsberger AC
+         FC Admira Wacker         1-3 (1-2)  SV Mattersburg
+         WSG Tirol                1-5 (0-3)  RB Salzburg
+[Sun Sep/1]
+  17.00  SKN St. Pölten           1-3 (0-2)  TSV Hartberg
+         SCR Altach               1-2 (0-1)  Sturm Graz
+         Austria Wien             1-3 (1-1)  Rapid Wien
+
+
+Matchday 7
+[Sat Sep/14]
+  17.00  RB Salzburg              7-2 (2-1)  TSV Hartberg
+         Sturm Graz               0-2 (0-0)  LASK
+         SV Mattersburg           0-2 (0-1)  WSG Tirol
+[Sun Sep/15]
+  14.30  SCR Altach               6-0 (3-0)  SKN St. Pölten
+  17.00  Wolfsberger AC           3-0 (0-0)  Austria Wien
+  14.30  Rapid Wien               5-0 (1-0)  FC Admira Wacker
+
+
+Matchday 8
+[Sat Sep/21]
+  17.00  SV Mattersburg           3-3 (1-2)  Sturm Graz
+         FC Admira Wacker         1-1 (1-0)  SKN St. Pölten
+         WSG Tirol                0-2 (0-0)  Rapid Wien
+[Sun Sep/22]
+  14.30  TSV Hartberg             0-2 (0-0)  Wolfsberger AC
+  17.00  LASK                     2-2 (2-1)  RB Salzburg
+  14.30  Austria Wien             2-0 (0-0)  SCR Altach
+
+
+Matchday 9
+[Sat Sep/28]
+  17.00  RB Salzburg              4-1 (2-1)  Austria Wien
+         Wolfsberger AC           2-2 (0-0)  WSG Tirol
+         SKN St. Pölten           0-3 (0-2)  LASK
+[Sun Sep/29]
+  14.30  SCR Altach               0-2 (0-0)  SV Mattersburg
+  17.00  Rapid Wien               3-3 (1-1)  TSV Hartberg
+  14.30  Sturm Graz               4-1 (1-0)  FC Admira Wacker
+
+
+Matchday 10
+[Sat Oct/5]
+  17.00  RB Salzburg              6-0 (3-0)  SCR Altach
+         SV Mattersburg           2-3 (1-1)  Rapid Wien
+         FC Admira Wacker         3-1 (3-1)  WSG Tirol
+[Sun Oct/6]
+  14.30  TSV Hartberg             1-2 (0-0)  LASK
+  17.00  Austria Wien             1-0 (0-0)  Sturm Graz
+  14.30  Wolfsberger AC           4-0 (2-0)  SKN St. Pölten
+
+
+Matchday 11
+[Sat Oct/19]
+  17.00  LASK                     7-2 (3-2)  SV Mattersburg
+         Sturm Graz               1-1 (1-0)  RB Salzburg
+         SCR Altach               1-4 (0-3)  FC Admira Wacker
+[Sun Oct/20]
+  14.30  WSG Tirol                0-1 (0-0)  TSV Hartberg
+  17.00  Rapid Wien               1-1 (1-0)  Wolfsberger AC
+  14.30  SKN St. Pölten           2-2 (0-1)  Austria Wien
+
+
+Matchday 12
+[Sat Oct/26]
+  17.00  Austria Wien             2-3 (0-2)  WSG Tirol
+         TSV Hartberg             3-1 (1-0)  SV Mattersburg
+         SKN St. Pölten           0-4 (0-0)  Sturm Graz
+[Sun Oct/27]
+  14.30  SCR Altach               0-1 (0-1)  LASK
+  17.00  RB Salzburg              3-2 (2-1)  Rapid Wien
+  14.30  Wolfsberger AC           2-2 (0-1)  FC Admira Wacker
+
+
+Matchday 13
+[Sat Nov/2]
+  17.00  SV Mattersburg           0-3 (0-2)  RB Salzburg
+         Sturm Graz               0-4 (0-3)  Wolfsberger AC
+         Rapid Wien               0-1 (0-0)  SKN St. Pölten
+[Sun Nov/3]
+  14.30  FC Admira Wacker         0-1 (0-0)  TSV Hartberg
+  17.00  LASK                     2-0 (1-0)  Austria Wien
+  14.30  WSG Tirol                0-4 (0-1)  SCR Altach
+
+
+Matchday 14
+[Sat Nov/9]
+  17.00  SCR Altach               0-3 (0-3)  Rapid Wien
+         Sturm Graz               3-1 (0-0)  TSV Hartberg
+         SKN St. Pölten           5-1 (3-1)  WSG Tirol
+[Sun Nov/10]
+  14.30  Austria Wien             2-1 (1-0)  SV Mattersburg
+  17.00  Wolfsberger AC           0-3 (0-1)  RB Salzburg
+  14.30  LASK                     1-0 (1-0)  FC Admira Wacker
+
+
+Matchday 15
+[Sat Nov/23]
+  17.00  RB Salzburg              2-2 (2-1)  SKN St. Pölten
+         WSG Tirol                0-2 (0-0)  LASK
+         SV Mattersburg           1-4 (0-2)  Wolfsberger AC
+[Sun Nov/24]
+  14.30  TSV Hartberg             2-1 (1-1)  SCR Altach
+  17.00  Rapid Wien               1-1 (1-0)  Sturm Graz
+  14.30  FC Admira Wacker         0-0  Austria Wien
+
+
+Matchday 16
+[Sat Nov/30]
+  17.00  SKN St. Pölten           0-0  SV Mattersburg
+         WSG Tirol                1-5 (0-2)  Sturm Graz
+         Austria Wien             5-0 (3-0)  TSV Hartberg
+[Sun Dec/1]
+  14.30  FC Admira Wacker         1-1 (1-0)  RB Salzburg
+  17.00  LASK                     0-4 (0-1)  Rapid Wien
+  14.30  SCR Altach               2-1 (2-0)  Wolfsberger AC
+
+
+Matchday 17
+[Sat Dec/7]
+  17.00  Wolfsberger AC           1-3 (0-2)  LASK
+         RB Salzburg              5-1 (3-0)  WSG Tirol
+         TSV Hartberg             3-2 (2-0)  SKN St. Pölten
+[Sun Dec/8]
+  14.30  Sturm Graz               1-2 (1-0)  SCR Altach
+  17.00  Rapid Wien               2-2 (1-2)  Austria Wien
+  14.30  SV Mattersburg           1-2 (0-0)  FC Admira Wacker
+
+
+Matchday 18
+[Sat Dec/14]
+  17.00  FC Admira Wacker         0-3 (0-2)  Rapid Wien
+         SKN St. Pölten           0-3 (0-0)  SCR Altach
+         TSV Hartberg             2-2 (1-1)  RB Salzburg
+[Sun Dec/15]
+  14.30  Austria Wien             1-1 (1-0)  Wolfsberger AC
+         WSG Tirol                1-3 (0-1)  SV Mattersburg
+  17.00  LASK                     3-3 (2-3)  Sturm Graz
+
+
+Matchday 19
+[Fri Feb/14]
+  19.00  RB Salzburg              2-3 (1-2)  LASK
+[Sat Feb/15]
+  17.00  Wolfsberger AC           3-0 (0-0)  TSV Hartberg
+         SCR Altach               2-2 (2-1)  Austria Wien
+[Sun Feb/16]
+  14.30  SKN St. Pölten           2-2 (0-0)  FC Admira Wacker
+  17.00  Rapid Wien               2-0 (2-0)  WSG Tirol
+  14.30  Sturm Graz               1-2 (0-2)  SV Mattersburg
+
+
+Matchday 20
+[Sat Feb/22]
+  17.00  WSG Tirol                2-0 (2-0)  Wolfsberger AC
+         FC Admira Wacker         0-2 (0-1)  Sturm Graz
+         SV Mattersburg           0-0  SCR Altach
+[Sun Feb/23]
+  14.30  TSV Hartberg             2-2 (1-1)  Rapid Wien
+  17.00  Austria Wien             2-2 (0-1)  RB Salzburg
+  14.30  LASK                     4-1 (3-1)  SKN St. Pölten
+
+
+Matchday 21
+[Sun Mar/1]
+  17.00  SKN St. Pölten           0-4 (0-1)  Wolfsberger AC
+         Sturm Graz               1-1 (0-0)  Austria Wien
+         Rapid Wien               3-1 (1-1)  SV Mattersburg
+         WSG Tirol                1-1 (0-0)  FC Admira Wacker
+         LASK                     5-1 (0-1)  TSV Hartberg
+[Mon Mar/2]
+  19.00  SCR Altach               3-2 (1-0)  RB Salzburg
+
+
+Matchday 22
+[Sat Mar/7]
+  17.00  Wolfsberger AC           2-2 (1-1)  Rapid Wien
+         FC Admira Wacker         2-0 (0-0)  SCR Altach
+         TSV Hartberg             0-3 (0-0)  WSG Tirol
+         Austria Wien             0-0  SKN St. Pölten
+[Sun Mar/8]
+  14.30  RB Salzburg              2-0 (0-0)  Sturm Graz
+         SV Mattersburg           0-1 (0-1)  LASK
+
+
+== Playoffs - Relegation
+
+Matchday 23
+[Tue Jun/2]
+  18.30  WSG Tirol                0-5 (0-3)  SKN St. Pölten
+  20.30  Austria Wien             1-0 (0-0)  FC Admira Wacker
+  18.30  SV Mattersburg           1-1 (1-1)  SCR Altach
+
+
+Matchday 24
+[Sat Jun/6]
+  17.00  SKN St. Pölten           1-1 (0-1)  Austria Wien
+         SCR Altach               1-1 (0-0)  WSG Tirol
+         FC Admira Wacker         0-2 (0-2)  SV Mattersburg
+
+
+Matchday 25
+[Tue Jun/9]
+  18.30  WSG Tirol                1-1 (1-1)  SV Mattersburg
+  20.30  Austria Wien             0-2 (0-1)  SCR Altach
+  18.30  SKN St. Pölten           0-3 (0-1)  FC Admira Wacker
+
+
+Matchday 26
+[Sat Jun/13]
+  17.00  SCR Altach               2-0 (1-0)  SKN St. Pölten
+         SV Mattersburg           1-4 (1-2)  Austria Wien
+         FC Admira Wacker         0-3 (0-1)  WSG Tirol
+
+
+Matchday 27
+[Tue Jun/16]
+  18.30  SKN St. Pölten           1-0 (1-0)  SV Mattersburg
+         FC Admira Wacker         1-1 (1-1)  SCR Altach
+  20.30  Austria Wien             1-0 (1-0)  WSG Tirol
+
+
+Matchday 28
+[Sat Jun/20]
+  17.00  SCR Altach               1-1 (0-0)  FC Admira Wacker
+         SV Mattersburg           2-0 (1-0)  SKN St. Pölten
+         WSG Tirol                1-2 (1-1)  Austria Wien
+
+
+Matchday 29
+[Tue Jun/23]
+  18.30  FC Admira Wacker         0-2 (0-1)  Austria Wien
+  20.30  SKN St. Pölten           1-1 (1-0)  WSG Tirol
+  18.30  SCR Altach               1-1 (1-1)  SV Mattersburg
+
+
+Matchday 30
+[Sat Jun/27]
+  17.00  Austria Wien             2-5 (2-2)  SKN St. Pölten
+         SV Mattersburg           1-2 (1-0)  FC Admira Wacker
+         WSG Tirol                0-1 (0-1)  SCR Altach
+
+
+Matchday 31
+[Tue Jun/30]
+  20.30  SV Mattersburg           4-1 (2-0)  WSG Tirol
+         FC Admira Wacker         0-3 (0-0)  SKN St. Pölten
+         SCR Altach               1-2 (1-0)  Austria Wien
+
+
+Matchday 32
+[Sat Jul/4]
+  17.00  Austria Wien             1-0 (0-0)  SV Mattersburg
+         SKN St. Pölten           2-0 (0-0)  SCR Altach
+         WSG Tirol                0-0  FC Admira Wacker
+
+
+== Playoffs - Championship
+
+Matchday 23
+[Wed Jun/3]
+  20.30  RB Salzburg              2-0 (1-0)  Rapid Wien
+  18.30  LASK                     1-2 (1-1)  TSV Hartberg
+         Sturm Graz               1-2 (0-1)  Wolfsberger AC
+
+
+Matchday 24
+[Sun Jun/7]
+  19.30  Rapid Wien               4-0 (2-0)  Sturm Graz
+  17.00  TSV Hartberg             0-6 (0-4)  RB Salzburg
+         Wolfsberger AC           3-3 (0-1)  LASK
+
+
+Matchday 25
+[Wed Jun/10]
+  18.30  LASK                     0-1 (0-0)  Rapid Wien
+  20.30  Sturm Graz               1-5 (1-4)  RB Salzburg
+  18.30  Wolfsberger AC           2-4 (2-1)  TSV Hartberg
+
+
+Matchday 26
+[Sun Jun/14]
+  17.00  TSV Hartberg             1-2 (1-0)  Sturm Graz
+         Rapid Wien               2-1 (1-0)  Wolfsberger AC
+  19.30  RB Salzburg              3-1 (2-0)  LASK
+
+
+Matchday 27
+[Wed Jun/17]
+  18.30  TSV Hartberg             0-1 (0-1)  Rapid Wien
+  20.30  LASK                     4-0 (3-0)  Sturm Graz
+  18.30  Wolfsberger AC           0-0  RB Salzburg
+
+
+Matchday 28
+[Sun Jun/21]
+  17.00  RB Salzburg              2-2 (1-0)  Wolfsberger AC
+         Rapid Wien               0-1 (0-1)  TSV Hartberg
+  19.30  Sturm Graz               0-2 (0-1)  LASK
+
+
+Matchday 29
+[Wed Jun/24]
+  18.30  TSV Hartberg             1-5 (0-0)  LASK
+  20.30  Rapid Wien               2-7 (1-4)  RB Salzburg
+  18.30  Wolfsberger AC           2-0 (0-0)  Sturm Graz
+
+
+Matchday 30
+[Sun Jun/28]
+  19.30  Sturm Graz               2-3 (2-0)  Rapid Wien
+  17.00  RB Salzburg              3-0 (1-0)  TSV Hartberg
+         LASK                     0-1 (0-0)  Wolfsberger AC
+
+
+Matchday 31
+[Wed Jul/1]
+  20.30  Rapid Wien               3-1 (2-0)  LASK
+         RB Salzburg              5-2 (1-0)  Sturm Graz
+[Thu Jul/2]
+  18.30  TSV Hartberg             3-3 (1-0)  Wolfsberger AC
+
+
+Matchday 32
+[Sun Jul/5]
+  17.00  LASK                     0-3 (0-0)  RB Salzburg
+         Wolfsberger AC           3-1 (2-0)  Rapid Wien
+         Sturm Graz               1-4 (1-3)  TSV Hartberg
+
+
+== Europa League Finals
+
+Semifinals
+[Wed Jul/8]
+  20.30  Austria Wien             1-0 (1-0)  SCR Altach
+
+
+Final
+[Sat Jul/11]
+  17.00  Austria Wien             2-3 (0-1)  TSV Hartberg
+[Wed Jul/15]
+  20.30  TSV Hartberg             0-0  Austria Wien

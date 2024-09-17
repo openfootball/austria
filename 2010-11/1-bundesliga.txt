@@ -1,0 +1,376 @@
+= Österr. Bundesliga 2010/11
+
+# Date       Sat Jul/17 2010 - Wed May/25 2011 (312d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/17]
+  18.30  SC Magna Wiener Neustadt  5-0 (5-0)  LASK Linz
+         SV Ried                  0-3 (0-2)  Sturm Graz
+         KSV Superfund            0-0  RB Salzburg
+[Sun Jul/18]
+  16.00  FC Wacker Innsbruck      4-0 (1-0)  Rapid Wien
+  18.30  Austria Wien             2-0 (1-0)  SV Mattersburg
+
+
+Matchday 2
+[Sat Jul/24]
+  18.30  SV Mattersburg           1-4 (0-1)  SV Ried
+         Sturm Graz               2-0 (0-0)  KSV Superfund
+[Sun Jul/25]
+  18.30  Rapid Wien               1-2 (0-2)  SC Magna Wiener Neustadt
+  16.00  LASK Linz                3-4 (0-2)  Austria Wien
+
+
+Matchday 3
+[Sat Jul/31]
+  18.30  SV Ried                  1-0 (0-0)  LASK Linz
+         KSV Superfund            3-1 (1-1)  SV Mattersburg
+[Sun Aug/1]
+  16.00  SC Magna Wiener Neustadt  0-0  Austria Wien
+         Rapid Wien               2-1 (0-0)  RB Salzburg
+  18.30  FC Wacker Innsbruck      2-2 (1-2)  Sturm Graz
+
+
+Matchday 4
+[Sat Aug/7]
+  18.30  SV Mattersburg           0-2 (0-0)  FC Wacker Innsbruck
+         RB Salzburg              4-2 (2-1)  SC Magna Wiener Neustadt
+         LASK Linz                0-1 (0-0)  KSV Superfund
+[Sun Aug/8]
+  18.30  Austria Wien             0-1 (0-0)  SV Ried
+  16.00  Sturm Graz               0-2 (0-1)  Rapid Wien
+
+
+Matchday 5
+[Sat Aug/21]
+  18.30  KSV Superfund            1-1 (1-1)  Austria Wien
+         FC Wacker Innsbruck      2-0 (0-0)  LASK Linz
+         SC Magna Wiener Neustadt  0-5 (0-2)  SV Ried
+[Sun Aug/22]
+  16.00  Rapid Wien               2-0 (1-0)  SV Mattersburg
+
+
+Matchday 6
+[Sat Aug/28]
+  18.30  SV Mattersburg           1-0 (1-0)  RB Salzburg
+         SV Ried                  1-0 (1-0)  KSV Superfund
+[Sun Aug/29]
+  16.00  Austria Wien             0-3 (0-0)  FC Wacker Innsbruck
+         LASK Linz                1-0 (0-0)  Rapid Wien
+  18.30  Sturm Graz               4-2 (1-1)  SC Magna Wiener Neustadt
+
+
+Matchday 7
+[Sat Sep/11]
+  18.30  Sturm Graz               2-0 (0-0)  SV Mattersburg
+         SC Magna Wiener Neustadt  3-0 (1-0)  KSV Superfund
+  16.00  FC Wacker Innsbruck      1-0 (1-0)  SV Ried
+  18.30  RB Salzburg              0-0  LASK Linz
+[Sun Sep/12]
+  16.00  Rapid Wien               0-1 (0-0)  Austria Wien
+
+
+Matchday 8
+[Tue Sep/21]
+  20.30  LASK Linz                0-4 (0-1)  Sturm Graz
+[Wed Sep/22]
+  20.30  SV Ried                  3-1 (2-1)  Rapid Wien
+         KSV Superfund            2-4 (0-3)  FC Wacker Innsbruck
+         Austria Wien             0-0  RB Salzburg
+         SV Mattersburg           0-3 (0-2)  SC Magna Wiener Neustadt
+
+
+Matchday 9
+[Sat Sep/25]
+  18.30  RB Salzburg              1-0 (0-0)  SV Ried
+         SV Mattersburg           3-3 (1-1)  LASK Linz
+  16.00  Rapid Wien               3-2 (1-1)  KSV Superfund
+  18.30  FC Wacker Innsbruck      0-0  SC Magna Wiener Neustadt
+[Sun Sep/26]
+  16.00  Sturm Graz               0-2 (0-1)  Austria Wien
+
+
+Matchday 10
+[Sat Oct/2]
+  18.30  Austria Wien             2-3 (1-1)  Sturm Graz
+         SC Magna Wiener Neustadt  1-0 (1-0)  FC Wacker Innsbruck
+  16.00  LASK Linz                0-1 (0-1)  SV Mattersburg
+[Sun Oct/3]
+  16.00  KSV Superfund            0-0  Rapid Wien
+  18.30  SV Ried                  1-2 (0-0)  RB Salzburg
+
+
+Matchday 11
+[Sat Oct/16]
+  18.30  RB Salzburg              0-2 (0-1)  KSV Superfund
+         Rapid Wien               1-1 (0-1)  FC Wacker Innsbruck
+  16.00  Sturm Graz               0-1 (0-0)  SV Ried
+  18.30  LASK Linz                2-1 (0-1)  SC Magna Wiener Neustadt
+[Sun Oct/17]
+  16.00  SV Mattersburg           0-3 (0-2)  Austria Wien
+
+
+Matchday 12
+[Sat Oct/23]
+  18.30  SV Ried                  1-3 (1-2)  SV Mattersburg
+         Austria Wien             4-1 (3-0)  LASK Linz
+  16.00  KSV Superfund            0-4 (0-1)  Sturm Graz
+[Sun Oct/24]
+  18.30  FC Wacker Innsbruck      0-1 (0-0)  RB Salzburg
+  16.00  SC Magna Wiener Neustadt  1-1 (1-1)  Rapid Wien
+
+
+Matchday 2
+[Wed Oct/27]
+  20.30  RB Salzburg              4-0 (2-0)  FC Wacker Innsbruck
+
+
+Matchday 13
+[Sat Oct/30]
+  18.30  LASK Linz                0-3 (0-2)  SV Ried
+  16.00  Austria Wien             1-1 (1-1)  SC Magna Wiener Neustadt
+  18.30  Sturm Graz               2-0 (0-0)  FC Wacker Innsbruck
+         SV Mattersburg           0-1 (0-1)  KSV Superfund
+[Sun Oct/31]
+  16.00  RB Salzburg              1-1 (1-0)  Rapid Wien
+
+
+Matchday 14
+[Sat Nov/6]
+  16.00  FC Wacker Innsbruck      2-1 (0-0)  SV Mattersburg
+  18.30  SV Ried                  2-1 (1-1)  Austria Wien
+         KSV Superfund            4-1 (1-1)  LASK Linz
+[Sun Nov/7]
+  15.00  Rapid Wien               3-1 (1-1)  Sturm Graz
+  18.30  SC Magna Wiener Neustadt  1-0 (1-0)  RB Salzburg
+
+
+Matchday 15
+[Sat Nov/13]
+  16.00  SV Ried                  2-0 (2-0)  SC Magna Wiener Neustadt
+  18.30  Austria Wien             5-1 (1-0)  KSV Superfund
+         SV Mattersburg           2-2 (1-0)  Rapid Wien
+         LASK Linz                0-0  FC Wacker Innsbruck
+[Sun Nov/14]
+  16.00  Sturm Graz               0-0  RB Salzburg
+
+
+Matchday 16
+[Sat Nov/20]
+  18.30  KSV Superfund            3-3 (0-2)  SV Ried
+  16.00  SC Magna Wiener Neustadt  0-3 (0-1)  Sturm Graz
+  18.30  RB Salzburg              1-0 (1-0)  SV Mattersburg
+         Rapid Wien               5-0 (2-0)  LASK Linz
+[Sun Nov/21]
+  16.00  FC Wacker Innsbruck      0-1 (0-0)  Austria Wien
+
+
+Matchday 5
+[Wed Nov/24]
+  18.30  RB Salzburg              2-0 (1-0)  Sturm Graz
+
+
+Matchday 17
+[Sat Nov/27]
+  18.30  SV Ried                  1-0 (0-0)  FC Wacker Innsbruck
+         LASK Linz                1-2 (0-1)  RB Salzburg
+         SV Mattersburg           1-1 (1-0)  Sturm Graz
+  16.00  KSV Superfund            1-2 (1-2)  SC Magna Wiener Neustadt
+[Sun Nov/28]
+  16.00  Austria Wien             0-1 (0-0)  Rapid Wien
+
+
+Matchday 18
+[Sat Dec/4]
+  16.00  SC Magna Wiener Neustadt  1-0 (0-0)  SV Mattersburg
+  18.30  Sturm Graz               5-0 (2-0)  LASK Linz
+         FC Wacker Innsbruck      1-3 (0-2)  KSV Superfund
+         RB Salzburg              1-1 (1-0)  Austria Wien
+[Sun Dec/5]
+  16.00  Rapid Wien               3-0 (1-0)  SV Ried
+
+
+Matchday 19
+[Sat Dec/11]
+  16.00  SV Mattersburg           1-2 (1-1)  Austria Wien
+  18.30  SV Ried                  1-0 (1-0)  SC Magna Wiener Neustadt
+         Rapid Wien               3-3 (1-1)  FC Wacker Innsbruck
+         KSV Superfund            2-2 (1-1)  LASK Linz
+[Sun Dec/12]
+  16.00  RB Salzburg              2-1 (1-1)  Sturm Graz
+
+
+Matchday 20
+[Sat Feb/12]
+  18.30  SC Magna Wiener Neustadt  2-0 (2-0)  Rapid Wien
+         Sturm Graz               2-0 (1-0)  KSV Superfund
+         LASK Linz                0-1 (0-0)  SV Mattersburg
+  16.00  Austria Wien             1-0 (0-0)  SV Ried
+[Sun Feb/13]
+  16.00  FC Wacker Innsbruck      1-1 (0-1)  RB Salzburg
+
+
+Matchday 21
+[Sat Feb/19]
+  16.00  SV Ried                  2-0 (1-0)  LASK Linz
+  18.30  SV Mattersburg           1-1 (0-0)  Sturm Graz
+         Austria Wien             4-0 (1-0)  SC Magna Wiener Neustadt
+[Sun Feb/20]
+  16.00  RB Salzburg              1-1 (1-0)  Rapid Wien
+
+
+Matchday 22
+[Sat Feb/26]
+  16.00  FC Wacker Innsbruck      2-0 (0-0)  SV Mattersburg
+  18.30  SC Magna Wiener Neustadt  1-0 (0-0)  RB Salzburg
+         LASK Linz                0-4 (0-2)  Austria Wien
+         Rapid Wien               2-0 (0-0)  KSV Superfund
+[Sun Feb/27]
+  17.00  Sturm Graz               1-0 (0-0)  SV Ried
+
+
+Matchday 23
+[Tue Mar/1]
+  20.30  SV Mattersburg           1-0 (0-0)  Rapid Wien
+[Wed Mar/2]
+  20.30  LASK Linz                2-3 (1-2)  SC Magna Wiener Neustadt
+         SV Ried                  2-2 (0-1)  FC Wacker Innsbruck
+         KSV Superfund            0-1 (0-1)  RB Salzburg
+         Austria Wien             2-2 (0-1)  Sturm Graz
+
+
+Matchday 24
+[Sat Mar/5]
+  16.00  RB Salzburg              2-0 (0-0)  SV Mattersburg
+  18.30  FC Wacker Innsbruck      0-3 (0-1)  Austria Wien
+         SC Magna Wiener Neustadt  1-1 (1-0)  KSV Superfund
+         Sturm Graz               1-1 (0-0)  LASK Linz
+[Sun Mar/6]
+  16.00  Rapid Wien               2-0 (1-0)  SV Ried
+
+
+Matchday 21
+[Wed Mar/9]
+  18.30  KSV Superfund            0-0  FC Wacker Innsbruck
+
+
+Matchday 25
+[Sat Mar/12]
+  18.30  SV Ried                  2-2 (2-0)  RB Salzburg
+         LASK Linz                0-1 (0-0)  FC Wacker Innsbruck
+         SV Mattersburg           1-1 (0-0)  KSV Superfund
+  16.00  Sturm Graz               1-0 (1-0)  SC Magna Wiener Neustadt
+[Sun Mar/13]
+  16.00  Austria Wien             0-1 (0-0)  Rapid Wien
+
+
+Matchday 26
+[Sat Mar/19]
+  18.30  FC Wacker Innsbruck      1-0 (0-0)  Sturm Graz
+         KSV Superfund            2-1 (1-0)  SV Ried
+         SC Magna Wiener Neustadt  2-1 (1-1)  SV Mattersburg
+  16.00  Rapid Wien               0-0  LASK Linz
+[Sun Mar/20]
+  16.00  RB Salzburg              1-1 (1-0)  Austria Wien
+
+
+Matchday 27
+[Sat Apr/2]
+  16.00  SV Ried                  1-1 (0-1)  SV Mattersburg
+  18.30  Sturm Graz               3-3 (1-2)  Rapid Wien
+         SC Magna Wiener Neustadt  2-2 (1-1)  FC Wacker Innsbruck
+         Austria Wien             2-0 (0-0)  KSV Superfund
+[Sun Apr/3]
+  16.00  LASK Linz                1-1 (0-0)  RB Salzburg
+
+
+Matchday 28
+[Sat Apr/9]
+  16.00  RB Salzburg              0-1 (0-1)  LASK Linz
+  18.30  SV Mattersburg           2-2 (2-2)  SV Ried
+         FC Wacker Innsbruck      1-0 (1-0)  SC Magna Wiener Neustadt
+         Rapid Wien               0-2 (0-2)  Sturm Graz
+[Sun Apr/10]
+  16.00  KSV Superfund            3-3 (2-1)  Austria Wien
+
+
+Matchday 29
+[Sat Apr/16]
+  18.30  Sturm Graz               0-3 (0-2)  RB Salzburg
+         Austria Wien             0-1 (0-0)  SV Mattersburg
+         FC Wacker Innsbruck      0-3 (0-1)  Rapid Wien
+  16.00  LASK Linz                0-3 (0-2)  KSV Superfund
+[Sun Apr/17]
+  16.00  SC Magna Wiener Neustadt  0-2 (0-1)  SV Ried
+
+
+Matchday 30
+[Sat Apr/23]
+  18.30  SV Mattersburg           1-1 (0-0)  LASK Linz
+         RB Salzburg              2-3 (2-1)  FC Wacker Innsbruck
+         Rapid Wien               4-1 (1-0)  SC Magna Wiener Neustadt
+  16.00  KSV Superfund            0-5 (0-2)  Sturm Graz
+[Sun Apr/24]
+  16.00  SV Ried                  1-1 (1-0)  Austria Wien
+
+
+Matchday 31
+[Sat Apr/30]
+  18.30  Sturm Graz               4-0 (1-0)  SV Mattersburg
+         SC Magna Wiener Neustadt  4-2 (1-1)  Austria Wien
+         LASK Linz                1-1 (1-1)  SV Ried
+  16.00  FC Wacker Innsbruck      1-1 (1-0)  KSV Superfund
+[Sun May/1]
+  16.00  Rapid Wien               1-2 (0-0)  RB Salzburg
+
+
+Matchday 32
+[Sat May/7]
+  18.30  KSV Superfund            1-1 (0-1)  Rapid Wien
+         RB Salzburg              4-0 (2-0)  SC Magna Wiener Neustadt
+         SV Mattersburg           2-1 (0-0)  FC Wacker Innsbruck
+  16.00  Austria Wien             5-0 (0-0)  LASK Linz
+[Sun May/8]
+  16.00  SV Ried                  0-0  Sturm Graz
+
+
+Matchday 33
+[Tue May/10]
+  20.30  RB Salzburg              4-2 (3-0)  KSV Superfund
+[Wed May/11]
+  20.30  SC Magna Wiener Neustadt  0-0  LASK Linz
+         Sturm Graz               1-1 (1-1)  Austria Wien
+         Rapid Wien               0-0  SV Mattersburg
+         FC Wacker Innsbruck      1-1 (0-1)  SV Ried
+
+
+Matchday 34
+[Sat May/14]
+  16.00  KSV Superfund            0-1 (0-0)  SC Magna Wiener Neustadt
+  18.30  Austria Wien             1-0 (0-0)  FC Wacker Innsbruck
+         LASK Linz                0-2 (0-1)  Sturm Graz
+         SV Ried                  2-1 (2-0)  Rapid Wien
+[Sun May/15]
+  16.00  SV Mattersburg           0-1 (0-0)  RB Salzburg
+
+
+Matchday 35
+[Sun May/22]
+  16.00  KSV Superfund            2-1 (1-1)  SV Mattersburg
+         Rapid Wien               0-3  Austria Wien             [awarded]
+         RB Salzburg              2-2 (1-0)  SV Ried
+         SC Magna Wiener Neustadt  1-2 (0-0)  Sturm Graz
+         FC Wacker Innsbruck      1-0 (0-0)  LASK Linz
+
+
+Matchday 36
+[Wed May/25]
+  20.30  LASK Linz                1-2 (1-1)  Rapid Wien
+         Austria Wien             2-4 (1-1)  RB Salzburg
+         SV Mattersburg           1-1 (0-1)  SC Magna Wiener Neustadt
+         Sturm Graz               2-1 (1-1)  FC Wacker Innsbruck
+         SV Ried                  2-0 (0-0)  KSV Superfund

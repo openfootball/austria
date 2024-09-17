@@ -1,0 +1,347 @@
+= Österr. Erste Liga 2014/15
+
+# Date       Fri Jul/18 2014 - Fri May/29 2015 (315d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/18]
+  18.30  LASK Linz                2-1 (2-1)  Kapfenberger SV 1919
+         Austria Lustenau         0-0  Floridsdorfer AC
+         TSV Hartberg             0-3 (0-2)  FC Liefering
+         SV Mattersburg           2-0 (1-0)  FC Wacker Innsbruck
+[Mon Jul/21]
+  19.30  SKN St. Pölten           3-0 (1-0)  SV Horn
+
+
+Matchday 2
+[Fri Jul/25]
+  18.30  FC Wacker Innsbruck      1-2 (1-0)  Austria Lustenau
+         SV Horn                  0-0  SV Mattersburg
+         LASK Linz                0-0  TSV Hartberg
+         FC Liefering             1-1 (0-0)  Floridsdorfer AC
+[Mon Jul/28]
+  19.30  Kapfenberger SV 1919     2-2 (1-0)  SKN St. Pölten
+
+
+Matchday 3
+[Fri Aug/1]
+  18.30  Kapfenberger SV 1919     0-0  FC Wacker Innsbruck
+         FC Liefering             2-0 (0-0)  Austria Lustenau
+         Floridsdorfer AC         2-1 (0-0)  SV Horn
+  20.30  TSV Hartberg             0-4 (0-2)  SV Mattersburg
+
+
+Matchday 4
+[Mon Aug/4]
+  18.30  SV Mattersburg           4-0 (1-0)  SKN St. Pölten
+[Tue Aug/5]
+  18.30  FC Wacker Innsbruck      0-1 (0-0)  FC Liefering
+         Austria Lustenau         1-2 (1-0)  LASK Linz
+         SV Horn                  3-0 (2-0)  TSV Hartberg
+         Floridsdorfer AC         2-2 (0-1)  Kapfenberger SV 1919
+
+
+Matchday 5
+[Fri Aug/8]
+  20.30  FC Wacker Innsbruck      2-1 (0-1)  Floridsdorfer AC
+  18.30  Austria Lustenau         5-0 (2-0)  TSV Hartberg
+         Kapfenberger SV 1919     0-0  SV Horn
+         LASK Linz                1-0 (0-0)  SV Mattersburg
+
+
+Matchday 3
+[Mon Aug/11]
+  19.30  SKN St. Pölten           1-0 (1-0)  LASK Linz
+
+
+Matchday 6
+[Fri Aug/15]
+  18.30  SV Mattersburg           2-0 (1-0)  Austria Lustenau
+         FC Liefering             3-2 (1-1)  Kapfenberger SV 1919
+         TSV Hartberg             0-3 (0-2)  FC Wacker Innsbruck
+         Floridsdorfer AC         0-1 (0-1)  SKN St. Pölten
+  20.30  SV Horn                  0-2 (0-1)  LASK Linz
+
+
+Matchday 5
+[Mon Aug/18]
+  19.30  SKN St. Pölten           2-3 (2-1)  FC Liefering
+
+
+Matchday 7
+[Fri Aug/22]
+  18.30  SV Mattersburg           2-0 (0-0)  Floridsdorfer AC
+         Austria Lustenau         0-1 (0-0)  SV Horn
+         TSV Hartberg             1-3 (1-1)  Kapfenberger SV 1919
+         LASK Linz                2-0 (0-0)  FC Liefering
+  20.30  SKN St. Pölten           0-1 (0-0)  FC Wacker Innsbruck
+
+
+Matchday 8
+[Fri Aug/29]
+  18.30  Kapfenberger SV 1919     2-2 (0-0)  SV Mattersburg
+         FC Liefering             4-1 (1-0)  SV Horn
+         Floridsdorfer AC         3-2 (2-1)  TSV Hartberg
+  20.30  FC Wacker Innsbruck      1-0 (0-0)  LASK Linz
+  18.30  SKN St. Pölten           1-1 (1-0)  Austria Lustenau
+
+
+Matchday 9
+[Fri Sep/12]
+  18.30  SV Mattersburg           3-6 (3-2)  FC Liefering
+         Austria Lustenau         1-3 (0-2)  Kapfenberger SV 1919
+         SV Horn                  0-3 (0-1)  FC Wacker Innsbruck
+         TSV Hartberg             1-0 (0-0)  SKN St. Pölten
+  20.30  LASK Linz                5-1 (1-0)  Floridsdorfer AC
+
+
+Matchday 10
+[Mon Sep/15]
+  18.30  Floridsdorfer AC         3-3 (1-1)  Austria Lustenau
+[Tue Sep/16]
+  18.30  SV Horn                  1-0 (0-0)  SKN St. Pölten
+         Kapfenberger SV 1919     1-1 (0-0)  LASK Linz
+         FC Liefering             0-3 (0-1)  TSV Hartberg
+         FC Wacker Innsbruck      1-1 (0-0)  SV Mattersburg
+
+
+Matchday 11
+[Fri Sep/19]
+  18.30  SKN St. Pölten           1-0 (0-0)  Kapfenberger SV 1919
+         Austria Lustenau         1-1 (1-0)  FC Wacker Innsbruck
+         TSV Hartberg             2-2 (0-1)  LASK Linz
+         Floridsdorfer AC         2-2 (2-1)  FC Liefering
+  20.30  SV Mattersburg           2-0 (1-0)  SV Horn
+
+
+Matchday 12
+[Fri Sep/26]
+  18.30  FC Wacker Innsbruck      0-3 (0-2)  Kapfenberger SV 1919
+         SV Mattersburg           1-0 (0-0)  TSV Hartberg
+         Austria Lustenau         5-2 (1-1)  FC Liefering
+         SV Horn                  0-2 (0-0)  Floridsdorfer AC
+  20.30  LASK Linz                2-1 (2-1)  SKN St. Pölten
+
+
+Matchday 13
+[Fri Oct/3]
+  18.30  Kapfenberger SV 1919     0-0  Floridsdorfer AC
+         FC Liefering             4-1 (2-0)  FC Wacker Innsbruck
+         LASK Linz                3-1 (2-1)  Austria Lustenau
+  20.30  TSV Hartberg             3-1 (1-0)  SV Horn
+  18.30  SKN St. Pölten           0-2 (0-1)  SV Mattersburg
+
+
+Matchday 14
+[Fri Oct/17]
+  18.30  SV Horn                  4-1 (1-0)  Kapfenberger SV 1919
+         FC Liefering             1-2 (0-1)  SKN St. Pölten
+         TSV Hartberg             0-1 (0-0)  Austria Lustenau
+         Floridsdorfer AC         2-0 (0-0)  FC Wacker Innsbruck
+  20.30  SV Mattersburg           0-1 (0-0)  LASK Linz
+
+
+Matchday 15
+[Mon Oct/20]
+  18.30  FC Wacker Innsbruck      0-2 (0-1)  TSV Hartberg
+[Tue Oct/21]
+  18.30  Austria Lustenau         3-3 (1-1)  SV Mattersburg
+         Kapfenberger SV 1919     0-1 (0-1)  FC Liefering
+         LASK Linz                2-0 (0-0)  SV Horn
+         SKN St. Pölten           1-1 (0-0)  Floridsdorfer AC
+
+
+Matchday 16
+[Fri Oct/24]
+  18.30  FC Wacker Innsbruck      0-1 (0-0)  SKN St. Pölten
+         SV Horn                  1-0 (0-0)  Austria Lustenau
+         Kapfenberger SV 1919     1-0 (0-0)  TSV Hartberg
+         Floridsdorfer AC         2-2 (1-1)  SV Mattersburg
+  20.30  FC Liefering             1-0 (0-0)  LASK Linz
+
+
+Matchday 17
+[Mon Nov/3]
+  18.30  LASK Linz                4-1 (0-1)  FC Wacker Innsbruck
+[Tue Nov/4]
+  18.30  Austria Lustenau         2-1 (1-1)  SKN St. Pölten
+         SV Horn                  2-1 (2-1)  FC Liefering
+         TSV Hartberg             1-1 (0-0)  Floridsdorfer AC
+         SV Mattersburg           4-2 (2-0)  Kapfenberger SV 1919
+
+
+Matchday 18
+[Fri Nov/7]
+  18.30  FC Wacker Innsbruck      2-0 (2-0)  SV Horn
+         SKN St. Pölten           1-0 (0-0)  TSV Hartberg
+         Kapfenberger SV 1919     1-1 (0-0)  Austria Lustenau
+         Floridsdorfer AC         0-0  LASK Linz
+  20.30  FC Liefering             3-1 (1-0)  SV Mattersburg
+
+
+Matchday 19
+[Fri Nov/21]
+  18.30  SV Mattersburg           3-1 (2-0)  FC Wacker Innsbruck
+         Austria Lustenau         0-3 (0-1)  Floridsdorfer AC
+         TSV Hartberg             3-1 (2-1)  FC Liefering
+         LASK Linz                0-0  Kapfenberger SV 1919
+  20.30  SV Horn                  1-0 (0-0)  SKN St. Pölten
+
+
+Matchday 20
+[Fri Nov/28]
+  18.30  SKN St. Pölten           2-2 (1-1)  Kapfenberger SV 1919
+         SV Horn                  0-1 (0-1)  SV Mattersburg
+         FC Liefering             3-1 (0-1)  Floridsdorfer AC
+  20.30  TSV Hartberg             2-2 (1-1)  LASK Linz
+  18.30  FC Wacker Innsbruck      1-2 (1-0)  Austria Lustenau
+
+
+Matchday 21
+[Fri Feb/27]
+  18.30  SV Mattersburg           2-0 (2-0)  TSV Hartberg
+         Austria Lustenau         2-4 (1-2)  FC Liefering
+         Kapfenberger SV 1919     3-0 (2-0)  FC Wacker Innsbruck
+         Floridsdorfer AC         2-5 (1-1)  SV Horn
+  20.30  LASK Linz                0-0  SKN St. Pölten
+
+
+Matchday 22
+[Fri Mar/6]
+  18.30  FC Wacker Innsbruck      0-3 (0-1)  FC Liefering
+         Kapfenberger SV 1919     2-1 (2-1)  Floridsdorfer AC
+         TSV Hartberg             1-1 (0-1)  SV Horn
+         LASK Linz                3-2 (2-1)  Austria Lustenau
+  20.30  SKN St. Pölten           1-2 (1-1)  SV Mattersburg
+
+
+Matchday 23
+[Fri Mar/13]
+  18.30  SV Horn                  1-1 (1-1)  Kapfenberger SV 1919
+         FC Liefering             1-1 (0-0)  SKN St. Pölten
+         Floridsdorfer AC         0-0  FC Wacker Innsbruck
+  20.30  SV Mattersburg           3-0 (2-0)  LASK Linz
+  18.30  Austria Lustenau         0-4 (0-3)  TSV Hartberg
+
+
+Matchday 24
+[Mon Mar/16]
+  18.30  FC Wacker Innsbruck      1-1 (1-1)  TSV Hartberg
+[Tue Mar/17]
+  18.30  Kapfenberger SV 1919     3-2 (3-1)  FC Liefering
+         Floridsdorfer AC         1-0 (1-0)  SKN St. Pölten
+         LASK Linz                1-1 (0-0)  SV Horn
+         Austria Lustenau         3-1 (1-0)  SV Mattersburg
+
+
+Matchday 25
+[Fri Mar/20]
+  18.30  SV Mattersburg           1-1 (0-1)  Floridsdorfer AC
+         SKN St. Pölten           0-0  FC Wacker Innsbruck
+         FC Liefering             3-1 (2-1)  LASK Linz
+         TSV Hartberg             2-2 (0-1)  Kapfenberger SV 1919
+  20.30  SV Horn                  0-0  Austria Lustenau
+
+
+Matchday 26
+[Fri Apr/3]
+  18.30  FC Wacker Innsbruck      2-0 (2-0)  LASK Linz
+         SKN St. Pölten           1-0 (0-0)  Austria Lustenau
+         FC Liefering             3-1 (1-0)  SV Horn
+         Floridsdorfer AC         1-3 (1-1)  TSV Hartberg
+  20.30  Kapfenberger SV 1919     1-2 (0-1)  SV Mattersburg
+
+
+Matchday 27
+[Fri Apr/10]
+  18.30  Austria Lustenau         3-2 (0-1)  Kapfenberger SV 1919
+         SV Horn                  0-1 (0-0)  FC Wacker Innsbruck
+         TSV Hartberg             2-3 (1-0)  SKN St. Pölten
+  20.30  LASK Linz                0-2 (0-0)  Floridsdorfer AC
+  18.30  SV Mattersburg           0-2 (0-2)  FC Liefering
+
+
+Matchday 28
+[Fri Apr/17]
+  18.30  SKN St. Pölten           2-2 (1-1)  SV Horn
+         Kapfenberger SV 1919     1-0 (0-0)  LASK Linz
+         FC Liefering             4-1 (2-0)  TSV Hartberg
+         Floridsdorfer AC         0-1 (0-0)  Austria Lustenau
+  20.30  FC Wacker Innsbruck      1-0 (0-0)  SV Mattersburg
+
+
+Matchday 29
+[Mon Apr/20]
+  18.30  Austria Lustenau         0-1 (0-1)  FC Wacker Innsbruck
+[Tue Apr/21]
+  18.30  Kapfenberger SV 1919     0-0  SKN St. Pölten
+         Floridsdorfer AC         0-1 (0-1)  FC Liefering
+         LASK Linz                0-1 (0-0)  TSV Hartberg
+         SV Mattersburg           1-0 (0-0)  SV Horn
+
+
+Matchday 30
+[Fri Apr/24]
+  18.30  FC Wacker Innsbruck      0-1 (0-1)  Kapfenberger SV 1919
+         SV Horn                  3-1 (1-0)  Floridsdorfer AC
+         FC Liefering             0-4 (0-2)  Austria Lustenau
+         TSV Hartberg             2-4 (2-2)  SV Mattersburg
+  20.30  SKN St. Pölten           0-1 (0-1)  LASK Linz
+
+
+Matchday 31
+[Fri May/1]
+  18.30  SV Mattersburg           4-0 (1-0)  SKN St. Pölten
+         Austria Lustenau         1-2 (0-2)  LASK Linz
+         SV Horn                  0-1 (0-1)  TSV Hartberg
+         Floridsdorfer AC         1-0 (1-0)  Kapfenberger SV 1919
+  20.30  FC Liefering             1-1 (0-1)  FC Wacker Innsbruck
+
+
+Matchday 32
+[Fri May/8]
+  18.30  SKN St. Pölten           1-0 (0-0)  FC Liefering
+         Kapfenberger SV 1919     3-2 (3-2)  SV Horn
+         TSV Hartberg             1-3 (0-1)  Austria Lustenau
+  20.30  LASK Linz                2-2 (1-0)  SV Mattersburg
+  18.30  FC Wacker Innsbruck      0-0  Floridsdorfer AC
+
+
+Matchday 33
+[Mon May/11]
+  18.30  TSV Hartberg             2-2 (0-1)  FC Wacker Innsbruck
+[Tue May/12]
+  18.30  SKN St. Pölten           3-1 (1-1)  Floridsdorfer AC
+         SV Horn                  2-0 (2-0)  LASK Linz
+         FC Liefering             1-4 (1-2)  Kapfenberger SV 1919
+         SV Mattersburg           1-1 (1-0)  Austria Lustenau
+
+
+Matchday 34
+[Fri May/15]
+  18.30  FC Wacker Innsbruck      0-0  SKN St. Pölten
+         Austria Lustenau         0-0  SV Horn
+         Kapfenberger SV 1919     0-1 (0-1)  TSV Hartberg
+         LASK Linz                1-1 (1-1)  FC Liefering
+  20.30  Floridsdorfer AC         0-1 (0-1)  SV Mattersburg
+
+
+Matchday 35
+[Fri May/22]
+  19.30  SV Mattersburg           2-0 (1-0)  Kapfenberger SV 1919
+         Austria Lustenau         0-2 (0-1)  SKN St. Pölten
+         SV Horn                  0-2 (0-1)  FC Liefering
+         TSV Hartberg             1-2 (1-0)  Floridsdorfer AC
+         LASK Linz                3-1 (0-1)  FC Wacker Innsbruck
+
+
+Matchday 36
+[Fri May/29]
+  19.30  SKN St. Pölten           5-3 (2-1)  TSV Hartberg
+         Kapfenberger SV 1919     3-0 (1-0)  Austria Lustenau
+         FC Liefering             0-4 (0-3)  SV Mattersburg
+         Floridsdorfer AC         0-0  LASK Linz
+         FC Wacker Innsbruck      3-0 (2-0)  SV Horn

@@ -1,0 +1,371 @@
+= Österr. Bundesliga 2011/12
+
+# Date       Sat Jul/16 2011 - Thu May/17 2012 (306d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/16]
+  18.30  Rapid Wien               2-0 (0-0)  FC Trenkwalder Admira
+         SV Ried                  1-1 (0-0)  Sturm Graz
+         Kapfenberger SV 1919     2-3 (1-3)  FC Wacker Innsbruck
+         SV Mattersburg           1-2 (0-1)  1. Wiener Neustädter SC
+[Sun Jul/17]
+  16.00  RB Salzburg              2-0 (0-0)  Austria Wien
+
+
+Matchday 2
+[Sat Jul/23]
+  18.30  FC Trenkwalder Admira    1-1 (0-0)  Kapfenberger SV 1919
+         1. Wiener Neustädter SC  0-2 (0-0)  Rapid Wien
+         Sturm Graz               2-2 (1-1)  SV Mattersburg
+[Sun Jul/24]
+  18.30  Austria Wien             2-1 (1-0)  SV Ried
+  16.00  FC Wacker Innsbruck      0-1 (0-0)  RB Salzburg
+
+
+Matchday 3
+[Sat Jul/30]
+  18.30  Kapfenberger SV 1919     3-0 (1-0)  Sturm Graz
+         FC Trenkwalder Admira    3-0 (3-0)  1. Wiener Neustädter SC
+[Sun Jul/31]
+  16.00  RB Salzburg              0-0  SV Mattersburg
+  18.30  Rapid Wien               0-0  SV Ried
+  16.00  FC Wacker Innsbruck      0-0  Austria Wien
+
+
+Matchday 4
+[Sat Aug/13]
+  18.30  1. Wiener Neustädter SC  0-0  FC Wacker Innsbruck
+         Austria Wien             5-0 (2-0)  Kapfenberger SV 1919
+         Sturm Graz               1-0 (0-0)  Rapid Wien
+         FC Trenkwalder Admira    2-1 (1-0)  SV Mattersburg
+[Sun Aug/14]
+  16.00  SV Ried                  1-3 (1-3)  RB Salzburg
+
+
+Matchday 5
+[Sat Aug/20]
+  18.30  Kapfenberger SV 1919     0-2 (0-1)  1. Wiener Neustädter SC
+         FC Wacker Innsbruck      2-2 (1-0)  FC Trenkwalder Admira
+[Sun Aug/21]
+  16.00  SV Mattersburg           2-3 (1-0)  SV Ried
+         Rapid Wien               0-3 (0-1)  Austria Wien
+  18.30  RB Salzburg              1-1 (0-0)  Sturm Graz
+
+
+Matchday 6
+[Sat Aug/27]
+  18.30  SV Mattersburg           1-1 (1-1)  FC Wacker Innsbruck
+         Sturm Graz               5-0 (1-0)  1. Wiener Neustädter SC
+[Sun Aug/28]
+  16.00  RB Salzburg              0-0  Rapid Wien
+  18.30  Austria Wien             2-4 (1-1)  FC Trenkwalder Admira
+  16.00  SV Ried                  1-0 (1-0)  Kapfenberger SV 1919
+
+
+Matchday 7
+[Sat Sep/10]
+  16.00  FC Wacker Innsbruck      0-5 (0-3)  SV Ried
+  18.30  FC Trenkwalder Admira    4-2 (3-0)  Sturm Graz
+         Rapid Wien               1-1 (0-0)  SV Mattersburg
+         Kapfenberger SV 1919     1-3 (1-2)  RB Salzburg
+[Sun Sep/11]
+  16.00  1. Wiener Neustädter SC  1-1 (1-1)  Austria Wien
+
+
+Matchday 8
+[Sat Sep/17]
+  16.00  SV Ried                  1-1 (0-1)  FC Trenkwalder Admira
+  18.30  Rapid Wien               5-1 (2-1)  Kapfenberger SV 1919
+[Sun Sep/18]
+  16.00  RB Salzburg              3-0 (2-0)  1. Wiener Neustädter SC
+  18.30  SV Mattersburg           2-4 (0-1)  Austria Wien
+  16.00  Sturm Graz               1-1 (0-1)  FC Wacker Innsbruck
+
+
+Matchday 9
+[Sat Sep/24]
+  18.30  1. Wiener Neustädter SC  2-2 (1-1)  SV Ried
+         Austria Wien             2-1 (0-1)  Sturm Graz
+         Kapfenberger SV 1919     1-0 (0-0)  SV Mattersburg
+  16.00  FC Wacker Innsbruck      0-3 (0-2)  Rapid Wien
+[Sun Sep/25]
+  16.15  FC Trenkwalder Admira    2-1 (2-0)  RB Salzburg
+
+
+Matchday 10
+[Sat Oct/1]
+  16.00  FC Wacker Innsbruck      3-1 (1-0)  Kapfenberger SV 1919
+  18.30  FC Trenkwalder Admira    4-3 (1-0)  Rapid Wien
+         1. Wiener Neustädter SC  1-2 (0-1)  SV Mattersburg
+[Sun Oct/2]
+  18.30  Sturm Graz               1-0 (0-0)  SV Ried
+  16.00  Austria Wien             3-2 (1-1)  RB Salzburg
+
+
+Matchday 11
+[Sat Oct/15]
+  18.30  Rapid Wien               1-1 (1-0)  1. Wiener Neustädter SC
+         SV Ried                  2-1 (1-1)  Austria Wien
+         RB Salzburg              1-1 (1-1)  FC Wacker Innsbruck
+  16.00  Kapfenberger SV 1919     0-0  FC Trenkwalder Admira
+[Sun Oct/16]
+  16.00  SV Mattersburg           3-3 (1-1)  Sturm Graz
+
+
+Matchday 12
+[Sat Oct/22]
+  16.00  SV Ried                  2-0 (2-0)  SV Mattersburg
+  18.30  FC Trenkwalder Admira    3-2 (0-0)  FC Wacker Innsbruck
+         1. Wiener Neustädter SC  2-0 (0-0)  Kapfenberger SV 1919
+[Sun Oct/23]
+  18.30  Sturm Graz               2-1 (2-0)  RB Salzburg
+  16.00  Austria Wien             1-1 (1-1)  Rapid Wien
+
+
+Matchday 13
+[Sat Oct/29]
+  16.00  RB Salzburg              1-1 (1-0)  SV Ried
+  18.30  Rapid Wien               3-2 (0-0)  Sturm Graz
+         FC Wacker Innsbruck      2-0 (0-0)  1. Wiener Neustädter SC
+         SV Mattersburg           0-0  FC Trenkwalder Admira
+[Sun Oct/30]
+  16.00  Kapfenberger SV 1919     2-2 (1-1)  Austria Wien
+
+
+Matchday 14
+[Sat Nov/5]
+  18.30  SV Ried                  1-1 (1-1)  Rapid Wien
+  16.00  1. Wiener Neustädter SC  0-0  FC Trenkwalder Admira
+[Sun Nov/6]
+  16.00  Sturm Graz               1-0 (0-0)  Kapfenberger SV 1919
+         SV Mattersburg           3-0 (0-0)  RB Salzburg
+  18.30  Austria Wien             2-2 (0-2)  FC Wacker Innsbruck
+
+
+Matchday 15
+[Sat Nov/19]
+  18.30  FC Wacker Innsbruck      1-1 (1-0)  SV Mattersburg
+         FC Trenkwalder Admira    0-3 (0-2)  Austria Wien
+         Kapfenberger SV 1919     1-3 (0-1)  SV Ried
+  16.00  1. Wiener Neustädter SC  3-1 (2-0)  Sturm Graz
+[Sun Nov/20]
+  16.00  Rapid Wien               4-2 (2-1)  RB Salzburg
+
+
+Matchday 16
+[Sat Nov/26]
+  16.00  SV Ried                  1-0 (0-0)  FC Wacker Innsbruck
+  18.30  Austria Wien             2-2 (0-1)  1. Wiener Neustädter SC
+         RB Salzburg              6-0 (2-0)  Kapfenberger SV 1919
+         SV Mattersburg           1-2 (1-0)  Rapid Wien
+[Sun Nov/27]
+  15.00  Sturm Graz               3-1 (1-0)  FC Trenkwalder Admira
+
+
+Matchday 17
+[Sat Dec/3]
+  16.00  Austria Wien             0-0  SV Mattersburg
+  18.30  Kapfenberger SV 1919     0-0  Rapid Wien
+         FC Trenkwalder Admira    1-1 (1-0)  SV Ried
+[Sun Dec/4]
+  18.30  1. Wiener Neustädter SC  0-0  RB Salzburg
+  16.00  FC Wacker Innsbruck      1-0 (0-0)  Sturm Graz
+
+
+Matchday 18
+[Sat Dec/10]
+  18.30  SV Ried                  2-0 (1-0)  1. Wiener Neustädter SC
+         SV Mattersburg           2-0 (2-0)  Kapfenberger SV 1919
+         Sturm Graz               5-1 (1-1)  Austria Wien
+  16.00  Rapid Wien               0-0  FC Wacker Innsbruck
+[Sun Dec/11]
+  16.00  RB Salzburg              2-1 (2-1)  FC Trenkwalder Admira
+
+
+Matchday 19
+[Sat Dec/17]
+  16.00  SV Ried                  1-1 (0-1)  Sturm Graz
+  18.30  Rapid Wien               2-1 (1-0)  FC Trenkwalder Admira
+         Kapfenberger SV 1919     0-1 (0-0)  FC Wacker Innsbruck
+         SV Mattersburg           0-1 (0-0)  1. Wiener Neustädter SC
+[Sun Dec/18]
+  16.00  RB Salzburg              3-0 (1-0)  Austria Wien
+
+
+Matchday 20
+[Sat Feb/11]
+  18.30  Sturm Graz               1-0 (1-0)  SV Mattersburg
+  16.00  Austria Wien             2-0 (1-0)  SV Ried
+[Sun Feb/12]
+  16.00  1. Wiener Neustädter SC  0-0  Rapid Wien
+
+
+Matchday 21
+[Sat Feb/18]
+  18.30  Rapid Wien               0-0  Austria Wien
+  16.00  FC Wacker Innsbruck      2-1 (1-0)  FC Trenkwalder Admira
+  18.30  SV Mattersburg           4-1 (1-0)  SV Ried
+[Sun Feb/19]
+  16.00  RB Salzburg              0-0  Sturm Graz
+
+
+Matchday 22
+[Sat Feb/25]
+  18.30  1. Wiener Neustädter SC  0-0  FC Wacker Innsbruck
+         Sturm Graz               0-0  Rapid Wien
+  16.00  FC Trenkwalder Admira    0-1 (0-1)  SV Mattersburg
+  18.30  Austria Wien             0-1 (0-1)  Kapfenberger SV 1919
+[Sun Feb/26]
+  16.30  SV Ried                  0-1 (0-1)  RB Salzburg
+
+
+Matchday 23
+[Sat Mar/3]
+  18.30  RB Salzburg              0-1 (0-1)  SV Mattersburg
+         FC Wacker Innsbruck      0-1 (0-0)  Austria Wien
+  16.00  Rapid Wien               1-0 (0-0)  SV Ried
+  18.30  FC Trenkwalder Admira    2-0 (0-0)  1. Wiener Neustädter SC
+[Sun Mar/4]
+  16.00  Kapfenberger SV 1919     0-0  Sturm Graz
+
+
+Matchday 20
+[Wed Mar/7]
+  18.30  FC Trenkwalder Admira    3-1 (1-1)  Kapfenberger SV 1919
+         FC Wacker Innsbruck      1-1 (1-1)  RB Salzburg
+
+
+Matchday 24
+[Sat Mar/10]
+  16.00  Sturm Graz               0-1 (0-1)  1. Wiener Neustädter SC
+  18.30  SV Mattersburg           0-1 (0-1)  FC Wacker Innsbruck
+         RB Salzburg              3-1 (1-0)  Rapid Wien
+         SV Ried                  3-0 (0-0)  Kapfenberger SV 1919
+[Sun Mar/11]
+  16.30  Austria Wien             2-1 (1-1)  FC Trenkwalder Admira
+
+
+Matchday 21
+[Wed Mar/14]
+  18.30  Kapfenberger SV 1919     1-0 (0-0)  1. Wiener Neustädter SC
+
+
+Matchday 25
+[Sat Mar/17]
+  16.00  Kapfenberger SV 1919     0-1 (0-0)  RB Salzburg
+  18.30  FC Wacker Innsbruck      0-0  SV Ried
+         Rapid Wien               1-1 (0-0)  SV Mattersburg
+         1. Wiener Neustädter SC  0-0  Austria Wien
+[Sun Mar/18]
+  16.00  FC Trenkwalder Admira    2-0 (2-0)  Sturm Graz
+
+
+Matchday 26
+[Tue Mar/20]
+  20.30  SV Mattersburg           2-0 (1-0)  Austria Wien
+[Wed Mar/21]
+  20.30  SV Ried                  2-1 (1-1)  FC Trenkwalder Admira
+         Rapid Wien               3-0 (1-0)  Kapfenberger SV 1919
+         Sturm Graz               1-0 (1-0)  FC Wacker Innsbruck
+         RB Salzburg              2-1 (2-0)  1. Wiener Neustädter SC
+
+
+Matchday 27
+[Sat Mar/24]
+  18.30  1. Wiener Neustädter SC  1-1 (0-0)  SV Ried
+         FC Trenkwalder Admira    2-2 (1-1)  RB Salzburg
+         Austria Wien             1-1 (0-0)  Sturm Graz
+  16.00  Kapfenberger SV 1919     1-1 (0-0)  SV Mattersburg
+[Sun Mar/25]
+  16.00  FC Wacker Innsbruck      2-1 (2-0)  Rapid Wien
+
+
+Matchday 28
+[Sat Mar/31]
+  16.00  Sturm Graz               0-0  SV Ried
+  18.30  1. Wiener Neustädter SC  0-0  SV Mattersburg
+         FC Trenkwalder Admira    0-4 (0-1)  Rapid Wien
+         FC Wacker Innsbruck      2-0 (1-0)  Kapfenberger SV 1919
+[Sun Apr/1]
+  16.00  Austria Wien             1-1 (1-0)  RB Salzburg
+
+
+Matchday 29
+[Sat Apr/7]
+  18.30  SV Ried                  0-1 (0-0)  Austria Wien
+         Kapfenberger SV 1919     2-3 (2-1)  FC Trenkwalder Admira
+         Rapid Wien               2-1 (1-0)  1. Wiener Neustädter SC
+  16.00  RB Salzburg              2-0 (0-0)  FC Wacker Innsbruck
+[Sun Apr/8]
+  16.00  SV Mattersburg           0-2 (0-1)  Sturm Graz
+
+
+Matchday 30
+[Sat Apr/14]
+  18.30  SV Ried                  2-0 (1-0)  SV Mattersburg
+         Sturm Graz               2-2 (1-1)  RB Salzburg
+         FC Trenkwalder Admira    1-1 (0-1)  FC Wacker Innsbruck
+  16.00  1. Wiener Neustädter SC  0-0  Kapfenberger SV 1919
+[Sun Apr/15]
+  16.00  Austria Wien             0-0  Rapid Wien
+
+
+Matchday 31
+[Sat Apr/21]
+  18.30  Kapfenberger SV 1919     1-0 (0-0)  Austria Wien
+         SV Mattersburg           1-2 (1-0)  FC Trenkwalder Admira
+         RB Salzburg              2-0 (0-0)  SV Ried
+  16.00  FC Wacker Innsbruck      2-0 (0-0)  1. Wiener Neustädter SC
+[Sun Apr/22]
+  16.00  Rapid Wien               1-1 (1-0)  Sturm Graz
+
+
+Matchday 32
+[Sat Apr/28]
+  18.30  Sturm Graz               2-1 (0-0)  Kapfenberger SV 1919
+         SV Mattersburg           0-1 (0-1)  RB Salzburg
+         1. Wiener Neustädter SC  1-4 (1-2)  FC Trenkwalder Admira
+  16.00  Austria Wien             3-0 (0-0)  FC Wacker Innsbruck
+[Sun Apr/29]
+  16.00  SV Ried                  2-3 (1-2)  Rapid Wien
+
+
+Matchday 33
+[Sat May/5]
+  18.30  FC Trenkwalder Admira    3-2 (2-0)  Austria Wien
+         Kapfenberger SV 1919     0-0  SV Ried
+         FC Wacker Innsbruck      3-6 (1-3)  SV Mattersburg
+  16.00  1. Wiener Neustädter SC  0-0  Sturm Graz
+[Sun May/6]
+  16.00  Rapid Wien               0-1 (0-0)  RB Salzburg
+
+
+Matchday 34
+[Thu May/10]
+  18.30  RB Salzburg              2-0 (0-0)  Kapfenberger SV 1919
+  20.30  Sturm Graz               0-3 (0-0)  FC Trenkwalder Admira
+         SV Mattersburg           0-1 (0-1)  Rapid Wien
+         SV Ried                  1-1 (0-1)  FC Wacker Innsbruck
+         Austria Wien             3-1 (3-1)  1. Wiener Neustädter SC
+
+
+Matchday 35
+[Sun May/13]
+  16.00  Kapfenberger SV 1919     0-2 (0-1)  Rapid Wien
+         FC Wacker Innsbruck      1-1 (1-0)  Sturm Graz
+         1. Wiener Neustädter SC  1-5 (1-2)  RB Salzburg
+         FC Trenkwalder Admira    1-1 (1-0)  SV Ried
+         Austria Wien             1-0 (0-0)  SV Mattersburg
+
+
+Matchday 36
+[Thu May/17]
+  16.00  Sturm Graz               3-1 (0-1)  Austria Wien
+         SV Mattersburg           2-0 (1-0)  Kapfenberger SV 1919
+         SV Ried                  2-2 (1-1)  1. Wiener Neustädter SC
+         Rapid Wien               2-0 (1-0)  FC Wacker Innsbruck
+         RB Salzburg              2-0 (0-0)  FC Trenkwalder Admira

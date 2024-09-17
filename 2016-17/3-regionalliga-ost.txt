@@ -1,0 +1,407 @@
+= Österr. Regionalliga Ost 2016/17
+
+# Date       Fri Aug/5 2016 - Fri May/26 2017 (294d)
+# Teams      15
+# Matches    210
+
+
+
+Matchday 1
+[Fri Aug/5]
+  19.00  Austria Wien II          2-0 (2-0)  SC Neusiedl/See 1919
+         SC/ESV Parndorf          0-2 (0-0)  Rapid Wien II
+  19.30  SV Schwechat             0-1 (0-0)  SKN St. Pölten II
+         Wiener Sportklub         2-2 (2-0)  FC Admira Wacker II
+         SKU Amstetten            2-0 (1-0)  SC Mannsdorf
+         FCM Traiskirchen         1-1 (1-0)  First Vienna FC
+  18.30  FC Stadlau               1-0 (1-0)  ASK Ebreichsdorf
+
+
+Matchday 2
+[Fri Aug/12]
+  19.00  Austria Wien II          3-1 (2-0)  SC Mannsdorf
+         SC Neusiedl/See 1919     1-0 (0-0)  FC Stadlau
+         First Vienna FC          2-3 (2-1)  SC Ritzing
+  19.30  Rapid Wien II            4-1 (1-0)  SV Schwechat
+         SKU Amstetten            4-2 (0-2)  SKN St. Pölten II
+         ASK Ebreichsdorf         4-2 (2-2)  Wiener Sportklub
+[Sun Aug/14]
+  17.30  FC Admira Wacker II      0-1 (0-0)  FCM Traiskirchen
+
+
+Matchday 3
+[Fri Aug/19]
+  19.00  Austria Wien II          2-1 (1-0)  SKU Amstetten
+         SC/ESV Parndorf          0-0  First Vienna FC
+  19.30  Wiener Sportklub         1-2 (1-1)  SC Neusiedl/See 1919
+  20.00  FCM Traiskirchen         0-4 (0-3)  ASK Ebreichsdorf
+  18.00  FC Stadlau               3-0 (1-0)  SC Mannsdorf
+[Sat Aug/20]
+  17.00  SC Ritzing               3-0 (1-0)  FC Admira Wacker II
+[Sun Aug/21]
+  17.30  SKN St. Pölten II        0-2 (0-0)  Rapid Wien II
+
+
+Matchday 4
+[Fri Aug/26]
+  19.00  Austria Wien II          0-0  FC Stadlau
+         SC Neusiedl/See 1919     1-1 (1-1)  FCM Traiskirchen
+         First Vienna FC          1-1 (0-0)  SV Schwechat
+  19.30  Wiener Sportklub         0-0  SC Mannsdorf
+         ASK Ebreichsdorf         3-5 (1-2)  SC Ritzing
+         SKU Amstetten            2-2 (1-2)  Rapid Wien II
+[Sun Aug/28]
+  17.30  FC Admira Wacker II      1-1 (1-1)  SC/ESV Parndorf
+
+
+Matchday 5
+[Fri Sep/2]
+  19.30  FCM Traiskirchen         1-2 (1-1)  SC Mannsdorf
+         SV Schwechat             3-2 (1-1)  FC Admira Wacker II
+  19.00  SC/ESV Parndorf          2-4 (1-3)  ASK Ebreichsdorf
+[Sat Sep/3]
+  17.00  SC Ritzing               4-0 (1-0)  SC Neusiedl/See 1919
+  16.00  FC Stadlau               2-2 (1-1)  SKU Amstetten
+[Sun Sep/4]
+  16.15  SKN St. Pölten II        0-4 (0-0)  First Vienna FC
+[Tue Sep/6]
+  19.30  Wiener Sportklub         0-1 (0-1)  Austria Wien II
+
+
+Matchday 6
+[Fri Sep/9]
+  19.00  Austria Wien II          2-0 (0-0)  FCM Traiskirchen
+         First Vienna FC          2-1 (2-1)  Rapid Wien II
+         SC Neusiedl/See 1919     2-3 (0-2)  SC/ESV Parndorf
+  19.30  SC Mannsdorf             0-4 (0-2)  SC Ritzing
+         ASK Ebreichsdorf         2-1 (2-0)  SV Schwechat
+[Sat Sep/10]
+  14.00  FC Stadlau               1-0 (0-0)  Wiener Sportklub
+
+
+Matchday 7
+[Fri Sep/16]
+  19.30  SV Schwechat             1-2 (0-0)  SC Neusiedl/See 1919
+  19.00  SC/ESV Parndorf          4-2 (0-0)  SC Mannsdorf
+  19.30  Rapid Wien II            2-0 (1-0)  FC Admira Wacker II
+         FCM Traiskirchen         0-0  FC Stadlau
+         Wiener Sportklub         0-0  SKU Amstetten
+[Sat Sep/17]
+  17.00  SC Ritzing               2-1 (1-0)  Austria Wien II
+[Sun Sep/18]
+  11.00  SKN St. Pölten II        1-2 (0-1)  ASK Ebreichsdorf
+
+
+Matchday 8
+[Fri Sep/23]
+  19.30  Wiener Sportklub         2-0 (0-0)  FCM Traiskirchen
+  19.00  SC Neusiedl/See 1919     3-0 (1-0)  SKN St. Pölten II
+         Austria Wien II          1-0 (1-0)  SC/ESV Parndorf
+  19.30  SKU Amstetten            0-1 (0-0)  First Vienna FC
+[Sat Sep/24]
+  16.00  FC Stadlau               1-1 (1-1)  SC Ritzing
+  18.00  SC Mannsdorf             4-1 (2-1)  SV Schwechat
+[Sun Sep/25]
+  16.00  ASK Ebreichsdorf         1-0 (1-0)  Rapid Wien II
+
+
+Matchday 6
+[Tue Sep/27]
+  19.00  FC Admira Wacker II      2-3 (1-1)  SKN St. Pölten II
+
+
+Matchday 9
+[Thu Sep/29]
+  19.00  Rapid Wien II            3-2 (2-1)  SC Neusiedl/See 1919
+[Fri Sep/30]
+  19.00  SC/ESV Parndorf          0-0  FC Stadlau
+         First Vienna FC          1-0 (0-0)  FC Admira Wacker II
+  19.30  FCM Traiskirchen         2-2 (1-0)  SKU Amstetten
+         SV Schwechat             2-1 (2-1)  Austria Wien II
+[Sat Oct/1]
+  17.00  SC Ritzing               0-0  Wiener Sportklub
+[Sun Oct/2]
+  16.15  SKN St. Pölten II        0-5 (0-1)  SC Mannsdorf
+
+
+Matchday 10
+[Fri Oct/7]
+  19.00  Austria Wien II          2-1 (1-0)  SKN St. Pölten II
+  19.30  FCM Traiskirchen         0-3 (0-1)  SC Ritzing
+         Wiener Sportklub         2-0 (0-0)  SC/ESV Parndorf
+         ASK Ebreichsdorf         0-4 (0-2)  First Vienna FC
+[Sat Oct/8]
+  16.00  FC Stadlau               5-0 (2-0)  SV Schwechat
+[Wed Oct/12]
+  19.00  SKU Amstetten            1-1 (0-0)  FC Admira Wacker II
+
+
+Matchday 11
+[Thu Oct/13]
+  19.00  Austria Wien II          2-1 (0-1)  Rapid Wien II
+[Fri Oct/14]
+  19.30  SV Schwechat             1-1 (0-0)  Wiener Sportklub
+  19.00  SC/ESV Parndorf          2-0 (0-0)  FCM Traiskirchen
+         First Vienna FC          2-1 (0-0)  SC Neusiedl/See 1919
+[Sat Oct/15]
+  17.00  SC Ritzing               2-1 (1-1)  SKU Amstetten
+[Sun Oct/16]
+  14.30  FC Admira Wacker II      6-1 (4-1)  ASK Ebreichsdorf
+  16.00  SKN St. Pölten II        0-3 (0-1)  FC Stadlau
+
+
+Matchday 10
+[Tue Oct/18]
+  19.30  SC Mannsdorf             2-1 (1-1)  Rapid Wien II
+
+
+Matchday 12
+[Fri Oct/21]
+  19.00  SC Neusiedl/See 1919     1-2 (1-1)  FC Admira Wacker II
+  19.30  FCM Traiskirchen         5-2 (3-1)  SV Schwechat
+         Wiener Sportklub         0-0  SKN St. Pölten II
+[Sat Oct/22]
+  16.00  SC Mannsdorf             3-2 (2-1)  First Vienna FC
+  17.00  SC Ritzing               1-2 (0-1)  SC/ESV Parndorf
+  14.00  FC Stadlau               2-1 (2-0)  Rapid Wien II
+
+
+Matchday 13
+[Fri Oct/28]
+  19.30  Rapid Wien II            0-2 (0-1)  Wiener Sportklub
+  19.00  First Vienna FC          1-1 (0-0)  Austria Wien II
+         SC/ESV Parndorf          0-0  SKU Amstetten
+  19.30  SV Schwechat             0-5 (0-2)  SC Ritzing
+[Sun Oct/30]
+  14.30  SKN St. Pölten II        0-2 (0-1)  FCM Traiskirchen
+         FC Admira Wacker II      5-0 (1-0)  SC Mannsdorf
+  15.00  ASK Ebreichsdorf         3-1 (3-1)  SC Neusiedl/See 1919
+
+
+Matchday 14
+[Fri Nov/4]
+  19.30  SKU Amstetten            5-0 (2-0)  SC Neusiedl/See 1919
+  19.00  SC/ESV Parndorf          3-0 (1-0)  SV Schwechat
+         Austria Wien II          1-1 (1-0)  FC Admira Wacker II
+  19.30  FCM Traiskirchen         2-0 (1-0)  Rapid Wien II
+         SC Mannsdorf             1-0 (0-0)  ASK Ebreichsdorf
+[Sat Nov/5]
+  14.00  FC Stadlau               0-3 (0-1)  First Vienna FC
+  17.00  SC Ritzing               4-0 (1-0)  SKN St. Pölten II
+
+
+Matchday 12
+[Tue Nov/8]
+  19.30  SKU Amstetten            1-3 (0-2)  ASK Ebreichsdorf
+
+
+Matchday 15
+[Fri Nov/11]
+  19.00  SC Neusiedl/See 1919     1-1 (1-0)  SC Mannsdorf
+         FC Admira Wacker II      1-0 (1-0)  FC Stadlau
+  19.30  SV Schwechat             1-1 (1-1)  SKU Amstetten
+  19.00  First Vienna FC          2-0 (1-0)  Wiener Sportklub
+[Sun Nov/13]
+  15.30  ASK Ebreichsdorf         2-4 (1-2)  Austria Wien II
+
+
+Matchday 16
+[Fri Nov/18]
+  19.30  ASK Ebreichsdorf         2-2 (0-0)  FC Stadlau
+         SC Mannsdorf             3-3 (1-1)  SKU Amstetten
+  19.00  First Vienna FC          1-0 (0-0)  FCM Traiskirchen
+         SC Neusiedl/See 1919     1-2 (1-1)  Austria Wien II
+[Sat Nov/19]
+  14.00  Rapid Wien II            2-2 (2-0)  SC/ESV Parndorf
+[Sun Nov/20]
+  14.00  SKN St. Pölten II        2-1 (1-0)  SV Schwechat
+         FC Admira Wacker II      4-0 (1-0)  Wiener Sportklub
+
+
+Matchday 15
+[Sat Nov/26]
+  14.00  SKN St. Pölten II        1-2 (0-0)  SC/ESV Parndorf
+[Fri Feb/24]
+  19.30  Rapid Wien II            0-2 (0-2)  SC Ritzing
+
+
+Matchday 17
+[Fri Mar/3]
+  19.00  SC Mannsdorf             1-1 (0-0)  Austria Wien II
+  19.30  Wiener Sportklub         1-1 (1-1)  ASK Ebreichsdorf
+         SV Schwechat             1-1 (1-0)  Rapid Wien II
+[Sat Mar/4]
+  15.30  FC Stadlau               1-1 (0-1)  SC Neusiedl/See 1919
+  16.00  FCM Traiskirchen         2-0 (1-0)  FC Admira Wacker II
+  15.00  SC Ritzing               0-5 (0-2)  First Vienna FC
+[Sun Mar/5]
+  15.30  SKN St. Pölten II        0-1 (0-0)  SKU Amstetten
+
+
+Matchday 18
+[Fri Mar/10]
+  19.00  First Vienna FC          5-0 (0-0)  SC/ESV Parndorf
+  19.30  SKU Amstetten            2-1 (0-1)  Austria Wien II
+         ASK Ebreichsdorf         2-1 (0-1)  FCM Traiskirchen
+[Sat Mar/11]
+  17.00  SC Neusiedl/See 1919     3-3 (2-2)  Wiener Sportklub
+[Sun Mar/12]
+  15.30  FC Admira Wacker II      0-2 (0-1)  SC Ritzing
+  16.00  Rapid Wien II            5-1 (1-0)  SKN St. Pölten II
+  15.30  SC Mannsdorf             2-3 (1-0)  FC Stadlau
+
+
+Matchday 19
+[Fri Mar/17]
+  19.00  SC/ESV Parndorf          4-3 (1-3)  FC Admira Wacker II
+         SC Mannsdorf             2-1 (2-0)  Wiener Sportklub
+  19.30  SV Schwechat             0-3 (0-2)  First Vienna FC
+         Rapid Wien II            2-3 (1-2)  SKU Amstetten
+         FCM Traiskirchen         0-0  SC Neusiedl/See 1919
+[Sat Mar/18]
+  15.00  SC Ritzing               2-0 (0-0)  ASK Ebreichsdorf
+  16.00  FC Stadlau               0-0  Austria Wien II
+
+
+Matchday 20
+[Thu Mar/23]
+  19.00  First Vienna FC          2-2 (1-2)  SKN St. Pölten II
+[Fri Mar/24]
+  18.45  SKU Amstetten            1-1 (0-1)  FC Stadlau
+         ASK Ebreichsdorf         2-2 (2-1)  SC/ESV Parndorf
+         FC Admira Wacker II      0-1 (0-0)  SV Schwechat
+         SC Mannsdorf             2-1 (0-1)  FCM Traiskirchen
+[Sat Mar/25]
+  18.00  SC Neusiedl/See 1919     0-4 (0-2)  SC Ritzing
+
+
+Matchday 21
+[Fri Mar/31]
+  19.00  SC/ESV Parndorf          2-2 (1-2)  SC Neusiedl/See 1919
+  19.30  Wiener Sportklub         1-1 (0-0)  FC Stadlau
+         SV Schwechat             1-0 (0-0)  ASK Ebreichsdorf
+         FCM Traiskirchen         1-4 (1-1)  Austria Wien II
+[Sat Apr/1]
+  15.00  SC Ritzing               1-1 (0-1)  SC Mannsdorf
+[Sun Apr/2]
+  16.30  SKN St. Pölten II        0-0  FC Admira Wacker II
+  16.00  Rapid Wien II            0-3 (0-2)  First Vienna FC
+
+
+Matchday 22
+[Fri Apr/7]
+  19.00  SC Neusiedl/See 1919     3-0 (0-0)  SV Schwechat
+         Austria Wien II          1-1 (0-0)  SC Ritzing
+         SC Mannsdorf             3-1 (3-1)  SC/ESV Parndorf
+  19.30  ASK Ebreichsdorf         2-1 (2-1)  SKN St. Pölten II
+         SKU Amstetten            1-1 (0-0)  Wiener Sportklub
+[Sat Apr/8]
+  16.30  FC Stadlau               0-1 (0-0)  FCM Traiskirchen
+[Sun Apr/9]
+  16.30  FC Admira Wacker II      1-2 (1-1)  Rapid Wien II
+
+
+Matchday 20
+[Tue Apr/11]
+  19.00  Austria Wien II          1-0 (1-0)  Wiener Sportklub
+
+
+Matchday 23
+[Fri Apr/14]
+  19.00  SC/ESV Parndorf          1-1 (0-0)  Austria Wien II
+  19.30  SV Schwechat             0-1 (0-0)  SC Mannsdorf
+         FCM Traiskirchen         1-1 (1-1)  Wiener Sportklub
+  19.00  First Vienna FC          3-2 (1-2)  SKU Amstetten
+[Sat Apr/15]
+  15.00  SC Ritzing               0-2 (0-1)  FC Stadlau
+[Sun Apr/16]
+  16.30  SKN St. Pölten II        1-0 (0-0)  SC Neusiedl/See 1919
+  16.00  Rapid Wien II            3-3 (2-3)  ASK Ebreichsdorf
+
+
+Matchday 24
+[Fri Apr/21]
+  19.00  SC Neusiedl/See 1919     0-5 (0-4)  Rapid Wien II
+         Austria Wien II          0-0  SV Schwechat
+         SC Mannsdorf             1-0 (0-0)  SKN St. Pölten II
+  19.30  Wiener Sportklub         5-0 (2-0)  SC Ritzing
+         SKU Amstetten            0-1 (0-1)  FCM Traiskirchen
+[Sat Apr/22]
+  16.00  FC Stadlau               0-0  SC/ESV Parndorf
+[Sun Apr/23]
+  14.30  FC Admira Wacker II      0-1 (0-0)  First Vienna FC
+
+
+Matchday 25
+[Thu Apr/27]
+  19.30  Rapid Wien II            1-1 (0-1)  SC Mannsdorf
+         SC/ESV Parndorf          0-0  Wiener Sportklub
+[Fri Apr/28]
+  17.30  SKN St. Pölten II        2-1 (1-0)  Austria Wien II
+  19.00  First Vienna FC          2-1 (0-0)  ASK Ebreichsdorf
+         FC Admira Wacker II      1-1 (0-1)  SKU Amstetten
+         SC Ritzing               1-2 (0-1)  FCM Traiskirchen
+  20.00  SV Schwechat             0-2 (0-1)  FC Stadlau
+
+
+Matchday 26
+[Mon May/1]
+  16.30  FC Stadlau               3-0 (0-0)  FC Admira Wacker II
+         SC Ritzing               3-1 (0-0)  Rapid Wien II
+         SKU Amstetten            3-0 (1-0)  SV Schwechat
+         Austria Wien II          2-4 (0-3)  ASK Ebreichsdorf
+         SC Mannsdorf             5-1 (1-1)  SC Neusiedl/See 1919
+         Wiener Sportklub         1-0 (0-0)  First Vienna FC
+[Tue May/2]
+  19.30  SC/ESV Parndorf          2-1 (1-0)  SKN St. Pölten II
+
+
+Matchday 27
+[Fri May/5]
+  19.00  SC Neusiedl/See 1919     1-4 (0-3)  First Vienna FC
+  19.30  SKU Amstetten            2-0 (1-0)  SC Ritzing
+         FCM Traiskirchen         1-1 (1-1)  SC/ESV Parndorf
+         Wiener Sportklub         1-1 (0-0)  SV Schwechat
+         ASK Ebreichsdorf         1-2 (1-1)  FC Admira Wacker II
+[Sat May/6]
+  16.30  FC Stadlau               3-1 (2-0)  SKN St. Pölten II
+[Tue May/9]
+  19.00  Rapid Wien II            1-2 (1-2)  Austria Wien II
+
+
+Matchday 28
+[Fri May/12]
+  19.00  SC/ESV Parndorf          2-2 (0-0)  SC Ritzing
+         First Vienna FC          1-0 (0-0)  SC Mannsdorf
+  19.30  ASK Ebreichsdorf         1-0 (0-0)  SKU Amstetten
+  20.00  SV Schwechat             2-6 (0-1)  FCM Traiskirchen
+[Sat May/13]
+  16.00  Rapid Wien II            3-1 (2-1)  FC Stadlau
+[Sun May/14]
+  16.30  SKN St. Pölten II        3-2 (1-0)  Wiener Sportklub
+  14.30  FC Admira Wacker II      1-0 (0-0)  SC Neusiedl/See 1919
+
+
+Matchday 29
+[Fri May/19]
+  19.00  Austria Wien II          0-2 (0-0)  First Vienna FC
+         SC Mannsdorf             3-3 (1-1)  FC Admira Wacker II
+  19.30  SC Neusiedl/See 1919     4-2 (3-2)  ASK Ebreichsdorf
+         Wiener Sportklub         1-2 (0-0)  Rapid Wien II
+         FCM Traiskirchen         5-3 (3-3)  SKN St. Pölten II
+         SKU Amstetten            1-0 (0-0)  SC/ESV Parndorf
+[Sat May/20]
+  17.00  SC Ritzing               2-2 (1-1)  SV Schwechat
+
+
+Matchday 30
+[Wed May/24]
+  19.00  First Vienna FC          3-2 (2-2)  FC Stadlau
+[Thu May/25]
+  16.00  ASK Ebreichsdorf         1-1 (0-1)  SC Mannsdorf
+[Fri May/26]
+  18.30  SV Schwechat             2-2 (0-1)  SC/ESV Parndorf
+         Rapid Wien II            2-2 (0-0)  FCM Traiskirchen
+         FC Admira Wacker II      1-2 (1-1)  Austria Wien II
+         SKN St. Pölten II        4-2 (2-1)  SC Ritzing
+         SC Neusiedl/See 1919     0-0  SKU Amstetten

@@ -1,0 +1,364 @@
+= Österr. Bundesliga 2015/16
+
+# Date       Sat Jul/25 2015 - Sun May/15 2016 (295d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Sat Jul/25]
+  18.30  Sturm Graz               1-1 (0-1)  FC Admira Wacker
+         Rapid Wien               3-0 (0-0)  SV Ried
+         SV Grödig                2-1 (0-1)  SCR Altach
+  16.00  SV Mattersburg           2-1 (1-0)  RB Salzburg
+[Sun Jul/26]
+  16.30  Wolfsberger AC           0-2 (0-1)  Austria Wien
+
+
+Matchday 2
+[Sat Aug/1]
+  16.00  RB Salzburg              1-2 (0-2)  Rapid Wien
+  18.30  FC Admira Wacker         2-1 (1-0)  SV Mattersburg
+[Sun Aug/2]
+  16.30  Austria Wien             3-1 (1-1)  SCR Altach
+  19.00  Sturm Graz               1-1 (0-1)  SV Grödig
+  16.30  SV Ried                  0-0  Wolfsberger AC
+
+
+Matchday 3
+[Sat Aug/8]
+  16.00  SV Grödig                2-2 (0-0)  Austria Wien
+  18.30  SV Mattersburg           4-1 (3-1)  SV Ried
+         FC Admira Wacker         2-2 (2-2)  RB Salzburg
+[Sun Aug/9]
+  19.00  Rapid Wien               2-1 (0-1)  Wolfsberger AC
+  16.30  SCR Altach               0-1 (0-0)  Sturm Graz
+
+
+Matchday 4
+[Tue Aug/11]
+  18.30  SV Ried                  1-4 (0-4)  RB Salzburg
+[Wed Aug/12]
+  20.30  SCR Altach               3-1 (2-0)  SV Mattersburg
+         SV Grödig                2-3 (1-1)  FC Admira Wacker
+         Austria Wien             2-5 (1-3)  Rapid Wien
+         Wolfsberger AC           0-2 (0-2)  Sturm Graz
+
+
+Matchday 5
+[Sat Aug/15]
+  16.00  Austria Wien             5-1 (3-1)  SV Mattersburg
+  18.30  FC Admira Wacker         3-1 (2-0)  SV Ried
+         Wolfsberger AC           3-2 (3-2)  SV Grödig
+         RB Salzburg              2-0 (1-0)  SCR Altach
+[Sun Aug/16]
+  16.30  Sturm Graz               2-2 (2-0)  Rapid Wien
+
+
+Matchday 6
+[Sat Aug/22]
+  18.30  SV Ried                  1-0 (0-0)  Sturm Graz
+         SV Mattersburg           1-0 (0-0)  Wolfsberger AC
+  16.00  Rapid Wien               3-0 (0-0)  SV Grödig
+[Sun Aug/23]
+  16.30  RB Salzburg              2-2 (1-1)  Austria Wien
+  19.00  SCR Altach               1-2 (0-1)  FC Admira Wacker
+
+
+Matchday 7
+[Sat Aug/29]
+  18.30  Rapid Wien               2-4 (0-1)  SV Mattersburg
+         SV Grödig                4-1 (2-1)  SV Ried
+  16.00  FC Admira Wacker         0-1 (0-0)  Austria Wien
+[Sun Aug/30]
+  16.30  Sturm Graz               2-3 (0-1)  RB Salzburg
+  19.00  Wolfsberger AC           0-2 (0-2)  SCR Altach
+
+
+Matchday 8
+[Sat Sep/12]
+  18.30  RB Salzburg              4-2 (1-2)  SV Grödig
+         Austria Wien             1-1 (1-0)  SV Ried
+         FC Admira Wacker         1-0 (1-0)  Wolfsberger AC
+  16.00  SCR Altach               2-0 (0-0)  Rapid Wien
+[Sun Sep/13]
+  16.30  SV Mattersburg           2-0 (0-0)  Sturm Graz
+
+
+Matchday 9
+[Sat Sep/19]
+  16.00  Sturm Graz               2-0 (0-0)  Austria Wien
+  18.30  Wolfsberger AC           1-1 (1-0)  RB Salzburg
+         SV Ried                  2-0 (1-0)  SCR Altach
+         SV Grödig                1-1 (1-1)  SV Mattersburg
+[Sun Sep/20]
+  16.30  Rapid Wien               2-0 (1-0)  FC Admira Wacker
+
+
+Matchday 10
+[Sat Sep/26]
+  16.00  SV Ried                  0-1 (0-0)  Rapid Wien
+  18.30  RB Salzburg              4-2 (1-2)  SV Mattersburg
+         SCR Altach               1-0 (0-0)  SV Grödig
+         Austria Wien             1-0 (0-0)  Wolfsberger AC
+[Sun Sep/27]
+  16.30  FC Admira Wacker         0-1 (0-0)  Sturm Graz
+
+
+Matchday 11
+[Sat Oct/3]
+  18.30  Wolfsberger AC           1-1 (1-1)  SV Ried
+         SV Mattersburg           0-4 (0-1)  FC Admira Wacker
+         SCR Altach               1-2 (1-1)  Austria Wien
+  16.00  SV Grödig                3-0 (0-0)  Sturm Graz
+[Sun Oct/4]
+  16.30  Rapid Wien               1-2 (1-1)  RB Salzburg
+
+
+Matchday 12
+[Sat Oct/17]
+  18.30  Austria Wien             2-1 (2-0)  SV Grödig
+         SV Ried                  0-1 (0-0)  SV Mattersburg
+         Sturm Graz               3-1 (2-0)  SCR Altach
+  16.00  RB Salzburg              8-0 (2-0)  FC Admira Wacker
+[Sun Oct/18]
+  16.30  Wolfsberger AC           2-1 (1-0)  Rapid Wien
+
+
+Matchday 13
+[Sat Oct/24]
+  18.30  RB Salzburg              2-1 (2-1)  SV Ried
+         Sturm Graz               2-0 (0-0)  Wolfsberger AC
+         FC Admira Wacker         0-0  SV Grödig
+  16.00  SV Mattersburg           2-1 (1-1)  SCR Altach
+[Sun Oct/25]
+  16.30  Rapid Wien               1-2 (0-0)  Austria Wien
+
+
+Matchday 14
+[Sat Oct/31]
+  18.30  SV Ried                  1-1 (0-0)  FC Admira Wacker
+         SV Grödig                1-0 (0-0)  Wolfsberger AC
+         SCR Altach               1-0 (0-0)  RB Salzburg
+  16.00  Rapid Wien               2-1 (1-0)  Sturm Graz
+[Sun Nov/1]
+  16.30  SV Mattersburg           1-2 (0-0)  Austria Wien
+
+
+Matchday 15
+[Sat Nov/7]
+  18.30  FC Admira Wacker         1-1 (0-1)  SCR Altach
+         Sturm Graz               3-2 (2-2)  SV Ried
+         Wolfsberger AC           2-1 (1-0)  SV Mattersburg
+  16.00  Austria Wien             1-1 (0-1)  RB Salzburg
+[Sun Nov/8]
+  16.30  SV Grödig                2-1 (1-0)  Rapid Wien
+
+
+Matchday 16
+[Sat Nov/21]
+  16.00  Austria Wien             1-1 (0-0)  FC Admira Wacker
+  18.30  SV Mattersburg           1-6 (0-5)  Rapid Wien
+         SCR Altach               2-1 (1-0)  Wolfsberger AC
+         SV Ried                  1-0 (0-0)  SV Grödig
+[Sun Nov/22]
+  16.30  RB Salzburg              3-1 (1-0)  Sturm Graz
+
+
+Matchday 17
+[Sat Nov/28]
+  16.00  Sturm Graz               0-0  SV Mattersburg
+  18.30  SV Grödig                1-1 (0-1)  RB Salzburg
+         Wolfsberger AC           4-0 (2-0)  FC Admira Wacker
+[Sun Nov/29]
+  19.00  Rapid Wien               3-1 (2-0)  SCR Altach
+  16.30  SV Ried                  4-2 (3-2)  Austria Wien
+
+
+Matchday 18
+[Tue Dec/1]
+  19.00  RB Salzburg              1-1 (0-1)  Wolfsberger AC
+[Wed Dec/2]
+  18.30  SCR Altach               1-3 (0-2)  SV Ried
+         SV Mattersburg           0-2 (0-1)  SV Grödig
+  20.30  Austria Wien             2-1 (1-1)  Sturm Graz
+  18.30  FC Admira Wacker         2-1 (0-1)  Rapid Wien
+
+
+Matchday 19
+[Sat Dec/5]
+  16.00  Wolfsberger AC           2-0 (1-0)  Austria Wien
+  18.30  Rapid Wien               2-1 (1-1)  SV Ried
+         Sturm Graz               1-1 (1-0)  FC Admira Wacker
+         SV Grödig                0-3 (0-2)  SCR Altach
+[Sun Dec/6]
+  16.30  SV Mattersburg           0-0  RB Salzburg
+
+
+Matchday 20
+[Sat Dec/12]
+  18.30  Sturm Graz               2-0 (1-0)  SV Grödig
+         SV Ried                  1-0 (1-0)  Wolfsberger AC
+         FC Admira Wacker         1-1 (1-1)  SV Mattersburg
+  16.00  Austria Wien             1-2 (1-0)  SCR Altach
+[Sun Dec/13]
+  16.30  RB Salzburg              2-0 (1-0)  Rapid Wien
+
+
+Matchday 21
+[Sat Feb/6]
+  18.30  Rapid Wien               3-0 (0-0)  Wolfsberger AC
+         SV Grödig                0-1 (0-1)  Austria Wien
+         SV Mattersburg           3-3 (1-2)  SV Ried
+  16.00  SCR Altach               2-2 (2-1)  Sturm Graz
+[Sun Feb/7]
+  16.30  FC Admira Wacker         1-2 (0-0)  RB Salzburg
+
+
+Matchday 22
+[Sat Feb/13]
+  18.30  SCR Altach               1-2 (0-0)  SV Mattersburg
+         Wolfsberger AC           0-0  Sturm Graz
+         SV Grödig                2-2 (0-1)  FC Admira Wacker
+  16.00  SV Ried                  1-0 (0-0)  RB Salzburg
+[Sun Feb/14]
+  16.30  Austria Wien             0-3 (0-2)  Rapid Wien
+
+
+Matchday 23
+[Sat Feb/20]
+  18.30  RB Salzburg              2-0 (0-0)  SCR Altach
+         Wolfsberger AC           2-0 (0-0)  SV Grödig
+         FC Admira Wacker         0-0  SV Ried
+  16.00  Austria Wien             2-2 (2-1)  SV Mattersburg
+[Sun Feb/21]
+  16.30  Sturm Graz               0-2 (0-1)  Rapid Wien
+
+
+Matchday 24
+[Sat Feb/27]
+  18.30  SCR Altach               1-2 (1-0)  FC Admira Wacker
+         SV Mattersburg           1-1 (0-1)  Wolfsberger AC
+  16.00  SV Ried                  0-1 (0-0)  Sturm Graz
+[Sun Feb/28]
+  16.30  RB Salzburg              4-1 (3-1)  Austria Wien
+  14.00  Rapid Wien               3-2 (1-1)  SV Grödig
+
+
+Matchday 25
+[Tue Mar/1]
+  19.00  Wolfsberger AC           1-0 (1-0)  SCR Altach
+[Wed Mar/2]
+  18.30  SV Grödig                2-2 (0-0)  SV Ried
+         FC Admira Wacker         0-3 (0-1)  Austria Wien
+  20.30  Sturm Graz               0-0  RB Salzburg
+  18.30  Rapid Wien               3-0 (2-0)  SV Mattersburg
+
+
+Matchday 26
+[Sat Mar/5]
+  16.00  RB Salzburg              3-0 (1-0)  SV Grödig
+  18.30  Austria Wien             3-1 (0-1)  SV Ried
+         FC Admira Wacker         0-2 (0-2)  Wolfsberger AC
+         SV Mattersburg           1-0 (1-0)  Sturm Graz
+[Sun Mar/6]
+  16.30  SCR Altach               0-0  Rapid Wien
+
+
+Matchday 27
+[Sat Mar/12]
+  18.30  Rapid Wien               0-4 (0-2)  FC Admira Wacker
+         SV Ried                  0-2 (0-2)  SCR Altach
+         SV Grödig                0-1 (0-1)  SV Mattersburg
+  16.00  Wolfsberger AC           1-1 (0-1)  RB Salzburg
+[Sun Mar/13]
+  16.30  Sturm Graz               1-1 (0-0)  Austria Wien
+
+
+Matchday 28
+[Sat Mar/19]
+  16.00  Austria Wien             0-0  Wolfsberger AC
+  18.30  FC Admira Wacker         1-0 (0-0)  Sturm Graz
+         SCR Altach               1-0 (0-0)  SV Grödig
+         RB Salzburg              2-1 (2-0)  SV Mattersburg
+[Sun Mar/20]
+  16.30  SV Ried                  1-0 (0-0)  Rapid Wien
+
+
+Matchday 29
+[Sat Apr/2]
+  18.30  Wolfsberger AC           1-0 (0-0)  SV Ried
+         SCR Altach               2-0 (1-0)  Austria Wien
+         SV Mattersburg           0-3 (0-0)  FC Admira Wacker
+  16.00  SV Grödig                1-3 (0-0)  Sturm Graz
+[Sun Apr/3]
+  15.00  Rapid Wien               1-1 (0-0)  RB Salzburg
+
+
+Matchday 30
+[Sat Apr/9]
+  18.30  Wolfsberger AC           2-2 (0-2)  Rapid Wien
+         Austria Wien             0-2 (0-0)  SV Grödig
+         SV Ried                  1-0 (0-0)  SV Mattersburg
+  16.00  Sturm Graz               4-1 (2-1)  SCR Altach
+[Sun Apr/10]
+  16.30  RB Salzburg              1-0 (0-0)  FC Admira Wacker
+
+
+Matchday 31
+[Sat Apr/16]
+  18.30  SV Mattersburg           0-0  SCR Altach
+         Sturm Graz               1-0 (0-0)  Wolfsberger AC
+         FC Admira Wacker         1-1 (0-0)  SV Grödig
+  16.00  RB Salzburg              2-1 (1-0)  SV Ried
+[Sun Apr/17]
+  16.30  Rapid Wien               1-0 (0-0)  Austria Wien
+
+
+Matchday 32
+[Sat Apr/23]
+  18.30  SCR Altach               1-3 (1-2)  RB Salzburg
+         SV Grödig                0-1 (0-0)  Wolfsberger AC
+         SV Ried                  1-0 (0-0)  FC Admira Wacker
+  16.00  SV Mattersburg           0-9 (0-3)  Austria Wien
+[Sun Apr/24]
+  16.30  Rapid Wien               2-0 (1-0)  Sturm Graz
+
+
+Matchday 33
+[Sat Apr/30]
+  18.30  FC Admira Wacker         2-1 (1-0)  SCR Altach
+         Sturm Graz               0-0  SV Ried
+         Wolfsberger AC           2-0 (2-0)  SV Mattersburg
+  16.00  SV Grödig                2-0 (1-0)  Rapid Wien
+[Sun May/1]
+  16.30  Austria Wien             0-2 (0-1)  RB Salzburg
+
+
+Matchday 34
+[Sat May/7]
+  16.00  Austria Wien             3-1 (2-0)  FC Admira Wacker
+  18.30  RB Salzburg              1-1 (1-0)  Sturm Graz
+         SCR Altach               1-1 (0-0)  Wolfsberger AC
+         SV Ried                  2-0 (1-0)  SV Grödig
+[Sun May/8]
+  16.30  SV Mattersburg           0-2 (0-1)  Rapid Wien
+
+
+Matchday 35
+[Wed May/11]
+  20.30  SV Grödig                1-2 (1-1)  RB Salzburg
+         Rapid Wien               1-1 (0-1)  SCR Altach
+         SV Ried                  0-5 (0-2)  Austria Wien
+         Wolfsberger AC           1-2 (0-0)  FC Admira Wacker
+         Sturm Graz               1-1 (0-0)  SV Mattersburg
+
+
+Matchday 36
+[Sun May/15]
+  17.30  Austria Wien             3-0 (0-0)  Sturm Graz
+         RB Salzburg              1-0 (0-0)  Wolfsberger AC
+         SCR Altach               0-0  SV Ried
+         SV Mattersburg           2-3 (0-1)  SV Grödig
+         FC Admira Wacker         1-3 (0-1)  Rapid Wien

@@ -1,0 +1,340 @@
+= Österr. Erste Liga 2013/14
+
+# Date       Fri Jul/19 2013 - Fri May/23 2014 (308d)
+# Teams      10
+# Matches    180
+
+
+
+Matchday 1
+[Fri Jul/19]
+  18.30  SCR Altach               3-2 (0-0)  SV Horn
+         SC/ESV Parndorf          0-0  Austria Lustenau
+         TSV Hartberg             4-1 (1-1)  First Vienna FC
+  20.30  FC Liefering             3-0 (1-0)  SV Mattersburg
+  18.30  SKN St. Pölten           4-0 (2-0)  Kapfenberger SV 1919
+
+
+Matchday 2
+[Fri Jul/26]
+  18.30  SV Horn                  2-4 (2-2)  FC Liefering
+         Austria Lustenau         0-1 (0-0)  TSV Hartberg
+         SV Mattersburg           0-1 (0-0)  SKN St. Pölten
+         Kapfenberger SV 1919     2-0 (1-0)  SC/ESV Parndorf
+  20.30  First Vienna FC          1-4 (0-3)  SCR Altach
+
+
+Matchday 3
+[Fri Aug/2]
+  18.30  SKN St. Pölten           2-0 (1-0)  Austria Lustenau
+         SCR Altach               1-0 (1-0)  Kapfenberger SV 1919
+         FC Liefering             4-1 (3-1)  SC/ESV Parndorf
+         TSV Hartberg             2-2 (1-1)  SV Horn
+  20.30  SV Mattersburg           3-0 (0-0)  First Vienna FC
+
+
+Matchday 4
+[Mon Aug/5]
+  18.30  Kapfenberger SV 1919     0-0  TSV Hartberg
+[Tue Aug/6]
+  18.30  Austria Lustenau         0-0  First Vienna FC
+         FC Liefering             5-1 (2-0)  SCR Altach
+         SC/ESV Parndorf          2-0 (0-0)  SKN St. Pölten
+         SV Horn                  3-4 (3-0)  SV Mattersburg
+
+
+Matchday 5
+[Fri Aug/9]
+  18.30  First Vienna FC          1-0 (1-0)  FC Liefering
+         Austria Lustenau         3-0 (2-0)  SV Horn
+         SV Mattersburg           1-0 (0-0)  Kapfenberger SV 1919
+         TSV Hartberg             3-2 (1-1)  SC/ESV Parndorf
+  20.30  SKN St. Pölten           0-1 (0-1)  SCR Altach
+
+
+Matchday 6
+[Fri Aug/16]
+  18.30  FC Liefering             3-0 (0-0)  TSV Hartberg
+         SC/ESV Parndorf          1-4 (0-3)  SV Horn
+         Kapfenberger SV 1919     1-3 (1-1)  Austria Lustenau
+  20.30  SCR Altach               3-0 (2-0)  SV Mattersburg
+  18.30  SKN St. Pölten           1-2 (0-2)  First Vienna FC
+
+
+Matchday 7
+[Fri Aug/23]
+  18.30  First Vienna FC          1-2 (0-0)  Kapfenberger SV 1919
+         Austria Lustenau         3-3 (1-2)  FC Liefering
+         SV Mattersburg           3-0 (2-0)  SC/ESV Parndorf
+         TSV Hartberg             0-4 (0-2)  SCR Altach
+  20.30  SV Horn                  3-1 (1-0)  SKN St. Pölten
+
+
+Matchday 8
+[Fri Aug/30]
+  18.30  First Vienna FC          1-0 (0-0)  SC/ESV Parndorf
+         SKN St. Pölten           1-4 (1-1)  FC Liefering
+         SV Mattersburg           4-4 (1-3)  TSV Hartberg
+         Kapfenberger SV 1919     3-1 (0-0)  SV Horn
+  20.30  SCR Altach               0-0  Austria Lustenau
+
+
+Matchday 9
+[Fri Sep/13]
+  18.30  FC Liefering             0-2 (0-2)  Kapfenberger SV 1919
+         SC/ESV Parndorf          0-2 (0-0)  SCR Altach
+         TSV Hartberg             1-0 (0-0)  SKN St. Pölten
+  20.30  Austria Lustenau         4-0 (4-0)  SV Mattersburg
+  18.30  SV Horn                  3-1 (0-0)  First Vienna FC
+
+
+Matchday 10
+[Fri Sep/20]
+  18.30  First Vienna FC          3-0 (2-0)  TSV Hartberg
+         SV Horn                  0-0  SCR Altach
+         Austria Lustenau         2-1 (1-0)  SC/ESV Parndorf
+         Kapfenberger SV 1919     1-0 (1-0)  SKN St. Pölten
+  20.30  SV Mattersburg           2-0 (1-0)  FC Liefering
+
+
+Matchday 11
+[Fri Sep/27]
+  18.30  SCR Altach               4-1 (1-1)  First Vienna FC
+         FC Liefering             4-2 (1-1)  SV Horn
+         SC/ESV Parndorf          1-1 (1-1)  Kapfenberger SV 1919
+  20.30  TSV Hartberg             0-1 (0-0)  Austria Lustenau
+  18.30  SKN St. Pölten           1-0 (0-0)  SV Mattersburg
+
+
+Matchday 12
+[Fri Oct/4]
+  18.30  First Vienna FC          3-1 (2-0)  SV Mattersburg
+         SV Horn                  1-2 (1-1)  TSV Hartberg
+         Austria Lustenau         1-1 (1-1)  SKN St. Pölten
+         Kapfenberger SV 1919     3-0 (1-0)  SCR Altach
+  20.30  SC/ESV Parndorf          0-0  FC Liefering
+
+
+Matchday 13
+[Fri Oct/18]
+  18.30  First Vienna FC          0-2 (0-1)  Austria Lustenau
+         SKN St. Pölten           2-0 (1-0)  SC/ESV Parndorf
+         SV Mattersburg           0-1 (0-0)  SV Horn
+         TSV Hartberg             0-2 (0-0)  Kapfenberger SV 1919
+  20.30  SCR Altach               4-2 (2-1)  FC Liefering
+
+
+Matchday 14
+[Mon Oct/21]
+  18.30  SV Horn                  0-2 (0-1)  Austria Lustenau
+[Tue Oct/22]
+  18.00  FC Liefering             0-2 (0-1)  First Vienna FC
+         SC/ESV Parndorf          4-0 (2-0)  TSV Hartberg
+         Kapfenberger SV 1919     3-1 (1-1)  SV Mattersburg
+         SCR Altach               3-0 (2-0)  SKN St. Pölten
+
+
+Matchday 15
+[Fri Oct/25]
+  18.30  SV Horn                  2-2 (1-0)  SC/ESV Parndorf
+         Austria Lustenau         2-4 (1-3)  Kapfenberger SV 1919
+         SV Mattersburg           3-3 (0-1)  SCR Altach
+         TSV Hartberg             2-2 (1-2)  FC Liefering
+  20.30  First Vienna FC          1-2 (0-0)  SKN St. Pölten
+
+
+Matchday 16
+[Fri Nov/1]
+  18.30  SCR Altach               3-0 (1-0)  TSV Hartberg
+         SC/ESV Parndorf          2-1 (0-0)  SV Mattersburg
+         SKN St. Pölten           5-2 (2-1)  SV Horn
+[Sat Nov/2]
+  16.30  Kapfenberger SV 1919     3-0 (1-0)  First Vienna FC
+[Mon Nov/4]
+  18.30  FC Liefering             1-1 (0-0)  Austria Lustenau
+
+
+Matchday 17
+[Fri Nov/8]
+  18.30  SV Horn                  0-2 (0-0)  Kapfenberger SV 1919
+         FC Liefering             0-1 (0-0)  SKN St. Pölten
+         SC/ESV Parndorf          2-0 (2-0)  First Vienna FC
+         TSV Hartberg             1-3 (1-1)  SV Mattersburg
+  20.30  Austria Lustenau         1-1 (1-0)  SCR Altach
+
+
+Matchday 18
+[Fri Nov/22]
+  18.30  SKN St. Pölten           1-0 (1-0)  TSV Hartberg
+         SCR Altach               4-1 (3-1)  SC/ESV Parndorf
+         SV Mattersburg           2-2 (1-2)  Austria Lustenau
+  20.30  Kapfenberger SV 1919     0-1 (0-0)  FC Liefering
+  18.30  First Vienna FC          1-2 (1-1)  SV Horn
+
+
+Matchday 19
+[Fri Nov/29]
+  18.30  SV Horn                  0-0  First Vienna FC
+         Austria Lustenau         4-0 (0-0)  SV Mattersburg
+         SC/ESV Parndorf          1-0 (0-0)  TSV Hartberg
+         Kapfenberger SV 1919     2-2 (0-0)  SKN St. Pölten
+  20.30  FC Liefering             1-1 (1-1)  SCR Altach
+
+
+Matchday 20
+[Fri Feb/28]
+  18.30  SKN St. Pölten           0-0  Austria Lustenau
+         SV Mattersburg           2-2 (2-0)  SV Horn
+         TSV Hartberg             2-1 (1-0)  FC Liefering
+  20.30  SCR Altach               2-0 (0-0)  Kapfenberger SV 1919
+  18.30  First Vienna FC          0-1 (0-1)  SC/ESV Parndorf
+
+
+Matchday 21
+[Fri Mar/7]
+  18.30  SV Horn                  0-2 (0-0)  TSV Hartberg
+         SCR Altach               2-2 (0-1)  First Vienna FC
+         FC Liefering             2-4 (0-3)  Austria Lustenau
+         SC/ESV Parndorf          0-0  SKN St. Pölten
+  20.30  Kapfenberger SV 1919     0-2 (0-1)  SV Mattersburg
+
+
+Matchday 22
+[Mon Mar/10]
+  18.30  SKN St. Pölten           6-0 (1-0)  SV Horn
+[Tue Mar/11]
+  18.30  FC Liefering             0-1 (0-1)  SC/ESV Parndorf
+         SV Mattersburg           1-1 (0-1)  First Vienna FC
+         TSV Hartberg             2-2 (2-0)  SCR Altach
+         Austria Lustenau         2-0 (2-0)  Kapfenberger SV 1919
+
+
+Matchday 23
+[Fri Mar/14]
+  18.30  First Vienna FC          1-1 (1-1)  FC Liefering
+         SCR Altach               3-2 (2-2)  SKN St. Pölten
+         SV Mattersburg           2-2 (1-1)  TSV Hartberg
+         Kapfenberger SV 1919     2-1 (0-0)  SC/ESV Parndorf
+  20.30  SV Horn                  2-0 (2-0)  Austria Lustenau
+
+
+Matchday 24
+[Fri Mar/21]
+  18.30  SKN St. Pölten           2-2 (1-1)  SV Mattersburg
+         Austria Lustenau         1-1 (1-0)  TSV Hartberg
+         FC Liefering             1-1 (1-1)  SV Horn
+         Kapfenberger SV 1919     3-1 (1-0)  First Vienna FC
+  20.30  SC/ESV Parndorf          0-3 (0-2)  SCR Altach
+
+
+Matchday 25
+[Mon Mar/24]
+  18.30  SCR Altach               2-0 (0-0)  Austria Lustenau
+[Tue Mar/25]
+  18.30  SV Horn                  1-3 (0-3)  SC/ESV Parndorf
+         SV Mattersburg           0-5 (0-1)  FC Liefering
+         TSV Hartberg             1-5 (0-3)  Kapfenberger SV 1919
+         First Vienna FC          1-2 (0-2)  SKN St. Pölten
+
+
+Matchday 26
+[Fri Mar/28]
+  18.30  First Vienna FC          0-1 (0-0)  Austria Lustenau
+         SKN St. Pölten           1-1 (1-1)  TSV Hartberg
+         SCR Altach               0-1 (0-1)  SV Horn
+         Kapfenberger SV 1919     1-3 (1-0)  FC Liefering
+  20.30  SC/ESV Parndorf          2-1 (2-1)  SV Mattersburg
+
+
+Matchday 27
+[Fri Apr/4]
+  18.30  Austria Lustenau         1-0 (0-0)  SC/ESV Parndorf
+         FC Liefering             3-0 (1-0)  SKN St. Pölten
+         SV Mattersburg           1-1 (0-1)  SCR Altach
+  20.30  TSV Hartberg             2-1 (1-0)  First Vienna FC
+  18.30  SV Horn                  2-1 (1-1)  Kapfenberger SV 1919
+
+
+Matchday 28
+[Mon Apr/7]
+  18.30  First Vienna FC          2-2 (0-0)  SV Horn
+[Tue Apr/8]
+  18.30  SKN St. Pölten           2-1 (0-0)  Kapfenberger SV 1919
+         SCR Altach               1-1 (0-0)  FC Liefering
+         SV Mattersburg           2-1 (1-1)  Austria Lustenau
+         TSV Hartberg             2-0 (1-0)  SC/ESV Parndorf
+
+
+Matchday 29
+[Fri Apr/11]
+  18.30  FC Liefering             2-2 (0-1)  TSV Hartberg
+         SC/ESV Parndorf          0-1 (0-0)  First Vienna FC
+         Kapfenberger SV 1919     0-3 (0-2)  SCR Altach
+  20.30  Austria Lustenau         0-2 (0-1)  SKN St. Pölten
+  18.30  SV Horn                  1-1 (0-0)  SV Mattersburg
+
+
+Matchday 30
+[Mon Apr/21]
+  18.30  SV Mattersburg           1-1 (0-1)  Kapfenberger SV 1919
+[Tue Apr/22]
+  18.30  SKN St. Pölten           5-4 (3-1)  SC/ESV Parndorf
+         Austria Lustenau         4-1 (1-0)  FC Liefering
+         TSV Hartberg             1-3 (0-0)  SV Horn
+         First Vienna FC          0-4 (0-1)  SCR Altach
+
+
+Matchday 31
+[Fri Apr/25]
+  18.30  First Vienna FC          1-2 (0-1)  SV Mattersburg
+         SV Horn                  1-0 (0-0)  SKN St. Pölten
+         SCR Altach               3-0 (1-0)  TSV Hartberg
+         SC/ESV Parndorf          2-1 (1-0)  FC Liefering
+  20.30  Kapfenberger SV 1919     2-3 (1-1)  Austria Lustenau
+
+
+Matchday 32
+[Mon Apr/28]
+  18.30  SKN St. Pölten           2-2 (1-0)  SCR Altach
+[Tue Apr/29]
+  18.30  FC Liefering             2-1 (0-1)  First Vienna FC
+         SC/ESV Parndorf          1-3 (1-0)  Kapfenberger SV 1919
+         TSV Hartberg             0-0  SV Mattersburg
+         Austria Lustenau         1-2 (1-0)  SV Horn
+
+
+Matchday 33
+[Fri May/2]
+  18.30  First Vienna FC          3-2 (0-1)  Kapfenberger SV 1919
+         SV Horn                  1-4 (0-1)  FC Liefering
+         SCR Altach               4-1 (1-0)  SC/ESV Parndorf
+         TSV Hartberg             1-0 (1-0)  Austria Lustenau
+  20.30  SV Mattersburg           3-2 (3-0)  SKN St. Pölten
+
+
+Matchday 34
+[Fri May/9]
+  20.30  Austria Lustenau         5-0 (3-0)  SCR Altach
+[Sat May/10]
+  16.30  FC Liefering             3-1 (1-0)  SV Mattersburg
+         SC/ESV Parndorf          0-1 (0-0)  SV Horn
+         Kapfenberger SV 1919     1-2 (0-0)  TSV Hartberg
+         SKN St. Pölten           1-0 (1-0)  First Vienna FC
+
+
+Matchday 35
+[Tue May/13]
+  18.30  SV Horn                  2-4 (0-3)  SCR Altach
+         Austria Lustenau         2-1 (0-1)  First Vienna FC
+         FC Liefering             1-0 (1-0)  Kapfenberger SV 1919
+         SV Mattersburg           2-4 (1-0)  SC/ESV Parndorf
+         TSV Hartberg             0-0  SKN St. Pölten
+
+
+Matchday 36
+[Fri May/23]
+  18.00  SKN St. Pölten           0-4 (0-2)  FC Liefering
+         SCR Altach               1-2 (0-2)  SV Mattersburg
+         SC/ESV Parndorf          1-1 (0-1)  Austria Lustenau
+         Kapfenberger SV 1919     2-0 (0-0)  SV Horn
+         First Vienna FC          1-0 (1-0)  TSV Hartberg

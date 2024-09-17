@@ -1,0 +1,434 @@
+= Österr. Regionalliga Ost 2010/11
+
+# Date       Fri Aug/13 2010 - Wed Jun/1 2011 (292d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 15
+[Fri Aug/13]
+  19.30  SV Schwechat             2-3 (0-0)  SC Columbia Floridsdorf
+[Sat Aug/14]
+  19.00  SC Ritzing               2-1 (1-0)  ASK Baumgarten
+[Tue Aug/17]
+  17.30  SC Ostbahn XI            0-3 (0-2)  SC/ESV Parndorf
+  19.30  SV Mattersburg II        2-3 (1-3)  FC Waidhofen/Ybbs
+         SC Neusiedl/See 1919     2-0 (1-0)  Austria Wien II
+         Rapid Wien II            4-2 (2-1)  Wiener Sportklub
+         FAC Team für Wien        1-2 (1-2)  FC Trenkwalder Admira II
+         SC Sollenau              1-2 (0-2)  SV Horn
+
+
+Matchday 1
+[Fri Aug/20]
+  19.30  SV Horn                  0-0  ASK Baumgarten
+         Wiener Sportklub         0-1 (0-1)  SV Schwechat
+         FC Waidhofen/Ybbs        2-2 (0-1)  SC Ostbahn XI
+  19.00  Austria Wien II          2-0 (1-0)  SC Sollenau
+[Sat Aug/21]
+  18.00  FC Trenkwalder Admira II  3-2 (1-1)  Rapid Wien II
+         SC/ESV Parndorf          3-0 (2-0)  FAC Team für Wien
+  19.00  SC Ritzing               1-0 (1-0)  SV Mattersburg II
+  17.00  SC Columbia Floridsdorf  0-0  SC Neusiedl/See 1919
+
+
+Matchday 2
+[Fri Aug/27]
+  19.00  FAC Team für Wien        2-1 (0-0)  FC Waidhofen/Ybbs
+  19.30  SV Horn                  2-2 (1-1)  Austria Wien II
+  20.00  SC Sollenau              0-0  SC Columbia Floridsdorf
+  19.30  ASK Baumgarten           1-3 (1-1)  SV Mattersburg II
+         SV Schwechat             3-0 (1-0)  FC Trenkwalder Admira II
+         Rapid Wien II            2-2 (1-1)  SC/ESV Parndorf
+[Sat Aug/28]
+  16.00  SC Neusiedl/See 1919     0-2 (0-0)  Wiener Sportklub
+  17.00  SC Ostbahn XI            0-2 (0-1)  SC Ritzing
+
+
+Matchday 3
+[Tue Aug/31]
+  19.30  FC Waidhofen/Ybbs        2-0 (1-0)  Rapid Wien II
+
+
+Matchday 4
+[Fri Sep/3]
+  19.00  Austria Wien II          3-1 (1-0)  SC Columbia Floridsdorf
+         FAC Team für Wien        1-3 (1-2)  SV Mattersburg II
+         SC Neusiedl/See 1919     4-2 (0-2)  SC/ESV Parndorf
+  18.00  ASK Baumgarten           2-3 (1-2)  SC Ostbahn XI
+  19.30  Rapid Wien II            1-2 (0-1)  SC Ritzing
+         SV Schwechat             0-2 (0-1)  FC Waidhofen/Ybbs
+  20.00  SC Sollenau              1-1 (1-1)  FC Trenkwalder Admira II
+  19.30  SV Horn                  2-1 (2-0)  Wiener Sportklub
+
+
+Matchday 3
+[Tue Sep/7]
+  19.30  SC/ESV Parndorf          3-0 (2-0)  SV Schwechat
+  17.30  SC Columbia Floridsdorf  1-0 (0-0)  SV Horn
+  19.00  SV Mattersburg II        4-2 (1-1)  SC Ostbahn XI
+         Austria Wien II          2-1 (0-1)  ASK Baumgarten
+
+
+Matchday 5
+[Fri Sep/10]
+  19.30  ASK Baumgarten           3-1 (1-1)  SC Columbia Floridsdorf
+         FC Waidhofen/Ybbs        2-2 (1-1)  SC Neusiedl/See 1919
+         Wiener Sportklub         2-4 (0-2)  Austria Wien II
+  19.00  SC/ESV Parndorf          2-0 (0-0)  SC Sollenau
+[Sat Sep/11]
+  16.15  SC Ostbahn XI            0-2 (0-1)  FAC Team für Wien
+  19.00  SC Ritzing               3-0 (1-0)  SV Schwechat
+[Sun Sep/12]
+  10.30  SV Mattersburg II        3-1 (1-1)  Rapid Wien II
+  16.15  FC Trenkwalder Admira II  2-0 (0-0)  SV Horn
+
+
+Matchday 3
+[Tue Sep/14]
+  19.30  SC Ritzing               1-1 (0-0)  FAC Team für Wien
+         Wiener Sportklub         3-3 (1-1)  SC Sollenau
+
+
+Matchday 6
+[Wed Sep/15]
+  19.30  Austria Wien II          4-0 (1-0)  FC Trenkwalder Admira II
+[Fri Sep/17]
+  19.00  SC Neusiedl/See 1919     3-2 (3-0)  SC Ritzing
+  19.30  SV Schwechat             0-3 (0-3)  SV Mattersburg II
+         Rapid Wien II            1-0 (0-0)  SC Ostbahn XI
+[Sat Sep/18]
+  16.15  SC Columbia Floridsdorf  1-2 (0-2)  Wiener Sportklub
+  18.30  ASK Baumgarten           1-0 (1-0)  FAC Team für Wien
+
+
+Matchday 3
+[Tue Sep/21]
+  19.00  FC Trenkwalder Admira II  1-5 (1-2)  SC Neusiedl/See 1919
+
+
+Matchday 6
+[Tue Sep/21]
+  19.30  SV Horn                  3-3 (3-2)  SC/ESV Parndorf
+  20.00  SC Sollenau              1-0 (1-0)  FC Waidhofen/Ybbs
+
+
+Matchday 7
+[Thu Sep/23]
+  19.00  FAC Team für Wien        1-2 (1-1)  Rapid Wien II
+[Fri Sep/24]
+  19.30  Wiener Sportklub         1-1 (1-0)  ASK Baumgarten
+         FC Waidhofen/Ybbs        2-0 (1-0)  SV Horn
+[Sat Sep/25]
+  18.00  SC/ESV Parndorf          4-0 (4-0)  Austria Wien II
+  19.00  SC Ritzing               1-4 (0-1)  SC Sollenau
+  16.15  SC Ostbahn XI            1-1 (0-0)  SV Schwechat
+[Sun Sep/26]
+  16.15  FC Trenkwalder Admira II  2-3 (1-0)  SC Columbia Floridsdorf
+  10.45  SV Mattersburg II        1-0 (0-0)  SC Neusiedl/See 1919
+
+
+Matchday 8
+[Fri Oct/1]
+  19.00  Austria Wien II          3-1 (2-0)  FC Waidhofen/Ybbs
+  19.30  Wiener Sportklub         1-0 (0-0)  FC Trenkwalder Admira II
+  18.00  ASK Baumgarten           3-4 (2-2)  Rapid Wien II
+  19.00  SC Neusiedl/See 1919     2-5 (2-3)  SC Ostbahn XI
+  19.30  SV Horn                  5-0 (2-0)  SC Ritzing
+  20.00  SC Sollenau              1-1 (0-1)  SV Mattersburg II
+  19.30  SV Schwechat             0-1 (0-0)  FAC Team für Wien
+[Sat Oct/2]
+  16.00  SC Columbia Floridsdorf  2-0 (0-0)  SC/ESV Parndorf
+
+
+Matchday 9
+[Fri Oct/8]
+  18.00  FC Trenkwalder Admira II  3-1 (0-1)  ASK Baumgarten
+  18.30  SC Neusiedl/See 1919     1-2 (1-1)  FAC Team für Wien
+  19.30  SV Mattersburg II        0-0  SV Horn
+         Rapid Wien II            1-1 (1-0)  SV Schwechat
+         FC Waidhofen/Ybbs        2-0 (1-0)  SC Columbia Floridsdorf
+  19.00  SC/ESV Parndorf          1-3 (0-1)  Wiener Sportklub
+[Sat Oct/9]
+  16.00  SC Ostbahn XI            0-3 (0-1)  SC Sollenau
+  19.00  SC Ritzing               0-0  Austria Wien II
+
+
+Matchday 10
+[Fri Oct/15]
+  19.00  SC Neusiedl/See 1919     1-1 (1-0)  Rapid Wien II
+  19.30  SV Horn                  4-0 (1-0)  SC Ostbahn XI
+  19.00  Austria Wien II          0-0  SV Mattersburg II
+  19.30  Wiener Sportklub         3-0 (1-0)  FC Waidhofen/Ybbs
+  20.00  SC Sollenau              3-2 (1-2)  FAC Team für Wien
+[Sat Oct/16]
+  15.30  FC Trenkwalder Admira II  2-3 (0-3)  SC/ESV Parndorf
+  14.30  SC Columbia Floridsdorf  1-3 (1-0)  SC Ritzing
+  19.30  ASK Baumgarten           4-5 (1-2)  SV Schwechat
+
+
+Matchday 11
+[Fri Oct/22]
+  19.30  FC Waidhofen/Ybbs        1-0 (0-0)  FC Trenkwalder Admira II
+         Rapid Wien II            3-3 (2-1)  SC Sollenau
+         SV Schwechat             1-1 (1-0)  SC Neusiedl/See 1919
+  19.00  SC/ESV Parndorf          5-1 (1-1)  ASK Baumgarten
+[Sat Oct/23]
+  14.30  SC Ostbahn XI            1-1 (1-0)  Austria Wien II
+  17.00  SC Ritzing               3-3 (2-2)  Wiener Sportklub
+[Sun Oct/24]
+  15.30  SV Mattersburg II        0-2 (0-1)  SC Columbia Floridsdorf
+
+
+Matchday 12
+[Fri Oct/29]
+  19.00  Austria Wien II          1-1 (1-0)  FAC Team für Wien
+         SC/ESV Parndorf          0-0  FC Waidhofen/Ybbs
+  19.30  Wiener Sportklub         1-0 (0-0)  SV Mattersburg II
+  20.15  ASK Baumgarten           3-5 (0-4)  SC Neusiedl/See 1919
+  20.00  SC Sollenau              0-0  SV Schwechat
+  19.30  SV Horn                  0-3 (0-1)  Rapid Wien II
+[Sat Oct/30]
+  14.00  SC Columbia Floridsdorf  1-1 (1-0)  SC Ostbahn XI
+  15.30  FC Trenkwalder Admira II  1-1 (0-0)  SC Ritzing
+
+
+Matchday 11
+[Tue Nov/2]
+  18.00  FAC Team für Wien        1-1 (0-0)  SV Horn
+
+
+Matchday 13
+[Fri Nov/5]
+  19.00  SC Neusiedl/See 1919     4-0 (2-0)  SC Sollenau
+  19.30  FC Waidhofen/Ybbs        4-1 (3-0)  ASK Baumgarten
+         Rapid Wien II            0-1 (0-1)  Austria Wien II
+         SV Schwechat             2-4 (2-2)  SV Horn
+[Sat Nov/6]
+  19.00  SC Ritzing               0-2 (0-0)  SC/ESV Parndorf
+  14.00  SC Ostbahn XI            1-6 (0-3)  Wiener Sportklub
+[Sun Nov/7]
+  10.15  FAC Team für Wien        3-0 (2-0)  SC Columbia Floridsdorf
+  14.00  SV Mattersburg II        1-1 (1-0)  FC Trenkwalder Admira II
+
+
+Matchday 14
+[Fri Nov/12]
+  19.00  Austria Wien II          3-0 (1-0)  SV Schwechat
+  19.30  Wiener Sportklub         1-3 (1-2)  FAC Team für Wien
+         SV Horn                  3-0 (1-0)  SC Neusiedl/See 1919
+  19.00  SC/ESV Parndorf          2-1 (0-1)  SV Mattersburg II
+  18.00  ASK Baumgarten           2-2 (0-0)  SC Sollenau
+[Sat Nov/13]
+  14.00  SC Columbia Floridsdorf  3-1 (1-0)  Rapid Wien II
+  15.30  FC Trenkwalder Admira II  4-1 (1-1)  SC Ostbahn XI
+[Sun Nov/14]
+  14.00  FC Waidhofen/Ybbs        1-2 (0-1)  SC Ritzing
+
+
+Matchday 16
+[Thu Mar/3]
+  19.30  ASK Baumgarten           0-1 (0-1)  SV Horn
+[Fri Mar/4]
+  19.00  FAC Team für Wien        1-1 (0-1)  SC/ESV Parndorf
+  19.30  SC Sollenau              0-2 (0-0)  Austria Wien II
+         SV Schwechat             2-1 (0-1)  Wiener Sportklub
+         Rapid Wien II            6-2 (1-0)  FC Trenkwalder Admira II
+  19.00  SC Neusiedl/See 1919     3-0 (1-0)  SC Columbia Floridsdorf
+[Sat Mar/5]
+  15.00  SC Ostbahn XI            0-1 (0-0)  FC Waidhofen/Ybbs
+[Sun Mar/6]
+  15.30  SV Mattersburg II        2-0 (1-0)  SC Ritzing
+
+
+Matchday 17
+[Fri Mar/11]
+  19.00  Austria Wien II          1-3 (0-2)  SV Horn
+         SC/ESV Parndorf          1-3 (0-3)  Rapid Wien II
+  19.30  FC Waidhofen/Ybbs        0-2 (0-2)  FAC Team für Wien
+         Wiener Sportklub         0-0  SC Neusiedl/See 1919
+[Sat Mar/12]
+  16.30  SC Ritzing               2-2 (0-0)  SC Ostbahn XI
+  15.30  SC Columbia Floridsdorf  0-0  SC Sollenau
+[Sun Mar/13]
+  10.30  SV Mattersburg II        0-0  ASK Baumgarten
+  10.15  FC Trenkwalder Admira II  1-0 (0-0)  SV Schwechat
+
+
+Matchday 18
+[Fri Mar/18]
+  19.00  SC Neusiedl/See 1919     2-0 (0-0)  FC Trenkwalder Admira II
+  19.30  ASK Baumgarten           0-3 (0-2)  Austria Wien II
+         SV Schwechat             2-1 (2-1)  SC/ESV Parndorf
+         Rapid Wien II            3-3 (2-1)  FC Waidhofen/Ybbs
+  20.00  SC Sollenau              1-3 (1-2)  Wiener Sportklub
+[Sat Mar/19]
+  16.00  SC Ostbahn XI            3-2 (2-1)  SV Mattersburg II
+[Sun Mar/20]
+  17.00  FAC Team für Wien        1-1 (1-1)  SC Ritzing
+  16.00  SV Horn                  4-0 (3-0)  SC Columbia Floridsdorf
+
+
+Matchday 19
+[Thu Mar/24]
+  19.00  SC/ESV Parndorf          2-0 (1-0)  SC Neusiedl/See 1919
+  19.30  SV Mattersburg II        2-1 (2-0)  FAC Team für Wien
+  20.00  FC Waidhofen/Ybbs        0-1 (0-1)  SV Schwechat
+[Fri Mar/25]
+  18.00  FC Trenkwalder Admira II  1-3 (1-0)  SC Sollenau
+[Sat Mar/26]
+  16.00  Wiener Sportklub         1-1 (0-1)  SV Horn
+         SC Columbia Floridsdorf  2-0 (1-0)  Austria Wien II
+  16.30  SC Ritzing               1-0 (1-0)  Rapid Wien II
+  14.00  SC Ostbahn XI            3-1 (2-0)  ASK Baumgarten
+
+
+Matchday 20
+[Fri Apr/1]
+  19.00  FAC Team für Wien        2-1 (0-1)  SC Ostbahn XI
+         Austria Wien II          3-0 (0-0)  Wiener Sportklub
+  19.30  SV Horn                  2-2 (2-1)  FC Trenkwalder Admira II
+         SV Schwechat             2-3 (0-0)  SC Ritzing
+         Rapid Wien II            0-0  SV Mattersburg II
+  20.00  SC Sollenau              2-1 (0-0)  SC/ESV Parndorf
+[Sat Apr/2]
+  16.00  SC Columbia Floridsdorf  1-4 (0-1)  ASK Baumgarten
+[Sun Apr/3]
+  16.00  SC Neusiedl/See 1919     1-2 (0-2)  FC Waidhofen/Ybbs
+
+
+Matchday 21
+[Fri Apr/8]
+  19.00  SC/ESV Parndorf          2-2 (0-1)  SV Horn
+         FAC Team für Wien        4-1 (1-0)  ASK Baumgarten
+  19.30  Wiener Sportklub         2-1 (1-0)  SC Columbia Floridsdorf
+         FC Waidhofen/Ybbs        0-0  SC Sollenau
+[Sat Apr/9]
+  16.15  FC Trenkwalder Admira II  2-1 (1-0)  Austria Wien II
+  16.30  SC Ritzing               1-1 (0-1)  SC Neusiedl/See 1919
+  16.00  SC Ostbahn XI            0-4 (0-1)  Rapid Wien II
+[Sun Apr/10]
+  10.30  SV Mattersburg II        4-1 (3-0)  SV Schwechat
+
+
+Matchday 22
+[Fri Apr/15]
+  19.00  Austria Wien II          1-1 (1-1)  SC/ESV Parndorf
+         SC Neusiedl/See 1919     1-3 (0-2)  SV Mattersburg II
+  19.30  ASK Baumgarten           0-2 (0-2)  Wiener Sportklub
+         SV Horn                  2-1 (1-0)  FC Waidhofen/Ybbs
+         SV Schwechat             2-1 (2-0)  SC Ostbahn XI
+         Rapid Wien II            1-2 (1-2)  FAC Team für Wien
+  20.00  SC Sollenau              2-0 (0-0)  SC Ritzing
+[Sat Apr/16]
+  16.00  SC Columbia Floridsdorf  2-1 (2-0)  FC Trenkwalder Admira II
+
+
+Matchday 24
+[Tue Apr/19]
+  20.00  SC Sollenau              3-2 (1-2)  SC Ostbahn XI
+
+
+Matchday 23
+[Fri Apr/22]
+  19.00  FAC Team für Wien        0-0  SV Schwechat
+         SC/ESV Parndorf          3-0 (2-0)  SC Columbia Floridsdorf
+  19.30  Rapid Wien II            0-2 (0-1)  ASK Baumgarten
+         SC Ritzing               1-2 (1-0)  SV Horn
+         FC Waidhofen/Ybbs        0-2 (0-0)  Austria Wien II
+         SV Mattersburg II        2-5 (0-2)  SC Sollenau
+  19.00  FC Trenkwalder Admira II  2-1 (1-1)  Wiener Sportklub
+[Sat Apr/23]
+  16.00  SC Ostbahn XI            1-2 (1-0)  SC Neusiedl/See 1919
+
+
+Matchday 24
+[Mon Apr/25]
+  16.00  SC Columbia Floridsdorf  1-0 (0-0)  FC Waidhofen/Ybbs
+  16.15  ASK Baumgarten           1-3 (0-1)  FC Trenkwalder Admira II
+         SV Horn                  3-2 (3-0)  SV Mattersburg II
+         SV Schwechat             2-1 (1-0)  Rapid Wien II
+  16.00  Wiener Sportklub         0-5 (0-3)  SC/ESV Parndorf
+[Tue Apr/26]
+  19.30  Austria Wien II          4-0 (1-0)  SC Ritzing
+  19.00  FAC Team für Wien        0-0  SC Neusiedl/See 1919
+
+
+Matchday 25
+[Fri Apr/29]
+  19.00  FAC Team für Wien        0-1 (0-0)  SC Sollenau
+  19.30  FC Waidhofen/Ybbs        1-1 (1-0)  Wiener Sportklub
+         SC/ESV Parndorf          6-0 (3-0)  FC Trenkwalder Admira II
+         Rapid Wien II            4-2 (3-1)  SC Neusiedl/See 1919
+         SV Schwechat             1-0 (1-0)  ASK Baumgarten
+[Sat Apr/30]
+  19.00  SC Ritzing               2-1 (0-1)  SC Columbia Floridsdorf
+  16.00  SC Ostbahn XI            0-4 (0-2)  SV Horn
+[Sun May/1]
+  16.15  SV Mattersburg II        1-2 (0-0)  Austria Wien II
+
+
+Matchday 26
+[Fri May/6]
+  19.00  SC Neusiedl/See 1919     1-2 (0-1)  SV Schwechat
+         Austria Wien II          1-0 (0-0)  SC Ostbahn XI
+  19.30  SV Horn                  2-1 (0-0)  FAC Team für Wien
+         SC Sollenau              2-2 (1-2)  Rapid Wien II
+         ASK Baumgarten           0-8 (0-2)  SC/ESV Parndorf
+         Wiener Sportklub         3-2 (2-0)  SC Ritzing
+[Sat May/7]
+  16.45  FC Trenkwalder Admira II  2-1 (2-0)  FC Waidhofen/Ybbs
+  16.00  SC Columbia Floridsdorf  2-0 (1-0)  SV Mattersburg II
+
+
+Matchday 27
+[Fri May/13]
+  19.00  FAC Team für Wien        2-1 (2-1)  Austria Wien II
+         SC Neusiedl/See 1919     3-2 (1-0)  ASK Baumgarten
+  19.30  Rapid Wien II            5-3 (2-2)  SV Horn
+         SV Mattersburg II        2-1 (0-0)  Wiener Sportklub
+         FC Waidhofen/Ybbs        4-3 (1-2)  SC/ESV Parndorf
+         SV Schwechat             1-2 (0-1)  SC Sollenau
+[Sat May/14]
+  19.00  SC Ritzing               1-0 (1-0)  FC Trenkwalder Admira II
+  16.00  SC Ostbahn XI            0-2 (0-2)  SC Columbia Floridsdorf
+
+
+Matchday 28
+[Fri May/20]
+  19.00  SC/ESV Parndorf          5-0 (2-0)  SC Ritzing
+         Austria Wien II          1-1 (0-1)  Rapid Wien II
+  19.30  Wiener Sportklub         7-1 (3-0)  SC Ostbahn XI
+         SV Horn                  2-0 (1-0)  SV Schwechat
+  20.00  ASK Baumgarten           1-3 (1-3)  FC Waidhofen/Ybbs
+         SC Sollenau              1-2 (0-2)  SC Neusiedl/See 1919
+[Sat May/21]
+  16.15  FC Trenkwalder Admira II  1-5 (1-4)  SV Mattersburg II
+[Sun May/22]
+  10.15  SC Columbia Floridsdorf  0-2 (0-0)  FAC Team für Wien
+
+
+Matchday 29
+[Fri May/27]
+  18.30  SC Ostbahn XI            1-3 (1-2)  FC Trenkwalder Admira II
+         SV Mattersburg II        1-2 (0-0)  SC/ESV Parndorf
+         SC Ritzing               7-2 (4-2)  FC Waidhofen/Ybbs
+         SC Neusiedl/See 1919     1-0 (1-0)  SV Horn
+         SV Schwechat             2-2 (2-0)  Austria Wien II
+         Rapid Wien II            4-2 (2-1)  SC Columbia Floridsdorf
+[Sun May/29]
+  18.00  FAC Team für Wien        1-2 (0-2)  Wiener Sportklub
+  16.00  SC Sollenau              3-1 (2-1)  ASK Baumgarten
+
+
+Matchday 30
+[Wed Jun/1]
+  18.30  ASK Baumgarten           2-3 (2-1)  SC Ritzing
+         FC Waidhofen/Ybbs        2-1 (0-0)  SV Mattersburg II
+         SC/ESV Parndorf          5-0 (2-0)  SC Ostbahn XI
+         FC Trenkwalder Admira II  3-0 (1-0)  FAC Team für Wien
+         Wiener Sportklub         0-3 (0-2)  Rapid Wien II
+         SC Columbia Floridsdorf  0-3 (0-1)  SV Schwechat
+         Austria Wien II          2-0 (1-0)  SC Neusiedl/See 1919
+         SV Horn                  7-4 (3-2)  SC Sollenau

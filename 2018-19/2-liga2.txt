@@ -1,0 +1,424 @@
+= Österr. 2. Liga 2018/19
+
+# Date       Fri Jul/27 2018 - Sat Jun/1 2019 (309d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/27]
+  19.10  Kapfenberger SV 1919     3-0 (1-0)  Austria Wien II
+         1. Wiener Neustädter SC  0-2 (0-1)  FC Blau Weiß Linz
+         SK Austria Klagenfurt    1-1 (0-1)  Austria Lustenau
+         SV Horn                  1-2 (0-0)  FC Liefering
+  19.00  Vorwärts Steyr           1-1 (1-1)  SV Ried
+[Sat Jul/28]
+  20.00  WSG Wattens              6-1 (3-1)  SV Lafnitz
+[Sun Jul/29]
+  17.00  FC Juniors OÖ            0-3 (0-2)  FC Wacker Innsbruck II
+  10.30  SKU Amstetten            3-4 (0-3)  Floridsdorfer AC
+
+
+Matchday 2
+[Fri Aug/3]
+  19.10  FC Blau Weiß Linz        3-1 (2-0)  SK Austria Klagenfurt
+         FC Liefering             4-0 (2-0)  Vorwärts Steyr
+         SV Lafnitz               1-2 (0-0)  FC Juniors OÖ
+         Austria Wien II          4-3 (3-1)  SV Horn
+  20.20  Floridsdorfer AC         0-2 (0-1)  Kapfenberger SV 1919
+[Sat Aug/4]
+  16.30  Austria Lustenau         1-1 (0-1)  1. Wiener Neustädter SC
+[Sun Aug/5]
+  14.30  FC Wacker Innsbruck II   0-0  SKU Amstetten
+  10.30  SV Ried                  2-1 (1-0)  WSG Wattens
+
+
+Matchday 3
+[Fri Aug/10]
+  19.10  FC Liefering             3-0 (0-0)  Austria Wien II
+         SKU Amstetten            1-1 (0-1)  SV Lafnitz
+         SV Horn                  0-3 (0-1)  Austria Lustenau
+[Sat Aug/11]
+  14.30  FC Wacker Innsbruck II   1-3 (0-2)  FC Blau Weiß Linz
+  20.00  WSG Wattens              1-1 (0-0)  SK Austria Klagenfurt
+  13.00  Kapfenberger SV 1919     1-2 (0-0)  SV Ried
+[Sun Aug/12]
+  17.00  FC Juniors OÖ            2-2 (1-1)  Floridsdorfer AC
+  10.30  Vorwärts Steyr           0-2 (0-0)  1. Wiener Neustädter SC
+
+
+Matchday 4
+[Fri Aug/17]
+  19.10  SV Ried                  3-0 (1-0)  FC Liefering
+         FC Blau Weiß Linz        1-2 (0-2)  SKU Amstetten
+         1. Wiener Neustädter SC  0-0  Austria Wien II
+         SK Austria Klagenfurt    0-1 (0-0)  FC Wacker Innsbruck II
+         Floridsdorfer AC         0-2 (0-2)  WSG Wattens
+[Sat Aug/18]
+  16.30  Austria Lustenau         2-0 (1-0)  FC Juniors OÖ
+[Sun Aug/19]
+  14.30  Kapfenberger SV 1919     3-1 (1-0)  Vorwärts Steyr
+  10.30  SV Lafnitz               0-2 (0-0)  SV Horn
+
+
+Matchday 5
+[Fri Aug/24]
+  19.10  WSG Wattens              1-0 (0-0)  FC Blau Weiß Linz
+         FC Liefering             0-0  Kapfenberger SV 1919
+         Austria Wien II          1-3 (0-1)  SV Lafnitz
+         SV Horn                  1-2 (1-0)  Vorwärts Steyr
+         Floridsdorfer AC         1-1 (0-1)  Austria Lustenau
+[Sat Aug/25]
+  14.30  FC Wacker Innsbruck II   1-3 (0-2)  1. Wiener Neustädter SC
+[Sun Aug/26]
+  17.00  FC Juniors OÖ            2-1 (0-1)  SK Austria Klagenfurt
+  10.30  SKU Amstetten            1-1 (0-1)  SV Ried
+
+
+Matchday 6
+[Fri Aug/31]
+  19.10  SV Ried                  3-0 (3-0)  SV Horn
+         Kapfenberger SV 1919     2-2 (2-0)  WSG Wattens
+         FC Blau Weiß Linz        5-1 (3-0)  Floridsdorfer AC
+         1. Wiener Neustädter SC  1-0 (0-0)  FC Juniors OÖ
+         SV Lafnitz               0-0  FC Wacker Innsbruck II
+         Vorwärts Steyr           1-4 (1-1)  SKU Amstetten
+[Sat Sep/1]
+  16.30  Austria Lustenau         1-0 (1-0)  FC Liefering
+[Sun Sep/2]
+  10.30  SK Austria Klagenfurt    1-2 (1-1)  Austria Wien II
+
+
+Matchday 7
+[Fri Sep/14]
+  19.10  WSG Wattens              2-0 (1-0)  1. Wiener Neustädter SC
+         FC Liefering             1-0 (0-0)  SKU Amstetten
+         SV Lafnitz               5-1 (2-1)  Kapfenberger SV 1919
+         Austria Wien II          2-1 (0-1)  FC Juniors OÖ
+         SV Horn                  0-1 (0-1)  SK Austria Klagenfurt
+         Floridsdorfer AC         1-0 (0-0)  SV Ried
+[Sat Sep/15]
+  14.30  FC Wacker Innsbruck II   1-0 (0-0)  Vorwärts Steyr
+[Sun Sep/16]
+  10.30  FC Blau Weiß Linz        1-0 (1-0)  Austria Lustenau
+
+
+Matchday 8
+[Fri Sep/21]
+  19.10  SV Ried                  1-2 (1-0)  Austria Wien II
+         Kapfenberger SV 1919     0-2 (0-0)  FC Blau Weiß Linz
+         FC Wacker Innsbruck II   0-1 (0-0)  Floridsdorfer AC
+         SKU Amstetten            1-2 (1-1)  SV Horn
+         SK Austria Klagenfurt    1-1 (0-0)  1. Wiener Neustädter SC
+         Vorwärts Steyr           0-2 (0-2)  WSG Wattens
+[Sat Sep/22]
+  16.30  Austria Lustenau         1-3 (1-0)  SV Lafnitz
+[Sun Sep/23]
+  10.30  FC Juniors OÖ            0-3 (0-2)  FC Liefering
+
+
+Matchday 9
+[Fri Sep/28]
+  19.10  WSG Wattens              1-1 (1-1)  FC Wacker Innsbruck II
+         FC Blau Weiß Linz        2-1 (2-0)  FC Liefering
+         SV Lafnitz               0-0  Vorwärts Steyr
+         Austria Wien II          0-2 (0-1)  SKU Amstetten
+         SV Horn                  2-2 (2-1)  FC Juniors OÖ
+         Floridsdorfer AC         1-2 (0-1)  SK Austria Klagenfurt
+[Sat Sep/29]
+  16.30  Austria Lustenau         2-3 (1-2)  Kapfenberger SV 1919
+[Sun Sep/30]
+  10.30  1. Wiener Neustädter SC  0-3 (0-0)  SV Ried
+
+
+Matchday 10
+[Fri Oct/5]
+  19.10  SV Ried                  1-0 (1-0)  FC Wacker Innsbruck II
+         Kapfenberger SV 1919     3-1 (0-1)  SK Austria Klagenfurt
+         FC Liefering             1-2 (0-0)  SV Lafnitz
+         SKU Amstetten            2-3 (1-1)  1. Wiener Neustädter SC
+         Austria Wien II          1-2 (0-1)  WSG Wattens
+         Vorwärts Steyr           1-5 (1-2)  Austria Lustenau
+         SV Horn                  1-3 (1-1)  Floridsdorfer AC
+[Sun Oct/7]
+  10.30  FC Juniors OÖ            3-2 (1-2)  FC Blau Weiß Linz
+
+
+Matchday 11
+[Fri Oct/19]
+  19.10  Austria Lustenau         5-2 (4-1)  Austria Wien II
+         WSG Wattens              4-1 (1-1)  FC Juniors OÖ
+         FC Blau Weiß Linz        1-1 (0-0)  SV Horn
+         1. Wiener Neustädter SC  2-1 (0-0)  FC Liefering
+         SV Lafnitz               0-0  SV Ried
+         SK Austria Klagenfurt    2-2 (0-2)  SKU Amstetten
+[Sat Oct/20]
+  14.30  FC Wacker Innsbruck II   3-0 (1-0)  Kapfenberger SV 1919
+[Sun Oct/21]
+  10.30  Floridsdorfer AC         1-2 (1-1)  Vorwärts Steyr
+
+
+Matchday 12
+[Fri Oct/26]
+  19.10  SV Lafnitz               1-1 (0-1)  SK Austria Klagenfurt
+         SKU Amstetten            0-2 (0-1)  WSG Wattens
+         Austria Wien II          3-6 (1-1)  FC Blau Weiß Linz
+         Vorwärts Steyr           2-1 (1-0)  FC Juniors OÖ
+         SV Horn                  1-1 (0-0)  FC Wacker Innsbruck II
+[Sat Oct/27]
+  20.20  Kapfenberger SV 1919     2-0 (1-0)  1. Wiener Neustädter SC
+  14.30  FC Liefering             1-3 (0-0)  Floridsdorfer AC
+[Sun Oct/28]
+  10.30  SV Ried                  1-0 (0-0)  Austria Lustenau
+
+
+Matchday 13
+[Fri Nov/2]
+  19.10  FC Blau Weiß Linz        2-0 (1-0)  Vorwärts Steyr
+         WSG Wattens              4-0 (2-0)  FC Liefering
+[Sat Nov/3]
+  14.00  Floridsdorfer AC         0-0  SV Lafnitz
+  14.30  FC Wacker Innsbruck II   0-0  Austria Wien II
+         SK Austria Klagenfurt    0-0  SV Ried
+  16.30  Austria Lustenau         3-1 (0-0)  SKU Amstetten
+[Sun Nov/4]
+  16.00  FC Juniors OÖ            4-0 (2-0)  Kapfenberger SV 1919
+  10.30  1. Wiener Neustädter SC  3-1 (1-0)  SV Horn
+
+
+Matchday 14
+[Fri Nov/9]
+  19.10  FC Liefering             4-1 (2-1)  FC Wacker Innsbruck II
+         SV Lafnitz               1-1 (1-1)  1. Wiener Neustädter SC
+         SKU Amstetten            2-3 (1-1)  FC Juniors OÖ
+         SV Horn                  2-2 (1-1)  Kapfenberger SV 1919
+         Floridsdorfer AC         0-0  Austria Wien II
+  20.30  SV Ried                  1-3 (0-1)  FC Blau Weiß Linz
+[Sat Nov/10]
+  14.30  Vorwärts Steyr           2-1 (2-1)  SK Austria Klagenfurt
+[Sun Nov/11]
+  10.30  Austria Lustenau         1-1 (0-0)  WSG Wattens
+
+
+Matchday 15
+[Fri Nov/23]
+  19.10  FC Wacker Innsbruck II   0-0  Austria Lustenau
+         Austria Wien II          4-2 (2-1)  Vorwärts Steyr
+         Kapfenberger SV 1919     2-0 (0-0)  SKU Amstetten
+[Sat Nov/24]
+  14.30  WSG Wattens              1-0 (1-0)  SV Horn
+         FC Blau Weiß Linz        0-1 (0-1)  SV Lafnitz
+         SK Austria Klagenfurt    3-0 (3-0)  FC Liefering
+[Sun Nov/25]
+  10.30  FC Juniors OÖ            0-1 (0-0)  SV Ried
+         1. Wiener Neustädter SC  0-0  Floridsdorfer AC
+
+
+Matchday 16
+[Fri Feb/22]
+  19.10  FC Blau Weiß Linz        0-2 (0-2)  1. Wiener Neustädter SC
+         FC Liefering             4-0 (2-0)  SV Horn
+         Austria Wien II          1-3 (1-0)  Kapfenberger SV 1919
+         Floridsdorfer AC         2-0 (0-0)  SKU Amstetten
+[Sat Feb/23]
+  16.30  Austria Lustenau         1-1 (0-1)  SK Austria Klagenfurt
+  14.30  FC Wacker Innsbruck II   3-1 (1-0)  FC Juniors OÖ
+[Sun Feb/24]
+  10.30  SV Ried                  1-1 (0-1)  Vorwärts Steyr
+
+
+Matchday 17
+[Fri Mar/1]
+  19.10  SV Horn                  2-1 (1-0)  Austria Wien II
+         WSG Wattens              0-3 (0-2)  SV Ried
+         Kapfenberger SV 1919     0-1 (0-0)  Floridsdorfer AC
+         SKU Amstetten            0-0  FC Wacker Innsbruck II
+         Vorwärts Steyr           2-2 (0-1)  FC Liefering
+[Sat Mar/2]
+  14.30  1. Wiener Neustädter SC  1-0 (1-0)  Austria Lustenau
+         FC Juniors OÖ            2-1 (1-0)  SV Lafnitz
+[Sun Mar/3]
+  10.30  SK Austria Klagenfurt    5-0 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 16
+[Tue Mar/5]
+  19.10  SV Lafnitz               1-1 (1-0)  WSG Wattens
+
+
+Matchday 18
+[Fri Mar/8]
+  19.10  SV Ried                  0-0  Kapfenberger SV 1919
+         SV Lafnitz               0-1 (0-1)  SKU Amstetten
+         SK Austria Klagenfurt    1-1 (0-0)  WSG Wattens
+         Austria Wien II          1-1 (1-0)  FC Liefering
+         Floridsdorfer AC         0-1 (0-0)  FC Juniors OÖ
+[Sat Mar/9]
+  14.30  1. Wiener Neustädter SC  2-1 (2-0)  Vorwärts Steyr
+         FC Blau Weiß Linz        0-2 (0-0)  FC Wacker Innsbruck II
+[Sun Mar/10]
+  10.30  Austria Lustenau         2-1 (1-0)  SV Horn
+
+
+Matchday 19
+[Fri Mar/15]
+  19.10  FC Liefering             2-6 (2-1)  SV Ried
+         FC Wacker Innsbruck II   2-2 (1-1)  SK Austria Klagenfurt
+         SKU Amstetten            2-0 (2-0)  FC Blau Weiß Linz
+         FC Juniors OÖ            4-2 (2-0)  Austria Lustenau
+         Austria Wien II          3-1 (2-0)  1. Wiener Neustädter SC
+         SV Horn                  2-0 (0-0)  SV Lafnitz
+[Sun Mar/17]
+  10.30  WSG Wattens              5-1 (3-1)  Floridsdorfer AC
+
+
+Matchday 20
+[Fri Mar/29]
+  19.10  Vorwärts Steyr           1-1 (0-0)  SV Horn
+         Kapfenberger SV 1919     0-3 (0-0)  FC Liefering
+         FC Blau Weiß Linz        1-1 (1-1)  WSG Wattens
+         SV Lafnitz               2-0 (0-0)  Austria Wien II
+         SK Austria Klagenfurt    2-0 (1-0)  FC Juniors OÖ
+[Sat Mar/30]
+  14.30  1. Wiener Neustädter SC  1-2 (0-1)  FC Wacker Innsbruck II
+  16.30  Austria Lustenau         0-0  Floridsdorfer AC
+[Sun Mar/31]
+  10.30  SV Ried                  2-0 (1-0)  SKU Amstetten
+
+
+Matchday 19
+[Tue Apr/2]
+  19.10  Vorwärts Steyr           1-1 (0-0)  Kapfenberger SV 1919
+
+
+Matchday 21
+[Fri Apr/5]
+  19.10  WSG Wattens              2-1 (1-1)  Kapfenberger SV 1919
+         FC Liefering             1-2 (1-1)  Austria Lustenau
+         FC Juniors OÖ            2-1 (1-0)  1. Wiener Neustädter SC
+         Austria Wien II          1-1 (0-1)  SK Austria Klagenfurt
+         SV Horn                  0-5 (0-2)  SV Ried
+         Floridsdorfer AC         0-2 (0-1)  FC Blau Weiß Linz
+[Sun Apr/7]
+  14.30  FC Wacker Innsbruck II   1-0 (1-0)  SV Lafnitz
+  10.30  SKU Amstetten            4-0 (4-0)  Vorwärts Steyr
+
+
+Matchday 22
+[Fri Apr/12]
+  19.10  SV Ried                  3-0 (1-0)  Floridsdorfer AC
+         Kapfenberger SV 1919     3-2 (1-2)  SV Lafnitz
+         1. Wiener Neustädter SC  0-0  WSG Wattens
+         SKU Amstetten            2-1 (2-1)  FC Liefering
+         SK Austria Klagenfurt    2-2 (1-2)  SV Horn
+         FC Juniors OÖ            4-0 (4-0)  Austria Wien II
+[Sat Apr/13]
+  16.30  Austria Lustenau         2-0 (0-0)  FC Blau Weiß Linz
+[Sun Apr/14]
+  10.30  Vorwärts Steyr           3-4 (1-3)  FC Wacker Innsbruck II
+
+
+Matchday 23
+[Fri Apr/19]
+  19.10  FC Liefering             5-1 (2-1)  FC Juniors OÖ
+         SV Lafnitz               2-3 (1-0)  Austria Lustenau
+         SV Horn                  2-0 (1-0)  SKU Amstetten
+         Floridsdorfer AC         2-2 (1-1)  FC Wacker Innsbruck II
+  20.30  Austria Wien II          3-3 (1-1)  SV Ried
+  19.10  FC Blau Weiß Linz        0-2 (0-0)  Kapfenberger SV 1919
+[Sat Apr/20]
+  14.30  1. Wiener Neustädter SC  1-3 (1-1)  SK Austria Klagenfurt
+[Sun Apr/21]
+  10.30  WSG Wattens              2-0 (2-0)  Vorwärts Steyr
+
+
+Matchday 24
+[Fri Apr/26]
+  19.10  SV Ried                  7-0 (2-0)  1. Wiener Neustädter SC
+         Kapfenberger SV 1919     2-0 (1-0)  Austria Lustenau
+         FC Liefering             2-4 (1-2)  FC Blau Weiß Linz
+         SKU Amstetten            1-1 (0-0)  Austria Wien II
+         SK Austria Klagenfurt    1-1 (0-1)  Floridsdorfer AC
+         FC Juniors OÖ            6-1 (3-0)  SV Horn
+         Vorwärts Steyr           0-3 (0-1)  SV Lafnitz
+[Sun Apr/28]
+  10.30  FC Wacker Innsbruck II   3-2 (1-1)  WSG Wattens
+
+
+Matchday 25
+[Fri May/3]
+  19.10  WSG Wattens              2-1 (1-1)  Austria Wien II
+         FC Wacker Innsbruck II   3-4 (2-2)  SV Ried
+         SV Lafnitz               2-3 (1-3)  FC Liefering
+         SK Austria Klagenfurt    1-0 (0-0)  Kapfenberger SV 1919
+         Floridsdorfer AC         1-0 (1-0)  SV Horn
+[Sat May/4]
+  16.30  Austria Lustenau         2-0 (0-0)  Vorwärts Steyr
+  14.30  1. Wiener Neustädter SC  1-0 (0-0)  SKU Amstetten
+[Sun May/5]
+  10.30  FC Blau Weiß Linz        0-2 (0-2)  FC Juniors OÖ
+
+
+Matchday 26
+[Fri May/10]
+  18.00  FC Juniors OÖ            1-2 (1-2)  WSG Wattens
+  19.10  Kapfenberger SV 1919     4-1 (2-1)  FC Wacker Innsbruck II
+         FC Liefering             2-5 (1-2)  1. Wiener Neustädter SC
+         Austria Wien II          2-5 (2-2)  Austria Lustenau
+         Vorwärts Steyr           3-2 (2-1)  Floridsdorfer AC
+         SV Horn                  3-0 (1-0)  FC Blau Weiß Linz
+[Sat May/11]
+  14.30  SV Ried                  2-0 (0-0)  SV Lafnitz
+[Sun May/12]
+  10.30  SKU Amstetten            3-1 (2-1)  SK Austria Klagenfurt
+
+
+Matchday 27
+[Fri May/17]
+  19.10  Austria Lustenau         0-0  SV Ried
+         FC Blau Weiß Linz        0-5 (0-3)  Austria Wien II
+         1. Wiener Neustädter SC  0-0  Kapfenberger SV 1919
+         FC Wacker Innsbruck II   1-1 (0-0)  SV Horn
+         SK Austria Klagenfurt    2-0 (2-0)  SV Lafnitz
+         FC Juniors OÖ            4-1 (1-0)  Vorwärts Steyr
+         Floridsdorfer AC         3-0 (3-0)  FC Liefering
+[Sun May/19]
+  10.30  WSG Wattens              3-1 (1-1)  SKU Amstetten
+
+
+Matchday 28
+[Fri May/24]
+  19.10  Kapfenberger SV 1919     1-1 (1-1)  FC Juniors OÖ
+         FC Liefering             1-2 (1-0)  WSG Wattens
+         SV Lafnitz               1-0 (1-0)  Floridsdorfer AC
+         SKU Amstetten            2-3 (0-2)  Austria Lustenau
+         Austria Wien II          2-1 (1-0)  FC Wacker Innsbruck II
+         SV Horn                  0-4 (0-3)  1. Wiener Neustädter SC
+[Sun May/26]
+  10.30  Vorwärts Steyr           2-3 (1-1)  FC Blau Weiß Linz
+         SV Ried                  1-1 (0-0)  SK Austria Klagenfurt
+
+
+Matchday 29
+[Wed May/29]
+  19.10  WSG Wattens              1-0 (0-0)  Austria Lustenau
+         Kapfenberger SV 1919     3-0 (0-0)  SV Horn
+         FC Blau Weiß Linz        0-1 (0-0)  SV Ried
+         1. Wiener Neustädter SC  2-2 (0-2)  SV Lafnitz
+         FC Wacker Innsbruck II   1-1 (0-1)  FC Liefering
+         SK Austria Klagenfurt    2-1 (2-0)  Vorwärts Steyr
+         FC Juniors OÖ            1-5 (1-0)  SKU Amstetten
+         Austria Wien II          1-2 (1-1)  Floridsdorfer AC
+
+
+Matchday 30
+[Sat Jun/1]
+  17.00  Austria Lustenau         7-1 (5-0)  FC Wacker Innsbruck II
+         FC Liefering             1-1 (1-1)  SK Austria Klagenfurt
+         SV Lafnitz               1-3 (1-2)  FC Blau Weiß Linz
+         SKU Amstetten            3-0 (2-0)  Kapfenberger SV 1919
+         Vorwärts Steyr           2-3 (1-2)  Austria Wien II
+         SV Horn                  1-3 (1-2)  WSG Wattens
+         Floridsdorfer AC         2-1 (1-0)  1. Wiener Neustädter SC
+         SV Ried                  3-1 (2-0)  FC Juniors OÖ
