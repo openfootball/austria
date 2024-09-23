@@ -71,13 +71,13 @@ Matchday 6
 
 Matchday 7
 [Sat Sep/21]
-  17.00  SK Austria Klagenfurt    -  TSV Hartberg
-         LASK                     -  Grazer AK
-         SCR Altach               -  FC Blau Weiß Linz
+  17.00  SK Austria Klagenfurt    2-2 (0-1)  TSV Hartberg
+         LASK                     4-2 (2-1)  Grazer AK
+         SCR Altach               0-1 (0-0)  FC Blau Weiß Linz
 [Sun Sep/22]
-  14.30  Sturm Graz               -  Wolfsberger AC
-         WSG Tirol                -  RB Salzburg
-  17.00  Rapid Wien               -  Austria Wien
+  14.30  Sturm Graz               0-3 (0-1)  Wolfsberger AC
+         WSG Tirol                0-0  RB Salzburg
+  17.00  Rapid Wien               2-1 (1-1)  Austria Wien
 
 
 Matchday 6
