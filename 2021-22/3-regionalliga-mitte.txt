@@ -1,0 +1,497 @@
+= Österr. Regionalliga Mitte 2021/22
+
+# Date       Thu Jul/22 2021 - Fri Jun/10 2022 (323d)
+# Teams      17
+# Matches    272
+
+
+
+Matchday 1
+[Thu Jul/22]
+  19.00  SV Spittal/Drau          0-2 (0-2)  Sturm Graz II
+[Fri Jul/23]
+  19.00  Deutschlandsberger SC    2-1 (1-0)  Wolfsberger AC II
+         SC Weiz                  2-2 (1-0)  FC Gleisdorf 09
+         SK Treibach              1-1 (0-1)  SV Ried II
+         Union Vöcklamarkt        1-0 (1-0)  FC Wels
+         WSC Hertha               2-3 (0-1)  Union Gurten
+         USV Allerheiligen        3-1 (3-0)  USV St. Anna
+         TuS Bad Gleichenberg     2-1 (1-1)  SC Kalsdorf
+
+
+Matchday 2
+[Fri Jul/30]
+  19.00  FC Gleisdorf 09          0-2 (0-2)  Union Vöcklamarkt
+         FC Wels                  1-1 (1-1)  USV Allerheiligen
+         SC Kalsdorf              2-0 (1-0)  WSC Hertha
+         Sturm Graz II            6-0 (2-0)  SC Weiz
+         SK Treibach              0-1 (0-1)  TuS Bad Gleichenberg
+         Union Gurten             6-0 (4-0)  ATSV Stadl-Paura
+[Sat Jul/31]
+  19.00  USV St. Anna             1-2 (1-2)  Deutschlandsberger SC
+  17.00  SV Ried II               3-3 (1-0)  Wolfsberger AC II
+
+
+Matchday 3
+[Fri Aug/6]
+  19.00  ATSV Stadl-Paura         0-2 (0-0)  SC Kalsdorf
+         TuS Bad Gleichenberg     2-1 (0-0)  SV Ried II
+         Deutschlandsberger SC    7-1 (4-1)  FC Wels
+         SV Spittal/Drau          0-2 (0-1)  Union Gurten
+         Union Vöcklamarkt        3-0 (0-0)  Sturm Graz II
+         WSC Hertha               2-1 (1-0)  SK Treibach
+         USV Allerheiligen        2-2 (1-1)  FC Gleisdorf 09
+[Sat Aug/7]
+  15.00  Wolfsberger AC II        1-1 (0-1)  USV St. Anna
+
+
+Matchday 4
+[Tue Aug/10]
+  19.00  TuS Bad Gleichenberg     1-1 (0-0)  WSC Hertha
+         FC Gleisdorf 09          0-0  Deutschlandsberger SC
+         FC Wels                  0-5 (0-2)  Wolfsberger AC II
+         SC Kalsdorf              0-1 (0-1)  SV Spittal/Drau
+         Sturm Graz II            3-3 (1-2)  USV Allerheiligen
+         SV Ried II               0-2 (0-1)  USV St. Anna
+         SK Treibach              6-1 (2-0)  ATSV Stadl-Paura
+         Union Gurten             1-3 (1-1)  SC Weiz
+
+
+Matchday 5
+[Fri Aug/13]
+  19.00  SC Weiz                  1-3 (0-2)  SC Kalsdorf
+         SV Spittal/Drau          1-0 (0-0)  SK Treibach
+         Union Vöcklamarkt        3-1 (1-1)  Union Gurten
+         WSC Hertha               0-0  SV Ried II
+         Deutschlandsberger SC    0-3 (0-1)  Sturm Graz II
+[Sat Aug/14]
+  13.30  Wolfsberger AC II        2-0 (1-0)  FC Gleisdorf 09
+  17.00  ATSV Stadl-Paura         0-5 (0-4)  TuS Bad Gleichenberg
+  19.00  USV St. Anna             4-1 (0-1)  FC Wels
+
+
+Matchday 6
+[Fri Aug/20]
+  19.00  FC Gleisdorf 09          0-0  USV St. Anna
+         SC Kalsdorf              0-1 (0-1)  Union Vöcklamarkt
+         Sturm Graz II            2-2 (1-2)  Wolfsberger AC II
+         SK Treibach              1-2 (0-2)  SC Weiz
+         Union Gurten             1-1 (1-0)  USV Allerheiligen
+         WSC Hertha               5-0 (1-0)  ATSV Stadl-Paura
+         TuS Bad Gleichenberg     2-1 (0-1)  SV Spittal/Drau
+[Sat Aug/21]
+  17.00  SV Ried II               2-1 (1-0)  FC Wels
+
+
+Matchday 7
+[Fri Aug/27]
+  19.00  FC Wels                  1-3 (1-1)  FC Gleisdorf 09
+         SC Weiz                  2-2 (1-1)  TuS Bad Gleichenberg
+         SV Spittal/Drau          0-2 (0-1)  WSC Hertha
+         Union Vöcklamarkt        1-0 (0-0)  SK Treibach
+         USV Allerheiligen        2-2 (0-0)  SC Kalsdorf
+         Deutschlandsberger SC    1-0 (1-0)  Union Gurten
+[Sat Aug/28]
+  16.00  ATSV Stadl-Paura         0-2 (0-1)  SV Ried II
+  19.00  USV St. Anna             1-1 (0-0)  Sturm Graz II
+
+
+Matchday 8
+[Fri Sep/3]
+  19.00  WSC Hertha               1-0 (0-0)  SC Weiz
+         TuS Bad Gleichenberg     1-1 (1-1)  Union Vöcklamarkt
+[Sat Sep/4]
+  16.00  SV Ried II               0-1 (0-1)  FC Gleisdorf 09
+  18.00  SC Kalsdorf              0-1 (0-0)  Deutschlandsberger SC
+  15.00  ATSV Stadl-Paura         3-0 (1-0)  SV Spittal/Drau
+[Tue Sep/7]
+  18.45  Sturm Graz II            3-2 (2-0)  FC Wels
+
+
+Matchday 9
+[Fri Sep/10]
+  19.00  Union Vöcklamarkt        0-3 (0-0)  WSC Hertha
+         SV Spittal/Drau          1-4 (1-2)  SV Ried II
+         Deutschlandsberger SC    2-1 (2-1)  SK Treibach
+         SC Weiz                  5-0 (1-0)  ATSV Stadl-Paura
+[Sat Sep/11]
+  18.00  USV Allerheiligen        3-2 (2-2)  TuS Bad Gleichenberg
+  13.30  Wolfsberger AC II        0-4 (0-2)  SC Kalsdorf
+  19.00  USV St. Anna             3-2 (1-1)  Union Gurten
+
+
+Matchday 8
+[Tue Sep/14]
+  19.00  SK Treibach              3-2 (2-2)  USV Allerheiligen
+         Union Gurten             5-1 (2-0)  Wolfsberger AC II
+
+
+Matchday 10
+[Fri Sep/17]
+  19.00  WSC Hertha               2-0 (0-0)  USV Allerheiligen
+         TuS Bad Gleichenberg     0-1 (0-0)  Deutschlandsberger SC
+         SC Kalsdorf              0-4 (0-2)  USV St. Anna
+         SV Spittal/Drau          0-0  SC Weiz
+         SK Treibach              1-6 (1-5)  Wolfsberger AC II
+[Sat Sep/18]
+  16.00  ATSV Stadl-Paura         1-2 (0-0)  Union Vöcklamarkt
+  17.00  Union Gurten             4-0 (2-0)  FC Wels
+[Sun Sep/19]
+  16.00  SV Ried II               1-0 (1-0)  Sturm Graz II
+
+
+Matchday 9
+[Tue Sep/21]
+  19.00  FC Gleisdorf 09          0-6 (0-0)  Sturm Graz II
+
+
+Matchday 11
+[Fri Sep/24]
+  19.00  Deutschlandsberger SC    2-2 (2-2)  WSC Hertha
+         FC Gleisdorf 09          0-4 (0-0)  Union Gurten
+         SC Weiz                  4-2 (0-0)  SV Ried II
+         Union Vöcklamarkt        0-2 (0-0)  SV Spittal/Drau
+         USV Allerheiligen        2-0 (0-0)  ATSV Stadl-Paura
+  19.30  FC Wels                  3-1 (2-0)  SC Kalsdorf
+[Sat Sep/25]
+  19.00  USV St. Anna             2-2 (0-2)  SK Treibach
+  13.30  Wolfsberger AC II        1-1 (1-0)  TuS Bad Gleichenberg
+
+
+Matchday 12
+[Fri Oct/1]
+  19.00  TuS Bad Gleichenberg     1-2 (0-2)  USV St. Anna
+         SC Kalsdorf              1-0 (1-0)  FC Gleisdorf 09
+         SC Weiz                  3-1 (1-0)  Union Vöcklamarkt
+         SK Treibach              2-1 (2-1)  FC Wels
+         WSC Hertha               1-2 (0-0)  Wolfsberger AC II
+         ATSV Stadl-Paura         0-2 (0-1)  Deutschlandsberger SC
+         SV Spittal/Drau          0-2 (0-0)  USV Allerheiligen
+[Sat Oct/2]
+  17.00  Union Gurten             0-3 (0-0)  Sturm Graz II
+
+
+Matchday 13
+[Fri Oct/8]
+  19.00  Deutschlandsberger SC    1-1 (0-1)  SV Spittal/Drau
+         FC Gleisdorf 09          3-2 (1-1)  SK Treibach
+         FC Wels                  2-4 (2-3)  TuS Bad Gleichenberg
+         Union Vöcklamarkt        0-1 (0-0)  SV Ried II
+         Sturm Graz II            3-1 (2-1)  SC Kalsdorf
+         USV Allerheiligen        1-4 (1-1)  SC Weiz
+[Sat Oct/9]
+  18.45  USV St. Anna             0-3 (0-2)  WSC Hertha
+  15.00  Wolfsberger AC II        1-1 (1-0)  ATSV Stadl-Paura
+
+
+Matchday 14
+[Fri Oct/15]
+  19.00  SC Weiz                  1-0 (0-0)  Deutschlandsberger SC
+         SK Treibach              2-3 (0-3)  Sturm Graz II
+         Union Vöcklamarkt        2-1 (1-1)  USV Allerheiligen
+         TuS Bad Gleichenberg     0-0  FC Gleisdorf 09
+[Sat Oct/16]
+  15.00  ATSV Stadl-Paura         3-3 (1-1)  USV St. Anna
+         Wolfsberger AC II        2-1 (1-0)  SV Spittal/Drau
+  15.30  SV Ried II               1-1 (0-0)  Union Gurten
+  16.00  WSC Hertha               3-1 (1-0)  FC Wels
+
+
+Matchday 15
+[Fri Oct/22]
+  19.00  FC Gleisdorf 09          1-4 (0-1)  WSC Hertha
+         FC Wels                  5-0 (2-0)  ATSV Stadl-Paura
+         USV Allerheiligen        3-1 (1-0)  SV Ried II
+  19.30  Deutschlandsberger SC    2-0 (2-0)  Union Vöcklamarkt
+  15.30  Wolfsberger AC II        5-1 (3-0)  SC Weiz
+[Sat Oct/23]
+  16.00  Union Gurten             3-1 (1-0)  SC Kalsdorf
+         Sturm Graz II            3-3 (2-1)  TuS Bad Gleichenberg
+  19.00  USV St. Anna             3-1 (0-0)  SV Spittal/Drau
+
+
+Matchday 16
+[Fri Oct/29]
+  19.00  USV Allerheiligen        2-2 (0-0)  Deutschlandsberger SC
+         FC Wels                  0-0  SV Spittal/Drau
+         SC Weiz                  1-0 (0-0)  USV St. Anna
+[Sat Oct/30]
+  15.00  ATSV Stadl-Paura         0-7 (0-4)  FC Gleisdorf 09
+  16.00  SK Treibach              3-3 (1-1)  Union Gurten
+         WSC Hertha               1-1 (1-0)  Sturm Graz II
+
+
+Matchday 17
+[Fri Nov/5]
+  19.00  Deutschlandsberger SC    0-0  SV Ried II
+[Sat Nov/6]
+  15.00  Union Gurten             2-1 (0-0)  TuS Bad Gleichenberg
+  14.00  Wolfsberger AC II        0-1 (0-1)  USV Allerheiligen
+  15.00  FC Wels                  1-0 (1-0)  SC Weiz
+[Sun Nov/7]
+  15.00  Sturm Graz II            13-0 (5-0)  ATSV Stadl-Paura
+
+
+Matchday 16
+[Sat Feb/26]
+  15.00  SV Ried II               2-2  SC Kalsdorf
+
+
+Matchday 17
+[Sat Feb/26]
+  16.00  USV St. Anna             1-3 (0-0)  Union Vöcklamarkt
+  15.00  FC Gleisdorf 09          0-0  SV Spittal/Drau
+
+
+Matchday 18
+[Fri Mar/4]
+  19.00  FC Wels                  0-2 (0-0)  Union Vöcklamarkt
+         SC Kalsdorf              0-1 (0-1)  TuS Bad Gleichenberg
+[Sat Mar/5]
+  17.00  USV St. Anna             2-3 (2-2)  USV Allerheiligen
+  14.00  Union Gurten             2-0 (2-0)  WSC Hertha
+         Wolfsberger AC II        1-1 (1-0)  Deutschlandsberger SC
+  15.00  FC Gleisdorf 09          2-0 (2-0)  SC Weiz
+         SV Ried II               4-5 (2-1)  SK Treibach
+[Sun Mar/6]
+  14.00  Sturm Graz II            2-1 (0-1)  SV Spittal/Drau
+
+
+Matchday 16
+[Tue Mar/8]
+  19.00  Union Vöcklamarkt        2-2 (2-0)  Wolfsberger AC II
+
+
+Matchday 17
+[Tue Mar/8]
+  19.00  SC Kalsdorf              4-1 (1-1)  SK Treibach
+
+
+Matchday 19
+[Fri Mar/11]
+  19.00  Deutschlandsberger SC    4-0 (1-0)  USV St. Anna
+         USV Allerheiligen        0-2 (0-0)  FC Wels
+         Union Vöcklamarkt        2-2 (1-2)  FC Gleisdorf 09
+         WSC Hertha               0-0  SC Kalsdorf
+  19.30  SC Weiz                  0-6 (0-5)  Sturm Graz II
+  19.00  TuS Bad Gleichenberg     1-1 (0-1)  SK Treibach
+[Sat Mar/12]
+  14.00  Wolfsberger AC II        3-0 (0-0)  SV Ried II
+  15.00  ATSV Stadl-Paura         1-2 (1-1)  Union Gurten
+
+
+Matchday 20
+[Fri Mar/18]
+  19.00  SC Kalsdorf              3-2 (2-1)  ATSV Stadl-Paura
+  19.30  FC Wels                  1-2 (1-2)  Deutschlandsberger SC
+  19.00  FC Gleisdorf 09          1-1 (0-0)  USV Allerheiligen
+[Sat Mar/19]
+  19.00  USV St. Anna             3-0 (0-0)  Wolfsberger AC II
+  16.00  Union Gurten             1-0 (1-0)  SV Spittal/Drau
+[Sun Mar/20]
+  17.30  Sturm Graz II            2-0 (1-0)  Union Vöcklamarkt
+
+
+Matchday 21
+[Fri Mar/25]
+  19.00  WSC Hertha               1-2 (1-0)  TuS Bad Gleichenberg
+         Deutschlandsberger SC    0-1 (0-0)  FC Gleisdorf 09
+         SC Weiz                  0-1 (0-0)  Union Gurten
+         SV Spittal/Drau          3-1 (0-0)  SC Kalsdorf
+[Sat Mar/26]
+  19.00  USV St. Anna             1-1 (0-0)  SV Ried II
+  14.00  Wolfsberger AC II        4-3 (3-1)  FC Wels
+[Tue Mar/29]
+  18.45  USV Allerheiligen        0-4 (0-0)  Sturm Graz II
+
+
+Matchday 22
+[Fri Apr/1]
+  19.00  FC Wels                  1-0 (0-0)  USV St. Anna
+         SV Ried II               1-1 (0-0)  WSC Hertha
+         SC Kalsdorf              2-1 (0-1)  SC Weiz
+  18.30  Union Gurten             2-1 (2-1)  Union Vöcklamarkt
+  19.00  FC Gleisdorf 09          3-3 (3-2)  Wolfsberger AC II
+[Sat Apr/2]
+  15.00  TuS Bad Gleichenberg     4-0 (3-0)  ATSV Stadl-Paura
+[Sun Apr/3]
+  17.00  Sturm Graz II            0-1 (0-0)  Deutschlandsberger SC
+
+
+Matchday 20
+[Tue Apr/5]
+  19.00  SK Treibach              1-2 (0-1)  WSC Hertha
+
+
+Matchday 23
+[Fri Apr/8]
+  19.00  USV Allerheiligen        1-1 (1-0)  Union Gurten
+         FC Wels                  2-5 (2-4)  SV Ried II
+         Union Vöcklamarkt        4-0 (1-0)  SC Kalsdorf
+         SC Weiz                  0-4 (0-2)  SK Treibach
+         SV Spittal/Drau          1-2 (1-0)  TuS Bad Gleichenberg
+[Sat Apr/9]
+  16.00  ATSV Stadl-Paura         0-4 (0-3)  WSC Hertha
+  14.30  Wolfsberger AC II        1-4 (0-3)  Sturm Graz II
+  19.00  USV St. Anna             1-2 (1-0)  FC Gleisdorf 09
+
+
+Matchday 24
+[Thu Apr/14]
+  19.30  FC Gleisdorf 09          2-1 (0-0)  FC Wels
+  19.00  SC Kalsdorf              1-1 (1-0)  USV Allerheiligen
+         WSC Hertha               2-1 (0-1)  SV Spittal/Drau
+         TuS Bad Gleichenberg     1-0 (0-0)  SC Weiz
+         Union Gurten             1-0 (0-0)  Deutschlandsberger SC
+         Sturm Graz II            4-2 (1-0)  USV St. Anna
+         SV Ried II               7-0 (4-0)  ATSV Stadl-Paura
+         SK Treibach              1-1 (1-0)  Union Vöcklamarkt
+
+
+Matchday 25
+[Sun Apr/17]
+  18.00  SV Spittal/Drau          1-1 (1-0)  ATSV Stadl-Paura
+[Mon Apr/18]
+  18.00  Deutschlandsberger SC    6-2 (2-1)  SC Kalsdorf
+  17.00  FC Wels                  1-3 (1-1)  Sturm Graz II
+  19.00  Union Vöcklamarkt        4-1 (2-0)  TuS Bad Gleichenberg
+  14.30  Wolfsberger AC II        0-0  Union Gurten
+  15.00  SC Weiz                  2-0 (1-0)  WSC Hertha
+         USV Allerheiligen        3-0 (2-0)  SK Treibach
+  17.00  FC Gleisdorf 09          4-2 (1-1)  SV Ried II
+
+
+Matchday 26
+[Fri Apr/22]
+  19.00  WSC Hertha               6-0 (4-0)  Union Vöcklamarkt
+         SK Treibach              0-5 (0-3)  Deutschlandsberger SC
+         SV Ried II               4-2 (1-0)  SV Spittal/Drau
+         TuS Bad Gleichenberg     3-1 (0-0)  USV Allerheiligen
+         SC Kalsdorf              1-2 (0-0)  Wolfsberger AC II
+[Sat Apr/23]
+  16.00  ATSV Stadl-Paura         0-3 (0-1)  SC Weiz
+         Union Gurten             0-0  USV St. Anna
+[Sun Apr/24]
+  14.00  Sturm Graz II            3-1 (2-0)  FC Gleisdorf 09
+
+
+Matchday 21
+[Tue Apr/26]
+  19.00  ATSV Stadl-Paura         1-5 (0-3)  SK Treibach
+
+
+Matchday 27
+[Fri Apr/29]
+  19.00  USV St. Anna             2-2 (0-2)  SC Kalsdorf
+         SC Weiz                  3-0 (1-0)  SV Spittal/Drau
+         Deutschlandsberger SC    1-1 (1-1)  TuS Bad Gleichenberg
+         USV Allerheiligen        1-1 (1-0)  WSC Hertha
+         FC Wels                  2-2 (1-0)  Union Gurten
+         Sturm Graz II            6-0 (3-0)  SV Ried II
+         Union Vöcklamarkt        2-1 (2-1)  ATSV Stadl-Paura
+[Sat Apr/30]
+  14.30  Wolfsberger AC II        2-0 (1-0)  SK Treibach
+
+
+Matchday 22
+[Tue May/3]
+  19.00  SK Treibach              4-2 (3-1)  SV Spittal/Drau
+
+
+Matchday 20
+[Tue May/3]
+  19.00  SV Ried II               1-2 (1-0)  TuS Bad Gleichenberg
+
+
+Matchday 28
+[Fri May/6]
+  19.00  TuS Bad Gleichenberg     2-4 (0-2)  Wolfsberger AC II
+         SC Kalsdorf              1-2 (1-2)  FC Wels
+         SV Ried II               3-0 (1-0)  SC Weiz
+         SV Spittal/Drau          2-2 (1-2)  Union Vöcklamarkt
+         SK Treibach              1-2 (0-1)  USV St. Anna
+  19.30  WSC Hertha               4-1 (2-1)  Deutschlandsberger SC
+[Sat May/7]
+  17.00  ATSV Stadl-Paura         0-2 (0-1)  USV Allerheiligen
+  16.00  Union Gurten             6-0 (1-0)  FC Gleisdorf 09
+
+
+Matchday 29
+[Fri May/13]
+  19.00  Deutschlandsberger SC    2-0 (1-0)  ATSV Stadl-Paura
+         FC Gleisdorf 09          0-0  SC Kalsdorf
+         FC Wels                  5-2 (3-0)  SK Treibach
+         USV Allerheiligen        3-1 (2-0)  SV Spittal/Drau
+         Union Vöcklamarkt        0-1 (0-0)  SC Weiz
+[Sat May/14]
+  19.00  USV St. Anna             3-2 (1-2)  TuS Bad Gleichenberg
+  14.30  Wolfsberger AC II        3-3 (0-1)  WSC Hertha
+[Sun May/15]
+  14.00  Sturm Graz II            0-1 (0-0)  Union Gurten
+
+
+Matchday 31
+[Tue May/17]
+  19.00  SV Spittal/Drau          2-5 (2-3)  Wolfsberger AC II
+
+
+Matchday 30
+[Fri May/20]
+  19.00  SC Kalsdorf              1-1 (0-0)  Sturm Graz II
+         SC Weiz                  0-3 (0-3)  USV Allerheiligen
+         SV Ried II               0-0  Union Vöcklamarkt
+         SV Spittal/Drau          0-1 (0-0)  Deutschlandsberger SC
+         SK Treibach              2-1 (0-0)  FC Gleisdorf 09
+         WSC Hertha               3-1 (1-1)  USV St. Anna
+  19.30  ATSV Stadl-Paura         1-6 (1-1)  Wolfsberger AC II
+  19.00  TuS Bad Gleichenberg     5-2 (2-0)  FC Wels
+
+
+Matchday 31
+[Tue May/24]
+  19.00  Sturm Graz II            7-0 (4-0)  SK Treibach
+         Union Gurten             1-0 (0-0)  SV Ried II
+         FC Gleisdorf 09          0-0  TuS Bad Gleichenberg
+[Wed May/25]
+  19.00  FC Wels                  1-0 (1-0)  WSC Hertha
+         USV Allerheiligen        1-2 (1-0)  Union Vöcklamarkt
+         USV St. Anna             7-0 (3-0)  ATSV Stadl-Paura
+         Deutschlandsberger SC    1-1 (0-1)  SC Weiz
+
+
+Matchday 32
+[Fri May/27]
+  19.00  TuS Bad Gleichenberg     0-3 (0-0)  Sturm Graz II
+         SC Kalsdorf              1-1 (0-0)  Union Gurten
+  19.15  SV Spittal/Drau          0-2 (0-1)  USV St. Anna
+[Sat May/28]
+  16.30  SC Weiz                  0-1 (0-0)  Wolfsberger AC II
+  17.00  ATSV Stadl-Paura         0-1 (0-0)  FC Wels
+         SV Ried II               0-2 (0-1)  USV Allerheiligen
+  19.00  Union Vöcklamarkt        1-1 (0-0)  Deutschlandsberger SC
+  16.00  WSC Hertha               5-1 (3-1)  FC Gleisdorf 09
+
+
+Matchday 33
+[Fri Jun/3]
+  18.45  SV Spittal/Drau          0-2 (0-0)  FC Wels
+         Deutschlandsberger SC    3-0 (0-0)  USV Allerheiligen
+         FC Gleisdorf 09          9-1 (4-0)  ATSV Stadl-Paura
+         SC Kalsdorf              5-1 (2-0)  SV Ried II
+         Sturm Graz II            3-0 (0-0)  WSC Hertha
+         Union Gurten             0-1 (0-0)  SK Treibach
+         USV St. Anna             5-4 (1-1)  SC Weiz
+         Wolfsberger AC II        1-0 (0-0)  Union Vöcklamarkt
+
+
+Matchday 34
+[Wed Jun/8]
+  19.00  ATSV Stadl-Paura         1-5 (0-1)  Sturm Graz II
+[Fri Jun/10]
+  18.45  SC Weiz                  3-1 (1-1)  FC Wels
+         USV Allerheiligen        1-1 (1-1)  Wolfsberger AC II
+         SV Ried II               0-8 (0-6)  Deutschlandsberger SC
+         SV Spittal/Drau          0-2 (0-0)  FC Gleisdorf 09
+         SK Treibach              3-2 (1-2)  SC Kalsdorf
+         Union Vöcklamarkt        3-2 (1-0)  USV St. Anna
+         TuS Bad Gleichenberg     1-4 (1-2)  Union Gurten

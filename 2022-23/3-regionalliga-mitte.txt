@@ -1,0 +1,408 @@
+= Österr. Regionalliga Mitte 2022/23
+
+# Date       Fri Jul/22 2022 - Fri Jun/9 2023 (322d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/22]
+  19.00  SC Kalsdorf              2-4 (1-3)  WSC Hertha
+         Union Gurten             1-1 (1-0)  Wolfsberger AC II
+         SAK Klagenfurt           0-3 (0-1)  USV St. Anna
+         SK Treibach              2-2 (0-0)  Union Vöcklamarkt
+         TuS Bad Gleichenberg     0-1 (0-1)  FC Gleisdorf 09
+         USV Allerheiligen        2-2 (1-1)  SC Weiz
+         SV Ried II               3-0 (3-0)  Deutschlandsberger SC
+         DSV Leoben               3-1 (0-0)  LASK Amateure OÖ
+
+
+Matchday 2
+[Fri Jul/29]
+  17.00  LASK Amateure OÖ         4-0 (2-0)  Union Gurten
+  19.00  WSC Hertha               4-1 (1-1)  TuS Bad Gleichenberg
+         Deutschlandsberger SC    3-0 (2-0)  SAK Klagenfurt
+         SC Weiz                  1-3 (0-2)  SK Treibach
+         FC Gleisdorf 09          0-5 (0-3)  DSV Leoben
+[Sat Jul/30]
+  19.00  Union Vöcklamarkt        1-3 (1-0)  SV Ried II
+         USV St. Anna             2-1 (2-1)  SC Kalsdorf
+  17.00  Wolfsberger AC II        1-1 (0-0)  USV Allerheiligen
+
+
+Matchday 3
+[Fri Aug/5]
+  19.00  SK Treibach              1-1 (1-0)  Wolfsberger AC II
+         DSV Leoben               0-0  WSC Hertha
+         SC Kalsdorf              2-4 (1-1)  TuS Bad Gleichenberg
+         SAK Klagenfurt           2-2 (1-1)  Union Vöcklamarkt
+         USV Allerheiligen        0-7 (0-4)  LASK Amateure OÖ
+         SV Ried II               4-0 (0-0)  SC Weiz
+[Sat Aug/6]
+  19.00  Union Gurten             1-1 (0-1)  FC Gleisdorf 09
+         USV St. Anna             3-6 (1-5)  Deutschlandsberger SC
+
+
+Matchday 4
+[Fri Aug/12]
+  19.00  TuS Bad Gleichenberg     2-2 (1-2)  DSV Leoben
+         SC Weiz                  0-0  SAK Klagenfurt
+         FC Gleisdorf 09          0-0  USV Allerheiligen
+         Union Vöcklamarkt        1-2 (1-1)  USV St. Anna
+         Deutschlandsberger SC    1-3 (1-2)  SC Kalsdorf
+  19.30  WSC Hertha               1-0 (1-0)  Union Gurten
+[Sat Aug/13]
+  17.00  LASK Amateure OÖ         1-1 (1-1)  SK Treibach
+         Wolfsberger AC II        4-1 (2-0)  SV Ried II
+
+
+Matchday 5
+[Fri Aug/19]
+  19.00  SC Kalsdorf              1-5 (0-3)  DSV Leoben
+         SK Treibach              1-1 (0-0)  FC Gleisdorf 09
+         Deutschlandsberger SC    2-1 (2-0)  Union Vöcklamarkt
+         Union Gurten             1-1 (1-0)  TuS Bad Gleichenberg
+         USV Allerheiligen        0-2 (0-1)  WSC Hertha
+         SAK Klagenfurt           3-2 (1-0)  Wolfsberger AC II
+         SV Ried II               0-3 (0-2)  LASK Amateure OÖ
+[Sat Aug/20]
+  19.00  USV St. Anna             4-2 (0-2)  SC Weiz
+
+
+Matchday 6
+[Fri Aug/26]
+  19.00  SC Weiz                  1-3 (1-3)  Deutschlandsberger SC
+         TuS Bad Gleichenberg     3-1 (2-1)  USV Allerheiligen
+         DSV Leoben               1-1 (0-1)  Union Gurten
+         FC Gleisdorf 09          1-1 (0-0)  SV Ried II
+         Union Vöcklamarkt        2-0 (1-0)  SC Kalsdorf
+         WSC Hertha               4-0 (2-0)  SK Treibach
+[Sat Aug/27]
+  17.00  Wolfsberger AC II        0-2 (0-2)  USV St. Anna
+  16.00  LASK Amateure OÖ         2-0 (0-0)  SAK Klagenfurt
+
+
+Matchday 7
+[Fri Sep/2]
+  19.00  Union Vöcklamarkt        0-3 (0-2)  SC Weiz
+         SAK Klagenfurt           0-2 (0-2)  FC Gleisdorf 09
+         SC Kalsdorf              0-4 (0-2)  Union Gurten
+         SK Treibach              1-4 (0-2)  TuS Bad Gleichenberg
+[Sat Sep/3]
+  19.00  USV St. Anna             1-4 (1-0)  LASK Amateure OÖ
+[Sun Sep/4]
+  14.30  SV Ried II               3-1 (1-1)  WSC Hertha
+  15.30  Deutschlandsberger SC    1-0 (1-0)  Wolfsberger AC II
+  10.30  USV Allerheiligen        4-1 (0-1)  DSV Leoben
+
+
+Matchday 8
+[Fri Sep/9]
+  19.00  Union Gurten             2-1 (0-1)  USV Allerheiligen
+         SC Weiz                  3-1 (1-1)  SC Kalsdorf
+         TuS Bad Gleichenberg     3-2 (2-2)  SV Ried II
+         FC Gleisdorf 09          2-3 (0-2)  USV St. Anna
+         WSC Hertha               3-2 (1-0)  SAK Klagenfurt
+[Sat Sep/10]
+  15.00  DSV Leoben               6-0 (2-0)  SK Treibach
+  14.30  LASK Amateure OÖ         2-1 (1-1)  Deutschlandsberger SC
+[Sun Sep/11]
+  15.00  Wolfsberger AC II        5-1 (4-0)  Union Vöcklamarkt
+
+
+Matchday 9
+[Fri Sep/16]
+  19.00  SAK Klagenfurt           2-3 (2-1)  TuS Bad Gleichenberg
+         SK Treibach              2-3 (1-2)  Union Gurten
+         SC Weiz                  1-3 (0-1)  Wolfsberger AC II
+         Union Vöcklamarkt        1-1 (0-1)  LASK Amateure OÖ
+         SV Ried II               0-3 (0-1)  DSV Leoben
+  19.30  Deutschlandsberger SC    3-3 (3-0)  FC Gleisdorf 09
+[Sat Sep/17]
+  19.00  USV St. Anna             1-1 (1-0)  WSC Hertha
+[Tue Sep/20]
+  19.00  SC Kalsdorf              2-1 (1-1)  USV Allerheiligen
+
+
+Matchday 10
+[Fri Sep/23]
+  19.00  DSV Leoben               3-0 (2-0)  SAK Klagenfurt
+         USV Allerheiligen        0-1 (0-0)  SK Treibach
+         TuS Bad Gleichenberg     2-1 (1-0)  USV St. Anna
+         FC Gleisdorf 09          4-0 (2-0)  Union Vöcklamarkt
+         WSC Hertha               1-1 (0-0)  Deutschlandsberger SC
+[Sat Sep/24]
+  16.00  Wolfsberger AC II        4-0 (2-0)  SC Kalsdorf
+         Union Gurten             1-0 (0-0)  SV Ried II
+         LASK Amateure OÖ         5-1 (2-0)  SC Weiz
+
+
+Matchday 11
+[Fri Sep/30]
+  19.00  Deutschlandsberger SC    2-2 (1-2)  TuS Bad Gleichenberg
+         SC Kalsdorf              1-1 (1-0)  SK Treibach
+         SC Weiz                  2-4 (1-3)  FC Gleisdorf 09
+         SV Ried II               2-0 (0-0)  USV Allerheiligen
+  19.30  Union Vöcklamarkt        1-1 (0-0)  WSC Hertha
+[Sat Oct/1]
+  19.00  USV St. Anna             1-3 (1-0)  DSV Leoben
+[Sun Oct/2]
+  16.00  Wolfsberger AC II        3-1 (2-1)  LASK Amateure OÖ
+[Tue Oct/4]
+  19.00  SAK Klagenfurt           0-1 (0-1)  Union Gurten
+
+
+Matchday 12
+[Fri Oct/7]
+  19.00  USV Allerheiligen        1-0 (0-0)  SAK Klagenfurt
+         SK Treibach              1-2 (0-1)  SV Ried II
+         TuS Bad Gleichenberg     3-0 (0-0)  Union Vöcklamarkt
+         FC Gleisdorf 09          1-1 (0-0)  Wolfsberger AC II
+         DSV Leoben               4-0 (3-0)  Deutschlandsberger SC
+         LASK Amateure OÖ         0-0  SC Kalsdorf
+[Sat Oct/8]
+  17.00  WSC Hertha               0-3 (0-1)  SC Weiz
+  16.00  Union Gurten             1-0 (1-0)  USV St. Anna
+
+
+Matchday 13
+[Fri Oct/14]
+  18.30  SAK Klagenfurt           1-1 (0-0)  SK Treibach
+  19.00  SC Weiz                  0-2 (0-0)  TuS Bad Gleichenberg
+         Union Vöcklamarkt        0-1 (0-0)  DSV Leoben
+         SC Kalsdorf              0-1 (0-1)  SV Ried II
+         Deutschlandsberger SC    1-0 (0-0)  Union Gurten
+[Sat Oct/15]
+  15.00  Wolfsberger AC II        0-2 (0-2)  WSC Hertha
+  19.00  USV St. Anna             0-0  USV Allerheiligen
+  15.00  LASK Amateure OÖ         2-1 (1-0)  FC Gleisdorf 09
+
+
+Matchday 14
+[Fri Oct/21]
+  19.00  TuS Bad Gleichenberg     4-2 (3-0)  Wolfsberger AC II
+         DSV Leoben               2-0 (0-0)  SC Weiz
+         USV Allerheiligen        0-2 (0-1)  Deutschlandsberger SC
+         SK Treibach              4-2 (3-1)  USV St. Anna
+         SC Kalsdorf              1-0 (0-0)  FC Gleisdorf 09
+         SV Ried II               3-2 (2-1)  SAK Klagenfurt
+[Sat Oct/22]
+  17.00  WSC Hertha               1-1 (0-1)  LASK Amateure OÖ
+  16.00  Union Gurten             0-1 (0-1)  Union Vöcklamarkt
+
+
+Matchday 15
+[Fri Oct/28]
+  19.00  Deutschlandsberger SC    2-2 (1-1)  SK Treibach
+         SC Weiz                  0-1 (0-1)  Union Gurten
+         FC Gleisdorf 09          1-2 (1-1)  WSC Hertha
+         Union Vöcklamarkt        1-0 (0-0)  USV Allerheiligen
+  19.30  LASK Amateure OÖ         4-0 (3-0)  TuS Bad Gleichenberg
+[Sat Oct/29]
+  18.00  USV St. Anna             2-3 (1-2)  SV Ried II
+  14.30  Wolfsberger AC II        3-0 (1-0)  DSV Leoben
+[Sun Oct/30]
+  15.00  SAK Klagenfurt           3-0 (2-0)  SC Kalsdorf
+
+
+Matchday 16
+[Fri Mar/3]
+  19.00  SC Weiz                  3-1 (0-1)  USV Allerheiligen
+         Deutschlandsberger SC    0-1 (0-0)  SV Ried II
+         LASK Amateure OÖ         2-0 (2-0)  DSV Leoben
+         Union Vöcklamarkt        1-0 (1-0)  SK Treibach
+[Sat Mar/4]
+  16.00  WSC Hertha               3-2 (0-2)  SC Kalsdorf
+  17.00  USV St. Anna             0-0  SAK Klagenfurt
+  15.00  FC Gleisdorf 09          5-1 (3-0)  TuS Bad Gleichenberg
+[Sun Mar/5]
+  14.30  Wolfsberger AC II        1-2 (0-2)  Union Gurten
+
+
+Matchday 17
+[Fri Mar/10]
+  19.00  SC Kalsdorf              1-2 (1-1)  USV St. Anna
+         DSV Leoben               1-0 (1-0)  FC Gleisdorf 09
+         SV Ried II               0-0  Union Vöcklamarkt
+         USV Allerheiligen        2-3 (1-0)  Wolfsberger AC II
+         SK Treibach              1-2 (0-0)  SC Weiz
+  19.30  TuS Bad Gleichenberg     1-2 (1-1)  WSC Hertha
+[Sat Mar/11]
+  15.30  Union Gurten             2-0 (1-0)  LASK Amateure OÖ
+  14.30  SAK Klagenfurt           1-1 (1-1)  Deutschlandsberger SC
+
+
+Matchday 18
+[Fri Mar/17]
+  19.00  Deutschlandsberger SC    4-3 (2-0)  USV St. Anna
+         FC Gleisdorf 09          1-2 (1-0)  Union Gurten
+         TuS Bad Gleichenberg     4-1 (3-1)  SC Kalsdorf
+         SC Weiz                  4-0 (2-0)  SV Ried II
+         LASK Amateure OÖ         4-0 (1-0)  USV Allerheiligen
+         Union Vöcklamarkt        0-0  SAK Klagenfurt
+[Sat Mar/18]
+  16.00  WSC Hertha               0-1 (0-1)  DSV Leoben
+  14.00  Wolfsberger AC II        1-1 (0-0)  SK Treibach
+
+
+Matchday 19
+[Fri Mar/24]
+  18.45  DSV Leoben               3-1 (1-1)  TuS Bad Gleichenberg
+         SC Kalsdorf              1-3 (1-1)  Deutschlandsberger SC
+         SK Treibach              3-5 (1-3)  LASK Amateure OÖ
+         SV Ried II               0-0  Wolfsberger AC II
+  18.30  USV Allerheiligen        0-2 (0-1)  FC Gleisdorf 09
+[Sat Mar/25]
+  15.00  SAK Klagenfurt           3-3 (1-2)  SC Weiz
+  19.00  USV St. Anna             1-1 (0-1)  Union Vöcklamarkt
+[Sun Mar/26]
+  15.30  Union Gurten             0-0  WSC Hertha
+
+
+Matchday 20
+[Fri Mar/31]
+  19.00  SC Weiz                  4-0 (2-0)  USV St. Anna
+         DSV Leoben               4-1 (1-0)  SC Kalsdorf
+         TuS Bad Gleichenberg     5-0 (0-0)  Union Gurten
+         FC Gleisdorf 09          1-1 (1-0)  SK Treibach
+         Union Vöcklamarkt        0-3 (0-1)  Deutschlandsberger SC
+         LASK Amateure OÖ         5-2 (2-2)  SV Ried II
+[Sat Apr/1]
+  17.00  WSC Hertha               3-1 (1-1)  USV Allerheiligen
+  14.00  Wolfsberger AC II        1-1 (0-1)  SAK Klagenfurt
+
+
+Matchday 21
+[Thu Apr/6]
+  19.00  SV Ried II               3-2 (2-1)  FC Gleisdorf 09
+         SK Treibach              1-2 (1-0)  WSC Hertha
+  18.00  SAK Klagenfurt           1-2 (0-1)  LASK Amateure OÖ
+[Fri Apr/7]
+  19.00  Deutschlandsberger SC    1-2 (0-0)  SC Weiz
+         SC Kalsdorf              2-1 (1-0)  Union Vöcklamarkt
+         USV Allerheiligen        3-2 (2-0)  TuS Bad Gleichenberg
+[Sat Apr/8]
+  19.00  USV St. Anna             3-1 (1-1)  Wolfsberger AC II
+  16.00  Union Gurten             0-1 (0-0)  DSV Leoben
+
+
+Matchday 22
+[Fri Apr/14]
+  19.00  DSV Leoben               2-0 (0-0)  USV Allerheiligen
+         SC Weiz                  1-1 (0-1)  Union Vöcklamarkt
+[Sun Apr/16]
+  16.00  Wolfsberger AC II        1-1 (0-0)  Deutschlandsberger SC
+[Tue Apr/18]
+  19.00  FC Gleisdorf 09          3-0 (1-0)  SAK Klagenfurt
+         LASK Amateure OÖ         1-0 (0-0)  USV St. Anna
+         WSC Hertha               2-0 (1-0)  SV Ried II
+         TuS Bad Gleichenberg     0-0  SK Treibach
+
+
+Matchday 23
+[Fri Apr/21]
+  19.30  Deutschlandsberger SC    1-3 (0-3)  LASK Amateure OÖ
+  19.00  SC Kalsdorf              1-0 (0-0)  SC Weiz
+         SK Treibach              0-5 (0-2)  DSV Leoben
+         SV Ried II               1-2 (0-2)  TuS Bad Gleichenberg
+         Union Vöcklamarkt        0-0  Wolfsberger AC II
+         USV Allerheiligen        1-2 (1-2)  Union Gurten
+         SAK Klagenfurt           1-3 (1-1)  WSC Hertha
+[Sat Apr/22]
+  19.00  USV St. Anna             2-3 (1-2)  FC Gleisdorf 09
+
+
+Matchday 22
+[Tue Apr/25]
+  18.30  Union Gurten             5-1 (4-0)  SC Kalsdorf
+
+
+Matchday 24
+[Fri Apr/28]
+  19.00  TuS Bad Gleichenberg     4-0 (0-0)  SAK Klagenfurt
+         DSV Leoben               5-1 (3-0)  SV Ried II
+         FC Gleisdorf 09          3-3 (3-2)  Deutschlandsberger SC
+         WSC Hertha               2-1 (1-0)  USV St. Anna
+         USV Allerheiligen        3-2 (1-0)  SC Kalsdorf
+         LASK Amateure OÖ         0-0  Union Vöcklamarkt
+[Sat Apr/29]
+  16.00  Union Gurten             4-0 (2-0)  SK Treibach
+  15.30  Wolfsberger AC II        3-1 (1-1)  SC Weiz
+
+
+Matchday 25
+[Fri May/5]
+  19.00  SC Kalsdorf              2-0 (2-0)  Wolfsberger AC II
+         SC Weiz                  1-4 (1-0)  LASK Amateure OÖ
+         Deutschlandsberger SC    1-1 (0-0)  WSC Hertha
+         Union Vöcklamarkt        2-2 (1-1)  FC Gleisdorf 09
+         SAK Klagenfurt           0-1 (0-0)  DSV Leoben
+         SV Ried II               0-0  Union Gurten
+  19.30  SK Treibach              1-2 (1-1)  USV Allerheiligen
+[Sat May/6]
+  19.00  USV St. Anna             2-0 (1-0)  TuS Bad Gleichenberg
+
+
+Matchday 26
+[Fri May/12]
+  19.00  DSV Leoben               3-0 (1-0)  USV St. Anna
+         TuS Bad Gleichenberg     0-1 (0-1)  Deutschlandsberger SC
+         FC Gleisdorf 09          1-2 (1-0)  SC Weiz
+         USV Allerheiligen        2-1 (1-0)  SV Ried II
+         LASK Amateure OÖ         3-1 (1-1)  Wolfsberger AC II
+         WSC Hertha               3-3 (1-1)  Union Vöcklamarkt
+         SK Treibach              3-0 (1-0)  SC Kalsdorf
+         Union Gurten             3-0 (2-0)  SAK Klagenfurt
+
+
+Matchday 27
+[Fri May/19]
+  19.00  SC Weiz                  1-2 (0-0)  WSC Hertha
+         Deutschlandsberger SC    2-1 (0-1)  DSV Leoben
+         SC Kalsdorf              0-4 (0-1)  LASK Amateure OÖ
+         Union Vöcklamarkt        2-0 (0-0)  TuS Bad Gleichenberg
+         SAK Klagenfurt           2-8 (0-4)  USV Allerheiligen
+[Sat May/20]
+  19.00  USV St. Anna             1-1 (1-0)  Union Gurten
+  16.00  SV Ried II               3-0 (1-0)  SK Treibach
+[Sun May/21]
+  16.00  Wolfsberger AC II        3-0 (2-0)  FC Gleisdorf 09
+
+
+Matchday 28
+[Thu May/25]
+  19.00  FC Gleisdorf 09          0-3 (0-1)  LASK Amateure OÖ
+[Fri May/26]
+  19.00  DSV Leoben               2-1 (1-1)  Union Vöcklamarkt
+         TuS Bad Gleichenberg     4-1 (1-1)  SC Weiz
+         SK Treibach              3-2 (1-1)  SAK Klagenfurt
+         SV Ried II               1-0 (0-0)  SC Kalsdorf
+         WSC Hertha               5-0 (4-0)  Wolfsberger AC II
+         Union Gurten             2-1 (2-0)  Deutschlandsberger SC
+         USV Allerheiligen        0-2 (0-1)  USV St. Anna
+
+
+Matchday 29
+[Fri Jun/2]
+  19.00  Deutschlandsberger SC    0-1 (0-0)  USV Allerheiligen
+         Wolfsberger AC II        3-4 (1-0)  TuS Bad Gleichenberg
+         USV St. Anna             3-1 (1-0)  SK Treibach
+         SAK Klagenfurt           2-5 (1-2)  SV Ried II
+         FC Gleisdorf 09          1-0 (0-0)  SC Kalsdorf
+         LASK Amateure OÖ         3-3 (1-2)  WSC Hertha
+         Union Vöcklamarkt        2-1 (1-0)  Union Gurten
+         SC Weiz                  0-5 (0-4)  DSV Leoben
+
+
+Matchday 30
+[Wed Jun/7]
+  19.00  WSC Hertha               5-3 (1-3)  FC Gleisdorf 09
+[Fri Jun/9]
+  19.00  Union Gurten             3-1 (0-1)  SC Weiz
+         SK Treibach              1-3 (1-1)  Deutschlandsberger SC
+         USV Allerheiligen        0-1 (0-1)  Union Vöcklamarkt
+         DSV Leoben               3-1 (0-1)  Wolfsberger AC II
+         SC Kalsdorf              2-1 (0-0)  SAK Klagenfurt
+         SV Ried II               1-1 (0-0)  USV St. Anna
+         TuS Bad Gleichenberg     3-7 (1-4)  LASK Amateure OÖ

@@ -1,0 +1,430 @@
+= Österr. Regionalliga Mitte 2023/24
+
+# Date       Fri Jul/28 2023 - Fri Jun/7 2024 (315d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Jul/28]
+  18.00  ASK Klagenfurt           1-3 (1-1)  Union Gurten
+  19.00  ASK Voitsberg            4-0 (1-0)  SC Weiz
+         FC Gleisdorf 09          2-1 (1-0)  SV Ried II
+         Vorwärts Steyr           1-0 (0-0)  LASK Amateure OÖ
+         USV Allerheiligen        1-2 (0-0)  Deutschlandsberger SC
+         TuS Bad Gleichenberg     2-1 (0-1)  SV Wallern
+         Union Vöcklamarkt        3-2 (2-1)  USV St. Anna
+[Sun Jul/30]
+  17.30  Wolfsberger AC II        1-4 (0-1)  WSC Hertha
+
+
+Matchday 2
+[Fri Aug/4]
+  19.00  SV Wallern               1-0 (1-0)  Vorwärts Steyr
+         WSC Hertha               3-0 (3-0)  ASK Klagenfurt
+         LASK Amateure OÖ         2-2 (1-0)  ASK Voitsberg
+[Sat Aug/5]
+  17.00  SV Ried II               0-5 (0-3)  Deutschlandsberger SC
+  18.00  Union Gurten             1-2 (1-0)  Union Vöcklamarkt
+[Tue Aug/8]
+  19.00  SC Weiz                  2-3 (0-0)  Wolfsberger AC II
+
+
+Matchday 3
+[Fri Aug/11]
+  19.00  Union Vöcklamarkt        0-3 (0-2)  WSC Hertha
+         TuS Bad Gleichenberg     1-5 (0-2)  SV Ried II
+         ASK Voitsberg            4-0 (3-0)  SV Wallern
+         Deutschlandsberger SC    1-1 (1-1)  USV St. Anna
+         Vorwärts Steyr           1-0 (1-0)  FC Gleisdorf 09
+         USV Allerheiligen        0-5 (0-2)  Union Gurten
+[Sun Aug/13]
+  17.00  ASK Klagenfurt           2-3 (1-3)  SC Weiz
+  17.30  Wolfsberger AC II        4-4 (3-2)  LASK Amateure OÖ
+
+
+Matchday 2
+[Tue Aug/15]
+  16.00  USV St. Anna             1-4 (0-3)  USV Allerheiligen
+
+
+Matchday 4
+[Fri Aug/18]
+  19.00  SC Weiz                  3-1 (2-1)  Union Vöcklamarkt
+         LASK Amateure OÖ         1-3 (0-2)  ASK Klagenfurt
+         SV Wallern               3-3 (0-0)  Wolfsberger AC II
+         TuS Bad Gleichenberg     2-1 (0-1)  Vorwärts Steyr
+         Union Gurten             1-2 (0-1)  Deutschlandsberger SC
+         WSC Hertha               4-2 (3-1)  USV Allerheiligen
+[Sat Aug/19]
+  17.00  SV Ried II               3-4 (3-1)  USV St. Anna
+  18.30  FC Gleisdorf 09          1-2 (0-0)  ASK Voitsberg
+
+
+Matchday 5
+[Fri Aug/25]
+  19.00  ASK Voitsberg            4-1 (2-0)  TuS Bad Gleichenberg
+         Vorwärts Steyr           2-1 (1-0)  SV Ried II
+  19.30  Deutschlandsberger SC    1-1 (1-0)  WSC Hertha
+  19.00  Union Vöcklamarkt        1-1 (0-1)  LASK Amateure OÖ
+         USV Allerheiligen        4-0 (1-0)  SC Weiz
+[Sat Aug/26]
+  19.00  USV St. Anna             0-1 (0-1)  Union Gurten
+  17.00  ASK Klagenfurt           2-5 (1-1)  SV Wallern
+[Sun Aug/27]
+  17.00  Wolfsberger AC II        0-5 (0-2)  FC Gleisdorf 09
+
+
+Matchday 6
+[Fri Sep/1]
+  19.00  SV Wallern               5-0 (3-0)  Union Vöcklamarkt
+         FC Gleisdorf 09          3-0 (2-0)  ASK Klagenfurt
+         LASK Amateure OÖ         5-1 (2-1)  USV Allerheiligen
+  19.30  Vorwärts Steyr           1-0 (1-0)  ASK Voitsberg
+  19.00  TuS Bad Gleichenberg     2-1 (2-0)  Wolfsberger AC II
+         WSC Hertha               4-0 (2-0)  USV St. Anna
+         SC Weiz                  2-1 (1-0)  Deutschlandsberger SC
+[Sat Sep/2]
+  16.00  SV Ried II               1-0 (1-0)  Union Gurten
+
+
+Matchday 2
+[Tue Sep/5]
+  19.00  FC Gleisdorf 09          3-0 (3-0)  TuS Bad Gleichenberg
+
+
+Matchday 7
+[Fri Sep/8]
+  19.00  Deutschlandsberger SC    3-1 (3-1)  LASK Amateure OÖ
+         USV Allerheiligen        1-3 (0-2)  SV Wallern
+         Union Gurten             0-0  WSC Hertha
+         ASK Voitsberg            3-0 (1-0)  SV Ried II
+[Sat Sep/9]
+  19.00  USV St. Anna             1-0 (1-0)  SC Weiz
+         Union Vöcklamarkt        1-1 (0-0)  FC Gleisdorf 09
+[Sun Sep/10]
+  16.00  ASK Klagenfurt           1-1 (0-0)  TuS Bad Gleichenberg
+
+
+Matchday 8
+[Fri Sep/15]
+  19.00  SC Weiz                  2-2 (1-0)  Union Gurten
+  18.00  SV Ried II               0-1 (0-1)  WSC Hertha
+  19.00  ASK Voitsberg            8-0 (4-0)  Wolfsberger AC II
+         FC Gleisdorf 09          0-0  USV Allerheiligen
+         LASK Amateure OÖ         7-0 (3-0)  USV St. Anna
+         Vorwärts Steyr           1-1 (0-1)  ASK Klagenfurt
+         SV Wallern               2-1 (1-0)  Deutschlandsberger SC
+         TuS Bad Gleichenberg     2-0 (2-0)  Union Vöcklamarkt
+
+
+Matchday 7
+[Tue Sep/19]
+  17.00  Wolfsberger AC II        1-2 (0-1)  Vorwärts Steyr
+
+
+Matchday 9
+[Wed Sep/20]
+  19.00  Union Gurten             1-0 (0-0)  LASK Amateure OÖ
+[Fri Sep/22]
+  19.00  Deutschlandsberger SC    2-3 (1-3)  FC Gleisdorf 09
+         USV Allerheiligen        0-0  TuS Bad Gleichenberg
+         Union Vöcklamarkt        3-0 (2-0)  Vorwärts Steyr
+         WSC Hertha               1-0 (0-0)  SC Weiz
+[Sat Sep/23]
+  19.00  USV St. Anna             1-0 (1-0)  SV Wallern
+  16.00  ASK Klagenfurt           1-2 (1-2)  ASK Voitsberg
+[Sun Sep/24]
+  16.00  Wolfsberger AC II        1-2 (1-2)  SV Ried II
+
+
+Matchday 10
+[Fri Sep/29]
+  19.00  ASK Voitsberg            2-0 (1-0)  Union Vöcklamarkt
+         FC Gleisdorf 09          0-1 (0-0)  USV St. Anna
+         LASK Amateure OÖ         2-2 (1-0)  WSC Hertha
+         Vorwärts Steyr           2-3 (1-3)  USV Allerheiligen
+         TuS Bad Gleichenberg     2-3 (1-1)  Deutschlandsberger SC
+[Sat Sep/30]
+  16.00  SV Ried II               2-4 (1-1)  SC Weiz
+         SV Wallern               1-0 (0-0)  Union Gurten
+[Sun Oct/1]
+  16.00  Wolfsberger AC II        0-3 (0-2)  ASK Klagenfurt
+
+
+Matchday 11
+[Fri Oct/6]
+  19.00  Deutschlandsberger SC    1-1 (1-0)  Vorwärts Steyr
+         USV Allerheiligen        1-0 (0-0)  ASK Voitsberg
+         Union Vöcklamarkt        1-0 (1-0)  Wolfsberger AC II
+         SC Weiz                  1-1 (1-1)  LASK Amateure OÖ
+[Sat Oct/7]
+  19.00  WSC Hertha               2-2 (1-1)  SV Wallern
+         USV St. Anna             1-0 (0-0)  TuS Bad Gleichenberg
+  16.00  Union Gurten             2-1 (2-0)  FC Gleisdorf 09
+[Sun Oct/8]
+  15.00  ASK Klagenfurt           3-3 (2-1)  SV Ried II
+
+
+Matchday 12
+[Fri Oct/13]
+  18.30  Vorwärts Steyr           0-0  USV St. Anna
+         Union Gurten             3-1 (3-1)  TuS Bad Gleichenberg
+  18.45  FC Gleisdorf 09          0-2 (0-1)  WSC Hertha
+         SV Wallern               4-2 (1-0)  SC Weiz
+         ASK Voitsberg            1-1 (1-1)  Deutschlandsberger SC
+[Sat Oct/14]
+  16.00  SV Ried II               2-5 (2-3)  LASK Amateure OÖ
+  15.00  Wolfsberger AC II        1-2 (0-1)  USV Allerheiligen
+[Sun Oct/15]
+  14.30  ASK Klagenfurt           3-1 (3-0)  Union Vöcklamarkt
+
+
+Matchday 13
+[Fri Oct/20]
+  19.00  Deutschlandsberger SC    0-2 (0-1)  Wolfsberger AC II
+         LASK Amateure OÖ         1-1 (1-1)  SV Wallern
+         USV Allerheiligen        3-0 (0-0)  ASK Klagenfurt
+         Union Vöcklamarkt        4-2 (3-2)  SV Ried II
+         WSC Hertha               2-2 (1-2)  TuS Bad Gleichenberg
+         SC Weiz                  1-2 (1-1)  FC Gleisdorf 09
+[Sat Oct/21]
+  19.00  USV St. Anna             1-6 (1-4)  ASK Voitsberg
+  16.00  Union Gurten             1-1 (0-0)  Vorwärts Steyr
+
+
+Matchday 14
+[Fri Oct/27]
+  19.00  Vorwärts Steyr           1-0 (0-0)  WSC Hertha
+         TuS Bad Gleichenberg     2-4 (0-3)  SC Weiz
+         Union Gurten             0-2 (0-0)  ASK Voitsberg
+         Union Vöcklamarkt        2-0 (1-0)  USV Allerheiligen
+[Sat Oct/28]
+  15.30  SV Ried II               0-3 (0-1)  SV Wallern
+[Sun Oct/29]
+  15.00  Wolfsberger AC II        0-0  USV St. Anna
+  14.00  ASK Klagenfurt           3-1 (2-1)  Deutschlandsberger SC
+
+
+Matchday 15
+[Fri Nov/3]
+  19.00  SC Weiz                  1-2 (0-1)  Vorwärts Steyr
+  18.30  Union Gurten             0-2 (0-0)  Wolfsberger AC II
+  19.00  Deutschlandsberger SC    4-1 (2-1)  Union Vöcklamarkt
+         LASK Amateure OÖ         1-0 (0-0)  TuS Bad Gleichenberg
+         SV Wallern               2-1 (0-0)  FC Gleisdorf 09
+         WSC Hertha               2-3 (1-1)  ASK Voitsberg
+[Sat Nov/4]
+  17.00  USV St. Anna             4-0 (2-0)  ASK Klagenfurt
+[Tue Nov/7]
+  19.00  USV Allerheiligen        2-3 (1-1)  SV Ried II
+
+
+Matchday 14
+[Tue Nov/7]
+  18.30  FC Gleisdorf 09          0-4 (0-3)  LASK Amateure OÖ
+
+
+Matchday 16
+[Fri Mar/1]
+  19.00  Deutschlandsberger SC    0-1 (0-0)  USV Allerheiligen
+         LASK Amateure OÖ         1-0 (0-0)  Vorwärts Steyr
+         SC Weiz                  1-3 (0-1)  ASK Voitsberg
+         SV Wallern               5-1 (2-1)  TuS Bad Gleichenberg
+         WSC Hertha               1-3 (1-0)  Wolfsberger AC II
+[Sat Mar/2]
+  15.30  Union Gurten             1-0 (1-0)  ASK Klagenfurt
+  17.00  USV St. Anna             3-1 (1-1)  Union Vöcklamarkt
+  15.00  SV Ried II               2-1 (0-1)  FC Gleisdorf 09
+
+
+Matchday 17
+[Fri Mar/8]
+  19.00  ASK Voitsberg            3-0 (1-0)  LASK Amateure OÖ
+         Deutschlandsberger SC    1-2 (1-1)  SV Ried II
+         Vorwärts Steyr           2-0 (1-0)  SV Wallern
+         USV Allerheiligen        4-0 (1-0)  USV St. Anna
+         TuS Bad Gleichenberg     1-1 (0-0)  FC Gleisdorf 09
+         Union Vöcklamarkt        0-3 (0-0)  Union Gurten
+[Sat Mar/9]
+  14.30  Wolfsberger AC II        1-2 (0-1)  SC Weiz
+  14.00  ASK Klagenfurt           3-2 (1-1)  WSC Hertha
+
+
+Matchday 18
+[Fri Mar/15]
+  19.00  FC Gleisdorf 09          3-0 (1-0)  Vorwärts Steyr
+         LASK Amateure OÖ         1-1 (0-0)  Wolfsberger AC II
+         SC Weiz                  1-4 (0-2)  ASK Klagenfurt
+         WSC Hertha               3-0 (2-0)  Union Vöcklamarkt
+  19.30  SV Wallern               1-1 (1-1)  ASK Voitsberg
+[Sat Mar/16]
+  15.30  Union Gurten             5-0 (3-0)  USV Allerheiligen
+  17.00  USV St. Anna             2-0 (2-0)  Deutschlandsberger SC
+  15.00  SV Ried II               4-4 (2-2)  TuS Bad Gleichenberg
+
+
+Matchday 19
+[Fri Mar/22]
+  19.00  ASK Voitsberg            1-1 (1-1)  FC Gleisdorf 09
+         USV St. Anna             3-1 (1-0)  SV Ried II
+         Deutschlandsberger SC    1-1 (0-0)  Union Gurten
+         Vorwärts Steyr           3-2 (2-0)  TuS Bad Gleichenberg
+         USV Allerheiligen        1-1 (0-0)  WSC Hertha
+         Union Vöcklamarkt        0-1 (0-1)  SC Weiz
+         Wolfsberger AC II        2-2 (2-0)  SV Wallern
+[Sun Mar/24]
+  14.30  ASK Klagenfurt           2-1 (2-0)  LASK Amateure OÖ
+
+
+Matchday 20
+[Fri Mar/29]
+  19.00  FC Gleisdorf 09          3-2 (1-0)  Wolfsberger AC II
+         LASK Amateure OÖ         3-0 (0-0)  Union Vöcklamarkt
+         SC Weiz                  2-0 (2-0)  USV Allerheiligen
+         SV Wallern               2-1 (2-0)  ASK Klagenfurt
+         TuS Bad Gleichenberg     1-6 (0-4)  ASK Voitsberg
+         WSC Hertha               1-1 (0-0)  Deutschlandsberger SC
+[Sat Mar/30]
+  17.00  SV Ried II               2-1 (2-1)  Vorwärts Steyr
+  15.30  Union Gurten             1-0 (0-0)  USV St. Anna
+
+
+Matchday 21
+[Fri Apr/5]
+  19.00  Deutschlandsberger SC    0-2 (0-0)  SC Weiz
+         USV Allerheiligen        0-5 (0-3)  LASK Amateure OÖ
+         Union Gurten             1-0 (1-0)  SV Ried II
+         Union Vöcklamarkt        3-1 (1-1)  SV Wallern
+  19.30  ASK Voitsberg            1-0 (1-0)  Vorwärts Steyr
+[Sat Apr/6]
+  19.00  USV St. Anna             0-2 (0-1)  WSC Hertha
+  15.00  Wolfsberger AC II        0-3  TuS Bad Gleichenberg     [awarded]
+[Sun Apr/7]
+  11.00  ASK Klagenfurt           2-0 (1-0)  FC Gleisdorf 09
+
+
+Matchday 22
+[Fri Apr/12]
+  19.00  FC Gleisdorf 09          2-2 (2-2)  Union Vöcklamarkt
+         LASK Amateure OÖ         2-0 (0-0)  Deutschlandsberger SC
+         Vorwärts Steyr           1-2 (1-1)  Wolfsberger AC II
+         SV Wallern               5-3 (3-2)  USV Allerheiligen
+         SV Ried II               1-3 (0-1)  ASK Voitsberg
+         TuS Bad Gleichenberg     3-1 (0-0)  ASK Klagenfurt
+         WSC Hertha               0-1 (0-1)  Union Gurten
+
+
+Matchday 23
+[Fri Apr/19]
+  19.00  Deutschlandsberger SC    3-0 (0-0)  SV Wallern
+         USV Allerheiligen        0-2 (0-1)  FC Gleisdorf 09
+         Union Vöcklamarkt        2-1 (1-0)  TuS Bad Gleichenberg
+         WSC Hertha               5-0 (2-0)  SV Ried II
+[Sat Apr/20]
+  16.00  Union Gurten             1-1 (0-0)  SC Weiz
+  19.00  USV St. Anna             3-1 (1-0)  LASK Amateure OÖ
+[Sun Apr/21]
+  15.30  ASK Klagenfurt           2-1 (1-1)  Vorwärts Steyr
+  15.00  Wolfsberger AC II        3-2 (1-1)  ASK Voitsberg
+
+
+Matchday 24
+[Fri Apr/26]
+  18.00  SV Wallern               5-1 (2-1)  USV St. Anna
+  19.00  ASK Voitsberg            3-2 (2-2)  ASK Klagenfurt
+         FC Gleisdorf 09          1-4 (1-2)  Deutschlandsberger SC
+         LASK Amateure OÖ         1-0 (1-0)  Union Gurten
+         SC Weiz                  1-3 (0-1)  WSC Hertha
+         Vorwärts Steyr           0-0  Union Vöcklamarkt
+         TuS Bad Gleichenberg     4-3 (1-1)  USV Allerheiligen
+[Sat Apr/27]
+  15.00  SV Ried II               2-2 (2-0)  Wolfsberger AC II
+
+
+Matchday 25
+[Fri May/3]
+  19.00  Union Vöcklamarkt        0-2 (0-2)  ASK Voitsberg
+         SC Weiz                  5-3 (1-2)  SV Ried II
+         USV Allerheiligen        3-4 (1-1)  Vorwärts Steyr
+         Union Gurten             2-0 (1-0)  SV Wallern
+  19.30  Deutschlandsberger SC    5-1 (4-0)  TuS Bad Gleichenberg
+[Sat May/4]
+  19.00  USV St. Anna             1-1 (0-1)  FC Gleisdorf 09
+[Sun May/5]
+  10.30  ASK Klagenfurt           1-1 (0-0)  Wolfsberger AC II
+
+
+Matchday 22
+[Tue May/7]
+  19.00  SC Weiz                  2-2 (1-0)  USV St. Anna
+
+
+Matchday 26
+[Wed May/8]
+  19.30  SV Wallern               1-2 (0-0)  WSC Hertha
+[Fri May/10]
+  19.00  ASK Voitsberg            3-2 (1-1)  USV Allerheiligen
+         FC Gleisdorf 09          0-2 (0-1)  Union Gurten
+         Vorwärts Steyr           2-2 (0-2)  Deutschlandsberger SC
+         LASK Amateure OÖ         2-2 (0-1)  SC Weiz
+[Sat May/11]
+  19.00  TuS Bad Gleichenberg     1-2 (0-0)  USV St. Anna
+  15.00  SV Ried II               2-1 (0-1)  ASK Klagenfurt
+  15.30  Wolfsberger AC II        1-1 (0-0)  Union Vöcklamarkt
+
+
+Matchday 25
+[Tue May/14]
+  19.00  WSC Hertha               0-1  LASK Amateure OÖ
+
+
+Matchday 27
+[Fri May/17]
+  19.00  Deutschlandsberger SC    4-0 (3-0)  ASK Voitsberg
+         LASK Amateure OÖ         0-2 (0-2)  SV Ried II
+         SC Weiz                  4-0 (2-0)  SV Wallern
+         USV Allerheiligen        0-2 (0-0)  Wolfsberger AC II
+         TuS Bad Gleichenberg     3-0 (1-0)  Union Gurten
+         Union Vöcklamarkt        2-1 (0-0)  ASK Klagenfurt
+         WSC Hertha               0-0  FC Gleisdorf 09
+[Sat May/18]
+  19.00  USV St. Anna             2-1 (0-1)  Vorwärts Steyr
+
+
+Matchday 28
+[Fri May/24]
+  19.00  ASK Voitsberg            3-1 (2-0)  USV St. Anna
+         FC Gleisdorf 09          0-3 (0-0)  SC Weiz
+         Vorwärts Steyr           1-1 (0-0)  Union Gurten
+         SV Wallern               0-8 (0-1)  LASK Amateure OÖ
+         SV Ried II               2-2 (0-1)  Union Vöcklamarkt
+         TuS Bad Gleichenberg     4-3 (3-2)  WSC Hertha
+[Sun May/26]
+  17.00  ASK Klagenfurt           2-0 (1-0)  USV Allerheiligen
+  16.00  Wolfsberger AC II        3-0 (3-0)  Deutschlandsberger SC
+
+
+Matchday 29
+[Fri May/31]
+  19.00  ASK Voitsberg            3-2 (2-1)  Union Gurten
+         Deutschlandsberger SC    4-1 (2-1)  ASK Klagenfurt
+         LASK Amateure OÖ         3-1 (1-0)  FC Gleisdorf 09
+         SC Weiz                  5-2 (2-0)  TuS Bad Gleichenberg
+         SV Wallern               0-1 (0-0)  SV Ried II
+         USV Allerheiligen        1-2 (1-2)  Union Vöcklamarkt
+         USV St. Anna             0-3 (0-1)  Wolfsberger AC II
+         WSC Hertha               2-0 (1-0)  Vorwärts Steyr
+
+
+Matchday 30
+[Fri Jun/7]
+  19.00  ASK Voitsberg            2-0 (1-0)  WSC Hertha
+         FC Gleisdorf 09          1-1 (0-0)  SV Wallern
+         Vorwärts Steyr           0-0  SC Weiz
+         SV Ried II               5-1 (1-1)  USV Allerheiligen
+         TuS Bad Gleichenberg     2-1 (1-1)  LASK Amateure OÖ
+         Union Vöcklamarkt        3-0 (2-0)  Deutschlandsberger SC
+         Wolfsberger AC II        0-4 (0-1)  Union Gurten
+  18.00  ASK Klagenfurt           5-1 (5-0)  USV St. Anna
