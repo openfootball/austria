@@ -82,31 +82,31 @@ Matchday 7
 
 Matchday 6
 [Wed Sep/25]
-  18.30  Austria Wien             -  Sturm Graz
+  18.30  Austria Wien             2-2 (0-2)  Sturm Graz
 [Thu Sep/26]
-  18.30  TSV Hartberg             -  WSG Tirol
+  18.30  TSV Hartberg             1-0 (0-0)  WSG Tirol
 
 
 Matchday 8
 [Sat Sep/28]
-  17.00  FC Blau Weiß Linz        -  Sturm Graz
-         RB Salzburg              -  Austria Wien
-         Rapid Wien               -  LASK
+  17.00  FC Blau Weiß Linz        1-2 (1-1)  Sturm Graz
+         RB Salzburg              2-0 (1-0)  Austria Wien
+         Rapid Wien               1-1 (1-0)  LASK
 [Sun Sep/29]
-  14.30  Wolfsberger AC           -  WSG Tirol
-         TSV Hartberg             -  SCR Altach
-  17.00  Grazer AK                -  SK Austria Klagenfurt
+  14.30  Wolfsberger AC           1-3 (0-0)  WSG Tirol
+         TSV Hartberg             2-0 (0-0)  SCR Altach
+  17.00  Grazer AK                0-1 (0-1)  SK Austria Klagenfurt
 
 
 Matchday 9
 [Sat Oct/5]
-  17.00  Austria Wien             -  Grazer AK
-         WSG Tirol                -  FC Blau Weiß Linz
-         Wolfsberger AC           -  TSV Hartberg
+  17.00  Austria Wien             2-1 (1-0)  Grazer AK
+         WSG Tirol                1-1 (0-1)  FC Blau Weiß Linz
+         Wolfsberger AC           2-3 (0-1)  TSV Hartberg
 [Sun Oct/6]
-  14.30  Sturm Graz               -  RB Salzburg
-  17.00  SCR Altach               -  Rapid Wien
-  14.30  LASK                     -  SK Austria Klagenfurt
+  14.30  SCR Altach               0-1 (0-1)  Rapid Wien
+  17.00  Sturm Graz               -  RB Salzburg
+  14.30  LASK                     4-0 (1-0)  SK Austria Klagenfurt
 
 
 Matchday 10
