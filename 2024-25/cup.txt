@@ -1,8 +1,8 @@
 = ÖFB Cup 2024/25
 
-# Date       Fri Jul/26 - Wed Sep/25 2024 (61d)
+# Date       Fri Jul/26 - Wed Oct/30 2024 (96d)
 # Teams      64
-# Matches    48
+# Matches    56
 
 
 
@@ -38,21 +38,21 @@ Round 1
          SV Leobendorf            2-3 (1-0)  SKN St. Pölten
   19.30  ASV Siegendorf           2-1 (2-0)  Floridsdorfer AC
 [Sun Jul/28]
+  10.30  SC Röthis                0-11 (0-6)  SV Ried
   16.00  FC Pinzgau Saalfelden    0-6 (0-4)  Austria Wien
   16.30  SC Imst                  0-3 (0-1)  WSG Tirol
   18.30  SC Neusiedl/See 1919     0-2 (0-1)  Rapid Wien
-  10.30  SC Röthis                0-11 (0-6)  SV Ried
 
 
 Round 2
 [Tue Aug/27]
-  19.00  First Vienna FC          0-3 (0-2)  SV Stripfing/Weiden
-         SV Horn                  3-1 (1-0)  SKU Amstetten
+  19.00  SV Horn                  3-1 (1-0)  SKU Amstetten
          FC Admira Wacker         1-3 (0-1)  Austria Lustenau
          SKN St. Pölten           0-2 (0-1)  Schwarz-Weiß Bregenz
          Deutschlandsberger SC    2-4 (1-1)  WSG Tirol
          SV Lafnitz               0-6 (0-3)  TSV Hartberg
          ASV Siegendorf           0-5 (0-3)  SK Austria Klagenfurt
+         First Vienna FC          0-3 (0-2)  SV Stripfing/Weiden
 [Wed Aug/28]
   17.30  SVG Reichenau            0-9 (0-3)  Grazer AK
   18.00  SV Ried                  1-3 (1-3)  Sturm Graz
@@ -61,7 +61,20 @@ Round 2
          ASKÖ Oedt                2-3 (1-2)  Austria Wien
   19.30  SV Wallern               0-2 (0-0)  Wolfsberger AC
 [Tue Sep/24]
-  18.00  Sportunion Mauer         -  LASK
+  18.00  Sportunion Mauer         0-4 (0-2)  LASK
 [Wed Sep/25]
-  18.00  SC Wiener Viktoria       -  RB Salzburg
-         SR Donaufeld             -  Rapid Wien
+  18.00  SC Wiener Viktoria       0-4 (0-2)  RB Salzburg
+         SR Donaufeld             1-3 (1-0)  Rapid Wien
+
+
+Round of 16
+[Tue Oct/29]
+  Austria Lustenau         -  TSV Hartberg
+[Wed Oct/30]
+  18.15  ASK Voitsberg            -  LASK
+         SV Horn                  -  Austria Wien
+         SV Stripfing/Weiden      -  Rapid Wien
+  19.00  Schwarz-Weiß Bregenz     -  Grazer AK
+  20.30  RB Salzburg              -  WSG Tirol
+         Wolfsberger AC           -  SK Austria Klagenfurt
+         Sturm Graz               -  FC Blau Weiß Linz
