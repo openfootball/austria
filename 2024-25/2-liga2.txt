@@ -245,7 +245,6 @@ Matchday 17
 
 Matchday 18
 [Fri Feb/28]
-         Schwarz-Weiß Bregenz     -  FC Liefering
          SV Horn                  -  ASK Voitsberg
          First Vienna FC          -  SV Stripfing/Weiden
          SV Ried                  -  Floridsdorfer AC
@@ -253,6 +252,8 @@ Matchday 18
          SKU Amstetten            -  SKN St. Pölten
          SV Lafnitz               -  FC Admira Wacker
          Kapfenberger SV 1919     -  Sturm Graz II
+[Sat Mar/1]
+  14.30  Schwarz-Weiß Bregenz     -  FC Liefering
 
 
 Matchday 19
