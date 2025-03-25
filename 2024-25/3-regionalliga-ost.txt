@@ -6,398 +6,402 @@
 
 
 
-Matchday 1
-[Fri Aug/2]
-  19.00  FC Marchfeld Donauauen   2-2 (1-1)  SR Donaufeld
-         SC Neusiedl/See 1919     4-2 (1-1)  Favoritner AC
-  19.30  TWL Elektra              3-3 (1-0)  ASV Siegendorf
-         SV Oberwart              2-2 (1-1)  SV Gloggnitz
-         Austria Wien II          1-0 (0-0)  SC Wiener Viktoria
-[Sat Aug/3]
-  17.00  Sportunion Mauer         2-0 (2-0)  FC Mauerwerk
-  18.00  Kremser SC               1-3 (0-1)  Wiener Sport-Club
-         SV Leobendorf            1-2 (1-0)  FCM Traiskirchen
+» Matchday 1
+  Fri Aug/2 2024
+    19.00  FC Marchfeld Donauauen  v SR Donaufeld             2-2 (1-1)
+           SC Neusiedl/See 1919    v Favoritner AC            4-2 (1-1)
+    19.30  TWL Elektra             v ASV Siegendorf           3-3 (1-0)
+           SV Oberwart             v SV Gloggnitz             2-2 (1-1)
+           Austria Wien II         v SC Wiener Viktoria       1-0 (0-0)
+  Sat Aug/3
+    17.00  Sportunion Mauer        v FC Mauerwerk             2-0 (2-0)
+    18.00  Kremser SC              v Wiener Sport-Club        1-3 (0-1)
+           SV Leobendorf           v FCM Traiskirchen         1-2 (1-0)
 
 
-Matchday 2
-[Fri Aug/9]
-  19.00  SC Neusiedl/See 1919     0-3 (0-0)  FC Marchfeld Donauauen
-         ASV Siegendorf           3-1 (0-1)  Sportunion Mauer
-  19.30  SV Gloggnitz             0-2 (0-1)  Austria Wien II
-         FCM Traiskirchen         1-1 (1-1)  TWL Elektra
-[Sat Aug/10]
-  16.00  Favoritner AC            0-1 (0-1)  FC Mauerwerk
-         SC Wiener Viktoria       1-1 (0-0)  SV Leobendorf
-  17.00  Wiener Sport-Club        2-2 (2-1)  SV Oberwart
-         SR Donaufeld             3-2 (0-1)  Kremser SC
+» Matchday 2
+  Fri Aug/9
+    19.00  SC Neusiedl/See 1919    v FC Marchfeld Donauauen   0-3 (0-0)
+           ASV Siegendorf          v Sportunion Mauer         3-1 (0-1)
+    19.30  SV Gloggnitz            v Austria Wien II          0-2 (0-1)
+           FCM Traiskirchen        v TWL Elektra              1-1 (1-1)
+  Sat Aug/10
+    16.00  Favoritner AC           v FC Mauerwerk             0-1 (0-1)
+           SC Wiener Viktoria      v SV Leobendorf            1-1 (0-0)
+    17.00  Wiener Sport-Club       v SV Oberwart              2-2 (2-1)
+           SR Donaufeld            v Kremser SC               3-2 (0-1)
 
 
-Matchday 3
-[Fri Aug/16]
-  19.00  FC Marchfeld Donauauen   1-0 (0-0)  Favoritner AC
-         FC Mauerwerk             1-0 (0-0)  ASV Siegendorf
-  19.30  Kremser SC               1-1 (0-1)  SC Neusiedl/See 1919
-         TWL Elektra              4-0 (1-0)  SC Wiener Viktoria
-         SV Oberwart              3-1 (1-0)  SR Donaufeld
-[Sat Aug/17]
-  16.00  Austria Wien II          0-0  Wiener Sport-Club
-  17.00  Sportunion Mauer         3-1 (2-0)  FCM Traiskirchen
-  18.00  SV Leobendorf            5-0 (2-0)  SV Gloggnitz
+» Matchday 3
+  Fri Aug/16
+    19.00  FC Marchfeld Donauauen  v Favoritner AC            1-0 (0-0)
+           FC Mauerwerk            v ASV Siegendorf           1-0 (0-0)
+    19.30  Kremser SC              v SC Neusiedl/See 1919     1-1 (0-1)
+           TWL Elektra             v SC Wiener Viktoria       4-0 (1-0)
+           SV Oberwart             v SR Donaufeld             3-1 (1-0)
+  Sat Aug/17
+    16.00  Austria Wien II         v Wiener Sport-Club        0-0
+    17.00  Sportunion Mauer        v FCM Traiskirchen         3-1 (2-0)
+    18.00  SV Leobendorf           v SV Gloggnitz             5-0 (2-0)
 
 
-Matchday 4
-[Fri Aug/23]
-  19.00  SV Gloggnitz             0-2 (0-1)  TWL Elektra
-         FC Marchfeld Donauauen   1-1 (1-1)  Kremser SC
-         SC Neusiedl/See 1919     0-1 (0-0)  SV Oberwart
-  19.30  FCM Traiskirchen         5-1 (3-1)  FC Mauerwerk
-[Sat Aug/24]
-  16.00  Favoritner AC            1-1 (1-1)  ASV Siegendorf
-  17.00  Wiener Sport-Club        1-2 (0-0)  SV Leobendorf
-         SR Donaufeld             3-0 (1-0)  Austria Wien II
-  18.00  SC Wiener Viktoria       1-0 (1-0)  Sportunion Mauer
+» Matchday 4
+  Fri Aug/23
+    19.00  SV Gloggnitz            v TWL Elektra              0-2 (0-1)
+           FC Marchfeld Donauauen  v Kremser SC               1-1 (1-1)
+           SC Neusiedl/See 1919    v SV Oberwart              0-1 (0-0)
+    19.30  FCM Traiskirchen        v FC Mauerwerk             5-1 (3-1)
+  Sat Aug/24
+    16.00  Favoritner AC           v ASV Siegendorf           1-1 (1-1)
+    17.00  Wiener Sport-Club       v SV Leobendorf            1-2 (0-0)
+           SR Donaufeld            v Austria Wien II          3-0 (1-0)
+    18.00  SC Wiener Viktoria      v Sportunion Mauer         1-0 (1-0)
 
 
-Matchday 5
-[Fri Aug/30]
-  19.00  FC Mauerwerk             5-1 (2-1)  SC Wiener Viktoria
-         ASV Siegendorf           1-5 (0-3)  FCM Traiskirchen
-  19.30  Austria Wien II          1-3 (0-2)  SC Neusiedl/See 1919
-         SV Oberwart              1-1 (0-0)  FC Marchfeld Donauauen
-         TWL Elektra              3-0 (2-0)  Wiener Sport-Club
-         Kremser SC               2-1 (1-0)  Favoritner AC
-[Sat Aug/31]
-  17.00  Sportunion Mauer         2-0 (2-0)  SV Gloggnitz
-  18.00  SV Leobendorf            0-1 (0-1)  SR Donaufeld
+» Matchday 5
+  Fri Aug/30
+    19.00  FC Mauerwerk            v SC Wiener Viktoria       5-1 (2-1)
+           ASV Siegendorf          v FCM Traiskirchen         1-5 (0-3)
+    19.30  Austria Wien II         v SC Neusiedl/See 1919     1-3 (0-2)
+           SV Oberwart             v FC Marchfeld Donauauen   1-1 (0-0)
+           TWL Elektra             v Wiener Sport-Club        3-0 (2-0)
+           Kremser SC              v Favoritner AC            2-1 (1-0)
+  Sat Aug/31
+    17.00  Sportunion Mauer        v SV Gloggnitz             2-0 (2-0)
+    18.00  SV Leobendorf           v SR Donaufeld             0-1 (0-1)
 
 
-Matchday 6
-[Thu Sep/5]
-  19.30  SC Neusiedl/See 1919     3-0 (3-0)  SV Leobendorf
-[Fri Sep/6]
-  18.45  Kremser SC               1-1 (1-1)  SV Oberwart
-         SV Gloggnitz             1-1 (1-0)  FC Mauerwerk
-         Favoritner AC            2-0 (1-0)  FCM Traiskirchen
-[Sat Sep/7]
-  15.30  Wiener Sport-Club        5-2 (3-2)  Sportunion Mauer
-  16.00  SR Donaufeld             2-1 (1-1)  TWL Elektra
-  18.00  SC Wiener Viktoria       2-6 (2-3)  ASV Siegendorf
-[Tue Sep/24]
-  19.00  FC Marchfeld Donauauen   0-0  Austria Wien II
+» Matchday 6
+  Thu Sep/5
+    19.30  SC Neusiedl/See 1919    v SV Leobendorf            3-0 (3-0)
+  Fri Sep/6
+    18.45  Kremser SC              v SV Oberwart              1-1 (1-1)
+           SV Gloggnitz            v FC Mauerwerk             1-1 (1-0)
+           Favoritner AC           v FCM Traiskirchen         2-0 (1-0)
+  Sat Sep/7
+    15.30  Wiener Sport-Club       v Sportunion Mauer         5-2 (3-2)
+    16.00  SR Donaufeld            v TWL Elektra              2-1 (1-1)
+    18.00  SC Wiener Viktoria      v ASV Siegendorf           2-6 (2-3)
+  Tue Sep/24
+    19.00  FC Marchfeld Donauauen  v Austria Wien II          0-0
 
 
-Matchday 7
-[Tue Sep/24]
-  19.30  ASV Siegendorf           2-3 (0-2)  SV Gloggnitz
-         FC Mauerwerk             2-3 (0-0)  Wiener Sport-Club
-         TWL Elektra              3-4 (2-1)  SC Neusiedl/See 1919
-         SV Oberwart              4-0 (1-0)  Favoritner AC
-[Tue Oct/1]
-  19.00  SC Wiener Viktoria       1-1 (0-0)  FCM Traiskirchen
-  19.30  SV Leobendorf            0-0  FC Marchfeld Donauauen
-         Austria Wien II          2-1 (1-0)  Kremser SC
-[Sat Nov/16]
-  14.00  Sportunion Mauer         0-1 (0-0)  SR Donaufeld
+» Matchday 7
+  Tue Sep/24
+    19.30  ASV Siegendorf          v SV Gloggnitz             2-3 (0-2)
+           FC Mauerwerk            v Wiener Sport-Club        2-3 (0-0)
+           TWL Elektra             v SC Neusiedl/See 1919     3-4 (2-1)
+           SV Oberwart             v Favoritner AC            4-0 (1-0)
+  Tue Oct/1
+    19.00  SC Wiener Viktoria      v FCM Traiskirchen         1-1 (0-0)
+    19.30  SV Leobendorf           v FC Marchfeld Donauauen   0-0
+           Austria Wien II         v Kremser SC               2-1 (1-0)
+  Sat Nov/16
+    14.00  Sportunion Mauer        v SR Donaufeld             0-1 (0-0)
 
 
-Matchday 8
-[Fri Sep/20]
-  19.00  FC Marchfeld Donauauen   2-1 (2-0)  TWL Elektra
-         SV Gloggnitz             1-1 (1-0)  FCM Traiskirchen
-         SC Neusiedl/See 1919     3-0 (1-0)  Sportunion Mauer
-  19.30  SV Oberwart              0-0  Austria Wien II
-  20.15  Kremser SC               2-1 (2-1)  SV Leobendorf
-[Sat Sep/21]
-  14.30  Wiener Sport-Club        1-1 (1-1)  ASV Siegendorf
-  16.00  SR Donaufeld             2-2 (1-1)  FC Mauerwerk
-         Favoritner AC            2-0 (2-0)  SC Wiener Viktoria
+» Matchday 8
+  Fri Sep/20
+    19.00  FC Marchfeld Donauauen  v TWL Elektra              2-1 (2-0)
+           SV Gloggnitz            v FCM Traiskirchen         1-1 (1-0)
+           SC Neusiedl/See 1919    v Sportunion Mauer         3-0 (1-0)
+    19.30  SV Oberwart             v Austria Wien II          0-0
+    20.15  Kremser SC              v SV Leobendorf            2-1 (2-1)
+  Sat Sep/21
+    14.30  Wiener Sport-Club       v ASV Siegendorf           1-1 (1-1)
+    16.00  SR Donaufeld            v FC Mauerwerk             2-2 (1-1)
+           Favoritner AC           v SC Wiener Viktoria       2-0 (2-0)
 
 
-Matchday 9
-[Fri Sep/27]
-  19.00  FC Mauerwerk             0-3 (0-1)  SC Neusiedl/See 1919
-  19.30  Austria Wien II          2-1 (1-1)  Favoritner AC
-         TWL Elektra              1-1 (0-1)  Kremser SC
-[Sat Sep/28]
-  14.00  Sportunion Mauer         1-0 (1-0)  FC Marchfeld Donauauen
-  17.00  ASV Siegendorf           2-1 (1-1)  SR Donaufeld
-  18.00  SV Leobendorf            0-1 (0-0)  SV Oberwart
-         SC Wiener Viktoria       3-1 (1-1)  SV Gloggnitz
-[Mon Apr/21]
-  17.00  FCM Traiskirchen         -  Wiener Sport-Club
+» Matchday 9
+  Fri Sep/27
+    19.00  FC Mauerwerk            v SC Neusiedl/See 1919     0-3 (0-1)
+    19.30  Austria Wien II         v Favoritner AC            2-1 (1-1)
+           TWL Elektra             v Kremser SC               1-1 (0-1)
+  Sat Sep/28
+    14.00  Sportunion Mauer        v FC Marchfeld Donauauen   1-0 (1-0)
+    17.00  ASV Siegendorf          v SR Donaufeld             2-1 (1-1)
+    18.00  SV Leobendorf           v SV Oberwart              0-1 (0-0)
+           SC Wiener Viktoria      v SV Gloggnitz             3-1 (1-1)
+  Mon Apr/21 2025
+    17.00  FCM Traiskirchen        v Wiener Sport-Club
 
 
-Matchday 10
-[Fri Oct/4]
-  19.00  SC Neusiedl/See 1919     3-3 (2-2)  ASV Siegendorf
-  19.30  SV Oberwart              1-1 (1-0)  TWL Elektra
-         Austria Wien II          1-0 (1-0)  SV Leobendorf
-[Sat Oct/5]
-  14.30  Wiener Sport-Club        3-3 (2-0)  SC Wiener Viktoria
-  15.30  SR Donaufeld             1-1 (0-1)  FCM Traiskirchen
-  16.00  FC Marchfeld Donauauen   5-0 (1-0)  FC Mauerwerk
-         Favoritner AC            2-1 (1-0)  SV Gloggnitz
-[Tue Oct/15]
-  19.30  Kremser SC               3-0 (2-0)  Sportunion Mauer
+» Matchday 10
+  Fri Oct/4 2024
+    19.00  SC Neusiedl/See 1919    v ASV Siegendorf           3-3 (2-2)
+    19.30  SV Oberwart             v TWL Elektra              1-1 (1-0)
+           Austria Wien II         v SV Leobendorf            1-0 (1-0)
+  Sat Oct/5
+    14.30  Wiener Sport-Club       v SC Wiener Viktoria       3-3 (2-0)
+    15.30  SR Donaufeld            v FCM Traiskirchen         1-1 (0-1)
+    16.00  FC Marchfeld Donauauen  v FC Mauerwerk             5-0 (1-0)
+           Favoritner AC           v SV Gloggnitz             2-1 (1-0)
+  Tue Oct/15
+    19.30  Kremser SC              v Sportunion Mauer         3-0 (2-0)
 
 
-Matchday 11
-[Fri Oct/11]
-  19.00  FC Mauerwerk             0-3 (0-2)  Kremser SC
-         ASV Siegendorf           1-3 (0-1)  FC Marchfeld Donauauen
-         SC Neusiedl/See 1919     1-0 (0-0)  FCM Traiskirchen
-[Sat Oct/12]
-  14.00  Sportunion Mauer         1-1 (0-1)  SV Oberwart
-  16.00  SV Gloggnitz             0-2 (0-1)  Wiener Sport-Club
-         SC Wiener Viktoria       0-0  SR Donaufeld
-  16.30  SV Leobendorf            1-1 (0-0)  Favoritner AC
-[Tue Oct/22]
-  19.30  TWL Elektra              1-1 (0-0)  Austria Wien II
+» Matchday 11
+  Fri Oct/11
+    19.00  FC Mauerwerk            v Kremser SC               0-3 (0-2)
+           ASV Siegendorf          v FC Marchfeld Donauauen   1-3 (0-1)
+           SC Neusiedl/See 1919    v FCM Traiskirchen         1-0 (0-0)
+  Sat Oct/12
+    14.00  Sportunion Mauer        v SV Oberwart              1-1 (0-1)
+    16.00  SV Gloggnitz            v Wiener Sport-Club        0-2 (0-1)
+           SC Wiener Viktoria      v SR Donaufeld             0-0
+    16.30  SV Leobendorf           v Favoritner AC            1-1 (0-0)
+  Tue Oct/22
+    19.30  TWL Elektra             v Austria Wien II          1-1 (0-0)
 
 
-Matchday 12
-[Fri Oct/18]
-  19.00  SC Neusiedl/See 1919     1-1 (0-0)  SC Wiener Viktoria
-         FC Marchfeld Donauauen   2-3 (0-2)  FCM Traiskirchen
-  19.30  SV Oberwart              2-1 (0-0)  FC Mauerwerk
-         Kremser SC               3-0 (0-0)  ASV Siegendorf
-         Austria Wien II          5-1 (2-0)  Sportunion Mauer
-[Sat Oct/19]
-  15.30  SR Donaufeld             2-3 (1-3)  SV Gloggnitz
-  16.30  SV Leobendorf            5-3 (3-0)  TWL Elektra
-  19.00  Favoritner AC            4-2 (1-1)  Wiener Sport-Club
+» Matchday 12
+  Fri Oct/18
+    19.00  SC Neusiedl/See 1919    v SC Wiener Viktoria       1-1 (0-0)
+           FC Marchfeld Donauauen  v FCM Traiskirchen         2-3 (0-2)
+    19.30  SV Oberwart             v FC Mauerwerk             2-1 (0-0)
+           Kremser SC              v ASV Siegendorf           3-0 (0-0)
+           Austria Wien II         v Sportunion Mauer         5-1 (2-0)
+  Sat Oct/19
+    15.30  SR Donaufeld            v SV Gloggnitz             2-3 (1-3)
+    16.30  SV Leobendorf           v TWL Elektra              5-3 (3-0)
+    19.00  Favoritner AC           v Wiener Sport-Club        4-2 (1-1)
 
 
-Matchday 13
-[Fri Oct/25]
-  19.00  ASV Siegendorf           0-1 (0-1)  SV Oberwart
-         FC Mauerwerk             1-2 (0-1)  Austria Wien II
-  19.30  TWL Elektra              2-2 (0-2)  Favoritner AC
-         Kremser SC               5-1 (2-1)  FCM Traiskirchen
-[Sat Oct/26]
-  14.00  Wiener Sport-Club        2-2 (1-1)  SR Donaufeld
-         Sportunion Mauer         5-2 (2-1)  SV Leobendorf
-  14.30  SV Gloggnitz             3-0 (2-0)  SC Neusiedl/See 1919
-  16.00  SC Wiener Viktoria       0-4 (0-2)  FC Marchfeld Donauauen
+» Matchday 13
+  Fri Oct/25
+    19.00  ASV Siegendorf          v SV Oberwart              0-1 (0-1)
+           FC Mauerwerk            v Austria Wien II          1-2 (0-1)
+    19.30  TWL Elektra             v Favoritner AC            2-2 (0-2)
+           Kremser SC              v FCM Traiskirchen         5-1 (2-1)
+  Sat Oct/26
+    14.00  Wiener Sport-Club       v SR Donaufeld             2-2 (1-1)
+           Sportunion Mauer        v SV Leobendorf            5-2 (2-1)
+    14.30  SV Gloggnitz            v SC Neusiedl/See 1919     3-0 (2-0)
+    16.00  SC Wiener Viktoria      v FC Marchfeld Donauauen   0-4 (0-2)
 
 
-Matchday 14
-[Thu Oct/31]
-  19.30  SC Neusiedl/See 1919     4-1 (1-1)  Wiener Sport-Club
-[Fri Nov/1]
-  19.00  FC Marchfeld Donauauen   3-1 (1-1)  SV Gloggnitz
-         Austria Wien II          1-2 (1-2)  ASV Siegendorf
-  19.30  TWL Elektra              3-0 (1-0)  Sportunion Mauer
-         Kremser SC               2-1 (0-0)  SC Wiener Viktoria
-         SV Oberwart              1-0 (1-0)  FCM Traiskirchen
-[Sat Nov/2]
-  16.30  SV Leobendorf            0-0  FC Mauerwerk
-  18.00  Favoritner AC            2-4 (1-3)  SR Donaufeld
+» Matchday 14
+  Thu Oct/31
+    19.30  SC Neusiedl/See 1919    v Wiener Sport-Club        4-1 (1-1)
+  Fri Nov/1
+    19.00  FC Marchfeld Donauauen  v SV Gloggnitz             3-1 (1-1)
+           Austria Wien II         v ASV Siegendorf           1-2 (1-2)
+    19.30  TWL Elektra             v Sportunion Mauer         3-0 (1-0)
+           Kremser SC              v SC Wiener Viktoria       2-1 (0-0)
+           SV Oberwart             v FCM Traiskirchen         1-0 (1-0)
+  Sat Nov/2
+    16.30  SV Leobendorf           v FC Mauerwerk             0-0
+    18.00  Favoritner AC           v SR Donaufeld             2-4 (1-3)
 
 
-Matchday 15
-[Fri Nov/8]
-  19.00  FC Mauerwerk             1-1 (0-1)  TWL Elektra
-         ASV Siegendorf           0-3 (0-1)  SV Leobendorf
-  19.30  Austria Wien II          1-2 (0-1)  FCM Traiskirchen
-[Sat Nov/9]
-  13.00  Wiener Sport-Club        2-2 (0-2)  FC Marchfeld Donauauen
-  14.00  SR Donaufeld             1-0 (0-0)  SC Neusiedl/See 1919
-         SV Gloggnitz             2-5 (0-3)  Kremser SC
-         Sportunion Mauer         3-1 (0-0)  Favoritner AC
-  16.00  SC Wiener Viktoria       3-1 (1-0)  SV Oberwart
+» Matchday 15
+  Fri Nov/8
+    19.00  FC Mauerwerk            v TWL Elektra              1-1 (0-1)
+           ASV Siegendorf          v SV Leobendorf            0-3 (0-1)
+    19.30  Austria Wien II         v FCM Traiskirchen         1-2 (0-1)
+  Sat Nov/9
+    13.00  Wiener Sport-Club       v FC Marchfeld Donauauen   2-2 (0-2)
+    14.00  SR Donaufeld            v SC Neusiedl/See 1919     1-0 (0-0)
+           SV Gloggnitz            v Kremser SC               2-5 (0-3)
+           Sportunion Mauer        v Favoritner AC            3-1 (0-0)
+    16.00  SC Wiener Viktoria      v SV Oberwart              3-1 (1-0)
 
 
-Matchday 16
-[Fri Feb/28]
-  19.00  ASV Siegendorf           -  TWL Elektra
-         SV Gloggnitz             -  SV Oberwart
-         FC Mauerwerk             -  Sportunion Mauer
-  19.30  FCM Traiskirchen         -  SV Leobendorf
-         Wiener Sport-Club        -  Kremser SC
-         Favoritner AC            -  SC Neusiedl/See 1919
-[Sat Mar/1]
-  16.00  SR Donaufeld             -  FC Marchfeld Donauauen
-         SC Wiener Viktoria       -  Austria Wien II
+» Matchday 16
+  Fri Feb/28 2025
+    19.00  SV Gloggnitz            v SV Oberwart              0-0
+           FC Mauerwerk            v Sportunion Mauer         1-2 (0-0)
+    19.30  FCM Traiskirchen        v SV Leobendorf            2-2 (2-0)
+           Wiener Sport-Club       v Kremser SC               1-1 (1-1)
+           Favoritner AC           v SC Neusiedl/See 1919     0-2 (0-1)
+  Sat Mar/1
+    14.00  SR Donaufeld            v FC Marchfeld Donauauen   0-5 (0-3)
+    16.00  SC Wiener Viktoria      v Austria Wien II          1-5 (0-3)
+  Sun Mar/2
+    15.00  ASV Siegendorf          v TWL Elektra              0-2 (0-0)
 
 
-Matchday 17
-[Fri Mar/7]
-  19.00  FC Mauerwerk             -  Favoritner AC
-         FC Marchfeld Donauauen   -  SC Neusiedl/See 1919
-  19.30  Kremser SC               -  SR Donaufeld
-         SV Oberwart              -  Wiener Sport-Club
-         Austria Wien II          -  SV Gloggnitz
-         TWL Elektra              -  FCM Traiskirchen
-[Sat Mar/8]
-  14.00  Sportunion Mauer         -  ASV Siegendorf
-  16.30  SV Leobendorf            -  SC Wiener Viktoria
+» Matchday 17
+  Fri Mar/7
+    19.00  FC Mauerwerk            v Favoritner AC            0-1 (0-0)
+           FC Marchfeld Donauauen  v SC Neusiedl/See 1919     0-1 (0-0)
+    19.30  Kremser SC              v SR Donaufeld             0-0
+           SV Oberwart             v Wiener Sport-Club        0-2 (0-1)
+           Austria Wien II         v SV Gloggnitz             3-1 (2-1)
+           TWL Elektra             v FCM Traiskirchen         0-0
+  Sat Mar/8
+    14.00  Sportunion Mauer        v ASV Siegendorf           3-0 (2-0)
+    16.30  SV Leobendorf           v SC Wiener Viktoria       1-1 (0-0)
 
 
-Matchday 18
-[Fri Mar/14]
-  19.00  SV Gloggnitz             -  SV Leobendorf
-         SC Neusiedl/See 1919     -  Kremser SC
-         ASV Siegendorf           -  FC Mauerwerk
-  19.30  FCM Traiskirchen         -  Sportunion Mauer
-         Wiener Sport-Club        -  Austria Wien II
-         Favoritner AC            -  FC Marchfeld Donauauen
-[Sat Mar/15]
-  16.00  SR Donaufeld             -  SV Oberwart
-         SC Wiener Viktoria       -  TWL Elektra
+» Matchday 18
+  Fri Mar/14
+    18.00  SC Neusiedl/See 1919    v Kremser SC               3-2 (0-0)
+    19.30  FCM Traiskirchen        v Sportunion Mauer         3-1 (1-1)
+           Wiener Sport-Club       v Austria Wien II          1-3 (0-2)
+           Favoritner AC           v FC Marchfeld Donauauen   0-2 (0-1)
+  Sat Mar/15
+    16.00  ASV Siegendorf          v FC Mauerwerk             0-0
+           SC Wiener Viktoria      v TWL Elektra              4-0 (2-0)
+  Sun Mar/16
+    14.00  SR Donaufeld            v SV Oberwart              4-2 (3-0)
+  Wed Mar/26
+    19.00  SV Gloggnitz            v SV Leobendorf
 
 
-Matchday 19
-[Fri Mar/21]
-  19.00  FC Mauerwerk             -  FCM Traiskirchen
-         ASV Siegendorf           -  Favoritner AC
-  19.30  SV Oberwart              -  SC Neusiedl/See 1919
-         Kremser SC               -  FC Marchfeld Donauauen
-         Austria Wien II          -  SR Donaufeld
-         TWL Elektra              -  SV Gloggnitz
-[Sat Mar/22]
-  14.00  Sportunion Mauer         -  SC Wiener Viktoria
-  16.30  SV Leobendorf            -  Wiener Sport-Club
+» Matchday 19
+  Fri Mar/21
+    19.00  FC Mauerwerk            v FCM Traiskirchen         1-5 (1-1)
+           ASV Siegendorf          v Favoritner AC            0-1 (0-0)
+    19.30  SV Oberwart             v SC Neusiedl/See 1919     0-1 (0-1)
+           Kremser SC              v FC Marchfeld Donauauen   1-0 (0-0)
+           TWL Elektra             v SV Gloggnitz             2-0 (1-0)
+  Sat Mar/22
+    14.00  Sportunion Mauer        v SC Wiener Viktoria       2-0 (1-0)
+    17.30  SV Leobendorf           v Wiener Sport-Club        1-3 (0-2)
+  Tue Apr/29
+    19.00  Austria Wien II         v SR Donaufeld
 
 
-Matchday 20
-[Fri Mar/28]
-  19.00  SC Neusiedl/See 1919     -  Austria Wien II
-         SV Gloggnitz             -  Sportunion Mauer
-         FC Marchfeld Donauauen   -  SV Oberwart
-  19.30  Wiener Sport-Club        -  TWL Elektra
-         Favoritner AC            -  Kremser SC
-         FCM Traiskirchen         -  ASV Siegendorf
-[Sat Mar/29]
-  16.00  SC Wiener Viktoria       -  FC Mauerwerk
-         SR Donaufeld             -  SV Leobendorf
+» Matchday 20
+  Fri Mar/28
+    19.00  SC Neusiedl/See 1919    v Austria Wien II
+           FC Marchfeld Donauauen  v SV Oberwart
+    19.30  Wiener Sport-Club       v TWL Elektra
+           Favoritner AC           v Kremser SC
+           FCM Traiskirchen        v ASV Siegendorf
+  Sat Mar/29
+    15.00  SR Donaufeld            v SV Leobendorf
+    16.00  SV Gloggnitz            v Sportunion Mauer
+           SC Wiener Viktoria      v FC Mauerwerk
 
 
-Matchday 21
-[Fri Apr/4]
-  19.00  ASV Siegendorf           -  SC Wiener Viktoria
-         FC Mauerwerk             -  SV Gloggnitz
-  19.30  SV Oberwart              -  Kremser SC
-         Austria Wien II          -  FC Marchfeld Donauauen
-         TWL Elektra              -  SR Donaufeld
-         FCM Traiskirchen         -  Favoritner AC
-[Sat Apr/5]
-  14.00  Sportunion Mauer         -  Wiener Sport-Club
-  16.30  SV Leobendorf            -  SC Neusiedl/See 1919
+» Matchday 21
+  Fri Apr/4
+    18.00  SV Leobendorf           v SC Neusiedl/See 1919
+    19.00  ASV Siegendorf          v SC Wiener Viktoria
+           FC Mauerwerk            v SV Gloggnitz
+    19.30  SV Oberwart             v Kremser SC
+           Austria Wien II         v FC Marchfeld Donauauen
+           TWL Elektra             v SR Donaufeld
+           FCM Traiskirchen        v Favoritner AC
+  Sat Apr/5
+    14.00  Sportunion Mauer        v Wiener Sport-Club
 
 
-Matchday 22
-[Fri Apr/11]
-  19.00  SC Neusiedl/See 1919     -  TWL Elektra
-         FC Marchfeld Donauauen   -  SV Leobendorf
-         SV Gloggnitz             -  ASV Siegendorf
-  19.30  Wiener Sport-Club        -  FC Mauerwerk
-         Favoritner AC            -  SV Oberwart
-         Kremser SC               -  Austria Wien II
-[Sat Apr/12]
-  16.00  SR Donaufeld             -  Sportunion Mauer
-         FCM Traiskirchen         -  SC Wiener Viktoria
+» Matchday 22
+  Fri Apr/11
+    18.30  FCM Traiskirchen        v SC Wiener Viktoria
+    19.00  SC Neusiedl/See 1919    v TWL Elektra
+           FC Marchfeld Donauauen  v SV Leobendorf
+           SV Gloggnitz            v ASV Siegendorf
+    19.30  Wiener Sport-Club       v FC Mauerwerk
+           Favoritner AC           v SV Oberwart
+           Kremser SC              v Austria Wien II
+  Sat Apr/12
+    16.00  SR Donaufeld            v Sportunion Mauer
 
 
-Matchday 23
-[Fri Apr/18]
-  19.00  FC Mauerwerk             -  SR Donaufeld
-         ASV Siegendorf           -  Wiener Sport-Club
-  19.30  Austria Wien II          -  SV Oberwart
-         FCM Traiskirchen         -  SV Gloggnitz
-         TWL Elektra              -  FC Marchfeld Donauauen
-[Sat Apr/19]
-  14.00  Sportunion Mauer         -  SC Neusiedl/See 1919
-  16.00  SC Wiener Viktoria       -  Favoritner AC
-  16.30  SV Leobendorf            -  Kremser SC
+» Matchday 23
+  Fri Apr/18
+    19.00  FC Mauerwerk            v SR Donaufeld
+           ASV Siegendorf          v Wiener Sport-Club
+           SC Wiener Viktoria      v Favoritner AC
+    19.30  Austria Wien II         v SV Oberwart
+           FCM Traiskirchen        v SV Gloggnitz
+           TWL Elektra             v FC Marchfeld Donauauen
+  Sat Apr/19
+    14.00  Sportunion Mauer        v SC Neusiedl/See 1919
+    16.30  SV Leobendorf           v Kremser SC
 
 
-Matchday 24
-[Fri Apr/25]
-  19.00  SC Neusiedl/See 1919     -  FC Mauerwerk
-         FC Marchfeld Donauauen   -  Sportunion Mauer
-         SV Gloggnitz             -  SC Wiener Viktoria
-  19.30  Kremser SC               -  TWL Elektra
-         Wiener Sport-Club        -  FCM Traiskirchen
-         SV Oberwart              -  SV Leobendorf
-         Favoritner AC            -  Austria Wien II
-[Sat Apr/26]
-  16.00  SR Donaufeld             -  ASV Siegendorf
+» Matchday 24
+  Fri Apr/25
+    19.00  SC Neusiedl/See 1919    v FC Mauerwerk
+           FC Marchfeld Donauauen  v Sportunion Mauer
+           SV Gloggnitz            v SC Wiener Viktoria
+    19.30  Kremser SC              v TWL Elektra
+           Wiener Sport-Club       v FCM Traiskirchen
+           SV Oberwart             v SV Leobendorf
+           Favoritner AC           v Austria Wien II
+  Sat Apr/26
+    16.00  SR Donaufeld            v ASV Siegendorf
 
 
-Matchday 25
-[Fri May/2]
-  19.00  SV Gloggnitz             -  Favoritner AC
-         FC Mauerwerk             -  FC Marchfeld Donauauen
-         ASV Siegendorf           -  SC Neusiedl/See 1919
-  19.30  FCM Traiskirchen         -  SR Donaufeld
-         TWL Elektra              -  SV Oberwart
-[Sat May/3]
-  14.00  Sportunion Mauer         -  Kremser SC
-  16.00  SC Wiener Viktoria       -  Wiener Sport-Club
-  16.30  SV Leobendorf            -  Austria Wien II
+» Matchday 25
+  Fri May/2
+    19.00  SV Gloggnitz            v Favoritner AC
+           FC Mauerwerk            v FC Marchfeld Donauauen
+           ASV Siegendorf          v SC Neusiedl/See 1919
+    19.30  FCM Traiskirchen        v SR Donaufeld
+           TWL Elektra             v SV Oberwart
+  Sat May/3
+    14.00  Sportunion Mauer        v Kremser SC
+    16.00  SC Wiener Viktoria      v Wiener Sport-Club
+    16.30  SV Leobendorf           v Austria Wien II
 
 
-Matchday 26
-[Fri May/9]
-  19.00  FC Marchfeld Donauauen   -  ASV Siegendorf
-         FCM Traiskirchen         -  SC Neusiedl/See 1919
-  19.30  Kremser SC               -  FC Mauerwerk
-         Favoritner AC            -  SV Leobendorf
-         Austria Wien II          -  TWL Elektra
-         SV Oberwart              -  Sportunion Mauer
-         Wiener Sport-Club        -  SV Gloggnitz
-[Sat May/10]
-  16.00  SR Donaufeld             -  SC Wiener Viktoria
+» Matchday 26
+  Fri May/9
+    19.00  FC Marchfeld Donauauen  v ASV Siegendorf
+           FCM Traiskirchen        v SC Neusiedl/See 1919
+    19.30  Kremser SC              v FC Mauerwerk
+           Favoritner AC           v SV Leobendorf
+           Austria Wien II         v TWL Elektra
+           SV Oberwart             v Sportunion Mauer
+           Wiener Sport-Club       v SV Gloggnitz
+  Sat May/10
+    16.00  SR Donaufeld            v SC Wiener Viktoria
 
 
-Matchday 27
-[Fri May/16]
-  19.00  FC Mauerwerk             -  SV Oberwart
-         ASV Siegendorf           -  Kremser SC
-         SV Gloggnitz             -  SR Donaufeld
-  19.30  Wiener Sport-Club        -  Favoritner AC
-         TWL Elektra              -  SV Leobendorf
-         FCM Traiskirchen         -  FC Marchfeld Donauauen
-[Sat May/17]
-  14.00  Sportunion Mauer         -  Austria Wien II
-  16.00  SC Wiener Viktoria       -  SC Neusiedl/See 1919
+» Matchday 27
+  Fri May/16
+    19.00  FC Mauerwerk            v SV Oberwart
+           ASV Siegendorf          v Kremser SC
+           SV Gloggnitz            v SR Donaufeld
+    19.30  Wiener Sport-Club       v Favoritner AC
+           TWL Elektra             v SV Leobendorf
+           FCM Traiskirchen        v FC Marchfeld Donauauen
+  Sat May/17
+    14.00  Sportunion Mauer        v Austria Wien II
+    16.00  SC Wiener Viktoria      v SC Neusiedl/See 1919
 
 
-Matchday 28
-[Fri May/23]
-  19.00  FC Marchfeld Donauauen   -  SC Wiener Viktoria
-         SC Neusiedl/See 1919     -  SV Gloggnitz
-  19.30  FCM Traiskirchen         -  Kremser SC
-         Austria Wien II          -  FC Mauerwerk
-         SV Oberwart              -  ASV Siegendorf
-         Favoritner AC            -  TWL Elektra
-[Sat May/24]
-  16.00  SR Donaufeld             -  Wiener Sport-Club
-  16.30  SV Leobendorf            -  Sportunion Mauer
+» Matchday 28
+  Fri May/23
+    19.00  FC Marchfeld Donauauen  v SC Wiener Viktoria
+           SC Neusiedl/See 1919    v SV Gloggnitz
+    19.30  FCM Traiskirchen        v Kremser SC
+           Austria Wien II         v FC Mauerwerk
+           SV Oberwart             v ASV Siegendorf
+           Favoritner AC           v TWL Elektra
+  Sat May/24
+    16.00  SR Donaufeld            v Wiener Sport-Club
+    16.30  SV Leobendorf           v Sportunion Mauer
 
 
-Matchday 29
-[Fri May/30]
-  19.00  FC Mauerwerk             -  SV Leobendorf
-         ASV Siegendorf           -  Austria Wien II
-         SV Gloggnitz             -  FC Marchfeld Donauauen
-  19.30  FCM Traiskirchen         -  SV Oberwart
-         Wiener Sport-Club        -  SC Neusiedl/See 1919
-[Sat May/31]
-  14.00  Sportunion Mauer         -  TWL Elektra
-  16.00  SC Wiener Viktoria       -  Kremser SC
-         SR Donaufeld             -  Favoritner AC
+» Matchday 29
+  Fri May/30
+    19.00  FC Mauerwerk            v SV Leobendorf
+           ASV Siegendorf          v Austria Wien II
+           SV Gloggnitz            v FC Marchfeld Donauauen
+    19.30  FCM Traiskirchen        v SV Oberwart
+           Wiener Sport-Club       v SC Neusiedl/See 1919
+  Sat May/31
+    14.00  Sportunion Mauer        v TWL Elektra
+    16.00  SC Wiener Viktoria      v Kremser SC
+           SR Donaufeld            v Favoritner AC
 
 
-Matchday 30
-[Fri Jun/6]
-  19.00  FC Marchfeld Donauauen   -  Wiener Sport-Club
-         SC Neusiedl/See 1919     -  SR Donaufeld
-  19.30  FCM Traiskirchen         -  Austria Wien II
-         SV Oberwart              -  SC Wiener Viktoria
-         Favoritner AC            -  Sportunion Mauer
-         Kremser SC               -  SV Gloggnitz
-         TWL Elektra              -  FC Mauerwerk
-[Sat Jun/7]
-  16.30  SV Leobendorf            -  ASV Siegendorf
+» Matchday 30
+  Fri Jun/6
+    19.00  FC Marchfeld Donauauen  v Wiener Sport-Club
+           SC Neusiedl/See 1919    v SR Donaufeld
+    19.30  FCM Traiskirchen        v Austria Wien II
+           SV Oberwart             v SC Wiener Viktoria
+           Favoritner AC           v Sportunion Mauer
+           Kremser SC              v SV Gloggnitz
+           TWL Elektra             v FC Mauerwerk
+  Sat Jun/7
+    16.30  SV Leobendorf           v ASV Siegendorf

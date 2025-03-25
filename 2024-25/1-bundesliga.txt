@@ -1,252 +1,400 @@
 = Österr. Bundesliga 2024/25
 
-# Date       Fri Aug/2 2024 - Sun Mar/16 2025 (226d)
+# Date       Fri Aug/2 2024 - Sat May/24 2025 (295d)
 # Teams      12
-# Matches    132
+# Matches    192
+# Stages     Regular Season (132)  Championship (30)  Relegation (30)
 
 
 
-Matchday 1
-[Fri Aug/2]
-  20.30  Grazer AK                2-3 (2-3)  RB Salzburg
-[Sat Aug/3]
-  17.00  SCR Altach               1-2 (0-1)  WSG Tirol
-         TSV Hartberg             1-2 (0-1)  LASK
-  19.30  Wolfsberger AC           4-1 (3-0)  SK Austria Klagenfurt
-[Sun Aug/4]
-  17.00  Rapid Wien               1-0 (1-0)  Sturm Graz
-         FC Blau Weiß Linz        1-0 (0-0)  Austria Wien
+» Matchday 1
+  Fri Aug/2 2024
+    20.30  Grazer AK               v RB Salzburg              2-3 (2-3)
+  Sat Aug/3
+    17.00  SCR Altach              v WSG Tirol                1-2 (0-1)
+           TSV Hartberg            v LASK                     1-2 (0-1)
+    19.30  Wolfsberger AC          v SK Austria Klagenfurt    4-1 (3-0)
+  Sun Aug/4
+    17.00  Rapid Wien              v Sturm Graz               1-0 (1-0)
+           FC Blau Weiß Linz       v Austria Wien             1-0 (0-0)
 
 
-Matchday 2
-[Sat Aug/10]
-  17.00  LASK                     1-2 (1-1)  SCR Altach
-         WSG Tirol                0-0  Grazer AK
-  19.30  RB Salzburg              5-1 (2-1)  FC Blau Weiß Linz
-[Sun Aug/11]
-  17.00  Austria Wien             3-1 (0-1)  Wolfsberger AC
-         Sturm Graz               2-0 (1-0)  TSV Hartberg
-         SK Austria Klagenfurt    1-1 (1-1)  Rapid Wien
+» Matchday 2
+  Sat Aug/10
+    17.00  LASK                    v SCR Altach               1-2 (1-1)
+           WSG Tirol               v Grazer AK                0-0
+    19.30  RB Salzburg             v FC Blau Weiß Linz        5-1 (2-1)
+  Sun Aug/11
+    17.00  Austria Wien            v Wolfsberger AC           3-1 (0-1)
+           Sturm Graz              v TSV Hartberg             2-0 (1-0)
+           SK Austria Klagenfurt   v Rapid Wien               1-1 (1-1)
 
 
-Matchday 3
-[Sat Aug/17]
-  17.00  Grazer AK                2-2 (0-2)  FC Blau Weiß Linz
-         SK Austria Klagenfurt    0-2 (0-0)  Sturm Graz
-  19.30  LASK                     0-1 (0-0)  RB Salzburg
-[Sun Aug/18]
-  17.00  Rapid Wien               2-0 (1-0)  WSG Tirol
-         SCR Altach               2-0 (1-0)  Wolfsberger AC
-         TSV Hartberg             1-1 (1-1)  Austria Wien
+» Matchday 3
+  Sat Aug/17
+    17.00  Grazer AK               v FC Blau Weiß Linz        2-2 (0-2)
+           SK Austria Klagenfurt   v Sturm Graz               0-2 (0-0)
+    19.30  LASK                    v RB Salzburg              0-1 (0-0)
+  Sun Aug/18
+    17.00  Rapid Wien              v WSG Tirol                2-0 (1-0)
+           SCR Altach              v Wolfsberger AC           2-0 (1-0)
+           TSV Hartberg            v Austria Wien             1-1 (1-1)
 
 
-Matchday 4
-[Sat Aug/24]
-  17.00  WSG Tirol                0-1 (0-0)  SK Austria Klagenfurt
-  19.30  Sturm Graz               2-1 (0-0)  SCR Altach
-[Sun Aug/25]
-  17.00  Wolfsberger AC           4-2 (0-0)  Grazer AK
-         Austria Wien             2-1 (1-1)  LASK
-         FC Blau Weiß Linz        3-0 (2-0)  Rapid Wien
-[Wed Dec/4]
-  20.30  RB Salzburg              4-0 (2-0)  TSV Hartberg
+» Matchday 4
+  Sat Aug/24
+    17.00  WSG Tirol               v SK Austria Klagenfurt    0-1 (0-0)
+    19.30  Sturm Graz              v SCR Altach               2-1 (0-0)
+  Sun Aug/25
+    17.00  Wolfsberger AC          v Grazer AK                4-2 (0-0)
+           Austria Wien            v LASK                     2-1 (1-1)
+           FC Blau Weiß Linz       v Rapid Wien               3-0 (2-0)
+  Wed Dec/4
+    20.30  RB Salzburg             v TSV Hartberg             4-0 (2-0)
 
 
-Matchday 5
-[Sat Aug/31]
-  17.00  SK Austria Klagenfurt    3-1 (1-1)  FC Blau Weiß Linz
-         TSV Hartberg             1-1 (0-1)  Grazer AK
-  19.30  Sturm Graz               4-2 (1-2)  WSG Tirol
-[Sun Sep/1]
-  17.00  LASK                     1-5 (0-2)  Wolfsberger AC
-         Rapid Wien               3-2 (2-2)  RB Salzburg
-         SCR Altach               1-1 (1-1)  Austria Wien
+» Matchday 5
+  Sat Aug/31
+    17.00  SK Austria Klagenfurt   v FC Blau Weiß Linz        3-1 (1-1)
+           TSV Hartberg            v Grazer AK                1-1 (0-1)
+    19.30  Sturm Graz              v WSG Tirol                4-2 (1-2)
+  Sun Sep/1
+    17.00  LASK                    v Wolfsberger AC           1-5 (0-2)
+           Rapid Wien              v RB Salzburg              3-2 (2-2)
+           SCR Altach              v Austria Wien             1-1 (1-1)
 
 
-Matchday 6
-[Sat Sep/14]
-  17.00  Wolfsberger AC           1-1 (0-1)  Rapid Wien
-  19.30  FC Blau Weiß Linz        1-0 (1-0)  LASK
-[Sun Sep/15]
-  14.30  Grazer AK                1-1 (1-1)  SCR Altach
-[Wed Sep/25]
-  18.30  Austria Wien             2-2 (0-2)  Sturm Graz
-[Thu Sep/26]
-  18.30  TSV Hartberg             1-0 (0-0)  WSG Tirol
-[Sat Dec/14]
-  17.00  RB Salzburg              3-0 (2-0)  SK Austria Klagenfurt
+» Matchday 6
+  Sat Sep/14
+    17.00  Wolfsberger AC          v Rapid Wien               1-1 (0-1)
+    19.30  FC Blau Weiß Linz       v LASK                     1-0 (1-0)
+  Sun Sep/15
+    14.30  Grazer AK               v SCR Altach               1-1 (1-1)
+  Wed Sep/25
+    18.30  Austria Wien            v Sturm Graz               2-2 (0-2)
+  Thu Sep/26
+    18.30  TSV Hartberg            v WSG Tirol                1-0 (0-0)
+  Sat Dec/14
+    17.00  RB Salzburg             v SK Austria Klagenfurt    3-0 (2-0)
 
 
-Matchday 7
-[Sat Sep/21]
-  17.00  LASK                     4-2 (2-1)  Grazer AK
-         SK Austria Klagenfurt    2-2 (0-1)  TSV Hartberg
-         SCR Altach               0-1 (0-0)  FC Blau Weiß Linz
-[Sun Sep/22]
-  14.30  Sturm Graz               0-3 (0-1)  Wolfsberger AC
-         WSG Tirol                0-0  RB Salzburg
-  17.00  Rapid Wien               2-1 (1-1)  Austria Wien
+» Matchday 7
+  Sat Sep/21
+    17.00  LASK                    v Grazer AK                4-2 (2-1)
+           SK Austria Klagenfurt   v TSV Hartberg             2-2 (0-1)
+           SCR Altach              v FC Blau Weiß Linz        0-1 (0-0)
+  Sun Sep/22
+    14.30  Sturm Graz              v Wolfsberger AC           0-3 (0-1)
+           WSG Tirol               v RB Salzburg              0-0
+    17.00  Rapid Wien              v Austria Wien             2-1 (1-1)
 
 
-Matchday 8
-[Sat Sep/28]
-  17.00  RB Salzburg              2-0 (1-0)  Austria Wien
-         Rapid Wien               1-1 (1-0)  LASK
-         FC Blau Weiß Linz        1-2 (1-1)  Sturm Graz
-[Sun Sep/29]
-  14.30  Wolfsberger AC           1-3 (0-0)  WSG Tirol
-         TSV Hartberg             2-0 (0-0)  SCR Altach
-  17.00  Grazer AK                0-1 (0-1)  SK Austria Klagenfurt
+» Matchday 8
+  Sat Sep/28
+    17.00  RB Salzburg             v Austria Wien             2-0 (1-0)
+           Rapid Wien              v LASK                     1-1 (1-0)
+           FC Blau Weiß Linz       v Sturm Graz               1-2 (1-1)
+  Sun Sep/29
+    14.30  Wolfsberger AC          v WSG Tirol                1-3 (0-0)
+           TSV Hartberg            v SCR Altach               2-0 (0-0)
+    17.00  Grazer AK               v SK Austria Klagenfurt    0-1 (0-1)
 
 
-Matchday 9
-[Sat Oct/5]
-  17.00  Wolfsberger AC           2-3 (0-1)  TSV Hartberg
-         Austria Wien             2-1 (1-0)  Grazer AK
-         WSG Tirol                1-1 (0-1)  FC Blau Weiß Linz
-[Sun Oct/6]
-  14.30  LASK                     4-0 (1-0)  SK Austria Klagenfurt
-         SCR Altach               0-1 (0-1)  Rapid Wien
-  17.00  Sturm Graz               5-0 (2-0)  RB Salzburg
+» Matchday 9
+  Sat Oct/5
+    17.00  Wolfsberger AC          v TSV Hartberg             2-3 (0-1)
+           Austria Wien            v Grazer AK                2-1 (1-0)
+           WSG Tirol               v FC Blau Weiß Linz        1-1 (0-1)
+  Sun Oct/6
+    14.30  LASK                    v SK Austria Klagenfurt    4-0 (1-0)
+           SCR Altach              v Rapid Wien               0-1 (0-1)
+    17.00  Sturm Graz              v RB Salzburg              5-0 (2-0)
 
 
-Matchday 10
-[Sat Oct/19]
-  17.00  RB Salzburg              2-1 (0-0)  SCR Altach
-         Sturm Graz               5-2 (2-0)  Grazer AK
-         FC Blau Weiß Linz        0-1 (0-1)  Wolfsberger AC
-[Sun Oct/20]
-  14.30  SK Austria Klagenfurt    0-1 (0-0)  Austria Wien
-         WSG Tirol                1-2 (1-1)  LASK
-  17.00  Rapid Wien               2-1 (1-1)  TSV Hartberg
+» Matchday 10
+  Sat Oct/19
+    17.00  RB Salzburg             v SCR Altach               2-1 (0-0)
+           Sturm Graz              v Grazer AK                5-2 (2-0)
+           FC Blau Weiß Linz       v Wolfsberger AC           0-1 (0-1)
+  Sun Oct/20
+    14.30  SK Austria Klagenfurt   v Austria Wien             0-1 (0-0)
+           WSG Tirol               v LASK                     1-2 (1-1)
+    17.00  Rapid Wien              v TSV Hartberg             2-1 (1-1)
 
 
-Matchday 11
-[Sat Oct/26]
-  17.00  Austria Wien             3-0 (0-0)  WSG Tirol
-         SCR Altach               2-2 (1-1)  SK Austria Klagenfurt
-         TSV Hartberg             2-1 (1-0)  FC Blau Weiß Linz
-[Sun Oct/27]
-  14.30  Wolfsberger AC           0-0  RB Salzburg
-         Grazer AK                1-1 (0-0)  Rapid Wien
-  17.00  LASK                     1-2 (0-1)  Sturm Graz
+» Matchday 11
+  Sat Oct/26
+    17.00  Austria Wien            v WSG Tirol                3-0 (0-0)
+           SCR Altach              v SK Austria Klagenfurt    2-2 (1-1)
+           TSV Hartberg            v FC Blau Weiß Linz        2-1 (1-0)
+  Sun Oct/27
+    14.30  Wolfsberger AC          v RB Salzburg              0-0
+           Grazer AK               v Rapid Wien               1-1 (0-0)
+    17.00  LASK                    v Sturm Graz               1-2 (0-1)
 
 
-Matchday 12
-[Sat Nov/2]
-  17.00  RB Salzburg              0-0  Grazer AK
-         LASK                     1-1 (0-1)  TSV Hartberg
-         Sturm Graz               1-1 (0-0)  Rapid Wien
-[Sun Nov/3]
-  14.30  WSG Tirol                1-0 (1-0)  SCR Altach
-         SK Austria Klagenfurt    2-1 (2-0)  Wolfsberger AC
-  17.00  Austria Wien             2-1 (0-1)  FC Blau Weiß Linz
+» Matchday 12
+  Sat Nov/2
+    17.00  RB Salzburg             v Grazer AK                0-0
+           LASK                    v TSV Hartberg             1-1 (0-1)
+           Sturm Graz              v Rapid Wien               1-1 (0-0)
+  Sun Nov/3
+    14.30  WSG Tirol               v SCR Altach               1-0 (1-0)
+           SK Austria Klagenfurt   v Wolfsberger AC           2-1 (2-0)
+    17.00  Austria Wien            v FC Blau Weiß Linz        2-1 (0-1)
 
 
-Matchday 13
-[Sat Nov/9]
-  17.00  Grazer AK                2-1 (1-0)  WSG Tirol
-         Wolfsberger AC           0-1 (0-0)  Austria Wien
-         TSV Hartberg             1-2 (0-1)  Sturm Graz
-[Sun Nov/10]
-  14.30  SCR Altach               1-2 (0-0)  LASK
-         FC Blau Weiß Linz        2-0 (0-0)  RB Salzburg
-  17.00  Rapid Wien               2-0 (2-0)  SK Austria Klagenfurt
+» Matchday 13
+  Sat Nov/9
+    17.00  Grazer AK               v WSG Tirol                2-1 (1-0)
+           Wolfsberger AC          v Austria Wien             0-1 (0-0)
+           TSV Hartberg            v Sturm Graz               1-2 (0-1)
+  Sun Nov/10
+    14.30  SCR Altach              v LASK                     1-2 (0-0)
+           FC Blau Weiß Linz       v RB Salzburg              2-0 (0-0)
+    17.00  Rapid Wien              v SK Austria Klagenfurt    2-0 (2-0)
 
 
-Matchday 14
-[Sat Nov/23]
-  17.00  Sturm Graz               7-0 (4-0)  SK Austria Klagenfurt
-         RB Salzburg              1-2 (0-0)  LASK
-         WSG Tirol                0-0  Rapid Wien
-[Sun Nov/24]
-  14.30  FC Blau Weiß Linz        1-2 (1-1)  Grazer AK
-         Wolfsberger AC           2-0 (0-0)  SCR Altach
-  17.00  Austria Wien             1-0 (0-0)  TSV Hartberg
+» Matchday 14
+  Sat Nov/23
+    17.00  Sturm Graz              v SK Austria Klagenfurt    7-0 (4-0)
+           RB Salzburg             v LASK                     1-2 (0-0)
+           WSG Tirol               v Rapid Wien               0-0
+  Sun Nov/24
+    14.30  FC Blau Weiß Linz       v Grazer AK                1-2 (1-1)
+           Wolfsberger AC          v SCR Altach               2-0 (0-0)
+    17.00  Austria Wien            v TSV Hartberg             1-0 (0-0)
 
 
-Matchday 15
-[Sat Nov/30]
-  17.00  TSV Hartberg             1-1 (0-1)  RB Salzburg
-         SCR Altach               1-1 (0-1)  Sturm Graz
-         Grazer AK                3-4 (3-0)  Wolfsberger AC
-[Sun Dec/1]
-  14.30  SK Austria Klagenfurt    0-3 (0-1)  WSG Tirol
-         Rapid Wien               0-1 (0-0)  FC Blau Weiß Linz
-  17.00  LASK                     1-3 (0-1)  Austria Wien
+» Matchday 15
+  Sat Nov/30
+    17.00  TSV Hartberg            v RB Salzburg              1-1 (0-1)
+           SCR Altach              v Sturm Graz               1-1 (0-1)
+           Grazer AK               v Wolfsberger AC           3-4 (3-0)
+  Sun Dec/1
+    14.30  SK Austria Klagenfurt   v WSG Tirol                0-3 (0-1)
+           Rapid Wien              v FC Blau Weiß Linz        0-1 (0-0)
+    17.00  LASK                    v Austria Wien             1-3 (0-1)
 
 
-Matchday 16
-[Sat Dec/7]
-  17.00  WSG Tirol                0-3 (0-1)  Sturm Graz
-         Wolfsberger AC           2-1 (0-1)  LASK
-         RB Salzburg              2-2 (1-0)  Rapid Wien
-[Sun Dec/8]
-  14.30  FC Blau Weiß Linz        2-1 (1-1)  SK Austria Klagenfurt
-         Grazer AK                0-3 (0-1)  TSV Hartberg
-  17.00  Austria Wien             3-0 (1-0)  SCR Altach
+» Matchday 16
+  Sat Dec/7
+    17.00  WSG Tirol               v Sturm Graz               0-3 (0-1)
+           Wolfsberger AC          v LASK                     2-1 (0-1)
+           RB Salzburg             v Rapid Wien               2-2 (1-0)
+  Sun Dec/8
+    14.30  FC Blau Weiß Linz       v SK Austria Klagenfurt    2-1 (1-1)
+           Grazer AK               v TSV Hartberg             0-3 (0-1)
+    17.00  Austria Wien            v SCR Altach               3-0 (1-0)
 
 
-Matchday 17
-[Fri Feb/7]
-  20.30  Sturm Graz               -  Austria Wien
-[Sat Feb/8]
-  17.00  Rapid Wien               -  Wolfsberger AC
-         SCR Altach               -  Grazer AK
-[Sun Feb/9]
-  14.30  SK Austria Klagenfurt    -  RB Salzburg
-         WSG Tirol                -  TSV Hartberg
-  17.00  LASK                     -  FC Blau Weiß Linz
+» Matchday 17
+  Fri Feb/7 2025
+    20.30  Sturm Graz              v Austria Wien             2-2 (1-1)
+  Sat Feb/8
+    17.00  Rapid Wien              v Wolfsberger AC           1-3 (1-0)
+           SCR Altach              v Grazer AK                1-2 (0-0)
+  Sun Feb/9
+    14.30  SK Austria Klagenfurt   v RB Salzburg              0-0
+           WSG Tirol               v TSV Hartberg             0-0
+    17.00  LASK                    v FC Blau Weiß Linz        0-0
 
 
-Matchday 18
-[Sat Feb/15]
-  17.00  Wolfsberger AC           -  Sturm Graz
-         FC Blau Weiß Linz        -  SCR Altach
-         RB Salzburg              -  WSG Tirol
-[Sun Feb/16]
-  14.30  Grazer AK                -  LASK
-         TSV Hartberg             -  SK Austria Klagenfurt
-  17.00  Austria Wien             -  Rapid Wien
+» Matchday 18
+  Sat Feb/15
+    17.00  Wolfsberger AC          v Sturm Graz               3-0 (2-0)
+           FC Blau Weiß Linz       v SCR Altach               1-3 (0-0)
+           RB Salzburg             v WSG Tirol                1-1 (0-1)
+  Sun Feb/16
+    14.30  Grazer AK               v LASK                     0-0
+           TSV Hartberg            v SK Austria Klagenfurt    1-1 (0-0)
+    17.00  Austria Wien            v Rapid Wien               2-1 (1-1)
 
 
-Matchday 19
-[Sat Feb/22]
-  14.30  Sturm Graz               -  FC Blau Weiß Linz
-  17.00  Austria Wien             -  RB Salzburg
-         WSG Tirol                -  Wolfsberger AC
-         SK Austria Klagenfurt    -  Grazer AK
-[Sun Feb/23]
-  14.30  SCR Altach               -  TSV Hartberg
-  17.00  LASK                     -  Rapid Wien
+» Matchday 19
+  Sat Feb/22
+    17.00  Austria Wien            v RB Salzburg              0-1 (0-1)
+           WSG Tirol               v Wolfsberger AC           3-3 (1-1)
+           SK Austria Klagenfurt   v Grazer AK                4-2 (1-0)
+  Sun Feb/23
+    14.30  Sturm Graz              v FC Blau Weiß Linz        2-1 (2-0)
+           SCR Altach              v TSV Hartberg             0-0
+    17.00  LASK                    v Rapid Wien               2-1 (1-0)
 
 
-Matchday 20
-[Sat Mar/1]
-  17.00  TSV Hartberg             -  Wolfsberger AC
-         Grazer AK                -  Austria Wien
-         Rapid Wien               -  SCR Altach
-[Sun Mar/2]
-  14.30  SK Austria Klagenfurt    -  LASK
-         FC Blau Weiß Linz        -  WSG Tirol
-  17.00  RB Salzburg              -  Sturm Graz
+» Matchday 20
+  Sat Mar/1
+    17.00  TSV Hartberg            v Wolfsberger AC           0-3 (0-1)
+           Grazer AK               v Austria Wien             1-2 (0-0)
+           Rapid Wien              v SCR Altach               5-0 (1-0)
+  Sun Mar/2
+    14.30  SK Austria Klagenfurt   v LASK                     1-2 (1-1)
+           FC Blau Weiß Linz       v WSG Tirol                2-1 (1-1)
+    17.00  RB Salzburg             v Sturm Graz               3-1 (0-1)
 
 
-Matchday 21
-[Sun Mar/9]
-  17.00  SCR Altach               -  RB Salzburg
-         Grazer AK                -  Sturm Graz
-         Austria Wien             -  SK Austria Klagenfurt
-         TSV Hartberg             -  Rapid Wien
-         Wolfsberger AC           -  FC Blau Weiß Linz
-         LASK                     -  WSG Tirol
+» Matchday 21
+  Sun Mar/9
+    17.00  SCR Altach              v RB Salzburg              1-1 (0-1)
+           Grazer AK               v Sturm Graz               1-2 (0-0)
+           Austria Wien            v SK Austria Klagenfurt    2-0 (2-0)
+           TSV Hartberg            v Rapid Wien               2-1 (0-0)
+           Wolfsberger AC          v FC Blau Weiß Linz        1-2 (0-1)
+           LASK                    v WSG Tirol                2-1 (1-1)
 
 
-Matchday 22
-[Sun Mar/16]
-  17.00  RB Salzburg              -  Wolfsberger AC
-         Sturm Graz               -  LASK
-         SK Austria Klagenfurt    -  SCR Altach
-         Rapid Wien               -  Grazer AK
-         FC Blau Weiß Linz        -  TSV Hartberg
-         WSG Tirol                -  Austria Wien
+» Matchday 22
+  Sun Mar/16
+    17.00  RB Salzburg             v Wolfsberger AC           1-0 (1-0)
+           Sturm Graz              v LASK                     4-2 (1-0)
+           SK Austria Klagenfurt   v SCR Altach               2-2 (1-2)
+           Rapid Wien              v Grazer AK                3-0 (3-0)
+           FC Blau Weiß Linz       v TSV Hartberg             4-1 (1-1)
+           WSG Tirol               v Austria Wien             0-2 (0-0)
+
+
+» Championship, Matchday 23
+  Sun Mar/30
+    14.30  Wolfsberger AC          v Sturm Graz
+           FC Blau Weiß Linz       v Austria Wien
+    17.00  Rapid Wien              v RB Salzburg
+
+
+» Championship, Matchday 24
+  Fri Apr/4
+    19.30  Sturm Graz              v Rapid Wien
+  Sun Apr/6
+    14.30  RB Salzburg             v FC Blau Weiß Linz
+    17.00  Austria Wien            v Wolfsberger AC
+
+
+» Championship, Matchday 25
+  Fri Apr/11
+    19.30  FC Blau Weiß Linz       v Wolfsberger AC
+  Sun Apr/13
+    14.30  RB Salzburg             v Sturm Graz
+    17.00  Rapid Wien              v Austria Wien
+
+
+» Championship, Matchday 26
+  Sun Apr/20
+    14.30  Wolfsberger AC          v Rapid Wien
+           Sturm Graz              v FC Blau Weiß Linz
+    17.00  Austria Wien            v RB Salzburg
+
+
+» Championship, Matchday 27
+  Wed Apr/23
+    18.30  RB Salzburg             v Wolfsberger AC
+           FC Blau Weiß Linz       v Rapid Wien
+    20.30  Austria Wien            v Sturm Graz
+
+
+» Championship, Matchday 28
+  Sun Apr/27
+    14.30  Wolfsberger AC          v RB Salzburg
+           Rapid Wien              v FC Blau Weiß Linz
+    17.00  Sturm Graz              v Austria Wien
+
+
+» Championship, Matchday 29
+  Sun May/4
+    14.30  Rapid Wien              v Wolfsberger AC
+           FC Blau Weiß Linz       v Sturm Graz
+    17.00  RB Salzburg             v Austria Wien
+
+
+» Championship, Matchday 30
+  Fri May/9
+    19.30  Sturm Graz              v RB Salzburg
+  Sun May/11
+    14.30  Wolfsberger AC          v FC Blau Weiß Linz
+    17.00  Austria Wien            v Rapid Wien
+
+
+» Championship, Matchday 31
+  Sun May/18
+    17.00  FC Blau Weiß Linz       v RB Salzburg
+           Wolfsberger AC          v Austria Wien
+           Rapid Wien              v Sturm Graz
+
+
+» Championship, Matchday 32
+  Sat May/24
+    17.00  Sturm Graz              v Wolfsberger AC
+           Austria Wien            v FC Blau Weiß Linz
+           RB Salzburg             v Rapid Wien
+
+
+» Relegation, Matchday 23
+  Fri Mar/28
+    19.30  SCR Altach              v LASK
+  Sat Mar/29
+    17.00  Grazer AK               v WSG Tirol
+           TSV Hartberg            v SK Austria Klagenfurt
+
+
+» Relegation, Matchday 24
+  Sat Apr/5
+    17.00  LASK                    v Grazer AK
+           SK Austria Klagenfurt   v SCR Altach
+           WSG Tirol               v TSV Hartberg
+
+
+» Relegation, Matchday 25
+  Sat Apr/12
+    17.00  Grazer AK               v SCR Altach
+           TSV Hartberg            v LASK
+           WSG Tirol               v SK Austria Klagenfurt
+
+
+» Relegation, Matchday 26
+  Fri Apr/18
+    19.30  LASK                    v WSG Tirol
+  Sat Apr/19
+    17.00  SCR Altach              v TSV Hartberg
+           SK Austria Klagenfurt   v Grazer AK
+
+
+» Relegation, Matchday 27
+  Tue Apr/22
+    18.30  WSG Tirol               v SCR Altach
+           Grazer AK               v TSV Hartberg
+    20.30  SK Austria Klagenfurt   v LASK
+
+
+» Relegation, Matchday 28
+  Fri Apr/25
+    19.30  TSV Hartberg            v Grazer AK
+  Sat Apr/26
+    17.00  SCR Altach              v WSG Tirol
+           LASK                    v SK Austria Klagenfurt
+
+
+» Relegation, Matchday 29
+  Fri May/2
+    19.30  Grazer AK               v SK Austria Klagenfurt
+  Sat May/3
+    17.00  WSG Tirol               v LASK
+           TSV Hartberg            v SCR Altach
+
+
+» Relegation, Matchday 30
+  Sat May/10
+    17.00  SCR Altach              v Grazer AK
+           LASK                    v TSV Hartberg
+           SK Austria Klagenfurt   v WSG Tirol
+
+
+» Relegation, Matchday 31
+  Sat May/17
+    17.00  Grazer AK               v LASK
+           SCR Altach              v SK Austria Klagenfurt
+           TSV Hartberg            v WSG Tirol
+
+
+» Relegation, Matchday 32
+  Fri May/23
+    19.30  LASK                    v SCR Altach
+           WSG Tirol               v Grazer AK
+           SK Austria Klagenfurt   v TSV Hartberg
