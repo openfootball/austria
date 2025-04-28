@@ -1,8 +1,8 @@
 = ÖFB Cup 2024/25
 
-# Date       Fri Jul/26 2024 - Wed Apr/2 2025 (250d)
+# Date       Fri Jul/26 2024 - Thu May/1 2025 (279d)
 # Teams      64
-# Matches    62
+# Matches    63
 
 
 
@@ -92,5 +92,10 @@
 
 » Semifinals
   Wed Apr/2
-    18.15  LASK                    v Wolfsberger AC
-    20.30  Austria Wien            v TSV Hartberg
+    18.15  LASK                    v Wolfsberger AC           2-4 pen. 1-1 a.e.t. (1-1, 1-0)
+    20.30  Austria Wien            v TSV Hartberg             0-1 (0-0)
+
+
+» Final
+  Thu May/1
+    17.00  Wolfsberger AC          v TSV Hartberg

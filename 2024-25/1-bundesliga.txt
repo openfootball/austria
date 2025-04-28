@@ -255,46 +255,46 @@
 
 » Championship, Matchday 23
   Sun Mar/30
-    14.30  Wolfsberger AC          v Sturm Graz
-           FC Blau Weiß Linz       v Austria Wien
-    17.00  Rapid Wien              v RB Salzburg
+    14.30  Wolfsberger AC          v Sturm Graz               1-1 (1-0)
+           FC Blau Weiß Linz       v Austria Wien             0-2 (0-2)
+    17.00  Rapid Wien              v RB Salzburg              0-2 (0-1)
 
 
 » Championship, Matchday 24
   Fri Apr/4
-    19.30  Sturm Graz              v Rapid Wien
+    19.30  Sturm Graz              v Rapid Wien               2-0 (1-0)
   Sun Apr/6
-    14.30  RB Salzburg             v FC Blau Weiß Linz
-    17.00  Austria Wien            v Wolfsberger AC
+    14.30  RB Salzburg             v FC Blau Weiß Linz        2-1 (0-0)
+    17.00  Austria Wien            v Wolfsberger AC           0-0
 
 
 » Championship, Matchday 25
   Fri Apr/11
-    19.30  FC Blau Weiß Linz       v Wolfsberger AC
+    19.30  FC Blau Weiß Linz       v Wolfsberger AC           1-2 (0-1)
   Sun Apr/13
-    14.30  RB Salzburg             v Sturm Graz
-    17.00  Rapid Wien              v Austria Wien
+    14.30  RB Salzburg             v Sturm Graz               1-2 (1-0)
+    17.00  Rapid Wien              v Austria Wien             2-0 (1-0)
 
 
 » Championship, Matchday 26
   Sun Apr/20
-    14.30  Wolfsberger AC          v Rapid Wien
-           Sturm Graz              v FC Blau Weiß Linz
-    17.00  Austria Wien            v RB Salzburg
+    14.30  Wolfsberger AC          v Rapid Wien               5-1 (1-1)
+           Sturm Graz              v FC Blau Weiß Linz        2-0 (1-0)
+    17.00  Austria Wien            v RB Salzburg              1-3 (1-2)
 
 
 » Championship, Matchday 27
   Wed Apr/23
-    18.30  RB Salzburg             v Wolfsberger AC
-           FC Blau Weiß Linz       v Rapid Wien
-    20.30  Austria Wien            v Sturm Graz
+    18.30  RB Salzburg             v Wolfsberger AC           1-1 (0-1)
+           FC Blau Weiß Linz       v Rapid Wien               2-1 (1-0)
+    20.30  Austria Wien            v Sturm Graz               2-1 (1-1)
 
 
 » Championship, Matchday 28
   Sun Apr/27
-    14.30  Wolfsberger AC          v RB Salzburg
-           Rapid Wien              v FC Blau Weiß Linz
-    17.00  Sturm Graz              v Austria Wien
+    14.30  Wolfsberger AC          v RB Salzburg              2-1 (1-0)
+           Rapid Wien              v FC Blau Weiß Linz        0-0
+    17.00  Sturm Graz              v Austria Wien             0-1 (0-0)
 
 
 » Championship, Matchday 29
@@ -328,47 +328,47 @@
 
 » Relegation, Matchday 23
   Fri Mar/28
-    19.30  SCR Altach              v LASK
+    19.30  SCR Altach              v LASK                     0-2 (0-1)
   Sat Mar/29
-    17.00  Grazer AK               v WSG Tirol
-           TSV Hartberg            v SK Austria Klagenfurt
+    17.00  Grazer AK               v WSG Tirol                0-0
+           TSV Hartberg            v SK Austria Klagenfurt    2-3 (1-1)
 
 
 » Relegation, Matchday 24
   Sat Apr/5
-    17.00  LASK                    v Grazer AK
-           SK Austria Klagenfurt   v SCR Altach
-           WSG Tirol               v TSV Hartberg
+    17.00  LASK                    v Grazer AK                1-0 (0-0)
+           SK Austria Klagenfurt   v SCR Altach               2-3 (2-2)
+           WSG Tirol               v TSV Hartberg             1-3 (0-1)
 
 
 » Relegation, Matchday 25
   Sat Apr/12
-    17.00  Grazer AK               v SCR Altach
-           TSV Hartberg            v LASK
-           WSG Tirol               v SK Austria Klagenfurt
+    17.00  Grazer AK               v SCR Altach               1-0 (1-0)
+           TSV Hartberg            v LASK                     0-1 (0-1)
+           WSG Tirol               v SK Austria Klagenfurt    5-3 (2-0)
 
 
 » Relegation, Matchday 26
   Fri Apr/18
-    19.30  LASK                    v WSG Tirol
+    19.30  LASK                    v WSG Tirol                2-0 (0-0)
   Sat Apr/19
-    17.00  SCR Altach              v TSV Hartberg
-           SK Austria Klagenfurt   v Grazer AK
+    17.00  SCR Altach              v TSV Hartberg             1-1 (0-0)
+           SK Austria Klagenfurt   v Grazer AK                0-0
 
 
 » Relegation, Matchday 27
   Tue Apr/22
-    18.30  WSG Tirol               v SCR Altach
-           Grazer AK               v TSV Hartberg
-    20.30  SK Austria Klagenfurt   v LASK
+    18.30  WSG Tirol               v SCR Altach               1-0 (1-0)
+           Grazer AK               v TSV Hartberg             0-3 (0-0)
+    20.30  SK Austria Klagenfurt   v LASK                     1-4 (1-2)
 
 
 » Relegation, Matchday 28
   Fri Apr/25
-    19.30  TSV Hartberg            v Grazer AK
+    19.30  TSV Hartberg            v Grazer AK                1-1 (1-1)
   Sat Apr/26
-    17.00  SCR Altach              v WSG Tirol
-           LASK                    v SK Austria Klagenfurt
+    17.00  SCR Altach              v WSG Tirol                3-0 (1-0)
+           LASK                    v SK Austria Klagenfurt    6-0 (2-0)
 
 
 » Relegation, Matchday 29
@@ -376,7 +376,8 @@
     19.30  Grazer AK               v SK Austria Klagenfurt
   Sat May/3
     17.00  WSG Tirol               v LASK
-           TSV Hartberg            v SCR Altach
+  Sun May/4
+    14.30  TSV Hartberg            v SCR Altach
 
 
 » Relegation, Matchday 30
