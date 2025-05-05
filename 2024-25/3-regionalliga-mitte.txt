@@ -267,116 +267,123 @@
 
 » Matchday 20
   Fri Mar/28
-    19.00  Vorwärts Steyr          v Union Gurten
-           WSC Hertha              v USV St. Anna
-           SK Treibach             v ASKÖ Oedt
-           Union Vöcklamarkt       v DSV Leoben
-           Deutschlandsberger SC   v Wolfsberger AC II
-           SV Wallern              v SC Weiz
-           FC Gleisdorf 09         v LASK Amateure OÖ
+    19.00  Vorwärts Steyr          v Union Gurten             1-3 (1-1)
+           WSC Hertha              v USV St. Anna             3-1 (1-0)
+           SK Treibach             v ASKÖ Oedt                1-1 (0-1)
+           Union Vöcklamarkt       v DSV Leoben               3-0 (1-0)
+           Deutschlandsberger SC   v Wolfsberger AC II        1-1 (0-0)
+           SV Wallern              v SC Weiz                  3-4 (0-1)
+           FC Gleisdorf 09         v LASK Amateure OÖ         2-3 (1-1)
   Sat Mar/29
-    15.00  SV Ried II              v SV Wildon
+    15.00  SV Ried II              v SV Wildon                1-3 (0-2)
 
 
 » Matchday 21
   Fri Apr/4
-           SV Wildon               v Union Vöcklamarkt
-           LASK Amateure OÖ        v Vorwärts Steyr
-    19.00  Union Gurten            v SV Ried II
-           DSV Leoben              v WSC Hertha
-           FC Gleisdorf 09         v SV Wallern
-           ASKÖ Oedt               v Deutschlandsberger SC
+    19.00  SV Wildon               v Union Vöcklamarkt        2-1 (2-0)
+           LASK Amateure OÖ        v Vorwärts Steyr           0-0
+           Union Gurten            v SV Ried II               3-1 (3-0)
+           DSV Leoben              v WSC Hertha               2-3 (2-1)
+           ASKÖ Oedt               v Deutschlandsberger SC    4-1 (2-1)
   Sat Apr/5
-           USV St. Anna            v SK Treibach
-    15.00  Wolfsberger AC II       v SC Weiz
+    15.00  Wolfsberger AC II       v SC Weiz                  0-1 (0-1)
+    19.00  USV St. Anna            v SK Treibach              1-3 (0-1)
+  Tue Apr/22
+    19.30  FC Gleisdorf 09         v SV Wallern               1-1 (0-0)
 
 
 » Matchday 22
   Fri Apr/11
-           SC Weiz                 v ASKÖ Oedt
-    19.00  Deutschlandsberger SC   v USV St. Anna
-           SK Treibach             v DSV Leoben
-           FC Gleisdorf 09         v Vorwärts Steyr
-           WSC Hertha              v SV Wildon
-           Union Vöcklamarkt       v Union Gurten
-           SV Wallern              v Wolfsberger AC II
+    19.00  Deutschlandsberger SC   v USV St. Anna             2-2 (2-2)
+           SK Treibach             v DSV Leoben               1-0 (1-0)
+           FC Gleisdorf 09         v Vorwärts Steyr           2-1 (1-0)
+           SC Weiz                 v ASKÖ Oedt                2-0 (0-0)
+           WSC Hertha              v SV Wildon                4-1 (0-0)
+           Union Vöcklamarkt       v Union Gurten             0-0
+           SV Wallern              v Wolfsberger AC II        0-1 (0-0)
   Sat Apr/12
-    17.00  SV Ried II              v LASK Amateure OÖ
+    18.30  SV Ried II              v LASK Amateure OÖ         0-4 (0-0)
 
 
 » Matchday 23
+  Thu Apr/17
+    19.00  FC Gleisdorf 09         v SV Ried II               2-1 (2-1)
+           DSV Leoben              v Deutschlandsberger SC    2-1 (1-1)
   Fri Apr/18
-           SV Wildon               v SK Treibach
-           LASK Amateure OÖ        v Union Vöcklamarkt
-    19.00  Union Gurten            v WSC Hertha
-           DSV Leoben              v Deutschlandsberger SC
-           Vorwärts Steyr          v SV Wallern
+    19.00  SV Wildon               v SK Treibach              3-3 (3-0)
+           LASK Amateure OÖ        v Union Vöcklamarkt        7-1 (3-1)
+           Union Gurten            v WSC Hertha               0-0
+           USV St. Anna            v SC Weiz                  2-2 (0-2)
+           Vorwärts Steyr          v SV Wallern               1-0 (0-0)
   Sat Apr/19
-           FC Gleisdorf 09         v SV Ried II
-           USV St. Anna            v SC Weiz
-           ASKÖ Oedt               v Wolfsberger AC II
+    16.30  ASKÖ Oedt               v Wolfsberger AC II        2-1 (0-1)
 
 
 » Matchday 24
+  Fri Apr/25
+    19.00  SK Treibach             v Union Gurten             1-0 (0-0)
+           SC Weiz                 v DSV Leoben               7-0 (2-0)
+           WSC Hertha              v LASK Amateure OÖ         1-1 (0-0)
+           Deutschlandsberger SC   v SV Wildon                5-1 (3-1)
+           SV Wallern              v ASKÖ Oedt                2-0 (1-0)
   Sat Apr/26
-           SK Treibach             v Union Gurten
-           SC Weiz                 v DSV Leoben
-           WSC Hertha              v LASK Amateure OÖ
-           Deutschlandsberger SC   v SV Wildon
-           Wolfsberger AC II       v USV St. Anna
-           SV Wallern              v ASKÖ Oedt
-           SV Ried II              v Vorwärts Steyr
-           Union Vöcklamarkt       v FC Gleisdorf 09
+    16.00  Wolfsberger AC II       v USV St. Anna             0-2 (0-1)
+    17.00  SV Ried II              v Vorwärts Steyr           2-3 (2-2)
+    19.00  Union Vöcklamarkt       v FC Gleisdorf 09          0-2 (0-0)
 
 
 » Matchday 25
+  Wed Apr/30
+    19.00  SV Wildon               v SC Weiz                  0-5 (0-1)
+           FC Gleisdorf 09         v WSC Hertha               1-3 (1-3)
+  Thu May/1
+    16.00  Union Gurten            v Deutschlandsberger SC    2-1 (1-0)
   Fri May/2
-           LASK Amateure OÖ        v SK Treibach
-           SV Wildon               v SC Weiz
+    18.00  LASK Amateure OÖ        v SK Treibach              2-0 (2-0)
+    19.00  DSV Leoben              v Wolfsberger AC II        0-3 (0-1)
+           Vorwärts Steyr          v Union Vöcklamarkt        1-5 (0-3)
   Sat May/3
-           FC Gleisdorf 09         v WSC Hertha
-           Union Gurten            v Deutschlandsberger SC
-           DSV Leoben              v Wolfsberger AC II
-           Vorwärts Steyr          v Union Vöcklamarkt
-           USV St. Anna            v ASKÖ Oedt
-           SV Ried II              v SV Wallern
+    17.00  SV Ried II              v SV Wallern               3-0 (1-0)
+    19.00  USV St. Anna            v ASKÖ Oedt                0-6 (0-1)
 
 
 » Matchday 26
-  Sat May/10
-           Wolfsberger AC II       v SV Wildon
-           SV Wallern              v USV St. Anna
+  Fri May/9
+    19.00  SV Wallern              v USV St. Anna
            SC Weiz                 v Union Gurten
            WSC Hertha              v Vorwärts Steyr
            Deutschlandsberger SC   v LASK Amateure OÖ
-           Union Vöcklamarkt       v SV Ried II
            ASKÖ Oedt               v DSV Leoben
            SK Treibach             v FC Gleisdorf 09
+  Sat May/10
+    16.00  Wolfsberger AC II       v SV Wildon
+    19.00  Union Vöcklamarkt       v SV Ried II
 
 
 » Matchday 27
   Fri May/16
-           SV Wildon               v ASKÖ Oedt
            LASK Amateure OÖ        v SC Weiz
-  Sat May/17
-           Union Gurten            v Wolfsberger AC II
+    19.00  Union Gurten            v Wolfsberger AC II
            Union Vöcklamarkt       v SV Wallern
-           FC Gleisdorf 09         v Deutschlandsberger SC
            DSV Leoben              v USV St. Anna
            Vorwärts Steyr          v SK Treibach
-           SV Ried II              v WSC Hertha
+  Sat May/17
+           FC Gleisdorf 09         v Deutschlandsberger SC
+    15.30  SV Wildon               v ASKÖ Oedt
+    17.00  SV Ried II              v WSC Hertha
 
 
 » Matchday 28
-  Sat May/24
-           SV Wallern              v DSV Leoben
-           SK Treibach             v SV Ried II
-           Wolfsberger AC II       v LASK Amateure OÖ
+  Fri May/23
            SC Weiz                 v FC Gleisdorf 09
+    19.00  SV Wallern              v DSV Leoben
+           SK Treibach             v SV Ried II
            WSC Hertha              v Union Vöcklamarkt
            ASKÖ Oedt               v Union Gurten
            Deutschlandsberger SC   v Vorwärts Steyr
+  Sat May/24
            USV St. Anna            v SV Wildon
+    17.00  Wolfsberger AC II       v LASK Amateure OÖ
 
 
 » Matchday 29
