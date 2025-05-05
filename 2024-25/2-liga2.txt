@@ -369,16 +369,16 @@
 
 » Matchday 27
   Fri May/2
-    18.00  FC Liefering            v ASK Voitsberg
-           SV Horn                 v SV Lafnitz
-           Schwarz-Weiß Bregenz    v Rapid Wien II
-           SV Stripfing/Weiden     v Floridsdorfer AC
-           SKU Amstetten           v Austria Lustenau
-    20.30  SV Ried                 v FC Admira Wacker
+    18.00  FC Liefering            v ASK Voitsberg            1-2 (0-2)
+           SV Horn                 v SV Lafnitz               4-1 (1-0)
+           Schwarz-Weiß Bregenz    v Rapid Wien II            1-5 (0-2)
+           SV Stripfing/Weiden     v Floridsdorfer AC         1-2 (0-1)
+           SKU Amstetten           v Austria Lustenau         0-1 (0-0)
+    20.30  SV Ried                 v FC Admira Wacker         2-0 (2-0)
   Sat May/3
-    20.00  Sturm Graz II           v SKN St. Pölten
+    20.00  Sturm Graz II           v SKN St. Pölten           2-4 (1-3)
   Sun May/4
-    10.30  First Vienna FC         v Kapfenberger SV 1919
+    10.30  First Vienna FC         v Kapfenberger SV 1919     0-2 (0-1)
 
 
 » Matchday 28
@@ -397,13 +397,13 @@
 
 » Matchday 29
   Fri May/16
-           First Vienna FC         v SKU Amstetten
+    18.00  First Vienna FC         v SKU Amstetten
            Sturm Graz II           v SV Lafnitz
            SKN St. Pölten          v Rapid Wien II
            ASK Voitsberg           v Floridsdorfer AC
            SV Stripfing/Weiden     v Austria Lustenau
            SV Horn                 v Kapfenberger SV 1919
-           Schwarz-Weiß Bregenz    v SV Ried
+    20.30  Schwarz-Weiß Bregenz    v SV Ried
            FC Liefering            v FC Admira Wacker
 
 
