@@ -1,9 +1,9 @@
 = Österr. Bundesliga 2024/25
 
-# Date       Fri Aug/2 2024 - Sat May/24 2025 (295d)
+# Date       Fri Aug/2 2024 - Sun Jun/1 2025 (303d)
 # Teams      12
-# Matches    192
-# Stages     Regular Season (132)  Championship (30)  Relegation (30)
+# Matches    195
+# Stages     Regular Season (132)  Championship (30)  Europa League Finals (3)  Relegation (30)
 
 
 
@@ -306,24 +306,36 @@
 
 » Championship, Matchday 30
   Fri May/9
-    19.30  Sturm Graz              v RB Salzburg
+    19.30  Sturm Graz              v RB Salzburg              4-2 (2-1)
   Sun May/11
-    14.30  Wolfsberger AC          v FC Blau Weiß Linz
-    17.00  Austria Wien            v Rapid Wien
+    14.30  Wolfsberger AC          v FC Blau Weiß Linz        2-0 (1-0)
+    17.00  Austria Wien            v Rapid Wien               1-2 (0-1)
 
 
 » Championship, Matchday 31
   Sun May/18
-    17.00  FC Blau Weiß Linz       v RB Salzburg
-           Wolfsberger AC          v Austria Wien
-           Rapid Wien              v Sturm Graz
+    17.00  FC Blau Weiß Linz       v RB Salzburg              1-2 (1-0)
+           Wolfsberger AC          v Austria Wien             1-2 (0-0)
+           Rapid Wien              v Sturm Graz               3-1 (2-0)
 
 
 » Championship, Matchday 32
   Sat May/24
-    17.00  Sturm Graz              v Wolfsberger AC
-           Austria Wien            v FC Blau Weiß Linz
-           RB Salzburg             v Rapid Wien
+    17.00  Sturm Graz              v Wolfsberger AC           1-1 (1-0)
+           Austria Wien            v FC Blau Weiß Linz        2-2 (1-0)
+           RB Salzburg             v Rapid Wien               4-2 (3-1)
+
+
+» Europa League Finals, Semifinals
+  Mon May/26
+    19.00  LASK                    v TSV Hartberg             2-0 (1-0)
+
+
+» Europa League Finals, Final
+  Thu May/29
+    17.00  LASK                    v Rapid Wien               3-1 (1-1)
+  Sun Jun/1
+    17.00  Rapid Wien              v LASK
 
 
 » Relegation, Matchday 23
@@ -382,20 +394,20 @@
 
 » Relegation, Matchday 30
   Sat May/10
-    17.00  SCR Altach              v Grazer AK
-           LASK                    v TSV Hartberg
-           SK Austria Klagenfurt   v WSG Tirol
+    17.00  SCR Altach              v Grazer AK                2-2 (1-1)
+           LASK                    v TSV Hartberg             0-0
+           SK Austria Klagenfurt   v WSG Tirol                1-4 (1-1)
 
 
 » Relegation, Matchday 31
   Sat May/17
-    17.00  Grazer AK               v LASK
-           SCR Altach              v SK Austria Klagenfurt
-           TSV Hartberg            v WSG Tirol
+    17.00  Grazer AK               v LASK                     1-0 (0-0)
+           SCR Altach              v SK Austria Klagenfurt    0-0
+           TSV Hartberg            v WSG Tirol                3-2 (0-1)
 
 
 » Relegation, Matchday 32
   Fri May/23
-    19.30  LASK                    v SCR Altach
-           WSG Tirol               v Grazer AK
-           SK Austria Klagenfurt   v TSV Hartberg
+    19.30  LASK                    v SCR Altach               0-0
+           WSG Tirol               v Grazer AK                1-1 (1-1)
+           SK Austria Klagenfurt   v TSV Hartberg             0-1 (0-1)
