@@ -1,0 +1,232 @@
+= Österr. Bundesliga 2025/26
+
+# Date       Fri Aug/1 2025 - Sat Mar/7 2026 (218d)
+# Teams      12
+# Matches    132
+
+
+
+» Matchday 1
+  Fri Aug/1 2025
+    20.30  LASK                    v Sturm Graz
+  Sat Aug/2
+    17.00  Wolfsberger AC          v SCR Altach
+           WSG Tirol               v TSV Hartberg
+    19.30  SV Ried                 v RB Salzburg
+  Sun Aug/3
+    17.30  Rapid Wien              v FC Blau Weiß Linz
+           Grazer AK               v Austria Wien
+
+
+» Matchday 2
+  Sat Aug/9
+    17.00  FC Blau Weiß Linz       v TSV Hartberg
+           SCR Altach              v SV Ried
+    19.30  RB Salzburg             v Grazer AK
+  Sun Aug/10
+    17.00  WSG Tirol               v LASK
+           Sturm Graz              v Rapid Wien
+           Austria Wien            v Wolfsberger AC
+
+
+» Matchday 3
+  Sat Aug/16
+    17.00  TSV Hartberg            v RB Salzburg
+           Grazer AK               v WSG Tirol
+    19.30  SV Ried                 v Sturm Graz
+  Sun Aug/17
+    17.00  LASK                    v Austria Wien
+           Rapid Wien              v SCR Altach
+           Wolfsberger AC          v FC Blau Weiß Linz
+
+
+» Matchday 4
+  Sat Aug/23
+    17.00  RB Salzburg             v LASK
+           FC Blau Weiß Linz       v SV Ried
+    19.30  Sturm Graz              v WSG Tirol
+  Sun Aug/24
+    17.00  SCR Altach              v Grazer AK
+           Wolfsberger AC          v Rapid Wien
+           Austria Wien            v TSV Hartberg
+
+
+» Matchday 5
+  Sat Aug/30
+    17.00  RB Salzburg             v FC Blau Weiß Linz
+           LASK                    v SV Ried
+    19.30  Grazer AK               v Sturm Graz
+  Sun Aug/31
+    17.00  TSV Hartberg            v Rapid Wien
+           Austria Wien            v SCR Altach
+           WSG Tirol               v Wolfsberger AC
+
+
+» Matchday 6
+  Sat Sep/13
+           Sturm Graz              v Austria Wien
+           Rapid Wien              v WSG Tirol
+           SV Ried                 v TSV Hartberg
+           Wolfsberger AC          v RB Salzburg
+           FC Blau Weiß Linz       v Grazer AK
+           SCR Altach              v LASK
+
+
+» Matchday 7
+  Sat Sep/20
+           RB Salzburg             v Sturm Graz
+           LASK                    v FC Blau Weiß Linz
+           TSV Hartberg            v Wolfsberger AC
+           Austria Wien            v SV Ried
+           SCR Altach              v WSG Tirol
+           Grazer AK               v Rapid Wien
+
+
+» Matchday 8
+  Sat Sep/27
+           Sturm Graz              v TSV Hartberg
+           Rapid Wien              v Austria Wien
+           SV Ried                 v Grazer AK
+           Wolfsberger AC          v LASK
+           FC Blau Weiß Linz       v SCR Altach
+           WSG Tirol               v RB Salzburg
+
+
+» Matchday 9
+  Sat Oct/4
+           RB Salzburg             v Rapid Wien
+           LASK                    v TSV Hartberg
+           SV Ried                 v WSG Tirol
+           Austria Wien            v FC Blau Weiß Linz
+           SCR Altach              v Sturm Graz
+           Grazer AK               v Wolfsberger AC
+
+
+» Matchday 10
+  Sat Oct/18
+           RB Salzburg             v SCR Altach
+           Rapid Wien              v LASK
+           Wolfsberger AC          v SV Ried
+           FC Blau Weiß Linz       v Sturm Graz
+           WSG Tirol               v Austria Wien
+           Grazer AK               v TSV Hartberg
+
+
+» Matchday 11
+  Sat Oct/25
+           Sturm Graz              v Wolfsberger AC
+           LASK                    v Grazer AK
+           SV Ried                 v Rapid Wien
+           Austria Wien            v RB Salzburg
+           SCR Altach              v TSV Hartberg
+           WSG Tirol               v FC Blau Weiß Linz
+
+
+» Matchday 12
+  Sat Nov/1
+           RB Salzburg             v SV Ried
+           Rapid Wien              v Sturm Graz
+           Grazer AK               v SCR Altach
+           TSV Hartberg            v Austria Wien
+           Wolfsberger AC          v WSG Tirol
+           FC Blau Weiß Linz       v LASK
+
+
+» Matchday 13
+  Sat Nov/8
+           Austria Wien            v Grazer AK
+           SV Ried                 v FC Blau Weiß Linz
+           WSG Tirol               v Rapid Wien
+           LASK                    v SCR Altach
+           Sturm Graz              v RB Salzburg
+           Wolfsberger AC          v TSV Hartberg
+
+
+» Matchday 14
+  Sat Nov/22
+           Sturm Graz              v LASK
+           SCR Altach              v Wolfsberger AC
+           TSV Hartberg            v SV Ried
+           Rapid Wien              v Grazer AK
+           RB Salzburg             v WSG Tirol
+           FC Blau Weiß Linz       v Austria Wien
+
+
+» Matchday 15
+  Sat Nov/29
+           Grazer AK               v FC Blau Weiß Linz
+           TSV Hartberg            v Sturm Graz
+           SCR Altach              v RB Salzburg
+           LASK                    v Rapid Wien
+           SV Ried                 v Wolfsberger AC
+           Austria Wien            v WSG Tirol
+
+
+» Matchday 16
+  Sat Dec/6
+           Wolfsberger AC          v Austria Wien
+           FC Blau Weiß Linz       v RB Salzburg
+           Sturm Graz              v Grazer AK
+           WSG Tirol               v SCR Altach
+           TSV Hartberg            v LASK
+           Rapid Wien              v SV Ried
+
+
+» Matchday 17
+  Sat Dec/13
+           TSV Hartberg            v WSG Tirol
+           FC Blau Weiß Linz       v Rapid Wien
+           SV Ried                 v SCR Altach
+           Austria Wien            v Sturm Graz
+           RB Salzburg             v Wolfsberger AC
+           Grazer AK               v LASK
+
+
+» Matchday 18
+  Fri Feb/6 2026
+           LASK                    v WSG Tirol
+           Sturm Graz              v SV Ried
+           Rapid Wien              v TSV Hartberg
+           SCR Altach              v FC Blau Weiß Linz
+           Wolfsberger AC          v Grazer AK
+           RB Salzburg             v Austria Wien
+
+
+» Matchday 19
+  Sat Feb/14
+           Grazer AK               v RB Salzburg
+           FC Blau Weiß Linz       v Wolfsberger AC
+           WSG Tirol               v Sturm Graz
+           SV Ried                 v LASK
+           Austria Wien            v Rapid Wien
+           TSV Hartberg            v SCR Altach
+
+
+» Matchday 20
+  Sat Feb/21
+           LASK                    v RB Salzburg
+           Rapid Wien              v Wolfsberger AC
+           SCR Altach              v Austria Wien
+           WSG Tirol               v SV Ried
+           Sturm Graz              v FC Blau Weiß Linz
+           TSV Hartberg            v Grazer AK
+
+
+» Matchday 21
+  Sat Feb/28
+           RB Salzburg             v TSV Hartberg
+           Austria Wien            v LASK
+           SCR Altach              v Rapid Wien
+           Grazer AK               v SV Ried
+           Wolfsberger AC          v Sturm Graz
+           FC Blau Weiß Linz       v WSG Tirol
+
+
+» Matchday 22
+  Sat Mar/7
+           TSV Hartberg            v FC Blau Weiß Linz
+           WSG Tirol               v Grazer AK
+           SV Ried                 v Austria Wien
+           LASK                    v Wolfsberger AC
+           Rapid Wien              v RB Salzburg
+           Sturm Graz              v SCR Altach

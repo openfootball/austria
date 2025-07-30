@@ -1,0 +1,374 @@
+= Österr. 2. Liga 2025/26
+
+# Date       Fri Aug/1 2025 - Wed Jun/24 2026 (327d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Fri Aug/1 2025
+    18.00  FC Liefering            v Austria Lustenau
+           Kapfenberger SV 1919    v FC Admira Wacker
+           SV Stripfing/Weiden     v First Vienna FC
+           SKU Amstetten           v Sturm Graz II
+           Austria Salzburg        v SK Austria Klagenfurt
+  Sat Aug/2
+    14.30  Schwarz-Weiß Bregenz    v Rapid Wien II
+    20.00  Austria Wien II         v SKN St. Pölten
+  Sun Aug/3
+    10.30  FC Hertha Wels          v Floridsdorfer AC
+
+
+» Matchday 2
+  Fri Aug/8
+    18.00  Austria Lustenau        v FC Hertha Wels
+           SK Austria Klagenfurt   v Austria Wien II
+           Floridsdorfer AC        v Kapfenberger SV 1919
+           SKN St. Pölten          v Schwarz-Weiß Bregenz
+    20.00  First Vienna FC         v Austria Salzburg
+  Sat Aug/9
+    14.30  Rapid Wien II           v FC Liefering
+    20.00  Sturm Graz II           v SV Stripfing/Weiden
+  Sun Aug/10
+    10.30  FC Admira Wacker        v SKU Amstetten
+
+
+» Matchday 3
+  Fri Aug/15
+    18.00  FC Liefering            v Sturm Graz II
+           FC Hertha Wels          v SKU Amstetten
+           SKN St. Pölten          v First Vienna FC
+           Schwarz-Weiß Bregenz    v Floridsdorfer AC
+           Kapfenberger SV 1919    v Austria Lustenau
+           SV Stripfing/Weiden     v SK Austria Klagenfurt
+  Sat Aug/16
+    20.00  Austria Wien II         v FC Admira Wacker
+  Sun Aug/17
+    10.30  Austria Salzburg        v Rapid Wien II
+
+
+» Matchday 4
+  Fri Aug/22
+    18.00  Austria Lustenau        v SV Stripfing/Weiden
+           SK Austria Klagenfurt   v Schwarz-Weiß Bregenz
+           First Vienna FC         v FC Liefering
+           FC Admira Wacker        v FC Hertha Wels
+           SKU Amstetten           v SKN St. Pölten
+  Sat Aug/23
+    14.30  Rapid Wien II           v Austria Wien II
+    20.00  Floridsdorfer AC        v Austria Salzburg
+           Sturm Graz II           v Kapfenberger SV 1919
+
+
+» Matchday 5
+  Fri Aug/29
+    18.00  SK Austria Klagenfurt   v FC Admira Wacker
+           First Vienna FC         v Austria Lustenau
+           FC Hertha Wels          v Austria Wien II
+           Schwarz-Weiß Bregenz    v FC Liefering
+           SV Stripfing/Weiden     v Kapfenberger SV 1919
+  Sat Aug/30
+    14.30  Rapid Wien II           v SKN St. Pölten
+           Austria Salzburg        v SKU Amstetten
+    20.00  Sturm Graz II           v Floridsdorfer AC
+
+
+» Matchday 6
+  Fri Sep/12
+           Austria Lustenau        v Sturm Graz II
+           Floridsdorfer AC        v SK Austria Klagenfurt
+           FC Liefering            v Austria Salzburg
+           FC Admira Wacker        v Schwarz-Weiß Bregenz
+           SKN St. Pölten          v SV Stripfing/Weiden
+           Austria Wien II         v First Vienna FC
+           Kapfenberger SV 1919    v FC Hertha Wels
+           SKU Amstetten           v Rapid Wien II
+
+
+» Matchday 7
+  Fri Sep/19
+           Austria Lustenau        v Floridsdorfer AC
+           First Vienna FC         v SK Austria Klagenfurt
+           FC Hertha Wels          v FC Liefering
+           SV Stripfing/Weiden     v Schwarz-Weiß Bregenz
+           Sturm Graz II           v Austria Wien II
+           SKU Amstetten           v Kapfenberger SV 1919
+           Rapid Wien II           v FC Admira Wacker
+           Austria Salzburg        v SKN St. Pölten
+
+
+» Matchday 8
+  Fri Sep/26
+           SK Austria Klagenfurt   v FC Hertha Wels
+           Floridsdorfer AC        v Rapid Wien II
+           FC Liefering            v SV Stripfing/Weiden
+           FC Admira Wacker        v Austria Lustenau
+           SKN St. Pölten          v Sturm Graz II
+           Austria Wien II         v SKU Amstetten
+           Schwarz-Weiß Bregenz    v Austria Salzburg
+           Kapfenberger SV 1919    v First Vienna FC
+
+
+» Matchday 9
+  Fri Oct/3
+           Austria Lustenau        v Austria Wien II
+           SK Austria Klagenfurt   v SKN St. Pölten
+           First Vienna FC         v Floridsdorfer AC
+           SV Stripfing/Weiden     v FC Admira Wacker
+           Sturm Graz II           v Schwarz-Weiß Bregenz
+           SKU Amstetten           v FC Liefering
+           Rapid Wien II           v Kapfenberger SV 1919
+           Austria Salzburg        v FC Hertha Wels
+
+
+» Matchday 10
+  Fri Oct/17
+           Floridsdorfer AC        v FC Liefering
+           FC Admira Wacker        v Austria Salzburg
+           FC Hertha Wels          v Rapid Wien II
+           SKN St. Pölten          v Austria Lustenau
+           Austria Wien II         v SV Stripfing/Weiden
+           Schwarz-Weiß Bregenz    v SKU Amstetten
+           Kapfenberger SV 1919    v SK Austria Klagenfurt
+           Sturm Graz II           v First Vienna FC
+
+
+» Matchday 11
+  Fri Oct/24
+           SK Austria Klagenfurt   v Sturm Graz II
+           First Vienna FC         v FC Admira Wacker
+           FC Liefering            v SKN St. Pölten
+           Schwarz-Weiß Bregenz    v Kapfenberger SV 1919
+           SV Stripfing/Weiden     v FC Hertha Wels
+           SKU Amstetten           v Floridsdorfer AC
+           Rapid Wien II           v Austria Lustenau
+           Austria Salzburg        v Austria Wien II
+
+
+» Matchday 12
+  Fri Oct/31
+           Austria Lustenau        v SK Austria Klagenfurt
+           First Vienna FC         v SKU Amstetten
+           FC Hertha Wels          v Schwarz-Weiß Bregenz
+           SKN St. Pölten          v Floridsdorfer AC
+           Austria Wien II         v FC Liefering
+           Kapfenberger SV 1919    v Austria Salzburg
+           SV Stripfing/Weiden     v Rapid Wien II
+           Sturm Graz II           v FC Admira Wacker
+
+
+» Matchday 13
+  Fri Nov/7
+           Floridsdorfer AC        v Austria Wien II
+           FC Liefering            v Kapfenberger SV 1919
+           FC Admira Wacker        v SKN St. Pölten
+           FC Hertha Wels          v First Vienna FC
+           Schwarz-Weiß Bregenz    v Austria Lustenau
+           SKU Amstetten           v SV Stripfing/Weiden
+           Rapid Wien II           v SK Austria Klagenfurt
+           Austria Salzburg        v Sturm Graz II
+
+
+» Matchday 14
+  Fri Nov/21
+           Austria Lustenau        v Austria Salzburg
+           SK Austria Klagenfurt   v SKU Amstetten
+           First Vienna FC         v Rapid Wien II
+           FC Admira Wacker        v FC Liefering
+           SKN St. Pölten          v Kapfenberger SV 1919
+           Austria Wien II         v Schwarz-Weiß Bregenz
+           SV Stripfing/Weiden     v Floridsdorfer AC
+           Sturm Graz II           v FC Hertha Wels
+
+
+» Matchday 15
+  Fri Nov/28
+           Floridsdorfer AC        v FC Admira Wacker
+           FC Liefering            v SK Austria Klagenfurt
+           FC Hertha Wels          v SKN St. Pölten
+           Schwarz-Weiß Bregenz    v First Vienna FC
+           Kapfenberger SV 1919    v Austria Wien II
+           SKU Amstetten           v Austria Lustenau
+           Rapid Wien II           v Sturm Graz II
+           Austria Salzburg        v SV Stripfing/Weiden
+
+
+» Matchday 16
+  Fri Dec/5
+           Austria Lustenau        v FC Liefering
+           Floridsdorfer AC        v FC Hertha Wels
+           SKN St. Pölten          v Austria Wien II
+           Rapid Wien II           v Schwarz-Weiß Bregenz
+           FC Admira Wacker        v Kapfenberger SV 1919
+           First Vienna FC         v SV Stripfing/Weiden
+           Sturm Graz II           v SKU Amstetten
+           SK Austria Klagenfurt   v Austria Salzburg
+
+
+» Matchday 17
+  Fri Dec/12
+           FC Hertha Wels          v Austria Lustenau
+           Austria Wien II         v SK Austria Klagenfurt
+           Austria Salzburg        v First Vienna FC
+           Kapfenberger SV 1919    v Floridsdorfer AC
+           SKU Amstetten           v FC Admira Wacker
+           Schwarz-Weiß Bregenz    v SKN St. Pölten
+           SV Stripfing/Weiden     v Sturm Graz II
+           FC Liefering            v Rapid Wien II
+
+
+» Matchday 18
+  Fri Feb/20 2026
+           Sturm Graz II           v FC Liefering
+           SKU Amstetten           v FC Hertha Wels
+           First Vienna FC         v SKN St. Pölten
+           FC Admira Wacker        v Austria Wien II
+           Floridsdorfer AC        v Schwarz-Weiß Bregenz
+           Austria Lustenau        v Kapfenberger SV 1919
+           SK Austria Klagenfurt   v SV Stripfing/Weiden
+           Rapid Wien II           v Austria Salzburg
+
+
+» Matchday 19
+  Fri Feb/27
+           SV Stripfing/Weiden     v Austria Lustenau
+           Schwarz-Weiß Bregenz    v SK Austria Klagenfurt
+           FC Liefering            v First Vienna FC
+           Austria Salzburg        v Floridsdorfer AC
+           FC Hertha Wels          v FC Admira Wacker
+           Kapfenberger SV 1919    v Sturm Graz II
+           SKN St. Pölten          v SKU Amstetten
+           Austria Wien II         v Rapid Wien II
+
+
+» Matchday 20
+  Fri Mar/6
+           FC Admira Wacker        v SK Austria Klagenfurt
+           Austria Lustenau        v First Vienna FC
+           Austria Wien II         v FC Hertha Wels
+           FC Liefering            v Schwarz-Weiß Bregenz
+           Kapfenberger SV 1919    v SV Stripfing/Weiden
+           Floridsdorfer AC        v Sturm Graz II
+           SKN St. Pölten          v Rapid Wien II
+           SKU Amstetten           v Austria Salzburg
+
+
+» Matchday 21
+  Fri Mar/13
+           Sturm Graz II           v Austria Lustenau
+           SK Austria Klagenfurt   v Floridsdorfer AC
+           Austria Salzburg        v FC Liefering
+           Schwarz-Weiß Bregenz    v FC Admira Wacker
+           SV Stripfing/Weiden     v SKN St. Pölten
+           First Vienna FC         v Austria Wien II
+           FC Hertha Wels          v Kapfenberger SV 1919
+           Rapid Wien II           v SKU Amstetten
+
+
+» Matchday 22
+  Fri Mar/20
+           Floridsdorfer AC        v Austria Lustenau
+           SK Austria Klagenfurt   v First Vienna FC
+           FC Liefering            v FC Hertha Wels
+           Schwarz-Weiß Bregenz    v SV Stripfing/Weiden
+           Austria Wien II         v Sturm Graz II
+           Kapfenberger SV 1919    v SKU Amstetten
+           FC Admira Wacker        v Rapid Wien II
+           SKN St. Pölten          v Austria Salzburg
+
+
+» Matchday 23
+  Fri Apr/3
+           FC Hertha Wels          v SK Austria Klagenfurt
+           Rapid Wien II           v Floridsdorfer AC
+           SV Stripfing/Weiden     v FC Liefering
+           Austria Lustenau        v FC Admira Wacker
+           Sturm Graz II           v SKN St. Pölten
+           SKU Amstetten           v Austria Wien II
+           Austria Salzburg        v Schwarz-Weiß Bregenz
+           First Vienna FC         v Kapfenberger SV 1919
+
+
+» Matchday 24
+  Mon Apr/6
+           Austria Wien II         v Austria Lustenau
+           SKN St. Pölten          v SK Austria Klagenfurt
+           Floridsdorfer AC        v First Vienna FC
+           FC Admira Wacker        v SV Stripfing/Weiden
+           Schwarz-Weiß Bregenz    v Sturm Graz II
+           FC Liefering            v SKU Amstetten
+           Kapfenberger SV 1919    v Rapid Wien II
+           FC Hertha Wels          v Austria Salzburg
+
+
+» Matchday 25
+  Fri Apr/10
+           FC Liefering            v Floridsdorfer AC
+           Austria Salzburg        v FC Admira Wacker
+           Rapid Wien II           v FC Hertha Wels
+           Austria Lustenau        v SKN St. Pölten
+           SV Stripfing/Weiden     v Austria Wien II
+           SKU Amstetten           v Schwarz-Weiß Bregenz
+           SK Austria Klagenfurt   v Kapfenberger SV 1919
+           First Vienna FC         v Sturm Graz II
+
+
+» Matchday 26
+  Fri Apr/17
+           Sturm Graz II           v SK Austria Klagenfurt
+           FC Admira Wacker        v First Vienna FC
+           SKN St. Pölten          v FC Liefering
+           Kapfenberger SV 1919    v Schwarz-Weiß Bregenz
+           FC Hertha Wels          v SV Stripfing/Weiden
+           Floridsdorfer AC        v SKU Amstetten
+           Austria Lustenau        v Rapid Wien II
+           Austria Wien II         v Austria Salzburg
+
+
+» Matchday 27
+  Wed Jun/24
+           SK Austria Klagenfurt   v Austria Lustenau
+           SKU Amstetten           v First Vienna FC
+           Schwarz-Weiß Bregenz    v FC Hertha Wels
+           Floridsdorfer AC        v SKN St. Pölten
+           FC Liefering            v Austria Wien II
+           Austria Salzburg        v Kapfenberger SV 1919
+           Rapid Wien II           v SV Stripfing/Weiden
+           FC Admira Wacker        v Sturm Graz II
+
+
+» Matchday 28
+  Sat May/2
+           Austria Wien II         v Floridsdorfer AC
+           Kapfenberger SV 1919    v FC Liefering
+           SKN St. Pölten          v FC Admira Wacker
+           First Vienna FC         v FC Hertha Wels
+           Austria Lustenau        v Schwarz-Weiß Bregenz
+           SV Stripfing/Weiden     v SKU Amstetten
+           SK Austria Klagenfurt   v Rapid Wien II
+           Sturm Graz II           v Austria Salzburg
+
+
+» Matchday 29
+  Fri May/8
+           Austria Salzburg        v Austria Lustenau
+           SKU Amstetten           v SK Austria Klagenfurt
+           Rapid Wien II           v First Vienna FC
+           FC Liefering            v FC Admira Wacker
+           Kapfenberger SV 1919    v SKN St. Pölten
+           Schwarz-Weiß Bregenz    v Austria Wien II
+           Floridsdorfer AC        v SV Stripfing/Weiden
+           FC Hertha Wels          v Sturm Graz II
+
+
+» Matchday 30
+  Thu May/14
+           FC Admira Wacker        v Floridsdorfer AC
+           SK Austria Klagenfurt   v FC Liefering
+           SKN St. Pölten          v FC Hertha Wels
+           First Vienna FC         v Schwarz-Weiß Bregenz
+           Austria Wien II         v Kapfenberger SV 1919
+           Austria Lustenau        v SKU Amstetten
+           Sturm Graz II           v Rapid Wien II
+           SV Stripfing/Weiden     v Austria Salzburg
