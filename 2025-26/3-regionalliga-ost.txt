@@ -6,323 +6,327 @@
 
 
 
-» Matchday 1
+» 1. Round
   Fri Aug/1 2025
-    18.00  SR Donaufeld            v SV Donau Wien
-    19.00  FC Marchfeld Donauauen  v SV Horn
-           SC Neusiedl/See 1919    v Kremser SC
-           SV Gloggnitz            v FCM Traiskirchen
-           SV Leobendorf           v SC Wiener Viktoria
-    19.30  SV Oberwart             v SC/ESV Parndorf
+    17.00  SR Donaufeld            v SV Donau Wien            2-2 (0-1)
+    18.00  FC Marchfeld Donauauen  v SV Horn                  4-2 (3-1)
+           SC Neusiedl/See 1919    v Kremser SC               0-4 (0-3)
+           SV Leobendorf           v SC Wiener Viktoria       3-1 (2-1)
+    18.30  SV Oberwart             v SC/ESV Parndorf          1-1 (1-1)
   Sat Aug/2
-    17.30  SC Retz                 v Wiener Sport-Club
-           Sportunion Mauer        v Favoritner AC
+    16.30  SC Retz                 v Wiener Sport-Club        1-1 (0-1)
+           Sportunion Mauer        v Favoritner AC            1-0 (0-0)
+  Tue Aug/26
+    18.00  SV Gloggnitz            v FCM Traiskirchen         1-0 (0-0)
 
 
-» Matchday 2
+» 2. Round
   Fri Aug/8
-    19.00  SC/ESV Parndorf         v SC Neusiedl/See 1919
-    19.30  FCM Traiskirchen        v SC Retz
-           Kremser SC              v SV Leobendorf
-           SV Horn                 v SV Donau Wien
-           TWL Elektra             v FC Marchfeld Donauauen
-           Wiener Sport-Club       v Sportunion Mauer
+    18.00  SC/ESV Parndorf         v SC Neusiedl/See 1919     1-1 (0-1)
+    18.30  FCM Traiskirchen        v SC Retz                  2-0 (0-0)
+           Kremser SC              v SV Leobendorf            2-3 (1-2)
+           SV Horn                 v SV Donau Wien            0-0
+           TWL Elektra             v FC Marchfeld Donauauen   0-2 (0-1)
+           Wiener Sport-Club       v Sportunion Mauer         2-2 (1-1)
   Sat Aug/9
-    17.00  SR Donaufeld            v SV Oberwart
-    19.00  SC Wiener Viktoria      v SV Gloggnitz
+    16.00  SR Donaufeld            v SV Oberwart              1-2 (1-1)
+    18.00  SC Wiener Viktoria      v SV Gloggnitz             1-1 (0-0)
 
 
-» Matchday 3
+» 3. Round
   Thu Aug/14
-    19.00  SV Gloggnitz            v Kremser SC
+    18.00  SV Gloggnitz            v Kremser SC               1-0 (1-0)
   Fri Aug/15
-    19.00  SC Neusiedl/See 1919    v SR Donaufeld
-    19.10  Favoritner AC           v Wiener Sport-Club
-    19.30  SV Donau Wien           v TWL Elektra
-           SV Oberwart             v SV Horn
+    18.10  Favoritner AC           v Wiener Sport-Club        0-1 (0-1)
+    18.30  SC Neusiedl/See 1919    v SR Donaufeld             2-2 (0-1)
+           SV Donau Wien           v TWL Elektra              3-0 (2-0)
+           SV Oberwart             v SV Horn                  3-1 (1-0)
   Sat Aug/16
-    17.30  SC Retz                 v SC Wiener Viktoria
-           Sportunion Mauer        v FCM Traiskirchen
-           SV Leobendorf           v SC/ESV Parndorf
+    16.30  SC Retz                 v SC Wiener Viktoria       0-3 (0-1)
+           Sportunion Mauer        v FCM Traiskirchen         1-3 (1-3)
+           SV Leobendorf           v SC/ESV Parndorf          4-2 (3-2)
 
 
-» Matchday 4
+» 4. Round
   Fri Aug/22
-    19.00  FC Marchfeld Donauauen  v SV Donau Wien
-           SC/ESV Parndorf         v SV Gloggnitz
-    19.30  FCM Traiskirchen        v Favoritner AC
-           Kremser SC              v SC Retz
-           TWL Elektra             v SV Oberwart
+    18.00  FC Marchfeld Donauauen  v SV Donau Wien            1-1 (1-0)
+           SC/ESV Parndorf         v SV Gloggnitz             0-1 (0-1)
+    18.30  FCM Traiskirchen        v Favoritner AC            4-1 (2-1)
+           Kremser SC              v SC Retz                  6-1 (4-0)
+           TWL Elektra             v SV Oberwart              0-5 (0-1)
   Sat Aug/23
-    14.30  SV Horn                 v SC Neusiedl/See 1919
-    16.30  SR Donaufeld            v SV Leobendorf
-    19.00  SC Wiener Viktoria      v Sportunion Mauer
+    13.30  SV Horn                 v SC Neusiedl/See 1919     3-1 (1-1)
+    15.30  SR Donaufeld            v SV Leobendorf            0-1 (0-1)
+    18.00  SC Wiener Viktoria      v Sportunion Mauer         1-2 (0-2)
 
 
-» Matchday 5
+» 5. Round
   Fri Aug/29
-    19.00  SC Neusiedl/See 1919    v TWL Elektra
-           SV Gloggnitz            v SR Donaufeld
-           SV Leobendorf           v SV Horn
-    19.10  Favoritner AC           v SC Wiener Viktoria
-    19.30  Kremser SC              v Sportunion Mauer
-           SV Oberwart             v FC Marchfeld Donauauen
-           Wiener Sport-Club       v FCM Traiskirchen
+    18.00  SC Neusiedl/See 1919    v TWL Elektra              3-4 (2-2)
+           SV Gloggnitz            v SR Donaufeld             1-1 (1-1)
+    18.10  Favoritner AC           v SC Wiener Viktoria       1-2 (1-0)
+    18.30  Kremser SC              v Sportunion Mauer         0-0
+           SV Oberwart             v FC Marchfeld Donauauen   1-0 (1-0)
+           Wiener Sport-Club       v FCM Traiskirchen         2-2 (0-0)
   Sat Aug/30
-    16.30  SC Retz                 v SC/ESV Parndorf
+    15.30  SC Retz                 v SC/ESV Parndorf          0-2 (0-0)
+  Sun Aug/31
+    16.00  SV Leobendorf           v SV Horn                  1-1 (1-1)
 
 
-» Matchday 6
+» 6. Round
   Fri Sep/5
-    19.00  FC Marchfeld Donauauen  v SC Neusiedl/See 1919
-           SC/ESV Parndorf         v Sportunion Mauer
-    19.30  Kremser SC              v Favoritner AC
-           SV Donau Wien           v SV Oberwart
-           SV Horn                 v SV Gloggnitz
-           TWL Elektra             v SV Leobendorf
+    18.00  FC Marchfeld Donauauen  v SC Neusiedl/See 1919     1-1 (1-1)
+           SC/ESV Parndorf         v Sportunion Mauer         0-1 (0-1)
+    18.30  Kremser SC              v Favoritner AC            6-0 (2-0)
+           SV Donau Wien           v SV Oberwart              1-0 (0-0)
+           SV Horn                 v SV Gloggnitz             4-0 (2-0)
+           TWL Elektra             v SV Leobendorf            0-2 (0-2)
   Sat Sep/6
-    16.30  SR Donaufeld            v SC Retz
-    18.45  SC Wiener Viktoria      v Wiener Sport-Club
+    15.30  SR Donaufeld            v SC Retz                  2-0 (0-0)
+    17.45  SC Wiener Viktoria      v Wiener Sport-Club        0-1 (0-0)
 
 
-» Matchday 7
+» 7. Round
   Fri Sep/12
-    19.00  SC Neusiedl/See 1919    v SV Donau Wien
-           SV Gloggnitz            v TWL Elektra
-    19.10  Favoritner AC           v SC/ESV Parndorf
-    19.30  Kremser SC              v Wiener Sport-Club
+    18.00  SC Neusiedl/See 1919    v SV Donau Wien            1-2 (1-2)
+           SV Gloggnitz            v TWL Elektra              3-0 (1-0)
+    18.10  Favoritner AC           v SC/ESV Parndorf          0-2 (0-0)
+    18.30  Kremser SC              v Wiener Sport-Club        3-1 (0-1)
   Sat Sep/13
-    14.00  Sportunion Mauer        v SR Donaufeld
-    16.30  SC Retz                 v SV Horn
-    17.00  SV Leobendorf           v FC Marchfeld Donauauen
+    15.30  SC Retz                 v SV Horn                  2-2 (2-1)
   Sun Sep/14
-    16.30  FCM Traiskirchen        v SC Wiener Viktoria
+    15.30  FCM Traiskirchen        v SC Wiener Viktoria       4-0 (0-0)
+  Tue Sep/16
+    18.30  Sportunion Mauer        v SR Donaufeld             1-2 (1-1)
+  Tue Sep/23
+    18.00  SV Leobendorf           v FC Marchfeld Donauauen   2-0 (2-0)
 
 
-» Matchday 8
+» 8. Round
   Fri Sep/19
-    19.00  FC Marchfeld Donauauen  v SV Gloggnitz
-           SC/ESV Parndorf         v Wiener Sport-Club
-    19.30  Kremser SC              v FCM Traiskirchen
-           SV Donau Wien           v SV Leobendorf
-           SV Horn                 v Sportunion Mauer
-           SV Oberwart             v SC Neusiedl/See 1919
-           TWL Elektra             v SC Retz
+    18.00  FC Marchfeld Donauauen  v SV Gloggnitz             1-1 (0-0)
+           SC/ESV Parndorf         v Wiener Sport-Club        1-0 (0-0)
+    18.30  Kremser SC              v FCM Traiskirchen         3-3 (1-2)
+           SV Donau Wien           v SV Leobendorf            0-2 (0-1)
+           SV Horn                 v Sportunion Mauer         6-0 (2-0)
+           TWL Elektra             v SC Retz                  2-3 (2-2)
   Sat Sep/20
-    16.00  SR Donaufeld            v Favoritner AC
+    15.00  SR Donaufeld            v Favoritner AC            2-0 (1-0)
+    16.30  SV Oberwart             v SC Neusiedl/See 1919     1-3 (1-2)
 
 
-» Matchday 9
+» 9. Round
   Fri Sep/26
-    19.00  SV Gloggnitz            v SV Donau Wien
-           SV Leobendorf           v SV Oberwart
-    19.10  Favoritner AC           v SV Horn
-    19.30  FCM Traiskirchen        v SC/ESV Parndorf
-           Wiener Sport-Club       v SR Donaufeld
+    18.00  SV Gloggnitz            v SV Donau Wien            1-0 (0-0)
+           SV Leobendorf           v SV Oberwart              2-1 (0-1)
+    18.10  Favoritner AC           v SV Horn                  0-1 (0-0)
+    18.30  FCM Traiskirchen        v SC/ESV Parndorf          4-0 (2-0)
   Sat Sep/27
-    14.00  Sportunion Mauer        v TWL Elektra
-    16.00  SC Retz                 v FC Marchfeld Donauauen
-    19.00  SC Wiener Viktoria      v Kremser SC
+    13.00  Sportunion Mauer        v TWL Elektra              2-0 (0-0)
+    14.30  SR Donaufeld            v Wiener Sport-Club        4-2 (1-0)
+    15.00  SC Retz                 v FC Marchfeld Donauauen   1-1 (0-1)
+    18.00  SC Wiener Viktoria      v Kremser SC               2-1 (0-1)
 
 
-» Matchday 10
+» 10. Round
   Fri Oct/3
-    19.00  FC Marchfeld Donauauen  v Sportunion Mauer
-           SC Neusiedl/See 1919    v SV Leobendorf
-           SC/ESV Parndorf         v SC Wiener Viktoria
-    19.30  SV Donau Wien           v SC Retz
-           SV Horn                 v Wiener Sport-Club
-           SV Oberwart             v SV Gloggnitz
-           TWL Elektra             v Favoritner AC
+    18.00  FC Marchfeld Donauauen  v Sportunion Mauer         2-1 (1-0)
+           SC Neusiedl/See 1919    v SV Leobendorf            0-1 (0-1)
+           SC/ESV Parndorf         v SC Wiener Viktoria       2-1 (2-0)
+    18.30  SV Donau Wien           v SC Retz                  2-0 (2-0)
+           SV Horn                 v Wiener Sport-Club        5-1 (1-1)
+           SV Oberwart             v SV Gloggnitz             1-0 (1-0)
+           TWL Elektra             v Favoritner AC            1-3 (1-1)
   Sat Oct/4
-    15.30  SR Donaufeld            v FCM Traiskirchen
+    14.30  SR Donaufeld            v FCM Traiskirchen         4-1 (3-0)
 
 
-» Matchday 11
+» 11. Round
   Fri Oct/10
-    19.00  SV Gloggnitz            v SC Neusiedl/See 1919
-    19.10  Favoritner AC           v FC Marchfeld Donauauen
-    19.30  FCM Traiskirchen        v SV Horn
-           Kremser SC              v SC/ESV Parndorf
-           TWL Elektra             v Wiener Sport-Club
+    18.00  SV Gloggnitz            v SC Neusiedl/See 1919     3-1 (1-0)
+    18.10  Favoritner AC           v FC Marchfeld Donauauen   2-0 (1-0)
+    18.30  FCM Traiskirchen        v SV Horn                  1-1 (0-0)
+           Kremser SC              v SC/ESV Parndorf          2-2 (1-2)
+           TWL Elektra             v Wiener Sport-Club        1-2 (1-0)
   Sat Oct/11
-    14.00  Sportunion Mauer        v SV Donau Wien
-    16.00  SC Retz                 v SV Oberwart
-    19.00  SC Wiener Viktoria      v SR Donaufeld
+    13.00  Sportunion Mauer        v SV Donau Wien            0-1 (0-1)
+    15.00  SC Retz                 v SV Oberwart              2-3 (1-2)
+           SC Wiener Viktoria      v SR Donaufeld             2-1 (2-0)
 
 
-» Matchday 12
+» 12. Round
   Fri Oct/17
-    19.00  FC Marchfeld Donauauen  v Wiener Sport-Club
-           SC Neusiedl/See 1919    v SC Retz
-    19.30  SV Donau Wien           v Favoritner AC
-           SV Horn                 v SC Wiener Viktoria
-           SV Oberwart             v Sportunion Mauer
-           TWL Elektra             v FCM Traiskirchen
+    18.00  FC Marchfeld Donauauen  v Wiener Sport-Club        1-1 (1-0)
+           SC Neusiedl/See 1919    v SC Retz                  3-1 (1-1)
+    18.30  SV Donau Wien           v Favoritner AC            1-0 (0-0)
+           SV Horn                 v SC Wiener Viktoria       1-0 (1-0)
+           SV Oberwart             v Sportunion Mauer         2-0 (1-0)
+           TWL Elektra             v FCM Traiskirchen         1-7 (0-6)
   Sat Oct/18
-    15.00  SR Donaufeld            v Kremser SC
-    16.30  SV Leobendorf           v SV Gloggnitz
+    14.00  SR Donaufeld            v Kremser SC               1-1 (0-0)
+    15.30  SV Leobendorf           v SV Gloggnitz             0-1 (0-1)
 
 
-» Matchday 13
+» 13. Round
   Fri Oct/24
-    19.00  SC/ESV Parndorf         v SR Donaufeld
-           SV Donau Wien           v Wiener Sport-Club
-    19.10  Favoritner AC           v SV Oberwart
-    19.30  FCM Traiskirchen        v FC Marchfeld Donauauen
-           Kremser SC              v SV Horn
+    18.00  SC/ESV Parndorf         v SR Donaufeld             2-1 (2-1)
+           SV Donau Wien           v Wiener Sport-Club        3-0 (2-0)
+    18.10  Favoritner AC           v SV Oberwart              3-2 (1-0)
+    18.30  FCM Traiskirchen        v FC Marchfeld Donauauen   1-1 (0-1)
+           Kremser SC              v SV Horn                  1-0 (0-0)
   Sat Oct/25
-    14.00  Sportunion Mauer        v SC Neusiedl/See 1919
-    16.00  SC Retz                 v SV Leobendorf
-    19.00  SC Wiener Viktoria      v TWL Elektra
+    13.00  Sportunion Mauer        v SC Neusiedl/See 1919     2-1 (0-1)
+    14.30  SC Wiener Viktoria      v TWL Elektra              3-1 (1-0)
+    15.00  SC Retz                 v SV Leobendorf            0-1 (0-1)
 
 
-» Matchday 14
+» 14. Round
   Fri Oct/31
-    19.00  FC Marchfeld Donauauen  v SC Wiener Viktoria
-           SC Neusiedl/See 1919    v Favoritner AC
-    19.30  FCM Traiskirchen        v SV Donau Wien
-           SV Oberwart             v Wiener Sport-Club
-           TWL Elektra             v Kremser SC
-    20.00  SV Horn                 v SC/ESV Parndorf
+    18.00  FC Marchfeld Donauauen  v SC Wiener Viktoria       2-0 (0-0)
+           SC Neusiedl/See 1919    v Favoritner AC            1-0 (1-0)
+    18.30  FCM Traiskirchen        v SV Donau Wien            4-2 (3-1)
+           SV Oberwart             v Wiener Sport-Club        4-0 (2-0)
+           TWL Elektra             v Kremser SC               0-1 (0-0)
+    19.00  SV Horn                 v SC/ESV Parndorf          1-1 (0-0)
   Sat Nov/1
-    14.00  SV Gloggnitz            v SC Retz
-    16.30  SV Leobendorf           v Sportunion Mauer
+    13.00  SV Gloggnitz            v SC Retz                  3-0 (0-0)
+    15.30  SV Leobendorf           v Sportunion Mauer         0-0
 
 
-» Matchday 15
+» 15. Round
   Fri Nov/7
-    19.00  FCM Traiskirchen        v SV Oberwart
+    18.00  FCM Traiskirchen        v SV Oberwart
            SC/ESV Parndorf         v TWL Elektra
-    19.10  Favoritner AC           v SV Leobendorf
-    19.30  Kremser SC              v FC Marchfeld Donauauen
-           Wiener Sport-Club       v SC Neusiedl/See 1919
+           SC Neusiedl/See 1919    v Wiener Sport-Club
+    18.10  Favoritner AC           v SV Leobendorf
+    18.30  Kremser SC              v FC Marchfeld Donauauen
   Sat Nov/8
-    14.00  Sportunion Mauer        v SV Gloggnitz
+    13.00  Sportunion Mauer        v SV Gloggnitz
            SR Donaufeld            v SV Horn
-    19.00  SC Wiener Viktoria      v SV Donau Wien
+           SC Wiener Viktoria      v SV Donau Wien
 
 
-» Matchday 16
+» 16. Round
   Fri Nov/14
-    19.00  FC Marchfeld Donauauen  v SC/ESV Parndorf
+    18.00  FC Marchfeld Donauauen  v SC/ESV Parndorf
            SC Neusiedl/See 1919    v FCM Traiskirchen
            SV Donau Wien           v Kremser SC
-    19.30  SV Oberwart             v SC Wiener Viktoria
+    18.30  SV Oberwart             v SC Wiener Viktoria
            TWL Elektra             v SR Donaufeld
   Sat Nov/15
-    14.00  SV Gloggnitz            v Favoritner AC
-    16.00  SC Retz                 v Sportunion Mauer
-    16.30  SV Leobendorf           v Wiener Sport-Club
+    13.00  SV Gloggnitz            v Favoritner AC
+    15.00  SC Retz                 v Sportunion Mauer
+           SV Leobendorf           v Wiener Sport-Club
 
 
-» Matchday 17
+» 17. Round
   Fri Nov/21
-    19.00  SC/ESV Parndorf         v SV Donau Wien
-    19.10  Favoritner AC           v SC Retz
-    19.30  FCM Traiskirchen        v SV Leobendorf
+    18.00  SC/ESV Parndorf         v SV Donau Wien
+           Wiener Sport-Club       v SV Gloggnitz
+    18.10  Favoritner AC           v SC Retz
+    18.30  FCM Traiskirchen        v SV Leobendorf
            Kremser SC              v SV Oberwart
            SV Horn                 v TWL Elektra
-           Wiener Sport-Club       v SV Gloggnitz
   Sat Nov/22
-    14.00  SR Donaufeld            v FC Marchfeld Donauauen
-    19.00  SC Wiener Viktoria      v SC Neusiedl/See 1919
+    13.00  SR Donaufeld            v FC Marchfeld Donauauen
+           SC Wiener Viktoria      v SC Neusiedl/See 1919
 
 
-» Matchday 18
+» 18. Round
   Fri Feb/20 2026
-    19.00  SC/ESV Parndorf         v SV Oberwart
-    19.30  Favoritner AC           v Sportunion Mauer
+    18.00  SC/ESV Parndorf         v SV Oberwart
+    18.30  Favoritner AC           v Sportunion Mauer
            FCM Traiskirchen        v SV Gloggnitz
            Kremser SC              v SC Neusiedl/See 1919
            SV Horn                 v FC Marchfeld Donauauen
            Wiener Sport-Club       v SC Retz
   Sat Feb/21
-    16.00  SC Wiener Viktoria      v SV Leobendorf
+    15.00  SC Wiener Viktoria      v SV Leobendorf
            SV Donau Wien           v SR Donaufeld
 
 
-» Matchday 19
+» 19. Round
   Fri Feb/27
-    19.00  FC Marchfeld Donauauen  v TWL Elektra
+    18.00  FC Marchfeld Donauauen  v TWL Elektra
            SC Neusiedl/See 1919    v SC/ESV Parndorf
            SV Gloggnitz            v SC Wiener Viktoria
-    19.30  SV Oberwart             v SR Donaufeld
+    18.30  SV Oberwart             v SR Donaufeld
   Sat Feb/28
-    14.00  Sportunion Mauer        v Wiener Sport-Club
-    15.00  SC Retz                 v FCM Traiskirchen
+    13.00  Sportunion Mauer        v Wiener Sport-Club
+    14.00  SC Retz                 v FCM Traiskirchen
            SV Donau Wien           v SV Horn
-    16.30  SV Leobendorf           v Kremser SC
+    15.30  SV Leobendorf           v Kremser SC
 
 
-» Matchday 20
+» 20. Round
   Fri Mar/6
-    19.00  SC/ESV Parndorf         v SV Leobendorf
-    19.30  FCM Traiskirchen        v Sportunion Mauer
+    18.00  SC/ESV Parndorf         v SV Leobendorf
+    18.30  FCM Traiskirchen        v Sportunion Mauer
            Kremser SC              v SV Gloggnitz
            SV Horn                 v SV Oberwart
            Wiener Sport-Club       v Favoritner AC
   Sat Mar/7
-    15.30  TWL Elektra             v SV Donau Wien
-    16.00  SC Wiener Viktoria      v SC Retz
+    14.30  TWL Elektra             v SV Donau Wien
+    15.00  SC Wiener Viktoria      v SC Retz
            SR Donaufeld            v SC Neusiedl/See 1919
 
 
-» Matchday 21
+» 21. Round
   Fri Mar/13
-    19.00  SC Neusiedl/See 1919    v SV Horn
+    18.00  SC Neusiedl/See 1919    v SV Horn
            SV Gloggnitz            v SC/ESV Parndorf
-    19.30  Favoritner AC           v FCM Traiskirchen
+    18.30  Favoritner AC           v FCM Traiskirchen
            SV Oberwart             v TWL Elektra
   Sat Mar/14
-    14.00  Sportunion Mauer        v SC Wiener Viktoria
-    15.30  SC Retz                 v Kremser SC
+    13.00  Sportunion Mauer        v SC Wiener Viktoria
+    14.30  SC Retz                 v Kremser SC
            SV Donau Wien           v FC Marchfeld Donauauen
-    16.30  SV Leobendorf           v SR Donaufeld
+    15.30  SV Leobendorf           v SR Donaufeld
 
 
-» Matchday 22
+» 22. Round
   Fri Mar/20
-    19.00  FC Marchfeld Donauauen  v SV Oberwart
+    18.00  FC Marchfeld Donauauen  v SV Oberwart
            SC/ESV Parndorf         v SC Retz
-    19.30  FCM Traiskirchen        v Wiener Sport-Club
+    18.30  FCM Traiskirchen        v Wiener Sport-Club
            Sportunion Mauer        v Kremser SC
            SV Horn                 v SV Leobendorf
   Sat Mar/21
-    16.00  SC Wiener Viktoria      v Favoritner AC
+    15.00  SC Wiener Viktoria      v Favoritner AC
            SR Donaufeld            v SV Gloggnitz
            TWL Elektra             v SC Neusiedl/See 1919
 
 
-» Matchday 23
+» 23. Round
   Fri Mar/27
-    19.00  SC Neusiedl/See 1919    v FC Marchfeld Donauauen
+    18.00  SC Neusiedl/See 1919    v FC Marchfeld Donauauen
            SV Gloggnitz            v SV Horn
-    19.30  Favoritner AC           v Kremser SC
+    18.30  Favoritner AC           v Kremser SC
            SV Oberwart             v SV Donau Wien
            Wiener Sport-Club       v SC Wiener Viktoria
   Sat Mar/28
-    14.00  Sportunion Mauer        v SC/ESV Parndorf
-    16.00  SC Retz                 v SR Donaufeld
-    16.30  SV Leobendorf           v TWL Elektra
+    13.00  Sportunion Mauer        v SC/ESV Parndorf
+    15.00  SC Retz                 v SR Donaufeld
+    15.30  SV Leobendorf           v TWL Elektra
 
 
-» Matchday 24
+» 24. Round
   Fri Apr/3
-    19.00  FC Marchfeld Donauauen  v SV Leobendorf
+    18.00  FC Marchfeld Donauauen  v SV Leobendorf
            SC/ESV Parndorf         v Favoritner AC
-    19.30  SV Horn                 v SC Retz
+    18.30  SV Horn                 v SC Retz
            Wiener Sport-Club       v Kremser SC
   Sat Apr/4
-    16.00  SC Wiener Viktoria      v FCM Traiskirchen
+    15.00  SC Wiener Viktoria      v FCM Traiskirchen
            SR Donaufeld            v Sportunion Mauer
-    16.30  SV Donau Wien           v SC Neusiedl/See 1919
+    15.30  SV Donau Wien           v SC Neusiedl/See 1919
            TWL Elektra             v SV Gloggnitz
 
 
-» Matchday 25
+» 25. Round
   Mon Apr/6
-    16.30  Favoritner AC           v SR Donaufeld
+    15.30  Favoritner AC           v SR Donaufeld
            FCM Traiskirchen        v Kremser SC
            SC Neusiedl/See 1919    v SV Oberwart
            SC Retz                 v TWL Elektra
@@ -332,118 +336,118 @@
            Wiener Sport-Club       v SC/ESV Parndorf
 
 
-» Matchday 26
+» 26. Round
   Fri Apr/10
-    19.00  FC Marchfeld Donauauen  v SC Retz
+    18.00  FC Marchfeld Donauauen  v SC Retz
            SC/ESV Parndorf         v FCM Traiskirchen
-    19.30  Kremser SC              v SC Wiener Viktoria
+    18.30  Kremser SC              v SC Wiener Viktoria
            SV Horn                 v Favoritner AC
            SV Oberwart             v SV Leobendorf
   Sat Apr/11
-    16.00  SR Donaufeld            v Wiener Sport-Club
-    16.30  SV Donau Wien           v SV Gloggnitz
+    15.00  Wiener Sport-Club       v SR Donaufeld
+    15.30  SV Donau Wien           v SV Gloggnitz
            TWL Elektra             v Sportunion Mauer
 
 
-» Matchday 27
+» 27. Round
   Fri Apr/17
-    19.00  SV Gloggnitz            v SV Oberwart
-    19.30  Favoritner AC           v TWL Elektra
+    18.00  SV Gloggnitz            v SV Oberwart
+    18.30  Favoritner AC           v TWL Elektra
            FCM Traiskirchen        v SR Donaufeld
            Wiener Sport-Club       v SV Horn
   Sat Apr/18
-    14.00  Sportunion Mauer        v FC Marchfeld Donauauen
-    16.00  SC Wiener Viktoria      v SC/ESV Parndorf
-    16.30  SC Retz                 v SV Donau Wien
+    13.00  Sportunion Mauer        v FC Marchfeld Donauauen
+    15.00  SC Wiener Viktoria      v SC/ESV Parndorf
+    15.30  SC Retz                 v SV Donau Wien
            SV Leobendorf           v SC Neusiedl/See 1919
 
 
-» Matchday 28
+» 28. Round
   Fri Apr/24
-    19.00  FC Marchfeld Donauauen  v Favoritner AC
+    18.00  FC Marchfeld Donauauen  v Favoritner AC
            SC Neusiedl/See 1919    v SV Gloggnitz
            SC/ESV Parndorf         v Kremser SC
-    19.30  SV Horn                 v FCM Traiskirchen
+    18.30  SV Horn                 v FCM Traiskirchen
            SV Oberwart             v SC Retz
   Sat Apr/25
-    16.00  SR Donaufeld            v SC Wiener Viktoria
-    16.30  SV Donau Wien           v Sportunion Mauer
+    15.00  SR Donaufeld            v SC Wiener Viktoria
+    15.30  SV Donau Wien           v Sportunion Mauer
            Wiener Sport-Club       v TWL Elektra
 
 
-» Matchday 29
+» 29. Round
   Fri May/1
-    19.00  SV Gloggnitz            v SV Leobendorf
-    19.30  Favoritner AC           v SV Donau Wien
+    18.00  SV Gloggnitz            v SV Leobendorf
+    18.30  Favoritner AC           v SV Donau Wien
            FCM Traiskirchen        v TWL Elektra
            Kremser SC              v SR Donaufeld
            Wiener Sport-Club       v FC Marchfeld Donauauen
   Sat May/2
-    14.00  Sportunion Mauer        v SV Oberwart
-    16.00  SC Wiener Viktoria      v SV Horn
-    16.30  SC Retz                 v SC Neusiedl/See 1919
+    13.00  Sportunion Mauer        v SV Oberwart
+    15.00  SC Wiener Viktoria      v SV Horn
+    15.30  SC Retz                 v SC Neusiedl/See 1919
 
 
-» Matchday 30
+» 30. Round
   Fri May/8
-    19.00  FC Marchfeld Donauauen  v FCM Traiskirchen
+    18.00  FC Marchfeld Donauauen  v FCM Traiskirchen
            SC Neusiedl/See 1919    v Sportunion Mauer
-    19.30  SV Horn                 v Kremser SC
+    18.30  SV Horn                 v Kremser SC
            SV Oberwart             v Favoritner AC
   Sat May/9
-    16.00  SR Donaufeld            v SC/ESV Parndorf
-    16.30  SV Leobendorf           v SC Retz
+    15.00  SR Donaufeld            v SC/ESV Parndorf
+    15.30  SV Leobendorf           v SC Retz
            TWL Elektra             v SC Wiener Viktoria
            Wiener Sport-Club       v SV Donau Wien
 
 
-» Matchday 31
+» 31. Round
   Fri May/15
-    19.00  SC/ESV Parndorf         v SV Horn
-    19.30  Favoritner AC           v SC Neusiedl/See 1919
+    18.00  SC/ESV Parndorf         v SV Horn
+    18.30  Favoritner AC           v SC Neusiedl/See 1919
            Kremser SC              v TWL Elektra
            SV Donau Wien           v FCM Traiskirchen
            Wiener Sport-Club       v SV Oberwart
   Sat May/16
-    14.00  Sportunion Mauer        v SV Leobendorf
-    16.00  SC Wiener Viktoria      v FC Marchfeld Donauauen
-    16.30  SC Retz                 v SV Gloggnitz
+    13.00  Sportunion Mauer        v SV Leobendorf
+    15.00  SC Wiener Viktoria      v FC Marchfeld Donauauen
+    15.30  SC Retz                 v SV Gloggnitz
 
 
-» Matchday 32
+» 32. Round
   Fri May/22
-    19.00  FC Marchfeld Donauauen  v Kremser SC
-           SC Neusiedl/See 1919    v Wiener Sport-Club
+    18.00  FC Marchfeld Donauauen  v Kremser SC
+           Wiener Sport-Club       v SC Neusiedl/See 1919
            SV Gloggnitz            v Sportunion Mauer
-    19.30  SV Horn                 v SR Donaufeld
+    18.30  SV Horn                 v SR Donaufeld
            SV Oberwart             v FCM Traiskirchen
   Sat May/23
-    16.30  SV Donau Wien           v SC Wiener Viktoria
+    15.30  SV Donau Wien           v SC Wiener Viktoria
            SV Leobendorf           v Favoritner AC
            TWL Elektra             v SC/ESV Parndorf
 
 
-» Matchday 33
+» 33. Round
   Fri May/29
-    19.00  SC/ESV Parndorf         v FC Marchfeld Donauauen
-    19.30  Favoritner AC           v SV Gloggnitz
+    18.00  SC/ESV Parndorf         v FC Marchfeld Donauauen
+    18.30  Favoritner AC           v SV Gloggnitz
            FCM Traiskirchen        v SC Neusiedl/See 1919
            Kremser SC              v SV Donau Wien
            Wiener Sport-Club       v SV Leobendorf
   Sat May/30
-    14.00  Sportunion Mauer        v SC Retz
-    16.00  SC Wiener Viktoria      v SV Oberwart
+    13.00  Sportunion Mauer        v SC Retz
+    15.00  SC Wiener Viktoria      v SV Oberwart
            SR Donaufeld            v TWL Elektra
 
 
-» Matchday 34
+» 34. Round
   Fri Jun/5
-    19.00  FC Marchfeld Donauauen  v SR Donaufeld
+    18.00  FC Marchfeld Donauauen  v SR Donaufeld
            SC Neusiedl/See 1919    v SC Wiener Viktoria
            SV Gloggnitz            v Wiener Sport-Club
-    19.30  SV Oberwart             v Kremser SC
+    18.30  SV Oberwart             v Kremser SC
   Sat Jun/6
-    16.30  SC Retz                 v Favoritner AC
+    15.30  SC Retz                 v Favoritner AC
            SV Donau Wien           v SC/ESV Parndorf
            SV Leobendorf           v FCM Traiskirchen
            TWL Elektra             v SV Horn

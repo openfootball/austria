@@ -1,19 +1,19 @@
 = ÖFB Cup 2025/26
 
-# Date       Fri Jul/25 - Tue Aug/26 2025 (32d)
+# Date       Fri Jul/25 - Thu Oct/30 2025 (97d)
 # Teams      64
-# Matches    48
+# Matches    56
 
 
 
-» Round 1
+» 1. Round
   Fri Jul/25 2025
-    17.30  SR Donaufeld            v Floridsdorfer AC         0-4 (0-3)
-    18.00  SVG Reichenau           v VfB Hohenems             4-1 (3-0)
+    16.30  SR Donaufeld            v Floridsdorfer AC         0-4 (0-3)
+    17.00  SVG Reichenau           v VfB Hohenems             4-1 (3-0)
            Kremser SC              v SKU Amstetten            2-3 pen. 1-1 a.e.t. (1-1, 1-0)
            SC/ESV Parndorf         v SV Ried                  0-5 (0-1)
            SV Wallern              v Wolfsberger AC           1-3 (1-1)
-    19.00  ATUS Velden             v SC Neusiedl/See 1919     3-2 (1-1)
+    18.00  ATUS Velden             v SC Neusiedl/See 1919     3-2 (1-1)
            FC Marchfeld Donauauen  v UFC Jennersdorf          6-1 (2-0)
            FC Lauterach            v SC Schwaz                0-5 (0-3)
            Union Gurten            v SV Wals-Grünau           6-2 (4-0)
@@ -21,44 +21,61 @@
            SC Weiz                 v FC Admira Wacker         0-3 (0-0)
            SC Imst                 v FC Hertha Wels           1-3 pen. 3-3 a.e.t. (2-2, 1-1)
            FC Dornbirn             v Grazer AK                1-0 (1-0)
-    19.30  SV Tillmitsch           v First Vienna FC          1-3 (0-1)
+    18.30  SV Tillmitsch           v First Vienna FC          1-3 (0-1)
            SV Horn                 v SK Austria Klagenfurt    2-0 (2-0)
            Union Vöcklamarkt       v Schwarz-Weiß Bregenz     0-2 (0-1)
            SK Treibach             v FC Blau Weiß Linz        0-3 (0-1)
            FCM Traiskirchen        v WSG Tirol                0-4 (0-1)
-    20.00  SV Oberwart             v ATSV Wolfsberg           7-0 (5-0)
-    20.30  SK Bischofshofen        v Sturm Graz               0-4 (0-3)
+    19.00  SV Oberwart             v ATSV Wolfsberg           7-0 (5-0)
+    19.30  SK Bischofshofen        v Sturm Graz               0-4 (0-3)
   Sat Jul/26
-    16.00  SV Dinamo Helfort 15    v Kapfenberger SV 1919     1-2 (1-1)
-    17.00  ASKÖ Oedt               v Austria Salzburg         1-0 (0-0)
+    15.00  SV Dinamo Helfort 15    v Kapfenberger SV 1919     1-2 (1-1)
+    16.00  ASKÖ Oedt               v Austria Salzburg         1-0 (0-0)
            SC Hirschwang           v SCR Altach               1-4 (0-2)
-    18.00  SV Kuchl                v Austria Lustenau         2-3 (1-1)
+    17.00  SV Kuchl                v Austria Lustenau         2-3 (1-1)
            Wiener Sport-Club       v LASK                     0-4 (0-4)
            Union Dietach           v RB Salzburg              0-4 (0-1)
-    19.00  FC Lendorf              v SV Donau Wien            1-2 (0-1)
+    18.00  FC Lendorf              v SV Donau Wien            1-2 (0-1)
            SC Retz                 v SV Stripfing/Weiden      0-5 (0-3)
            SV Lafnitz              v TSV Hartberg             2-5 (1-3)
   Sun Jul/27
-    13.00  ASK Voitsberg           v Austria Wien             3-2 (1-1)
-    17.00  FC Pinzgau Saalfelden   v SC Röthis                1-2 (0-0)
+    12.00  ASK Voitsberg           v Austria Wien             3-2 (1-1)
+    16.00  FC Pinzgau Saalfelden   v SC Röthis                1-2 (0-0)
            FC Wacker Innsbruck     v Rapid Wien               0-1 (0-0)
 
 
-» Round 2
+» 2. Round
   Tue Aug/26
-           SVG Reichenau           v Wolfsberger AC
-           FC Marchfeld Donauauen  v Schwarz-Weiß Bregenz
-           FC Dornbirn             v RB Salzburg
-           Floridsdorfer AC        v SV Stripfing/Weiden
-           SC Schwaz               v FC Blau Weiß Linz
-           SV Donau Wien           v SCR Altach
-           ASKÖ Oedt               v WSG Tirol
-           Union Gurten            v SV Ried
-           SC Röthis               v Sturm Graz
-           ATUS Velden             v TSV Hartberg
-           SKU Amstetten           v First Vienna FC
-           SV Oberwart             v Rapid Wien
-           FC Hertha Wels          v SKN St. Pölten
-           SV Horn                 v LASK
-           ASK Voitsberg           v FC Admira Wacker
-           Austria Lustenau        v Kapfenberger SV 1919
+    17.30  Austria Lustenau        v Kapfenberger SV 1919     0-2 (0-1)
+    18.00  FC Marchfeld Donauauen  v Schwarz-Weiß Bregenz     0-2 (0-2)
+           FC Hertha Wels          v SKN St. Pölten           4-5 pen. 2-2 a.e.t. (2-2, 1-1)
+    18.30  Union Gurten            v SV Ried                  0-1 (0-1)
+           SKU Amstetten           v First Vienna FC          2-1 (1-0)
+           ASK Voitsberg           v FC Admira Wacker         1-4 (0-1)
+  Wed Aug/27
+    17.00  FC Dornbirn             v RB Salzburg              1-3 (1-1)
+           ASKÖ Oedt               v WSG Tirol                1-3 (0-2)
+    18.00  Floridsdorfer AC        v SV Stripfing/Weiden      1-3 (0-1)
+    19.30  SC Schwaz               v FC Blau Weiß Linz        0-3 (0-0)
+           SV Donau Wien           v SCR Altach               1-3 (0-1)
+           ATUS Velden             v TSV Hartberg             0-3 a.e.t. (0-0)
+           SV Horn                 v LASK                     0-2 (0-2)
+  Tue Sep/16
+    17.00  SVG Reichenau           v Wolfsberger AC           0-6 (0-3)
+  Wed Sep/17
+    16.00  SC Röthis               v Sturm Graz               0-2 (0-1)
+    18.00  SV Oberwart             v Rapid Wien               1-2 (0-2)
+
+
+» Round of 16
+  Tue Oct/28
+    19.30  SV Stripfing/Weiden     v LASK                     0-2 (0-1)
+           Kapfenberger SV 1919    v SCR Altach               1-3 a.e.t. (1-1, 0-0)
+           FC Blau Weiß Linz       v TSV Hartberg             5-4 pen. 2-2 a.e.t. (1-1, 1-0)
+  Wed Oct/29
+    17.00  FC Admira Wacker        v Sturm Graz               9-10 pen. 1-1 a.e.t. (1-1, 1-0)
+    18.00  Schwarz-Weiß Bregenz    v SV Ried                  0-1 a.e.t. (0-0)
+           SKU Amstetten           v Wolfsberger AC           2-3 a.e.t. (2-2, 2-1)
+    19.30  SKN St. Pölten          v Rapid Wien               0-1 (0-1)
+  Thu Oct/30
+    18.00  RB Salzburg             v WSG Tirol                3-1 a.e.t. (1-1, 0-0)
