@@ -1,0 +1,540 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tableso/oost01.html
+
+=Österr. Bundesliga 2000/01=
+
+<!-- Final Table:
+
+ 1.FC Tirol Innsbruck           36 20  8  8 63-31  68  Champions
+ 2.SK Rapid Wien                36 16 12  8 62-36  60  UEFA Cup
+ 3.Grazer AK                    36 16  9 11 49-40  57  UEFA Cup
+ 4.SK Sturm Graz                36 16  7 13 58-44  55  Intertoto
+ 5.FK Austria Wien              36 14  8 13 47-43  50
+ 6.SV Austria Salzburg          36 13 10 13 49-45  49
+ 7.SV Ried im Innkreis          36 13  9 14 51-52  48
+ 8.Schwarz-Weiß Bregenz         36 10  8 18 40-67  38
+ 9.VfB Admira/Wacker Mödling    36  8 12 16 29-63  36
+-----------------------------------------------------
+10.LASK Linz                    36  8  9 19 43-70  33  Relegated  -->
+
+
+
+▪ Round 1
+Jul 4
+Tirol            6-1 Admira M
+  (Gilewicz 16, 63, 90, Baur 26, Aigner 36og, Mair 42; Mlinar 80)
+Jul 5
+Austria W        4-0 GAK
+  (Dospel 13, M.Wagner 65, 75, Mayrleb 82)
+Ried             3-1 Schwarz-Weiß
+  (Akagündüz 16, Lauwers 65, Anicic 70; Posavec 70)
+Sturm            5-1 LASK
+  (Schopp 30, Vastic 45, Neukirchner 54, Juran 59, Kocijan 68; Ortner 12)
+Austria S        0-3 Rapid
+  (R.Wagner 14, Taument 21, Radovic 85)
+
+▪ Round 2
+Jul 11
+Admira M         0-0 Austria W
+Jul 12
+Rapid            4-1 Sturm
+  (Dowe 29, Radovic 51, 71, R.Wagner 57; Szabics 75)
+Schwarz-Weiß     2-2 Tirol 
+  (Ambrosius 71, 82; Pulkkinen 14og, Mair 78)
+GAK              0-3 Ried
+  (Lauwers 70, 85, 89)
+LASK             0-2 Austria S
+  (Silberberger 22, Kitzbichler 66)
+
+▪ Round 3
+Jul 18
+Rapid            2-0 LASK
+  (Taument 50, Dowe 76)
+Jul 19
+Sturm            1-1 Austria W
+  (Kocijan 79; Dospel 5)
+Austria S        2-0 Schwarz-Weiß
+  (Sabitzer 13, Carcamo 92)  
+Ried             3-2 Admira M
+  (Akagündüz 39, Angerschmid 45, Drechsel 75pen; E.Aigner 25, Hujdurovic 60og)
+Tirol            1-1 GAK
+  (Gilewicz 48; Brunmayr 25)
+
+▪ Round 4
+Jul 15
+Admira M         0-1 Sturm
+  (Kocijan 17)
+Jul 25
+LASK             0-2 Tirol
+  (Baur 63, Kirchler 66)
+Jul 26
+Schwarz-Weiß     1-1 Rapid
+  (Tomic 89; Zingler 44)
+Aug 5
+Austria W        2-1 Ried
+  (M.Wagner 50, 74; Akagündüz 3)
+GAK              1-1 Austria S
+  (Ehmann 81; Laessig 15)
+
+▪ Round 5
+Jul 29
+Austria S        3-1 Admira M
+  (Sabitzer 7, Mlinar 15og, Carcamo 69; Bardel 45)
+Rapid            1-1 GAK
+  (Dowe 7; Hütter 25)
+LASK             3-1 Schwarz-Weiß
+  (Frigård 35, 89, Sariyar 15; Ambrosius 47)
+Sturm            4-2 Ried
+  (Vastic 5pen, Strafner 11, Popovic 56, Szabics 76; Anicic 14pen, Akagündüz 71)
+Jul 30
+Tirol            0-2 Austria W
+  (Mayrleb 7, 90pen)
+
+▪ Round 6
+Aug 2
+Admira M         2-4 Rapid
+  (Aigner 19pen, Bardel 42; R.Wagner 12, 31, Lagonikakis 30, Dowe 52)
+GAK              3-1 LASK
+  (Milinovic 54, Pamic 71, B.Akwuegbu 92; Brenner 4pen)
+Ried             1-1 Tirol
+  (Akagündüz 23; Gilewicz 13)
+Sep 9
+Austria W        3-1 Austria S
+  (M.Wagner 50, Mayrleb 61, Ledwon 67; Früstük 53)
+Schwarz-Weiß     2-1 Sturm
+  (Regtop 40pen, Ambrosius 94, Szabics 7)
+
+▪ Round 7
+Aug 12
+Schwarz-Weiß     2-1 GAK
+  (Almer 76og, Regtop 92; Brunmayr 48)
+Austria S        0-0 Ried
+LASK             1-1 Admira M
+  (Frigård 24pen; E.Aigner 68)
+Sturm            3-0 Tirol
+  (Reinmayr 14, 34, Schopp 45pen)
+Aug 13
+Rapid            1-1 Austria W
+  (Radovic 22; Derksen 91)
+
+▪ Round 8
+Aug 19
+Admira M         0-1 Schwarz-Weiß
+  (Tomic 87)  
+Austria W        5-0 LASK
+  (Derksen 9, M.Wagner 60, Jezek 72, Mayrleb 74, Rost 87)
+GAK              2-0 Sturm
+  (Pamic 56, 65)
+Tirol            2-0 Austria S
+  (Gilewicz 30, Glieder 39)
+Aug 20
+Ried             2-3 Rapid
+  (Drechsel 29pen, 87; R.Wagner 1, 74pen, Wetl 67)
+
+▪ Round 9
+Aug 26
+Austria S        1-0 Sturm
+  (Winklhofer 25)
+Schwarz-Weiß     1-4 Austria W             [annulled]
+  (Pedersen 15; Jezek 17, Mayrleb 60, 68, M.Wagner 73)
+  [to be replayed - Mayrleb's first goal scored after Schwarz-Weiß had
+   conceded Austria throw-in in order to have injured player treated]
+GAK              5-1 Admira M
+  (Ceh 15, Ehmann 22, Pamic 29, 90, B.Akwuegbu 84; Bozgo 85)
+LASK             1-1 Ried
+  (Ortner 65; Drechsel 53)
+Aug 27
+Rapid            2-1 Tirol
+  (Wetl 52, Ratajczyk 91; Gilewicz 58)
+▪ Round 9, Replay
+Oct 25
+Schwarz-Weiß     2-1 Austria W          
+  (E.Akwuegbu 79, Hiden 89og; Derksen 69)
+
+▪ Round 10
+Sep 5
+Sturm            1-2 Austria S
+  (Ch.Jank 88og; Laessig 49, Kitzbichler 70)
+Sep 6
+Admira M         0-4 GAK
+  (Brunmayr 3, Pamic 10, Isabella 28, B.Akwuegbu 74) 
+Austria W        2-1 Schwarz-Weiß
+ (M.Wagner 26, Mayrleb 63; H.Kogler 10)
+Ried             1-0 LASK
+  (Hiden 53)
+Sep 8
+Tirol            1-0 Rapid
+  (Scharrer 92)
+
+▪ Round 11
+Sep 15
+LASK             2-1 Sturm
+  (Frigård 62, 90; Korsos 67)
+Sep 16
+Schwarz-Weiß     0-0 Ried
+Rapid            3-0 Austria S
+  (Saler 13, Schwarz 59, 60)
+Sep 17
+Admira M         1-0 Tirol
+  (Schuster 11)
+GAK              1-0 Austria W
+  (Hütter 23)
+
+▪ Round 12
+Sep 22
+Ried             2-3 GAK
+  (Rothbauer 84, Lauwers 86; Brunmayr 65, 92, Isabella 59)
+Sep 23
+Tirol            2-0 Schwarz-Weiß
+  (Panis 88, Kirchler 92)   
+Austria S        4-1 LASK
+  (Laessig 36pen, 63, Winklhofer 68, Carcamo 74; Grassler 9)
+Austria W        0-0 Admira M
+Sep 24
+Sturm            1-1 Rapid
+  (Strafner 62; Zingler 29)
+ 
+▪ Round 13
+Sep 29
+Admira M         0-5 Ried
+  (Akagündüz 35, 84, Drechsel 51, 68pen, Angerschmid 89)
+Sep 30
+Schwarz-Weiß     5-1 Austria S
+  (Regtop 34, 73, 89, Ambrosius 38, 63; Carcamo 21)
+Oct 1
+LASK             2-1 Rapid 
+  (Ba 65, Brenner 78; Radovic 17)
+GAK              0-2 Tirol
+  (Kirchler 38, Schiener 77)
+Austria W        1-2 Sturm   
+  (Mayrleb 38; Schopp 28, Juran 31)
+
+▪ Round 14
+Oct 14
+Rapid            2-1 Schwarz-Weiß
+  (Savicevic 47, Wallner 88; Ambrosius 92)
+Sturm            5-0 Admira M
+  (Kocijan 7, 85, Juran 24, Schopp 28, Swoboda 88og)
+Tirol            3-0 LASK
+  (Gilewicz 19, Kirchler 43, Hörtnagl 91)
+Ried             1-3 Austria W
+  (Drechsel 65; Mayrleb 21, 27, Dospel 42)
+Oct 15
+Austria S        4-0 GAK
+  (Laessig 17, 64pen, Carcamo 29, Früstük 35)
+
+▪ Round 15
+Oct 20
+GAK              2-0 Rapid
+  (Brunmayr 7, 86)
+Oct 21
+Admira M         2-0 Austria S
+  (Promberger 6, Fellner 66)
+Schwarz-Weiß     2-2 LASK
+  (Ambrosius 22, Posavec 40; Lichtenwagner 30, Brenner 63)
+Ried             2-1 Sturm
+  (Akagündüz 38, 82; Szabics 5)
+Oct 22
+Austria W        0-2 Tirol
+  (Gilewicz 10, Barisic 74)
+
+▪ Round 16
+Oct 28
+Austria S        2-0 Austria W
+  (Kitzbichler 9, Carcamo 44)
+Sturm            4-2 Schwarz-Weiß
+  (Minavand 2, Schopp 40, Strafner 49, Szabics 84; Ambrosius 36, Pedersen 66)
+Rapid            1-0 Admira M
+  (Wallner 66)
+Oct 29
+Tirol            2-0 Ried
+  (Kirchler 17, Mair 93)
+LASK             0-1 GAK
+  (B.Akwuegbu 55)
+
+▪ Round 17 
+Nov 1
+Admira M         2-2 LASK
+  (Stöger 14pen, Bozgo 43; Brenner 8, Muhr 45)
+GAK              2-0 Schwarz-Weiß
+  (Brunmayr 27pen, B.Akwuegbu 83)
+Austria W        3-2 Rapid
+  (Topic 35, Mayrleb 44, 54; Taument 24, Wallner 38)
+Ried             1-1 Austria S
+  (Nentwich 48; Carcamo 46)
+Tirol            3-0 Sturm
+  (Panis 13, Kirchler 52, Anfang 66)
+
+▪ Round 18
+Nov 4
+Schwarz-Weiß     1-2 Admira M
+  (Regtop 21; Micheu 52, Tiefenbach 64)
+LASK             1-3 Austria W
+  (Frigård 69; Topic 42, Mayrleb 45, 89)
+Nov 29
+Rapid            2-1 Ried
+  (Wallner 10og, Schwarz 72; Rothbauer 65)
+Sturm            1-1 GAK
+  (Schopp 22; Pamic 78pen)
+Austria S        1-1 Tirol
+  (Laessig 23; Glieder 48)
+
+▪ Round 19
+Nov 10
+LASK             1-1 Austria S
+  (Feiersinger 71; Laessig 45)
+Nov 11
+Schwarz-Weiß     2-3 Ried
+  (Regtop 65pen, Pedersen 75; Rothbauer 8, Lauwers 38, Drechsel 63)
+Nov 12
+GAK              0-1 Rapid
+  (Savicevic 78)
+Tirol            5-0 Admira M
+  (Gilewicz 9, 16, Baur 24, Brzeczek 44, Glieder 85)
+Austria W        1-0 Sturm
+  (Topic 2)
+
+▪ Round 20
+Nov 17
+Sturm            2-1 LASK
+  (Kocijan 25, Reinmayr 69; Pichorner 76)
+Nov 18
+Admira M         1-0 Austria W 
+  (Promberger 85) 
+Ried             2-1 GAK 
+  (Wawra 36, Drechsel 58pen; Brunmayr 29)
+Austria S        5-0 Schwarz-Weiß
+  (Carcamo 33, Kitzbichler 70, 71, 77, Laessig 83)
+Nov 19
+Rapid            2-2 Tirol
+  (Savicevic 32pen, Schießwald 77; Kirchler 6, Jezek 48)
+
+▪ Round 21
+Nov 24
+LASK             3-3 Rapid
+  (Frigård 25, Gröbl 39, Bjarmann 80; Savicevic 20, 72, Wallner 74)
+Nov 25
+Tirol            3-1 Ried
+  (Baur 63, Glieder 71, Gilewicz 74; Drechsel 73)
+Sturm            3-1 Admira M
+  (Vastic 48, Prilasnig 70, Schopp 90; Oerlemans 66)
+Schwarz-Weiß     1-0 GAK
+  (Rosicky 26)    
+Nov 26
+Austria W        1-1 Austria S
+  (Pfeifenberger 43og; Aufhauser 56)
+
+▪ Round 22
+Dec 2
+Admira M         1-1 LASK
+  (Bozgo 58; Frigård 40)
+Rapid            5-0 Schwarz-Weiß
+  (Ivanschitz 24, Dowe 30, Wallner 67, Lagonikakis 73, Ratajczyk 89)
+Ried             0-0 Austria W
+Austria S        0-1 Sturm
+  (Korsos 35)
+Dec 3
+GAK              3-0 Tirol
+  (Pamic 21, 53, Ehmann 49)
+
+▪ Round 23
+Mar 3
+Sturm            0-1 Ried
+  (Drechsel 47pen)
+LASK             0-0 GAK
+Austria S        0-0 Admira M
+Tirol            4-1 Schwarz-Weiß
+  (Gilewicz 4, 78, Glieder 34, Barisic 88; Ambrosius 55)
+Mar 4
+Austria W        2-0 Rapid
+  (Mayrleb 25, Leitner 57)
+
+▪ Round 24
+Mar 9
+Rapid            1-2 Admira M
+  (Ivanschitz 7; Stöger 41, Tiefenbach 74)
+Mar 10
+Schwarz-Weiß     2-1 Austria W
+  (Golemac 34, Posavec 50; Troyansky 74)
+Ried             1-3 Austria S
+  (Drechsel 89; Kitzbichler 5, Carcamo 54, 74)
+Tirol            1-1 LASK
+  (Baur 23pen; Choi 44)
+GAK              1-2 Sturm
+  (Tutu 15; Amoah 16, Haas 30)
+
+▪ Round 25
+Feb 24
+Sturm            1-1 Tirol
+  (Vastic 22; Baur 50)
+Mar 13
+Austria W        0-1 GAK
+  (Hiden 10og)
+Mar 14
+Austria S        0-3 Rapid
+  (Savicevic 45, Lagonikakis 77, R.Wagner 91)
+Admira M         1-1 Schwarz-Weiß
+  (Tiefenbach 68; Eller 59)
+LASK             2-0 Ried
+  (Brenner 28, 45)
+
+▪ Round 26
+Mar 16
+Tirol            1-2 Austria W
+  (Gilewicz 10; Sarac 60, Mayrleb 71)
+Mar 17
+Schwarz-Weiß     1-2 LASK
+  (Ambrosius 62; Frigård 14, 59)
+GAK              1-1 Austria S
+  (Brunmayr 6; Pfeifenberger 42)
+Ried             0-1 Admira M
+  (Markovic 81)
+Mar 18
+Rapid            0-0 Sturm
+
+▪ Round 27
+Mar 31
+Admira M         1-0 GAK
+  (Stöger 27)
+Rapid            1-1 Ried
+  (R.Wagner 86; Lauwers 88)
+Sturm            3-1 Schwarz-Weiß
+  (Prilasnig 32, Hlinka 39, Szabics 84; Golemac 24)
+LASK             4-1 Austria W
+  (Frigård 9, 45, Brenner 18pen, Kiesenebner 33; Janssen 71)
+Apr 1
+Austria S        0-1 Tirol
+  (Scharrer 14)
+
+▪ Round 28
+Apr 7
+Austria W        3-1 LASK
+  (Topic 43, 51, Grassler 66og; Troyansky 52og)    
+Schwarz-Weiß     0-3 Sturm
+  (Amoah 23, Haas 43, Schopp 92)    
+GAK              1-1 Admira M
+  (Pamic 66; Ziervogel 71)
+Tirol            1-0 Austria S
+  (Gilewicz 12)
+Apr 8
+Ried             2-0 Rapid  
+  (Nentwich 61, Lauwers 68)
+
+▪ Round 29
+Apr 13
+Admira M         0-2 Tirol
+  (Kirchler 29, 91)
+Apr 14
+Rapid            1-1 GAK
+  (Wallner 62; Tutu 72)
+  [protest Rapid as referee disallowed a 45' goal by Wallner (Rapid) after the 
+   break, restarting the match with a referee's ball rather than the second half
+   kick-off (officially the match was interrupted until the re-start rather than
+   a break having been held); the GAK defenders had stopped playing before the 
+   goal because of a whistle from the stands which they believed to come from 
+   the referee (for off-side - which would probably have been the correct
+   decision in any case); Rapid want a replay of the 2nd half starting at 1-0;
+   then GAK have requested a replay (one assumes from scratch); after the result
+   was already confirmed by 2 instances, Rapid withdrew the protest on May 22,
+   by which time it had become pointless, as Tirol were mathematically champions
+   irrespective of this result]
+Ried             1-0 Schwarz-Weiß
+  (Drechsel 35)
+Austria S        3-1 LASK
+  (Sigthorsson 50, M.Suazo 53, Kitzbichler 89; Frigård 32)
+Sturm            2-0 Austria W
+  (Amoah 34, Vastic 85)
+
+▪ Round 30
+Apr 20
+LASK             2-1 Sturm
+  (Kiesenebner 5, Brenner 78; Haas 60)
+Apr 21
+Austria W        2-0 Admira M
+  (Ledwon 22, Janssen 45)
+GAK              4-1 Ried
+  (Brunmayr 45, 56, 66, Pamic 55pen; Lauwers 2)
+Tirol            1-1 Rapid
+  (Knavs 49; Schöttel 41pen)
+May 8
+Schwarz-Weiß     2-0 Austria S
+  (Tomic 45, Ambrosius 91)
+
+▪ Round 31
+Apr 28
+GAK              2-2 Schwarz-Weiß
+  (Pamic 55, 87; Standfest 10og, Tomic 61)
+Rapid            6-0 LASK
+  (Lagonikakis 28, 74, Wetl 35, Savicevic 44, Wallner 51, Dowe 79)
+Austria S        4-1 Austria W
+  (Kitzbichler 47, 81, Sigthorsson 20, Carcamo 37; Topic 27)
+Ried             3-1 Tirol
+  (Rothbauer 11, Wawra 48, Akagündüz 84pen; Scharrer 10pen)
+Apr 29
+Admira M         2-2 Sturm
+  (Stöger 43pen, 91; Vastic 90, Mählich 95)
+ 
+▪ Round 32
+May 1
+Austria W        1-1 Ried
+  (Perovic 41; Akagündüz 77)  
+Tirol            3-0 GAK
+  (Gilewicz 19, 32, 66)    
+Schwarz-Weiß     1-0 Rapid
+  (Ambrosius 77)  
+May 2
+LASK             1-3 Admira M
+  (Pichorner 7; Suchard 24, Markovic 42, Datoru 56)
+Sturm            2-1 Austria S
+  (Vastic 20, Haas 73; Carcamo 66)
+
+▪ Round 33
+May 4
+Schwarz-Weiß     1-0 Tirol
+  (Ambrosius 89)
+May 5
+Admira M         0-0 Austria S
+GAK              1-0 LASK
+  (Brunmayr 48)
+Ried             1-3 Sturm
+  (Steininger 49; Korsos 24, Schopp 62, Vastic 88)
+May 6
+Rapid            2-0 Austria W
+  (Ratajczyk 36, Wallner 79)
+
+▪ Round 34 
+May 12
+LASK             1-2 Tirol
+  (Brenner 72; Kirchler 70, Gilewicz 81)
+Admira M         0-2 Rapid
+  (Wetl 45pen, Wallner 86)
+Sturm            0-1 GAK
+  (Amerhauser 79)
+Austria W        1-1 Schwarz-Weiß
+  (Mayrleb 5; Mattle 78)
+Austria S        4-3 Ried
+  (Laessig 14pen, 19, 81, Aufhauser 72; Drechsel 47, Akagündüz 63, Hiden 83)
+
+▪ Round 35 
+May 1
+Tirol            2-0 Sturm
+  (Kirchler 45, Jezek 80)
+Rapid            0-0 Austria S
+GAK              2-0 Austria W
+  (Brunmayr 19, Pamic 60)
+Ried             1-0 LASK
+  (Akagündüz 92)
+Schwarz-Weiß     0-0 Admira M
+
+▪ Round 36 
+May 24
+Sturm            1-1 Rapid
+  (Szabics 68; Wallner 60)
+LASK             5-0 Schwarz-Weiß
+  (Grassler 10, 15, Frigård 33, 38pen, Riedl 62)
+Admira M         0-0 Ried
+Austria S        1-2 GAK
+  (Laessig 49pen; Ramusch 7, Standfest 33)
+Austria W        0-2 Tirol
+  (Gilewicz 18, 45)

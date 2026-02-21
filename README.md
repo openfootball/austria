@@ -37,20 +37,19 @@ Example:
 ```
 = Österr. Bundesliga
 
-1. Runde
-
-[Sa 19.7.]
-  16.30   RB Salzburg       6:1 (2:0)  Rapid Wien
-            [Ulmer 30' Alan 40' Mané 69' Soriano 77', 79' Kampl 84'; Hofmann 90+2' (Elf.)]
-  19.00   SV Ried           3:1 (1:0)  Wr. Neustadt
-            [Walch 4' Möschl 69' Pichler 82'; Kainz 66']
-  19.00   Admira Wacker     1:4 (1-1)  Wolfsberger AC
-            [Schicker 45+2' (Elf.); Žulj 36' Trdina 63' Wernitznig 74', 78']
-  19.00   SCR Altach        1:0 (0:0)  Sturm Graz
-            [Roth 68']
-[So 20.7.]
-  16.30   Austria Wien      1:1 (0:0)  SV Grödig
-            [Kamara 90+3'; Schütz 54']
+▪ Round 1
+Sat Jul 19
+  16:30   RB Salzburg       6-1 (2-0)  Rapid Wien
+            (Ulmer 30' Alan 40' Mané 69' Soriano 77', 79' Kampl 84'; Hofmann 90+2' (p))
+  19:00   SV Ried           3-1 (1-0)  Wr. Neustadt
+            (Walch 4' Möschl 69' Pichler 82'; Kainz 66')
+  19:00   Admira Wacker     1-4 (1-1)  Wolfsberger AC
+            (Schicker 45+2' (p); Žulj 36' Trdina 63' Wernitznig 74', 78')
+  19:00   SCR Altach        1-0 (0-0)  Sturm Graz
+            (Roth 68')
+Sun Jul 20
+  16:30   Austria Wien      1-1 (0-0)  SV Grödig
+            (Kamara 90+3'; Schütz 54')
 
 ...
 ```

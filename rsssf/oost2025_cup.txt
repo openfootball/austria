@@ -1,0 +1,96 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tableso/oost2025.html
+
+=ÖFB Cup 2024/25=
+
+
+▪ Round 1 
+Jul 26
+  Union Gurten                        0-3 LASK                                
+  ATUS Velden                         2-2 GAK 1902                 (aet, 3-4 pen)
+  FC Dornbirn                         0-6 FC Red Bull Salzburg                
+  SV Gloggnitz                        0-5 SK Austria Klagenfurt               
+  ASK Draßburg                        0-7 Wolfsberger AC                      
+  Bischofshofener SK 1933            1-11 TSV Hartberg                        
+  SC Wiener Viktoria                  2-1 DSV Leoben               (aet)
+  ASKÖ Köttmannsdorf                  0-2 SV Horn                             
+  SK Treibach                         1-6 Kapfenberger SV 1919                
+  SC Weiz                             3-3 SV Lafnitz               (aet, 4-5 pen)
+  SPG Wallern/St. Marienkirchen       4-0 FC Kitzbühel                        
+  FCM Traiskirchen                    1-4 SKU Amstetten                       
+  SV Wals-Grünau                      1-2 SC Austria Lustenau                 
+  FC Marchfeld Donauauen              1-3 First Vienna FC 1894                
+  SV Oberwart                         0-2 SV Stripfing                        
+  Deutschlandsberger SC               5-0 SC Korneuburg                       
+Jul 27
+  Kremser SC                          2-4 SK Sturm Graz            (aet)
+  SR Donaufeld Wien                   2-0 SC Rheindorf Altach                 
+  SV Wildon                           0-5 SV Blau-Weiß Linz                   
+  SV Austria Salzburg                 1-2 SVG Reichenau Innsbruck             
+  Union Dietach                       0-2 FC Hertha Wels                      
+  ASK Klagenfurt                     0-14 Sportunion Mauer                    
+  USV St. Anna/Aigen                  1-5 FC Admira Wacker                    
+  VfB Hohenems                        4-4 ASKÖ Oedt                (aet, 2-4 pen)
+  SV Leobendorf                       2-3 SKN Sankt Pölten                    
+  SC Schwaz                           0-2 SC Schwarz-Weiß Bregenz             
+  SV Donau Wien                       0-3 ASK Voitsberg                       
+  ASV Siegendorf                      2-1 FAC Wien                            
+Jul 28
+  SC Röthis                          0-11 SV Ried                             
+  FC Pinzgau Saalfelden               0-6 FK Austria Wien                     
+  SC Imst                             0-3 WSG Tirol                           
+  SC Neusiedl/See                     0-2 SK Rapid                            
+
+▪ Round 2
+Aug 27
+  Deutschlandsberger SC               2-4 WSG Tirol                           
+  SV Lafnitz                          0-6 TSV Hartberg                        
+  ASV Siegendorf                      0-5 SK Austria Klagenfurt               
+  First Vienna FC 1894                0-3 SV Stripfing                        
+  SV Horn                             3-1 SKU Amstetten                       
+  FC Admira Wacker                    1-3 SC Austria Lustenau                 
+  SKN Sankt Pölten                    0-2 SC Schwarz-Weiß Bregenz             
+Aug 28
+  SVG Reichenau Innsbruck             0-9 GAK 1902                            
+  SV Ried                             1-3 SK Sturm Graz                       
+  FC Hertha Wels                      0-1 SV Blau-Weiß Linz                   
+  ASKÖ Oedt                           2-3 FK Austria Wien                     
+  Kapfenberger SV 1919                0-2 ASK Voitsberg                       
+  SPG Wallern/St. Marienkirchen       0-2 Wolfsberger AC                      
+Sep 24
+  Sportunion Mauer                    0-4 LASK                                
+Sep 25
+  SC Wiener Viktoria                  0-4 FC Red Bull Salzburg                
+  SR Donaufeld Wien                   1-3 SK Rapid                            
+
+▪ Round 3
+Oct 29
+  SC Austria Lustenau                 0-3 TSV Hartberg                        
+Oct 30
+  SV Horn                             0-1 FK Austria Wien                     
+  ASK Voitsberg                       1-2 LASK                                
+  SV Stripfing                        2-1 SK Rapid                            
+  SC Schwarz-Weiß Bregenz             2-1 GAK 1902                            
+  Wolfsberger AC                      2-2 SK Austria Klagenfurt    (aet, 9-8 pen)
+  FC Red Bull Salzburg                3-0 WSG Tirol                           
+  SK Sturm Graz                       2-1 SV Blau-Weiß Linz                   
+
+▪ Quarterfinals
+Jan 31
+  SV Stripfing                        0-2 TSV Hartberg             (aet)
+  Wolfsberger AC                      3-1 SC Schwarz-Weiß Bregenz             
+Feb 1
+  SK Sturm Graz                       0-2 FK Austria Wien                      
+Feb 2
+  LASK                                2-1 FC Red Bull Salzburg     (aet)
+
+▪ Semifinals 
+Apr 2
+  LASK                                1-1 Wolfsberger AC           (aet, 2-4 pen)
+  FK Austria Wien                     0-1 TSV Hartberg                        
+
+▪ Final 
+May 1 @ Wörthersee Stadion, Klagenfurt    att: 20_500
+  Wolfsberger AC                      1-0 TSV Hartberg                        
+     (Gattermayer 77)

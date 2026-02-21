@@ -1,0 +1,433 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tableso/oost2025.html
+
+=Österr. Bundesliga 2024/25=
+==Regular Stage==
+
+<!-- Final Table:
+
+ 1.SK Sturm Graz                22  14  4  4  51-28  46  [C]  [2 0 2 0 4-4 2]  Championship Playoff
+ 2.FK Austria Wien              22  14  4  4  36-19  46       [2 0 2 0 4-4 2]  Championship Playoff
+ 3.RB Salzburg                  22  10  8  4  33-22  38                        Championship Playoff
+ 4.Wolfsberger AC               22  11  3  8  44-30  36                        Championship Playoff
+ 5.SK Rapid Wien                22   9  7  6  32-24  34                        Championship Playoff
+ 6.FC Blau-Weiß Linz            22  10  3  9  30-29  33                        Championship Playoff
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.LASK Linz                    22   9  4  9  32-33  31                        Relegation Playoff
+ 8.TSV Hartberg                 22   6  8  8  24-31  26                        Relegation Playoff
+ 9.SK Austria Klagenfurt        22   5  6 11  22-44  21                        Relegation Playoff
+10.Wattener SG Tirol            22   4  7 11  20-31  19                        Relegation Playoff
+11.GAK 1902                     22   3  7 12  27-45  16  [P]  [2 1 1 0 3-2 4]  Relegation Playoff
+12.SC Rheindorf Altach          22   3  7 12  20-35  16       [2 0 1 1 2-3 1]  Relegation Playoff  -->
+
+
+▪ Round 1 
+Aug 2
+  GAK              2-3 Salzburg         
+Aug 3
+  Altach           1-2 Wattens          
+  Hartberg         1-2 LASK             
+  Wolfsberg        4-1 Austria K        
+Aug 4
+  Rapid            1-0 Sturm            
+  BW Linz          1-0 Austria W        
+
+▪ Round 2
+Aug 10
+  LASK             1-2 Altach           
+  Wattens          0-0 GAK              
+  Salzburg         5-1 BW Linz          
+Aug 11
+  Austria W        3-1 Wolfsberg        
+  Sturm            2-0 Hartberg         
+  Austria K        1-1 Rapid            
+
+▪ Round 3
+Aug 17
+  GAK              2-2 BW Linz          
+  Austria K        0-2 Sturm            
+  LASK             0-1 Salzburg         
+Aug 18
+  Rapid            2-0 Wattens          
+  Altach           2-0 Wolfsberg        
+  Hartberg         1-1 Austria W        
+
+▪ Round 4
+Aug 24
+Wattens          0-1 Austria K        
+Sturm            2-1 Altach           
+Aug 25
+Wolfsberg        4-2 GAK              
+Austria W        2-1 LASK             
+BW Linz          3-0 Rapid            
+Dec 4 
+Salzburg         4-0 Hartberg         
+
+▪ Round 5
+Aug 31
+Austria K        3-1 BW Linz          
+Hartberg         1-1 GAK              
+Sturm            4-2 Wattens          
+Sep 1
+LASK             1-5 Wolfsberg        
+Rapid            3-2 Salzburg         
+Altach           1-1 Austria W        
+
+▪ Round 6
+Sep 14
+Wolfsberg        1-1 Rapid            
+BW Linz          1-0 LASK             
+Sep 15
+GAK              1-1 Altach           
+Sep 25
+Austria W        2-2 Sturm            
+Sep 26
+Hartberg         1-0 Wattens          
+Dec 14 
+Salzburg         3-0 Austria K        
+
+▪ Round 7
+Sep 21
+Altach           0-1 BW Linz          
+LASK             4-2 GAK              
+Austria K        2-2 Hartberg         
+Sep 22
+Sturm            0-3 Wolfsberg        
+Wattens          0-0 Salzburg         
+Rapid            2-1 Austria W        
+
+▪ Round 8
+Sep 28
+BW Linz          1-2 Sturm            
+Rapid            1-1 LASK             
+Salzburg         2-0 Austria W        
+Sep 29
+Wolfsberg        1-3 Wattens          
+Hartberg         2-0 Altach           
+GAK              0-1 Austria K        
+
+▪ Round 9
+Oct 5
+Wolfsberg        2-3 Hartberg         
+Wattens          1-1 BW Linz          
+Austria W        2-1 GAK              
+Oct 6
+Altach           0-1 Rapid            
+LASK             4-0 Austria K        
+Sturm            5-0 Salzburg         
+
+▪ Round 10
+Oct 19 
+BW Linz          0-1 Wolfsberg        
+Salzburg         2-1 Altach           
+Sturm            5-2 GAK              
+Oct 20
+Austria K        0-1 Austria W        
+Wattens          1-2 LASK             
+Rapid            2-1 Hartberg         
+
+▪ Round 11
+Oct 26
+Altach           2-2 Austria K        
+Hartberg         2-1 BW Linz          
+Austria W        3-0 Wattens          
+Oct 27
+GAK              1-1 Rapid            
+Wolfsberg        0-0 Salzburg         
+LASK             1-2 Sturm            
+
+▪ Round 12
+Nov 2
+LASK             1-1 Hartberg         
+Sturm            1-1 Rapid            
+Salzburg         0-0 GAK              
+Nov 3
+Wattens          1-0 Altach           
+Austria K        2-1 Wolfsberg        
+Austria W        2-1 BW Linz          
+
+▪ Round 13
+Nov 9
+GAK              2-1 Wattens          
+Hartberg         1-2 Sturm            
+Wolfsberg        0-1 Austria W        
+Nov 10
+Altach           1-2 LASK             
+BW Linz          2-0 Salzburg         
+Rapid            2-0 Austria K        
+
+▪ Round 14
+Nov 23
+Sturm            7-0 Austria K        
+Salzburg         1-2 LASK             
+Wattens          0-0 Rapid            
+Nov 24
+BW Linz          1-2 GAK              
+Wolfsberg        2-0 Altach           
+Austria W        1-0 Hartberg         
+
+▪ Round 15
+Nov 30
+Altach           1-1 Sturm            
+Hartberg         1-1 Salzburg         
+GAK              3-4 Wolfsberg        
+Dec 1
+Austria K        0-3 Wattens          
+Rapid            0-1 BW Linz          
+LASK             1-3 Austria W        
+
+▪ Round 16 
+Dec 7
+Salzburg         2-2 Rapid            
+Wolfsberg        2-1 LASK             
+Wattens          0-3 Sturm            
+Dec 8
+BW Linz          2-1 Austria K        
+GAK              0-3 Hartberg         
+Austria W        3-0 Altach           
+
+▪ Round 17
+Feb 7
+Sturm            2-2 Austria W        
+Feb 8 
+Rapid            1-3 Wolfsberg        
+Altach           1-2 GAK              
+Feb 9
+Austria K        0-0 Salzburg         
+Wattens          0-0 Hartberg         
+LASK             0-0 BW Linz          
+
+▪ Round 18
+Feb 15
+BW Linz          1-3 Altach           
+Salzburg         1-1 Wattens          
+Wolfsberg        3-0 Sturm            
+Feb 16
+GAK              0-0 LASK             
+Hartberg         1-1 Austria K        
+Austria W        2-1 Rapid            
+
+▪ Round 19
+Feb 22
+Austria W        0-1 Salzburg         
+Wattens          3-3 Wolfsberg        
+Austria K        4-2 GAK              
+Feb 23
+Altach           0-0 Hartberg         
+Sturm            2-1 BW Linz          
+LASK             2-1 Rapid            
+
+▪ Round 20
+Feb 1
+GAK              1-2 Austria W        
+Hartberg         0-3 Wolfsberg        
+Rapid            5-0 Altach           
+Feb 2
+BW Linz          2-1 Wattens          
+Austria K        1-2 LASK             
+Salzburg         3-1 Sturm            
+
+▪ Round 21 
+Mar 9
+LASK             2-1 Wattens          
+Austria W        2-0 Austria K        
+Wolfsberg        1-2 BW Linz          
+GAK              1-2 Sturm            
+Altach           1-1 Salzburg         
+Hartberg         2-1 Rapid            
+
+▪ Round 22 
+Mar 16
+Rapid            3-0 GAK              
+Wattens          0-2 Austria W        
+BW Linz          4-1 Hartberg         
+Salzburg         1-0 Wolfsberg        
+Austria K        2-2 Altach           
+Sturm            4-2 LASK             
+
+
+
+==Playoff Stage==
+===Championship Playoff===
+
+<!-- Final Table:
+
+ 1.SK Sturm Graz                32  19  6  7  66-39  40  [23]  [C]  Champions
+ 2.RB Salzburg                  32  16  9  7  53-36  38  [19]
+ 3.FK Austria Wien              32  18  6  8  47-32  37  [23]  [4 3 1 0 6-2 10]
+ 4.Wolfsberger AC               32  16  7  9  60-38  37  [18]  [4 0 1 3 2-6  1]
+ 5.SK Rapid Wien                32  12  8 12  43-42  27  [17]       Conference League Playoff
+ 6.FC Blau-Weiß Linz            32  11  5 16  37-45  21  [16*]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)  -->
+
+
+▪ Championship, Round 23 
+Mar 30
+BW Linz          0-2 Austria W        
+Wolfsberg        1-1 Sturm            
+Rapid            0-2 Salzburg         
+
+▪ Championship, Round 24
+Apr 4
+Sturm            2-0 Rapid            
+Apr 6
+Salzburg         2-1 BW Linz          
+Austria W        0-0 Wolfsberg        
+
+▪ Championship, Round 25
+Apr 11
+BW Linz          1-2 Wolfsberg        
+Apr 13
+Salzburg         1-2 Sturm            
+Rapid            2-0 Austria W        
+
+▪ Championship, Round 26 
+Apr 20
+Sturm            2-0 BW Linz          
+Wolfsberg        5-1 Rapid            
+Austria W        1-3 Salzburg         
+
+▪ Championship, Round 27 
+Apr 23
+Salzburg         1-1 Wolfsberg        
+BW Linz          2-1 Rapid            
+Austria W        2-1 Sturm            
+
+▪ Championship, Round 28 
+Apr 27
+Wolfsberg        2-1 Salzburg         
+Rapid            0-0 BW Linz          
+Sturm            0-1 Austria W        
+
+▪ Championship, Round 29 
+May 4
+BW Linz          0-1 Sturm            
+Rapid            0-1 Wolfsberg        
+Salzburg         2-0 Austria W        
+
+▪ Championship, Round 30
+May 9
+Sturm            4-2 Salzburg         
+May 11
+Wolfsberg        2-0 BW Linz          
+Austria W        1-2 Rapid            
+
+▪ Championship, Round 31 
+May 18
+Rapid            3-1 Sturm            
+BW Linz          1-2 Salzburg         
+Wolfsberg        1-2 Austria W        
+
+▪ Championship, Round 32 
+May 24
+Austria W        2-2 BW Linz          
+Salzburg         4-2 Rapid            
+Sturm            1-1 Wolfsberg        
+
+
+===Relegation Playoff===
+
+<!-- Final Table:
+
+ 7.LASK Linz                    32  16  6 10  51-36  38  [15*]      Conference League Playoff
+ 8.TSV Hartberg                 32  11 11 10  40-40  31  [13]       Conference League Playoff
+ 9.Wattener SG Tirol            32   7  9 16  35-50  20  [ 9*]
+10.GAK 1902                     32   5 13 14  34-54  20  [ 8]  [P]
+11.SC Rheindorf Altach          32   5 11 16  29-46  18  [ 8]
+-------------------------------------------------------
+12.SK Austria Klagenfurt        32   6  9 17  33-70  16  [10*]      Relegated
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)  -->
+
+
+
+▪ Relegation, Round 23
+Mar 28
+Altach           0-2 LASK             
+Mar 29
+GAK              0-0 Wattens          
+Hartberg         2-3 Austria K        
+
+▪ Relegation, Round 24 
+Apr 5
+Austria K        2-3 Altach           
+Wattens          1-3 Hartberg         
+LASK             1-0 GAK              
+
+▪ Relegation, Round 25 
+Apr 12
+Wattens          5-3 Austria K        
+Hartberg         0-1 LASK             
+GAK              1-0 Altach           
+
+▪ Relegation, Round 26 
+Apr 18
+  LASK             2-0 Wattens          
+Apr 19
+  Austria K        0-0 GAK              
+  Altach           1-1 Hartberg         
+
+▪ Relegation, Round 27 
+Apr 22
+  Wattens          1-0 Altach           
+  GAK              0-3 Hartberg         
+  Austria K        1-4 LASK             
+
+▪ Relegation, Round 28
+Apr 25
+Hartberg         1-1 GAK              
+Apr 26
+Altach           3-0 Wattens          
+LASK             6-0 Austria K        
+
+▪ Relegation, Round 29
+May 2
+GAK              1-1 Austria K        
+May 3
+Wattens          1-3 LASK             
+May 4
+Hartberg         2-0 Altach           
+
+▪ Relegation, Round 30 
+May 10
+Austria K        1-4 Wattens          
+Altach           2-2 GAK              
+LASK             0-0 Hartberg         
+
+▪ Relegation, Round 31 
+May 17
+Altach           0-0 Austria K        
+GAK              1-0 LASK             
+Hartberg         3-2 Wattens          
+
+▪ Relegation, Round 32 
+May 23
+Austria K        0-1 Hartberg         
+LASK             0-0 Altach           
+Wattens          1-1 GAK              
+
+
+
+
+===Conference League Playoff===
+
+<!--
+NB: between fifth placed club from the championship playoff and the
+    top-2 of the relegation playoff  -->
+
+▪ Conference Playoff, Semifinal 
+May 26
+  LASK             2-0 Hartberg         
+
+▪ Conference Playoff, Final, First Leg 
+May 29
+  LASK             3-1 Rapid            
+
+▪ Conference Playoff, Final, Second Leg 
+Jun 1
+  Rapid            3-0 LASK             
+
