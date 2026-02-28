@@ -4,7 +4,7 @@
 
 =Österr. Bundesliga 2000/01=
 
-<!-- Final Table:
+## Final Table:
 
  1.FC Tirol Innsbruck           36 20  8  8 63-31  68  Champions
  2.SK Rapid Wien                36 16 12  8 62-36  60  UEFA Cup
@@ -16,7 +16,7 @@
  8.Schwarz-Weiß Bregenz         36 10  8 18 40-67  38
  9.VfB Admira/Wacker Mödling    36  8 12 16 29-63  36
 -----------------------------------------------------
-10.LASK Linz                    36  8  9 19 43-70  33  Relegated  -->
+10.LASK Linz                    36  8  9 19 43-70  33  Relegated 
 
 
 

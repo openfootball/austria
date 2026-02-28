@@ -1,0 +1,170 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tableso/oost01.html
+
+
+=ÖFB Cup 2000/01=
+
+▪ Round 1
+Aug 1
+FC Lustenau       3-2 SC Kundl
+SCR Altach        3-0 SPG Jenbach
+FC Kufstein       3-0 FC Nenzing
+SV Kirchbichl     1-2 SVG Reichenau
+FC Tirol Amat.    3-2 FC Feldkirch          (aet)
+Aug 4
+Hofstetten-Grünau 0-6 Deutschkreutz
+SC Wr. Neustadt   4-2 Klingenbach
+SC Krems          4-0 SK Rapid Amateure
+SV Schwechat      0-2 FAC
+SV Stockerau      2-2 Neuberg               (aet, 4-3 pen)
+SC Zwettl         3-2 SV Leobendorf
+Parndorf          3-1 Horitschon
+Rohrbach          0-0 ASC Kottingbrunn      (aet, 5-3 pen)
+Aug 5
+FC Tulln          1-0 Polizei/Feuerwehr
+FC Stadlau        4-0 SC Ostbahn XI
+SV Hundsheim      3-1 Wiener Sport-Club
+Aug 6
+Austria Wien Amat 0-4 FC Waidhofen/Ybbs
+SV Würmla         0-3 SC Eisenstadt
+Aug 8
+SAK 1914          2-2 Donau Linz            (aet, 4-5 pen)  
+Vöcklamarkt       4-0 Seekirchen
+Kapfenberg        6-0 ASK Klagenfurt
+Blau-Weiß Linz    4-1 Schwarzach
+Sankt Florian     2-1 Amstetten
+Aug 9
+Grieskirchen      1-4 Puch
+Aug 12
+Schwanenstadt     2-0 Weißkirchen
+Aug 14
+Sankt Magdalena   1-2 Ried Amateure         (aet)
+Eintracht Wels    0-1 Ranshofen
+Aug 15
+Simmering         1-0 Sankt Peter/Au
+Sturm Graz Amat.  1-3 Hartberg
+Gratkorn          1-1 Sankt Veit            (aet, 3-5 pen)
+Kindberg          1-5 Wolfsberger AC
+Zeltweg           2-1 Flavia Solva          (aet)
+Bleiburg          1-0 Voitsberg
+Köflach           4-4 SAK Klagenfurt        (aet, 4-2 pen)
+Pasching          7-0 Zell/See
+Anger             2-0 Rottenmann
+Lendorf           0-3 Spittal
+Pöllau            2-3 GAK Amateure
+Langenrohr        3-1 Horn
+
+▪ Round 2 
+Sep 2
+Tulln             1-8 Schwarz-Weiß Bregenz
+Sep 6
+Donau Linz        2-1 Vöcklamarkt
+Sep 12
+Simmering         0-6 Wörgl
+Kufstein          1-4 DSV Leoben
+Waidhofen/Ybbs    0-4 Kärnten
+Blau-Weiß Linz    2-4 Braunau               (aet)
+Deutschkreutz     0-1 Austria Lustenau
+Puch              0-3 Vienna
+Eisenstadt        0-4 LASK
+Parndorf          1-6 Austria Salzburg
+Zwettl            1-4 Bad Bleiberg
+Sankt Florian     2-1 Hartberg
+Kapfenberg        4-0 Tirol Amateure
+Altach            0-1 Zeltweg
+Schwanenstadt     1-3 FAC
+Ried Amateure     0-1 Stockerau
+Rohrbach          0-1 Langenrohr
+Sep 13
+Austria Sbg Amat. 0-3 Untersiebenbrunn
+Spittal           1-3 Wattens
+GAK Amateure      2-0 Mattersburg
+Pasching          2-3 Admira/Wacker Mödling
+Wiener Neustadt   0-3 Austria Wien
+FC Lustenau       0-2 Ried
+Hundsheim         3-1 Stadlau
+Bleiburg          3-1 Sankt Veit
+Köflach           0-2 Wolfsberg
+Ranshofen         0-1 Krems
+Reichenau         3-2 Anger
+
+## bye to Round 3: GAK, Tirol, Sturm, Rapid (European Cup participants)
+
+▪ Round 3 
+Apr 3       
+Sturm Graz        4-2 Austria Wien          (aet)
+Langenrohr        0-4 Rapid
+Stockerau         0-3 SW Bregenz
+Donau Linz        1-3 LASK
+Reichenau         1-6 A.W. Mödling
+Vienna            1-2 FC Kärnten
+Kapfenberg        0-0 Untersiebenbrunn      (aet, 4-1 pen)
+Hundsheim         3-2 Bad Bleiberg
+St.Florian        0-1 Austria Lustenau
+Bleiburg          0-3 DSV Leoben
+Wolfsberg         2-1 Wattens
+GAK Amateure      1-4 SV Braunau
+Krems             3-0 SV Wörgl
+Apr 4
+SV Ried           0-3 FC Tirol
+Zeltweg           1-0 GAK                   (aet)
+Floridsdorfer AC  0-2 SV Salzburg
+
+▪ 1/8 Final 
+Apr 10
+Wolfsberg         0-3 Admira Mödling
+  (Bozgo 34, Oerlemans 37, 61)
+FC Kärnten        2-0 LASK
+  (Hota 55, Kollmann 67)
+Krems             0-0 Salzburg              (aet, 1-3 pen)
+Sturm             2-0 Austria Lustenau
+  (Fleurquin 15, Szabics 65)
+Zeltweg           1-1 Hundsheim             (aet, 4-5 pen)
+  (J.Reichhold 31; Nastl 41pen)
+Bregenz           0-0 Braunau               (aet, 4-5 pen)
+Leoben            1-2 Tirol
+  (Grubor 17; Glieder 74, Scharrer 80pen)
+Apr 11
+Kapfenberg        2-3 Rapid
+  (Toth 68, Rosenbichler 83; Wallner 30, Jazic 43, Schießwald 89)
+
+▪ Quarterfinals 
+Apr 17
+Hundsheim         0-2 Tirol
+  (Jezek 28, Glieder 58)
+Sturm             2-2 Rapid                 (aet, 3-4 pen)
+  (Szabics 11, Schopp 30pen; Saler 22, Wallner 75)
+Admira Mödling    2-0 Austria Salzburg
+  (Oerlemans 13, Datoru 87)
+Kärnten           1-0 Braunau
+  (Hota 76)
+
+▪ Semifinals 
+May 8
+Admira Mödling    2-3 Kärnten               (aet)
+  (Bozgo 28, Ziervogel 87; Kollmann 65,90+3,119)
+May 9
+Rapid             0-1 Tirol
+   (Barisic 45)
+
+▪ Final 
+May 27 @ Happel-Stadion, Wien   att: 7000
+Kärnten           2-1 Tirol                 (aet)
+  (Roland Kollmann 35, Mario Steiner 113; Edi Glieder 70)
+  Kärnten: R.Unger - Vorderegger, Brnas, Vukovic, Pogatetz - Sablatnig (Steiner 75), 
+           Hota, Stary, Höller - Friesenbichler (Heraf 82), Kollmann (Kampel 120)
+  Tirol: Ziegler - Baur - W.Kogler, Marasek - Schiener (Scharrer 46), 
+         Kirchler (Mair 46), Barisic (Jezek 46), Panis, Brzeczek - Glieder, Gilewicz
+  
+  red cards: Scharrer 115, Marasek 118   ## (both Tirol)
+ 
+
+
+▪ Super Cup Final 
+Jul 7, 2001 @ Innsbruck   att: 6700
+Tirol             0-0 Kärnten               (aet, 9-10 pen)
+   Tirol: Ziegler - Streiter (Baur 12 (Prudlo 46)) - W.Kogler, Zwyssig - Ibertsberger, 
+          Kirchler, Alf.Hörtnagl, Brzeczek, Panis - Gilewicz (Mair 50), Jezek
+   Kärnten: Goriupp - Vorderegger, Vukovic, Kolvidsson, Höller - Rohseano,
+            Hota, Stary, Schoppitsch - Ambrosius (Zahirovic 73), Bubalo (Steiner 80)

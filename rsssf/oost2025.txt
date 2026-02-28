@@ -5,7 +5,7 @@
 =Österr. Bundesliga 2024/25=
 ==Regular Stage==
 
-<!-- Final Table:
+## Final Table:
 
  1.SK Sturm Graz                22  14  4  4  51-28  46  [C]  [2 0 2 0 4-4 2]  Championship Playoff
  2.FK Austria Wien              22  14  4  4  36-19  46       [2 0 2 0 4-4 2]  Championship Playoff
@@ -55,14 +55,14 @@ Aug 18
 
 ▪ Round 4
 Aug 24
-Wattens          0-1 Austria K        
-Sturm            2-1 Altach           
-Aug 25
-Wolfsberg        4-2 GAK              
-Austria W        2-1 LASK             
+  Wattens          0-1 Austria K        
+  Sturm            2-1 Altach           
+Aug 25 
+  Wolfsberg        4-2 GAK              
+  Austria W        2-1 LASK             
 BW Linz          3-0 Rapid            
 Dec 4 
-Salzburg         4-0 Hartberg         
+  Salzburg         4-0 Hartberg         
 
 ▪ Round 5
 Aug 31
@@ -76,16 +76,16 @@ Altach           1-1 Austria W
 
 ▪ Round 6
 Sep 14
-Wolfsberg        1-1 Rapid            
-BW Linz          1-0 LASK             
+   Wolfsberg        1-1 Rapid            
+   BW Linz          1-0 LASK             
 Sep 15
-GAK              1-1 Altach           
+   GAK              1-1 Altach           
 Sep 25
-Austria W        2-2 Sturm            
-Sep 26
-Hartberg         1-0 Wattens          
-Dec 14 
-Salzburg         3-0 Austria K        
+   Austria W        2-2 Sturm            
+Sep 26 
+   Hartberg         1-0 Wattens          
+Dec 14
+   Salzburg         3-0 Austria K        
 
 ▪ Round 7
 Sep 21
@@ -251,7 +251,7 @@ Sturm            4-2 LASK
 ==Playoff Stage==
 ===Championship Playoff===
 
-<!-- Final Table:
+## Final Table:
 
  1.SK Sturm Graz                32  19  6  7  66-39  40  [23]  [C]  Champions
  2.RB Salzburg                  32  16  9  7  53-36  38  [19]
@@ -261,7 +261,7 @@ Sturm            4-2 LASK
  6.FC Blau-Weiß Linz            32  11  5 16  37-45  21  [16*]
 
 NB: teams carry over half their points from the regular stage (listed between
-    square brackets), rounded downwards (marked by * where applicable)  -->
+    square brackets), rounded downwards (marked by * where applicable) 
 
 
 ▪ Championship, Round 23 
@@ -330,7 +330,7 @@ Sturm            1-1 Wolfsberg
 
 ===Relegation Playoff===
 
-<!-- Final Table:
+## Final Table:
 
  7.LASK Linz                    32  16  6 10  51-36  38  [15*]      Conference League Playoff
  8.TSV Hartberg                 32  11 11 10  40-40  31  [13]       Conference League Playoff
@@ -341,7 +341,7 @@ Sturm            1-1 Wolfsberg
 12.SK Austria Klagenfurt        32   6  9 17  33-70  16  [10*]      Relegated
 
 NB: teams carry over half their points from the regular stage (listed between
-    square brackets), rounded downwards (marked by * where applicable)  -->
+    square brackets), rounded downwards (marked by * where applicable)  
 
 
 
@@ -415,9 +415,8 @@ Wattens          1-1 GAK
 
 ===Conference League Playoff===
 
-<!--
 NB: between fifth placed club from the championship playoff and the
-    top-2 of the relegation playoff  -->
+    top-2 of the relegation playoff  
 
 ▪ Conference Playoff, Semifinal 
 May 26
