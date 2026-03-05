@@ -1,0 +1,82 @@
+##
+#  (upcoming) matches converted to Football.TXT format
+#   see http://www.austriasoccer.at/menu/vorschau.htm
+
+= Austria
+
+
+== Cup 2025/26
+04.03.2026 
+  20:30 ▪HF @ Ried im Innkreis   SV Ried im Innkreis - Linzer ASK  [postponed]
+
+== Ö2 (2. Liga) 2025/26
+06.03.2026 
+  18:00 ▪20 @ Amstetten          SKU Amstetten - SV Austria Salzburg
+            @ Lustenau           Austria Lustenau - Vienna
+            @ Salzburg           FC Liefering - Schwarz-Weiß Bregenz
+            @ St. Pölten         SKN St. Pölten - Rapid Wien II
+            @ Wien               Floridsdorfer AC - Sturm Graz II
+07.03.2026 
+  14:30     @ Wien               Young Violets Austria Wien - FC Hertha Wels
+
+== Ö1 (Bundesliga) 2025/26
+08.03.2026 
+  17:00 ▪22 @ Graz               Sturm Graz - SC Rheindorf Altach
+            @ Hartberg           TSV Hartberg - Blau-Weiß Linz
+            @ Innsbruck          WSG Tirol - Grazer AK 1902
+            @ Linz               Linzer ASK - Wolfsberger AC
+            @ Ried im Innkreis   SV Ried im Innkreis - Austria Wien
+            @ Wien               Rapid Wien - FC RB Salzburg
+
+== Ö2 (2. Liga) 2025/26
+08.03.2026
+  10:30 ▪20 @ Südstadt           FC Admira Wacker Mödling - Austria Klagenfurt
+10.03.2026
+  18:30 ▪18 @ Gleisdorf          Sturm Graz II - FC Liefering
+            @ Wien               Floridsdorfer AC - Schwarz-Weiß Bregenz
+13.03.2026
+  18:00 ▪21 @ Bregenz            Schwarz-Weiß Bregenz - FC Admira Wacker Mödling
+            @ Klagenfurt         Austria Klagenfurt - Floridsdorfer AC
+            @ Wels               FC Hertha Wels - Kapfenberger SV 1919
+            @ Wien               Rapid Wien II - SKU Amstetten
+  20:30     @ Salzburg           SV Austria Salzburg - FC Liefering
+14.03.2026
+  14:30     @ Gleisdorf          Sturm Graz II - Austria Lustenau
+15.03.2026
+  10:30     @ Wien               Vienna - Young Violets Austria Wien  
+20.03.2026
+  18:00 ▪22 @ Klagenfurt         Austria Klagenfurt - Vienna
+            @ Salzburg           FC Liefering - FC Hertha Wels
+            @ St. Pölten         SKN St. Pölten - SV Austria Salzburg
+            @ Südstadt           FC Admira Wacker Mödling - Rapid Wien II
+  20:30     @ Wien               Floridsdorfer AC - Austria Lustenau
+21.03.2026
+  14:30     @ Wien               Young Violets Austria Wien - Sturm Graz II
+22.03.2026
+  10:30     @ Kapfenberg         Kapfenberger SV 1919 - SKU Amstetten
+
+== Länderspiele 2025/26
+27.03.2026
+  20:45     @ Wien               Österreich - Ghana
+31.03.2026
+  20:45     @ Wien               Österreich - Südkorea        
+
+== Ö2 (2. Liga) 2025/26
+03.04.2026
+        ▪23 @ Amstetten          SKU Amstetten - Young Violets Austria Wien
+            @ Gleisdorf          Sturm Graz II - SKN St. Pölten
+            @ Lustenau           Austria Lustenau - FC Admira Wacker Mödling
+            @ Salzburg           SV Austria Salzburg - Schwarz-Weiß Bregenz
+            @ Wels               FC Hertha Wels - Austria Klagenfurt
+            @ Wien               Rapid Wien II - Floridsdorfer AC
+            @ Wien               Vienna - Kapfenberger SV 1919
+
+06.04.2026
+        ▪24 @ Bregenz            Schwarz-Weiß Bregenz - Sturm Graz II
+            @ Kapfenberg         Kapfenberger SV 1919 - Rapid Wien II
+            @ Salzburg           FC Liefering - SKU Amstetten
+            @ St. Pölten         SKN St. Pölten - Austria Klagenfurt
+            @ Wels               FC Hertha Wels - SV Austria Salzburg
+            @ Wien               Floridsdorfer AC - Vienna
+            @ Wien               Young Violets Austria Wien - Austria Lustenau
+
