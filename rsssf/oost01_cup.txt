@@ -89,7 +89,12 @@ Köflach           0-2 Wolfsberg
 Ranshofen         0-1 Krems
 Reichenau         3-2 Anger
 
-## bye to Round 3: GAK, Tirol, Sturm, Rapid (European Cup participants)
+## European Cup participants bye to Round 3 
+GAK          bye
+FC Tirol     bye 
+Sturm Graz   bye 
+Rapid        bye 
+
 
 ▪ Round 3 
 Apr 3       
@@ -154,12 +159,9 @@ Kärnten           2-1 Tirol                 (aet)
   (Roland Kollmann 35, Mario Steiner 113; Edi Glieder 70)
   Kärnten: R.Unger - Vorderegger, Brnas, Vukovic, Pogatetz - Sablatnig (Steiner 75), 
            Hota, Stary, Höller - Friesenbichler (Heraf 82), Kollmann (Kampel 120)
-  Tirol: Ziegler - Baur - W.Kogler, Marasek - Schiener (Scharrer 46), 
+  Tirol: Ziegler - Baur - W.Kogler, Marasek [R 118] - Schiener (Scharrer 46 [R 115]), 
          Kirchler (Mair 46), Barisic (Jezek 46), Panis, Brzeczek - Glieder, Gilewicz
-  
-  red cards: Scharrer 115, Marasek 118   ## (both Tirol)
- 
-
+   
 
 ▪ Super Cup Final 
 Jul 7, 2001 @ Innsbruck   att: 6700

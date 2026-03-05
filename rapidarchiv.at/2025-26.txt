@@ -1,0 +1,175 @@
+##
+#  match reports converted to Football.TXT format
+#   see https://rapidarchiv.at/match-detail.php?season=2025/26&team=men
+
+= Rapid 2025/26
+
+== Austria - Bundesliga 2025/26
+
+▪ Runde 1
+03.08.2025 @ Allianz Stadion  att: 21204  ref: Hameter	
+  Rapid - Blau-Weiß Linz 1-0
+     (1-0 Dahl 8')
+
+Rapid: Hedl – Bolla, Cvetkovic, Raux-Yao, Horn – Amane (79' Grgic), Sangaré [Y], 
+       Radulovic (65' Mbuyi), Seidl (65' Weixelbraun), Dahl (79' Schaub) – 
+       Antiste (85' Kara)
+Blau-Weiß Linz: Baier – Bakatukanda, Maranda, Moormann [Y] – Anderson (58' S. Seidl), 
+                Wähling, Pasic [Y] (72' Cvetko), Pirkl – N. Maier (83' Knollmüller), 
+                Ronivaldo (83' Huskovic), Goiginger (72' Luiz)
+
+
+▪ Runde 2
+10.08.2025 @ Merkur Arena   att: 16259  ref: Altmann
+   Sturm Graz - Rapid 1-2
+      (1-0 Marcelin 57' (og), 
+       1-1 Dahl 67', 
+       1-2 Mbuyi 70')
+       
+Sturm Graz: Christensen – Johnston (87' Malic), Aiwu, Lavalee, Karic – 
+            Horvat (79' Hödl), Gorenc Stankovic [Y], Kiteischwili, 
+            Chukwuani [Y] (79' Rozga) – L. Grgic (72' Beganovic), Böving (72' Jatta)
+Rapid: Hedl – Bolla, Marcelin [Y], Raux-Yao, Horn [Y] (83' Ahoussou) – 
+       Sangare, Amane – Radulovic (46' Mbuyi), Seidl (46' Weixelbraun), 
+       Dahl [Y] (83' Schaub [Y]) – Antiste (83' Kara)
+
+
+## ...
+
+▪ Runde 19
+15.02.2026 @ Generali-Arena   att: 15600  ref: Hameter
+   Austria - Rapid 2-0 (2-0)
+     (1-0 Eggestein 15', 
+      2-0 Ranftl 34')
+
+Austria: Sahin-Radlinger – Wiesinger, Dragovic (86' Handl), Plavotic – 
+         Ranftl, Lee K. (86' Boateng), Barry, Lee T. [Y] – Fischer, Eggestein, 
+         Saljic (62' Maybach)
+Rapid: Hedl - Ahoussou, Raux-Yao, Cvetković, Bolla (81' Haidara) - 
+       Gulliksen (46' Børkeeiet), Ndzie (21' Grgić [Y]), Amane (71' Nunoo [Y]) - 
+       Wurmbrand, Weimann, Seidl (71' Kara [Y])
+
+
+▪ Runde 20	
+21.02.2026 @ Allianz Stadion   att: 10425   ref: Ebner
+   Rapid - Wolfsberger AC 2-0 (0-0)
+     (1-0 Seidl 72' , 
+      2-0 Nunoo 92')
+
+Rapid: Hedl [Y] – Bolla, Cvetković, Raux-Yao, Horn (62' Ahoussou) – 
+       Amane [Y], Grgić (82' Børkeeiet) – Wurmbrand [Y] (62' Nunoo), Weimann [Y], 
+       Gulliksen (46' Seidl) – Kara [Y] (72' Dahl)
+Wolfsberger AC: Polster – Baumgartner, Diabate [Y] (46' Matic), Wimmer – 
+          Wohlmuth (87' Chukwu), Sulzner, Schöpf (80' Atanga), 
+          Piesinger (80' Kujovic), Renner – Zukic [Y], Kojzek (69' Gattermayer)
+
+▪ Runde 21	
+01.03.2026 @ Schnabelholz   att: 7076  ref: Ciochirca
+   SCR Altach - Rapid 1-1 (0-0)
+     (0-1 Weimann 50', 
+      1-1 Massombo 86')
+
+SCR Altach: Stojanovic – Milojevic, Zech, Jäger – Oswald (67' Ingolitsch [Y]), 
+      Demaku, Bähre, Ouedraogo – Massombo [Y], Hrstic (46' Diawara), 
+      Greil (83' Benjamin)
+Rapid: Hedl [Y] – Bolla, Cvetković Raux-Yao, Horn (77' Schöller [R 90']) – Seidl, 
+       Amane [Y] (92' Ahoussou), Gulliksen (65' Dahl) – Wurmbrand (77' Børkeeiet), 
+       Weimann, Nunoo (77' F. Demir)
+
+
+## ...
+
+
+== Austria - ÖFB-Cup 2025/26
+
+▪ 1. Runde	
+27.07.2025 @ Tivoli-neu   att: 15753  ref: Macanovic
+  Wacker Innsbruck - Rapid 0-1
+    (0-1 Bolla 78' (f)) 
+
+Wacker Innsbruck: Tauber - Francis, Kunze, Lorenz (83' Gstrein), 
+    Scholl (62' Tekir) - Sy [Y], Joppich, Lechl, Kopp, Franzotti (85' Yilmaz) - 
+    Owusu (62' Krasniqi [Y])
+Rapid: Hedl - Horn (82' Auer), Raux-Yao, Marcelin, Bolla [Y] - Seidl (46' Amane), 
+     Sangaré [Y] - Dahl (62' Weixelbraun), Radulović - Kara, Mbuyi [Y] (62' Antiste)
+
+▪ 2. Runde	
+17.09.2025 @ Informstadion  att: 6000  ref: Schnur
+   SV Oberwart - Rapid 1-2
+     (0-1 Gulliksen 21', 
+      0-2 Gulliksen 45'+1, 
+      1-2 Ried 55' (p))
+
+SV Oberwart: Tanashuk - Trimmel, Nagy, Woth - Schendl [Y], Halper (76' Kedl), 
+        Wessely [Y] (85' Gschiel), Wisak (85' Pauliny), Ratkowski (85' Polster) - 
+        Ried, Stimac (63' Hutter)
+Rapid: Hedl - Bolla, Cvetkovic, Raux-Yao, Horn (69' F. Demir) - 
+       Ndzie [Y] (86' Radulović), Amane [Y] - Tilio (79' Seidl), Gulliksen (69' Kara), 
+       Wurmbrand (69' Weixelbraun) - Mbuyi
+
+▪ Achtelfinale	
+29.10.2025  @ NV-Arena    att: 8076  ref: Semler
+  SKN St. Pölten - Rapid 0-1
+    (0-1 Kara 30')
+
+SKN St. Pölten: Knett - Skogen, Buchegger, Carlson, Young [Y] - Stendera, Riegler, 
+        Krasniqi (89' Barlov), Amoah (81' Ferstl) - Hausjell (76' Mané), Dursun
+Rapid: Gartler - Cvetkovic, Raux-Yao, Ahoussou - F. Demir, Auer [Y] (79' Bolla) - 
+        Amané [Y], Gulliksen (68' Antiste), Seidl - Wurmbrand - Kara
+
+▪ Viertelfinale	
+31.01.2026  @ BWT Oberösterreichische Arena   att: 6920   ref: Harkam
+   SV Ried - Rapid 3-0 (1-0)
+     (1-0 Bajic 2', 
+      2-0 Havenaar 61', 
+      3-0 Havenaar 84')
+
+SV Ried: Leitner - Steurer, Havenaar, Sollbauer, Maart - Bajic (77' Boguo), 
+     Rossdorfer, Bajlicz (89' Rasner), Mayer (89' Pomer) - Mutundwa (62' Kiedl), 
+     van Wyk (62' Aisowieren)
+Rapid: Hedl - Bolla, Cvetkovic, Raux-Yao, Weixelbraun (46' Ahoussou) - 
+       Ndzie [Y] (85' Grgic), Amane - Gulliksen, Seidl, Tilio (46' Wurmbrand) - 
+       Kara (62' Antiste)
+
+
+
+
+
+== Europacup - Conference League 2025/26
+
+▪ Qualifikation 2	
+24.07.2025 @ Tusko Polje   att: 1080 Zuschauer   ref: Saglam (TK)
+  FK Decic Tuzi - Rapid 0-2
+    (0-1 Horn 16', 
+     0-2 Seidl 40' (p))
+
+FK Decic Tuzi: Nikic - Djelaj, Tomasevic, Ujkaj, Dresaj - Strikovic [Y] (63' Bozanovic),
+           Bajovic (75' Bozovic), Pavlicevic (62' Ljuljduraj), 
+           Radusinovic (46' N'Diaye) - Sekulovic [Y] (76' Camaj), Golubovic [Y]
+Rapid: Hedl – F. Demir (83' Bolla), Ahoussou, Cvetkovic, Horn (59' Auer) – 
+       Amane, Seidl – Radulovic [Y] (79' Weixelbraun), Dahl (59' Schaub) - 
+       Antiste (59' Kara [Y]), Mbuyi [Y]
+
+
+31.07.2025 @ Weststadion   att: 16217     ref: Muntean (MDA)
+  Rapid - FK Decic Tuzi 4-2
+    (1-0  Dahl 17', 
+     2-0  Radulovic 27', 
+     2-1  Strikovic 60', 
+     3-1  Weixelbraun 68', 
+     4-1  Mbuyi 71', 
+     4-2  Sekulovic 82')
+
+Rapid: Hedl – Bolla (75' F. Demir), Cvetkovic, Ahoussou, Auer – Amane (68' Kara), 
+       Grgic – Radulovic, Seidl (75' Bajlicz), Dahl (46' Weixelbraun) – 
+       Antiste (52' Mbuyi)
+FK Decic Tuzi: Nikic – Dresaj (72' Maras), Ujkaj, Tomasevic, Gjelaj – 
+        Sekulovic, Pavlicevic (63' Maloku) – Ndiaye (72' Radusinovic), 
+        Bajovic (72' Bozovic), Strikovic [Y] – Camaj (46' Dokaj)
+
+
+## ...
+
+
+
+

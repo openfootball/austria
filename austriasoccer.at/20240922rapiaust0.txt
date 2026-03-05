@@ -1,0 +1,47 @@
+##
+#  match report converted to Football.TXT format
+#   see http://www.austriasoccer.at/data/spiele/2024/20240922rapiaust0.htm
+
+
+=  Österreich 1 - Bundesliga 2024/25 
+
+▪ Runde 7
+Sunday, 22.09.2024, 17:00 CEST   @ Wien, Weststadion   att: 26000
+ 
+RAPID WIEN	 2-1 (1-1)	AUSTRIA WIEN
+    (1-0 Dion Beljo     23' 
+     1-1 Andreas Gruber 45' 
+     2-1 Matthias Seidl 60')
+
+Rapid Wien:  Niklas Hedl,
+             Bendeguz Bolla [Y 90'+2'],
+             Nenad Cvetkovic,
+             Serge-Philippe Raux-Yao,
+             Jonas Auer,
+             Mamadou Sangare [Y 21'] (90'+1' Maximilian Hofmann),
+             Lukas Grgic (82' Tobias Börkeeiet),
+             Louis Schaub (71' Moritz Oswald),
+             Matthias Seidl,
+             Guido Burgstaller (71' Nikolaus Wurmbrand),
+             Dion Beljo  - Coach: Robert Klauß
+ 
+Austria Wien:  Samuel Sahin-Radlinger,
+               Reinhold Ranftl [Y 54'],
+               Aleksandar Dragovic (52' Philipp Wiesinger [Y 84']),
+               Lucas da Costa Sousa 'Galvao' [Y 81'],
+               Hakim Guenouche (70' Matteo Perez Vinlöf),
+               Abubakr Barry (82' Moritz Wels),
+               Manfred Fischer (82' Marko Raguz),
+               Andreas Gruber,
+               Dominik Fitz  [Y 81'],
+               Maurice Malone,
+               Nik Prelec (70' Murharem Huskovic)  - Coach: Stephan Helm
+
+Ref: Christian-Petru Ciochirca (Österreich)
+ 
+
+[NB: Nach Spielende kam es zu schweren Ausschreitungen, als Zuschauer aus beiden
+     Fangruppen auf das Spielfeld liefen - schwere Sanktionen drohen vor allem Rapid,
+     die wegen Pyrotechnikvorkommnissen im Vorjahr noch bedingte Strafen offen haben]
+ 
+

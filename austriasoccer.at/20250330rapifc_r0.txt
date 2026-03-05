@@ -1,0 +1,55 @@
+##
+#  match report converted to Football.TXT format
+#   see http://www.austriasoccer.at/data/spiele/2025/20250330rapifc_r0.htm
+
+
+= Österreich 1 - Bundesliga 2024/25, Meistergruppe 
+
+▪ Runde 23
+Sunday, 30.03.2025, 17:00 CET @ Wien, Weststadion  att: 11680 
+
+RAPID WIEN	0-2 (0-1)	FC RB SALZBURG
+    (0-1 Yorbe Vertessen 37' 
+     0-2 Yorbe Vertessen 48') 
+ 
+
+Rapid Wien: Niklas Hedl,
+            Bendeguz Bolla
+            Nenad Cvetkovic [Y 90'],
+            Serge-Philippe Raux-Yao,
+            Jonas Auer [Y 80'],
+            Mamadou Sangare,
+            Lukas Grgic [Y 33']  (68' Moritz Oswald),
+            Louis Schaub (68' Andrija Radulovic),
+            Matthias Seidl (58' Noah Bischof),
+            Dion Beljo (68' Ercan Kara [Y 88']),
+            Isak Jansson  - Coach: Robert Klauß
+
+FC RB Salzburg: Janis Blaswich,
+                Leandro Morgalla,
+                Joane Gadou,
+                Samson Baidoo  [Y 88'],
+                Aleksa Terzic,
+                Mads Bidstrup,
+                Nicolas Capaldo [Y 74'],
+                Nene Dorgeles (90'+6' Daouda Guindo),
+                Moussa Kounfolo Yeo  [Y 11'] (90'+1' Edmund Baidoo),
+                Karim Onisiwo (90'+1' Petar Ratkov),
+                Yorbe Vertessen (85' Mamady Diambou)  - Coach: Thomas Letsch
+
+Ref: Alexander Harkam (Österreich)
+
+
+[NB: Das Weststadion war wegen der Vorfälle beim Hartbergspiel der letzten
+     Grunddurchgangsrunde nur für rund 16000 Zuschauer geöffnet
+     (es kamen überraschend aber nur 11680)
+    --------------------------------------------------------
+    72': Gelbe Karte für Rapidtrainer Klauß
+    --------------------------------------------------------
+    Grgic (Rapid) erhielt ein gelbrote Karte (72') nach seiner Auswechslung, als er
+    unerlaubt wieder ins Spiel eintrat. Rapid durfte trotzdem zu elft weiterspielen,
+    da der Ausschluß einen nicht am Spielfeld befindlichen Spieler betraf.
+    Diese Gelbrote Karte wurde am 31.3.2025 annulliert, da dem Spieler nach einer
+    Verletzung nicht klar war, dass er soeben asugetauscht worden war]
+ 
+
