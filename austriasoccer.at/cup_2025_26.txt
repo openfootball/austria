@@ -1,0 +1,96 @@
+##
+#  matches converted to Football.TXT format
+#   see http://www.austriasoccer.at/data/nat/2020_29/cup_2025_26.htm
+
+
+= ÖFB Cup 2025/26 
+
+▪ 1.Runde     
+25.07.2025 
+  17:30 @ Donaufeldplatz      SR Donaufeld - Floridsdorfer AC 0-4
+  18:00 @ Stadion             Kremser SC/Rehberg - SKU Amstetten  1-1 a.e.t., 2-3 pen.
+        @ Heidebodenstadion   SC/ESV Parndorf 1919 - SV Ried im Innkreis  0-5
+        @ Sportanlage Reichenau  SVG Reichenau - VfB Hohenems  4-1
+        @ Sportanlage      SVG Wallern/St. Marienkirchen - Wolfsberger AC  1-3
+  19:00 @ Waldarena             ATUS Velden - SC Neusiedl am See   3-2
+        @ Birkenwiese           FC Dornbirn - Grazer AK 1902       1-0
+        @ Bruno Pezzey-Stadion  FC Lauterach - SC Schwaz           0-5
+        @ Aulandstadion       FC Marchfeld Donauauen - UFC Jennersdorf  6-1
+        @ Arena              SC Imst - FC Hertha Wels   3-3 a.e.t. 1-3 pen.
+        @ Sportzentrum        SC Kalsdorf - SKN St. Pölte  0-5
+        @ Arena               SC Weiz - FC Admira Wacker Mödling  0-3
+        @ Park21-Arena     Union Gurten - SV Wals-Grünau   6-2
+  19:30 @ Sportzentrum        FCM Traiskirchen - WSG Tirol  0-4
+        @ Turnerwaldstadion   SK Treibach - Blau-Weiß Linz  0-3
+        @ Arena               SV Horn - Austria Klagenfurt  2-0
+        @ Arena               SV Tillmitsch - Vienna   1-3
+        @ Stadion          Union Vöcklamarkt - Schwarz-Weiß Bregenz  0-2
+  20:00 @ Informstadion       SV Oberwart - ATSV Wolfsberg  7-0
+  20:30 @ Sportanlage         SK Bischofshofen - Sturm Graz   0-4
+26.07.2025 
+  16:00 @ Helfortplatz       SV Dinamo Helfort - Kapfenberger SV 191  1-2
+  17:00 @ Transdanubia Sportanlage   ASKÖ Oedt - SV Austria Salzburg  1-0
+        @ SC-Sportplatz      SC Hirschwang - SC Rheindorf Altach  1-4
+  18:00 @ Andreas Wimmer-Arena   SV Kuchl - Austria Lustenau  2-3
+        @ Arena              Union Dietach - FC RB Salzburg  0-4
+        @ Hohe Warte         Wr. Sportclub - Linzer ASK  0-4
+  19:00 @ Thomas Morgenstern Arena   FC Lendorf - SV Donau Wien  1-2
+        @ Sportplatz         SC Retz - SV Stripfing/Weiden   0-5
+        @ Fußballarena       SV Lafnitz - TSV Hartberg   2-5
+27.07.2025
+  13:00 @ Sportpark          ASK Voitsberg - Austria Wien  3-2
+  17:00 @ Arena            FC Pinzgau Saalfelden - SC Röthis  1-2
+        @ Tivoli           Wacker Innsbruck - Rapid Wien  0-1
+
+▪ 2.Runde
+26.08.2025 
+  18:30 @ Reichshofstadion   Austria Lustenau - Kapfenberger SV 1919   0-2
+  19:00 @ Arena    FC Hertha Wels - SKN St. Pölten   2-2 a.e.t., 4-5 pen.
+        @ Aulandstadion  FC Marchfeld Donauauen - Schwarz-Weiß Bregenz   0-2
+  19:30 @ Sportpark   ASK Voitsberg - FC Admira Wacker Mödling   1-4
+        @ Union Stadion   SKU Amstetten - Vienna    2-1
+        @ Stadion der Stadt Ried    Union Gurten - SV Ried im Innkreis   0-1
+27.08.2025 
+  18:00 @ Transdanubia Sportanlage   ASKÖ Oedt - WSG Tirol   1-3
+        @ Birkenwiese   FC Dornbirn - FC RB Salzburg  1-3
+  19:00 @ FAC-Platz    Floridsdorfer AC - SV Stripfing/Weiden   1-3
+  20:30 @ Waldarena    ATUS Velden - TSV Hartberg   0-3 a.e.t.
+        @ Silberstadt-Arena   SC Schwaz - Blau-Weiß Linz   0-3
+        @ SV-Sportplatz    SV Donau Wien - SC Rheindorf Altach   1-3
+        @ Arena        SV Horn - Linzer ASK     0-2
+16.09.2025 
+  18:00 @ Sportanlage Reichenau    SVG Reichenau - Wolfsberger AC   0-6
+17.09.2025 
+  17:00 @ Sportplatz an der Ratz   SC Röthis - Sturm Graz   0-2
+  19:00 @ Informstadion   SV Oberwart - Rapid Wien   1-2
+
+
+▪ Achtelfinale
+28.10.2025 
+  20:30 @ Donauparkstadion   Blau-Weiß Linz - TSV Hartberg  2-2 a.e.t., 5-4 pen.
+        @ Stadion      Kapfenberger SV 1919 - SC Rheindorf Altach   1-3 a.e.t.
+        @ Arena      SV Stripfing/Weiden - Linzer ASK   0-2
+29.10.2025 
+  18:00 @ BSFZ-Arena   FC Admira Wacker Mödling - Sturm Graz   1-1 a.e.t., 9-10 pen.
+  19:00 @ Union Stadion  SKU Amstetten - Wolfsberger AC   2-3 a.e.t.
+        @ Bodenseestadion   Schwarz-Weiß Bregenz - SV Ried im Innkreis  0-1 a.e.t.
+  20:30 @ NV-Arena     SKN St. Pölten - Rapid Wien    0-1
+30.10.2025 
+  19:00 @ Stadion Wals Siezenheim    FC RB Salzburg - WSG Tirol  3-1 a.e.t.
+
+▪ Viertelfinale
+30.01.2026 
+  18:00 @ Arena   Linzer ASK - Blau-Weiß Linz   3-2
+31.01.2026 
+  17:30 @ Arena   SV Ried im Innkreis - Rapid Wien   3-0
+01.02.2026 
+  17:30 @ Schnabelholz   SC Rheindorf Altach - Sturm Graz   3-1 a.e.t.
+  17:30 @ Lavanttal-Arena   Wolfsberger AC - FC RB Salzburg   0-1
+
+▪ Halbfinale
+04.03.2026 
+   18:00 @ Stadion Wals Siezenheim   FC RB Salzburg - SC Rheindorf Altach   0-1
+   20:30 @ Arena     SV Ried im Innkreis - Linzer ASK   [postponed]
+
+
+

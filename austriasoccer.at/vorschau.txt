@@ -1,15 +1,23 @@
 ##
 #  (upcoming) matches converted to Football.TXT format
 #   see http://www.austriasoccer.at/menu/vorschau.htm
+#
+#   note:
+#   - use english round abbrevations  
+#          e.g. HF  =>  SF (semi-finals)
+#   - use english for (friendly) national team matches
+#          e.g. Länderspiele => Internationals (Friendly)
+
+
 
 = Austria
 
 
 == Cup 2025/26
 04.03.2026 
-  20:30 ▪HF @ Ried im Innkreis   SV Ried im Innkreis - Linzer ASK  [postponed]
+  20:30 ▪SF @ Ried im Innkreis   SV Ried im Innkreis - Linzer ASK  [postponed]
 
-== Ö2 (2. Liga) 2025/26
+== Ö2 | 2. Liga 2025/26
 06.03.2026 
   18:00 ▪20 @ Amstetten          SKU Amstetten - SV Austria Salzburg
             @ Lustenau           Austria Lustenau - Vienna
@@ -19,7 +27,7 @@
 07.03.2026 
   14:30     @ Wien               Young Violets Austria Wien - FC Hertha Wels
 
-== Ö1 (Bundesliga) 2025/26
+== Ö1 | Bundesliga 2025/26
 08.03.2026 
   17:00 ▪22 @ Graz               Sturm Graz - SC Rheindorf Altach
             @ Hartberg           TSV Hartberg - Blau-Weiß Linz
@@ -28,7 +36,7 @@
             @ Ried im Innkreis   SV Ried im Innkreis - Austria Wien
             @ Wien               Rapid Wien - FC RB Salzburg
 
-== Ö2 (2. Liga) 2025/26
+== Ö2 | 2. Liga 2025/26
 08.03.2026
   10:30 ▪20 @ Südstadt           FC Admira Wacker Mödling - Austria Klagenfurt
 10.03.2026
@@ -55,13 +63,13 @@
 22.03.2026
   10:30     @ Kapfenberg         Kapfenberger SV 1919 - SKU Amstetten
 
-== Länderspiele 2025/26
+== Internationals 2026
 27.03.2026
   20:45     @ Wien               Österreich - Ghana
 31.03.2026
   20:45     @ Wien               Österreich - Südkorea        
 
-== Ö2 (2. Liga) 2025/26
+== Ö2 | 2. Liga 2025/26
 03.04.2026
         ▪23 @ Amstetten          SKU Amstetten - Young Violets Austria Wien
             @ Gleisdorf          Sturm Graz II - SKN St. Pölten

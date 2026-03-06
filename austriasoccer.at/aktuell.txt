@@ -1,29 +1,40 @@
 ##
 #  (latest) matches converted to Football.TXT format
 #   see http://www.austriasoccer.at/menu/aktuell.htm
+#
+#   note:
+#   - use english round abbrevations  
+#          e.g. HF  =>  SF (semi-finals)
+#               VF  =>  QF (quarter-finals)
+#   - separate league code (e.g Ö1, Ö2) with pipe from official (native) name
+#          e.g. Ö2 (2. Liga)  => Ö2 | 2. Liga 
+#   - use english score lines
+#          e.g.  3:1 n.V.  =>  3-1 a.e.t.
+
 
 = Austria
 
 	
 == Cup 2025/26
 04.03.2026
-  18:00 ▪HF  @ Salzburg    FC RB Salzburg - SC Rheindorf Altach   0-1
+  18:00 ▪SF  @ Salzburg    FC RB Salzburg - SC Rheindorf Altach   0-1
 
-== Ö2 (2. Liga) 2025/26
+== Ö2 | 2. Liga 2025/26
 03.03.2026
   20:30 ▪18  @ Wien        Rapid Wien II - SV Austria Salzburg    1-1
 01.03.2026
   10:30 ▪19  @ Kapfenberg  Kapfenberger SV 1919 - Sturm Graz II   2-1
 
-== Ö1 (Bundesliga) 2025/26
+== Ö1 | Bundesliga 2025/26
 01.03.2026
   17:00 ▪21  @ Wolfsberg   Wolfsberger AC - Sturm Graz            2-2
              @ Wien        Austria Wien - Linzer ASK              2-2
              @ Salzburg    FC RB Salzburg - TSV Hartberg          0-0
              @ Linz        Blau-Weiß Linz - WSG Tirol             2-3
              @ Graz        Grazer AK 1902 - SV Ried im Innkreis   2-1
-             @Altach       SC Rheindorf Altach - Rapid Wien       1-1
-== Ö2 (2. Liga) 2025/26
+             @ Altach      SC Rheindorf Altach - Rapid Wien       1-1
+
+== Ö2 | 2. Liga 2025/26
 28.02.2026
   14:30 ▪19  @ Salzburg    SV Austria Salzburg - Floridsdorfer AC  0-1
 27.02.2026
@@ -37,7 +48,7 @@
 22.02.2026
   10:30      @ Amstetten   SKU Amstetten - FC Hertha Wels  1-1
 
-== Ö1 (Bundesliga) 2025/26
+== Ö1 | Bundesliga 2025/26
 22.02.2026
   17:00 ▪20  @ Linz        Linzer ASK - FC RB Salzburg     1-5
   14:30      @ Innsbruck   WSG Tirol - SV Ried im Innkreis 1-1
@@ -47,12 +58,12 @@
              @ Hartberg    TSV Hartberg - Grazer AK 1902   1-0
              @ Altach      SC Rheindorf Altach - Austria Wien  2-1
 
-== Ö2 (2. Liga) 2025/26
+== Ö2 | 2. Liga 2025/26
 20.02.2026
   20:30 ▪18 @ Wien         Vienna - SKN St. Pölten           2-1
   18:00     @ Lustenau      Austria Lustenau - Kapfenberger SV 1919  2-1
 
-== Ö1 (Bundesliga) 2025/26
+== Ö1 | Bundesliga 2025/26
 15.02.2026
   17:00 ▪19 @ Wien          Austria Wien - Rapid Wien      2-0
   14:30     @ Linz          Blau-Weiß Linz - Wolfsberger AC  2-1
@@ -62,8 +73,8 @@
             @ Innsbruck         WSG Tirol - Sturm Graz   1-0
             @ Hartberg          TSV Hartberg - SC Rheindorf Altach  0-0
 08.02.2026
-  14:30 ▪18 @ Wolfsberg     Wolfsberger AC - Grazer AK 1902   2-2
-  17:00     @ Graz          Sturm Graz - SV Ried im Innkreis  1-0
+  17:00 ▪18 @ Graz          Sturm Graz - SV Ried im Innkreis  1-0
+  14:30     @ Wolfsberg     Wolfsberger AC - Grazer AK 1902   2-2
   14:30     @ Altach        SC Rheindorf Altach - Blau-Weiß Linz  1-0
 07.02.2026
   17:00     @ Wien          Rapid Wien - TSV Hartberg   1-1
@@ -73,42 +84,14 @@
 
 == Cup 2025/26
 01.02.2026
-  17:30 ▪VF   @ Wolfsberg    Wolfsberger AC - FC RB Salzburg   0-1
-
-
-01.02.2026
-17:30
-Altach
-SC Rheindorf Altach - Sturm Graz
-3:1 n.V.
-
-
+  17:30 ▪QF   @ Wolfsberg    Wolfsberger AC - FC RB Salzburg   0-1
+              @ Altach       SC Rheindorf Altach - Sturm Graz  3-1 a.e.t.
 31.01.2026
-17:30
-Ried im Innkreis
-SV Ried im Innkreis - Rapid Wien
-3:0
+  18:00       @ Linz         Linzer ASK - Blau-Weiß Linz  3-2
+  17:30       @ Ried im Innkreis  SV Ried im Innkreis - Rapid Wien  3-0
 
-30.01.2026
-18:00
-Linz
-Linzer ASK - Blau-Weiß Linz
-3:2
-
-== Europa League Ligaphase 2025/26
-
+== Europa League 2025/26, Ligaphase 
 29.01.2026
-21:00
-▪8
-Graz
-Sturm Graz - Brann Bergen
-1:0
-
-29.01.2026
-21:00
-▪8
-Birmingham
-Aston Villa - FC RB Salzburg
-3:2
-
+  21:00 ▪8    @ Graz         Sturm Graz - Brann Bergen     1-0
+              @ Birmingham   Aston Villa - FC RB Salzburg  3-2
 
