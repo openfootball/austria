@@ -1,358 +1,358 @@
 = Österr. Regionalliga Ost 2021/22
 
-# Date       Fri Jul/30 2021 - Sat May/28 2022 (302d)
+# Date       Fri Jul 30 2021 - Sat May 28 2022 (302d)
 # Teams      14
 # Matches    182
 
 
 
-Matchday 1
-[Fri Jul/30]
-  19.00  ASK-BSC Bruck/Leitha     3-1 (2-1)  SV Leobendorf
-  19.30  ASV Draßburg             2-2 (1-1)  SC Neusiedl/See 1919
+▪ Matchday 1
+Fri Jul 30
+  19:00  ASK-BSC Bruck/Leitha     3-1 (2-1)  SV Leobendorf
+  19:30  ASV Draßburg             2-2 (1-1)  SC Neusiedl/See 1919
          FCM Traiskirchen         5-3 (2-1)  FC Mauerwerk
          Wiener Sport-Club        1-0 (0-0)  FC Marchfeld Donauauen
-  18.30  SV Stripfing/Weiden      3-3 (1-1)  First Vienna FC
-[Sat Jul/31]
-  18.00  SC Wiener Viktoria       4-1 (1-1)  1. Wiener Neustädter SC
-  16.00  TWL Elektra              1-0 (0-0)  FC Admira Wacker II
+  18:30  SV Stripfing/Weiden      3-3 (1-1)  First Vienna FC
+Sat Jul 31
+  18:00  SC Wiener Viktoria       4-1 (1-1)  1. Wiener Neustädter SC
+  16:00  TWL Elektra              1-0 (0-0)  FC Admira Wacker II
 
 
-Matchday 2
-[Fri Aug/6]
-  19.00  SC Neusiedl/See 1919     1-3 (1-1)  FCM Traiskirchen
+▪ Matchday 2
+Fri Aug 6
+  19:00  SC Neusiedl/See 1919     1-3 (1-1)  FCM Traiskirchen
          First Vienna FC          4-1 (2-0)  ASV Draßburg
-  19.30  FC Marchfeld Donauauen   1-3 (0-0)  SC Wiener Viktoria
+  19:30  FC Marchfeld Donauauen   1-3 (0-0)  SC Wiener Viktoria
          1. Wiener Neustädter SC  0-4 (0-1)  SV Stripfing/Weiden
-[Sat Aug/7]
-  17.30  FC Admira Wacker II      3-1 (3-1)  FC Mauerwerk
-  18.00  SV Leobendorf            1-1 (1-1)  Wiener Sport-Club
-  16.00  TWL Elektra              2-1 (0-0)  ASK-BSC Bruck/Leitha
+Sat Aug 7
+  17:30  FC Admira Wacker II      3-1 (3-1)  FC Mauerwerk
+  18:00  SV Leobendorf            1-1 (1-1)  Wiener Sport-Club
+  16:00  TWL Elektra              2-1 (0-0)  ASK-BSC Bruck/Leitha
 
 
-Matchday 3
-[Fri Aug/13]
-  19.00  ASK-BSC Bruck/Leitha     3-4 (0-1)  FC Admira Wacker II
-  19.30  ASV Draßburg             0-2 (0-1)  1. Wiener Neustädter SC
+▪ Matchday 3
+Fri Aug 13
+  19:00  ASK-BSC Bruck/Leitha     3-4 (0-1)  FC Admira Wacker II
+  19:30  ASV Draßburg             0-2 (0-1)  1. Wiener Neustädter SC
          FCM Traiskirchen         0-1 (0-0)  First Vienna FC
          Wiener Sport-Club        4-0 (2-0)  TWL Elektra
-[Sat Aug/14]
-  18.00  SV Stripfing/Weiden      1-1 (1-0)  FC Marchfeld Donauauen
+Sat Aug 14
+  18:00  SV Stripfing/Weiden      1-1 (1-0)  FC Marchfeld Donauauen
          SC Wiener Viktoria       4-2 (1-1)  SV Leobendorf
-  17.30  FC Mauerwerk             1-2 (1-0)  SC Neusiedl/See 1919
+  17:30  FC Mauerwerk             1-2 (1-0)  SC Neusiedl/See 1919
 
 
-Matchday 4
-[Fri Aug/20]
-  19.00  ASK-BSC Bruck/Leitha     4-2 (2-0)  Wiener Sport-Club
+▪ Matchday 4
+Fri Aug 20
+  19:00  ASK-BSC Bruck/Leitha     4-2 (2-0)  Wiener Sport-Club
          First Vienna FC          2-0 (2-0)  FC Mauerwerk
-  19.30  FC Marchfeld Donauauen   2-1 (1-1)  ASV Draßburg
+  19:30  FC Marchfeld Donauauen   2-1 (1-1)  ASV Draßburg
          1. Wiener Neustädter SC  1-5 (1-2)  FCM Traiskirchen
-[Sat Aug/21]
-  16.30  SV Leobendorf            0-4 (0-1)  SV Stripfing/Weiden
-  16.00  TWL Elektra              2-0 (1-0)  SC Wiener Viktoria
-[Sun Aug/22]
-  17.30  FC Admira Wacker II      1-4 (0-1)  SC Neusiedl/See 1919
+Sat Aug 21
+  16:30  SV Leobendorf            0-4 (0-1)  SV Stripfing/Weiden
+  16:00  TWL Elektra              2-0 (1-0)  SC Wiener Viktoria
+Sun Aug 22
+  17:30  FC Admira Wacker II      1-4 (0-1)  SC Neusiedl/See 1919
 
 
-Matchday 5
-[Fri Aug/27]
-  19.00  SC Neusiedl/See 1919     0-4 (0-2)  First Vienna FC
-  19.30  ASV Draßburg             0-3 (0-2)  SV Leobendorf
+▪ Matchday 5
+Fri Aug 27
+  19:00  SC Neusiedl/See 1919     0-4 (0-2)  First Vienna FC
+  19:30  ASV Draßburg             0-3 (0-2)  SV Leobendorf
          FC Marchfeld Donauauen   3-0 (2-0)  FCM Traiskirchen
          Wiener Sport-Club        1-1 (1-1)  FC Admira Wacker II
-[Sat Aug/28]
-  17.30  FC Mauerwerk             4-3 (1-1)  1. Wiener Neustädter SC
-  18.00  SC Wiener Viktoria       2-1 (0-1)  ASK-BSC Bruck/Leitha
-  17.00  SV Stripfing/Weiden      4-2 (3-1)  TWL Elektra
+Sat Aug 28
+  17:30  FC Mauerwerk             4-3 (1-1)  1. Wiener Neustädter SC
+  18:00  SC Wiener Viktoria       2-1 (0-1)  ASK-BSC Bruck/Leitha
+  17:00  SV Stripfing/Weiden      4-2 (3-1)  TWL Elektra
 
 
-Matchday 6
-[Thu Sep/2]
-  19.00  FC Admira Wacker II      1-1 (0-1)  First Vienna FC
-[Fri Sep/3]
-  19.00  ASK-BSC Bruck/Leitha     0-1 (0-0)  SV Stripfing/Weiden
-  19.30  FC Marchfeld Donauauen   4-4 (1-2)  FC Mauerwerk
+▪ Matchday 6
+Thu Sep 2
+  19:00  FC Admira Wacker II      1-1 (0-1)  First Vienna FC
+Fri Sep 3
+  19:00  ASK-BSC Bruck/Leitha     0-1 (0-0)  SV Stripfing/Weiden
+  19:30  FC Marchfeld Donauauen   4-4 (1-2)  FC Mauerwerk
          1. Wiener Neustädter SC  0-3 (0-2)  SC Neusiedl/See 1919
          TWL Elektra              1-0 (1-0)  ASV Draßburg
          Wiener Sport-Club        8-1 (3-1)  SC Wiener Viktoria
-[Sat Sep/4]
-  16.30  SV Leobendorf            3-3 (1-1)  FCM Traiskirchen
+Sat Sep 4
+  16:30  SV Leobendorf            3-3 (1-1)  FCM Traiskirchen
 
 
-Matchday 7
-[Fri Sep/10]
-  19.00  First Vienna FC          3-1 (0-0)  1. Wiener Neustädter SC
-  19.30  ASV Draßburg             4-0 (1-0)  ASK-BSC Bruck/Leitha
+▪ Matchday 7
+Fri Sep 10
+  19:00  First Vienna FC          3-1 (0-0)  1. Wiener Neustädter SC
+  19:30  ASV Draßburg             4-0 (1-0)  ASK-BSC Bruck/Leitha
          FCM Traiskirchen         1-3 (1-2)  TWL Elektra
-  19.00  SC Neusiedl/See 1919     1-2 (0-1)  FC Marchfeld Donauauen
-[Sat Sep/11]
-  17.30  SV Stripfing/Weiden      1-1 (0-0)  Wiener Sport-Club
+  19:00  SC Neusiedl/See 1919     1-2 (0-1)  FC Marchfeld Donauauen
+Sat Sep 11
+  17:30  SV Stripfing/Weiden      1-1 (0-0)  Wiener Sport-Club
          FC Mauerwerk             0-2 (0-1)  SV Leobendorf
 
 
-Matchday 8
-[Fri Sep/17]
-  19.30  TWL Elektra              3-1 (1-0)  FC Mauerwerk
-  19.00  ASK-BSC Bruck/Leitha     1-1 (0-1)  FCM Traiskirchen
-  19.30  FC Marchfeld Donauauen   1-1 (0-1)  First Vienna FC
+▪ Matchday 8
+Fri Sep 17
+  19:30  TWL Elektra              3-1 (1-0)  FC Mauerwerk
+  19:00  ASK-BSC Bruck/Leitha     1-1 (0-1)  FCM Traiskirchen
+  19:30  FC Marchfeld Donauauen   1-1 (0-1)  First Vienna FC
          Wiener Sport-Club        0-0  ASV Draßburg
-[Sat Sep/18]
-  16.30  SV Leobendorf            2-3 (1-0)  SC Neusiedl/See 1919
-  17.00  SC Wiener Viktoria       1-0 (0-0)  SV Stripfing/Weiden
-[Sun Sep/19]
-  14.30  FC Admira Wacker II      2-2 (2-1)  1. Wiener Neustädter SC
+Sat Sep 18
+  16:30  SV Leobendorf            2-3 (1-0)  SC Neusiedl/See 1919
+  17:00  SC Wiener Viktoria       1-0 (0-0)  SV Stripfing/Weiden
+Sun Sep 19
+  14:30  FC Admira Wacker II      2-2 (2-1)  1. Wiener Neustädter SC
 
 
-Matchday 9
-[Fri Sep/24]
-  19.00  First Vienna FC          1-4 (1-4)  SV Leobendorf
+▪ Matchday 9
+Fri Sep 24
+  19:00  First Vienna FC          1-4 (1-4)  SV Leobendorf
          SC Neusiedl/See 1919     2-0 (1-0)  TWL Elektra
-  19.30  FCM Traiskirchen         0-2 (0-1)  Wiener Sport-Club
+  19:30  FCM Traiskirchen         0-2 (0-1)  Wiener Sport-Club
          ASV Draßburg             0-2 (0-0)  SC Wiener Viktoria
          1. Wiener Neustädter SC  1-2 (1-1)  FC Marchfeld Donauauen
-[Sat Sep/25]
-  16.30  FC Mauerwerk             1-1 (1-0)  ASK-BSC Bruck/Leitha
-[Sun Sep/26]
-  15.00  SV Stripfing/Weiden      1-0 (0-0)  FC Admira Wacker II
+Sat Sep 25
+  16:30  FC Mauerwerk             1-1 (1-0)  ASK-BSC Bruck/Leitha
+Sun Sep 26
+  15:00  SV Stripfing/Weiden      1-0 (0-0)  FC Admira Wacker II
 
 
-Matchday 7
-[Wed Sep/29]
-  19.00  SC Wiener Viktoria       1-1 (1-0)  FC Admira Wacker II
+▪ Matchday 7
+Wed Sep 29
+  19:00  SC Wiener Viktoria       1-1 (1-0)  FC Admira Wacker II
 
 
-Matchday 10
-[Fri Oct/1]
-  19.00  ASK-BSC Bruck/Leitha     1-3 (1-2)  SC Neusiedl/See 1919
-  19.30  Wiener Sport-Club        6-0 (3-0)  FC Mauerwerk
-[Sat Oct/2]
-  16.00  TWL Elektra              0-1 (0-0)  First Vienna FC
-  16.30  SV Leobendorf            1-0 (0-0)  1. Wiener Neustädter SC
-  17.00  SC Wiener Viktoria       1-2 (0-1)  FCM Traiskirchen
-  16.00  SV Stripfing/Weiden      4-0 (2-0)  ASV Draßburg
+▪ Matchday 10
+Fri Oct 1
+  19:00  ASK-BSC Bruck/Leitha     1-3 (1-2)  SC Neusiedl/See 1919
+  19:30  Wiener Sport-Club        6-0 (3-0)  FC Mauerwerk
+Sat Oct 2
+  16:00  TWL Elektra              0-1 (0-0)  First Vienna FC
+  16:30  SV Leobendorf            1-0 (0-0)  1. Wiener Neustädter SC
+  17:00  SC Wiener Viktoria       1-2 (0-1)  FCM Traiskirchen
+  16:00  SV Stripfing/Weiden      4-0 (2-0)  ASV Draßburg
 
 
-Matchday 11
-[Fri Oct/8]
-  19.30  FC Marchfeld Donauauen   0-3 (0-1)  SV Leobendorf
+▪ Matchday 11
+Fri Oct 8
+  19:30  FC Marchfeld Donauauen   0-3 (0-1)  SV Leobendorf
          SC Neusiedl/See 1919     0-1 (0-0)  Wiener Sport-Club
          ASV Draßburg             2-1 (0-0)  FC Admira Wacker II
          FCM Traiskirchen         0-3 (0-2)  SV Stripfing/Weiden
          1. Wiener Neustädter SC  0-1 (0-1)  TWL Elektra
-[Sat Oct/9]
-  16.00  First Vienna FC          1-0 (0-0)  ASK-BSC Bruck/Leitha
-  14.00  FC Mauerwerk             1-0 (1-0)  SC Wiener Viktoria
+Sat Oct 9
+  16:00  First Vienna FC          1-0 (0-0)  ASK-BSC Bruck/Leitha
+  14:00  FC Mauerwerk             1-0 (1-0)  SC Wiener Viktoria
 
 
-Matchday 10
-[Tue Oct/12]
-  18.45  FC Admira Wacker II      0-2 (0-0)  FC Marchfeld Donauauen
+▪ Matchday 10
+Tue Oct 12
+  18:45  FC Admira Wacker II      0-2 (0-0)  FC Marchfeld Donauauen
 
 
-Matchday 12
-[Fri Oct/15]
-  19.30  ASV Draßburg             0-2 (0-1)  FCM Traiskirchen
+▪ Matchday 12
+Fri Oct 15
+  19:30  ASV Draßburg             0-2 (0-1)  FCM Traiskirchen
          Wiener Sport-Club        0-3 (0-1)  First Vienna FC
          TWL Elektra              0-1 (0-0)  FC Marchfeld Donauauen
-  19.00  ASK-BSC Bruck/Leitha     5-1 (3-0)  1. Wiener Neustädter SC
-[Sat Oct/16]
-  17.00  SC Wiener Viktoria       4-0 (1-0)  SC Neusiedl/See 1919
-  15.30  SV Stripfing/Weiden      3-0 (0-0)  FC Mauerwerk
-[Sun Oct/17]
-  14.30  FC Admira Wacker II      1-3 (1-1)  SV Leobendorf
+  19:00  ASK-BSC Bruck/Leitha     5-1 (3-0)  1. Wiener Neustädter SC
+Sat Oct 16
+  17:00  SC Wiener Viktoria       4-0 (1-0)  SC Neusiedl/See 1919
+  15:30  SV Stripfing/Weiden      3-0 (0-0)  FC Mauerwerk
+Sun Oct 17
+  14:30  FC Admira Wacker II      1-3 (1-1)  SV Leobendorf
 
 
-Matchday 13
-[Fri Oct/22]
-  19.00  SV Leobendorf            1-1 (0-0)  TWL Elektra
+▪ Matchday 13
+Fri Oct 22
+  19:00  SV Leobendorf            1-1 (0-0)  TWL Elektra
          First Vienna FC          0-0  SC Wiener Viktoria
-  19.30  FCM Traiskirchen         2-1 (1-0)  FC Admira Wacker II
+  19:30  FCM Traiskirchen         2-1 (1-0)  FC Admira Wacker II
          FC Marchfeld Donauauen   3-3 (1-0)  ASK-BSC Bruck/Leitha
-[Sat Oct/23]
-  16.00  SC Neusiedl/See 1919     0-5 (0-2)  SV Stripfing/Weiden
-  19.00  1. Wiener Neustädter SC  1-2 (1-1)  Wiener Sport-Club
-  14.00  FC Mauerwerk             1-0 (0-0)  ASV Draßburg
+Sat Oct 23
+  16:00  SC Neusiedl/See 1919     0-5 (0-2)  SV Stripfing/Weiden
+  19:00  1. Wiener Neustädter SC  1-2 (1-1)  Wiener Sport-Club
+  14:00  FC Mauerwerk             1-0 (0-0)  ASV Draßburg
 
 
-Matchday 26
-[Fri Mar/4]
-  19.30  TWL Elektra              1-0 (1-0)  SV Leobendorf
+▪ Matchday 26
+Fri Mar 4
+  19:30  TWL Elektra              1-0 (1-0)  SV Leobendorf
          Wiener Sport-Club        1-0 (0-0)  1. Wiener Neustädter SC
-  19.00  ASK-BSC Bruck/Leitha     2-3 (0-0)  FC Marchfeld Donauauen
-[Sat Mar/5]
-  16.00  SC Wiener Viktoria       0-2 (0-0)  First Vienna FC
-  17.00  ASV Draßburg             1-3 (1-1)  FC Mauerwerk
-  15.30  SV Stripfing/Weiden      1-1 (0-0)  SC Neusiedl/See 1919
-  15.00  FC Admira Wacker II      2-2 (0-1)  FCM Traiskirchen
+  19:00  ASK-BSC Bruck/Leitha     2-3 (0-0)  FC Marchfeld Donauauen
+Sat Mar 5
+  16:00  SC Wiener Viktoria       0-2 (0-0)  First Vienna FC
+  17:00  ASV Draßburg             1-3 (1-1)  FC Mauerwerk
+  15:30  SV Stripfing/Weiden      1-1 (0-0)  SC Neusiedl/See 1919
+  15:00  FC Admira Wacker II      2-2 (0-1)  FCM Traiskirchen
 
 
-Matchday 14
-[Fri Mar/11]
-  19.30  1. Wiener Neustädter SC  0-2 (0-2)  SC Wiener Viktoria
-  19.00  SC Neusiedl/See 1919     0-1 (0-1)  ASV Draßburg
-[Sat Mar/12]
-  17.00  First Vienna FC          0-0  SV Stripfing/Weiden
-  16.30  SV Leobendorf            1-0 (0-0)  ASK-BSC Bruck/Leitha
-[Sun Mar/13]
-  15.30  FC Mauerwerk             1-2 (1-0)  FCM Traiskirchen
+▪ Matchday 14
+Fri Mar 11
+  19:30  1. Wiener Neustädter SC  0-2 (0-2)  SC Wiener Viktoria
+  19:00  SC Neusiedl/See 1919     0-1 (0-1)  ASV Draßburg
+Sat Mar 12
+  17:00  First Vienna FC          0-0  SV Stripfing/Weiden
+  16:30  SV Leobendorf            1-0 (0-0)  ASK-BSC Bruck/Leitha
+Sun Mar 13
+  15:30  FC Mauerwerk             1-2 (1-0)  FCM Traiskirchen
 
 
-Matchday 15
-[Fri Mar/18]
-  19.30  Wiener Sport-Club        2-3 (0-0)  SV Leobendorf
+▪ Matchday 15
+Fri Mar 18
+  19:30  Wiener Sport-Club        2-3 (0-0)  SV Leobendorf
          ASV Draßburg             1-5 (1-2)  First Vienna FC
-  19.00  ASK-BSC Bruck/Leitha     2-2 (0-2)  TWL Elektra
-[Sat Mar/19]
-  16.00  SV Stripfing/Weiden      2-0 (1-0)  1. Wiener Neustädter SC
+  19:00  ASK-BSC Bruck/Leitha     2-2 (0-2)  TWL Elektra
+Sat Mar 19
+  16:00  SV Stripfing/Weiden      2-0 (1-0)  1. Wiener Neustädter SC
 
 
-Matchday 16
-[Fri Mar/25]
-  19.30  TWL Elektra              0-3 (0-2)  Wiener Sport-Club
+▪ Matchday 16
+Fri Mar 25
+  19:30  TWL Elektra              0-3 (0-2)  Wiener Sport-Club
          1. Wiener Neustädter SC  4-2 (2-1)  ASV Draßburg
-  19.00  SC Neusiedl/See 1919     4-0 (2-0)  FC Mauerwerk
+  19:00  SC Neusiedl/See 1919     4-0 (2-0)  FC Mauerwerk
          FC Marchfeld Donauauen   3-3 (2-0)  SV Stripfing/Weiden
-[Sun Mar/27]
-  14.00  FC Admira Wacker II      1-1 (1-0)  ASK-BSC Bruck/Leitha
-  15.00  SV Leobendorf            0-0  SC Wiener Viktoria
+Sun Mar 27
+  14:00  FC Admira Wacker II      1-1 (1-0)  ASK-BSC Bruck/Leitha
+  15:00  SV Leobendorf            0-0  SC Wiener Viktoria
 
 
-Matchday 14
-[Tue Mar/29]
-  19.30  FC Marchfeld Donauauen   3-1 (1-1)  Wiener Sport-Club
+▪ Matchday 14
+Tue Mar 29
+  19:30  FC Marchfeld Donauauen   3-1 (1-1)  Wiener Sport-Club
 
 
-Matchday 17
-[Fri Apr/1]
-  19.30  Wiener Sport-Club        2-2 (0-1)  ASK-BSC Bruck/Leitha
+▪ Matchday 17
+Fri Apr 1
+  19:30  Wiener Sport-Club        2-2 (0-1)  ASK-BSC Bruck/Leitha
          ASV Draßburg             0-0  FC Marchfeld Donauauen
-  19.00  SC Neusiedl/See 1919     1-0 (0-0)  FC Admira Wacker II
-  19.30  FCM Traiskirchen         3-0 (2-0)  1. Wiener Neustädter SC
-[Sat Apr/2]
-  16.00  SC Wiener Viktoria       0-1 (0-0)  TWL Elektra
-  16.30  SV Stripfing/Weiden      2-2 (0-0)  SV Leobendorf
-[Sun Apr/3]
-  16.30  FC Mauerwerk             0-4 (0-0)  First Vienna FC
+  19:00  SC Neusiedl/See 1919     1-0 (0-0)  FC Admira Wacker II
+  19:30  FCM Traiskirchen         3-0 (2-0)  1. Wiener Neustädter SC
+Sat Apr 2
+  16:00  SC Wiener Viktoria       0-1 (0-0)  TWL Elektra
+  16:30  SV Stripfing/Weiden      2-2 (0-0)  SV Leobendorf
+Sun Apr 3
+  16:30  FC Mauerwerk             0-4 (0-0)  First Vienna FC
 
 
-Matchday 18
-[Fri Apr/8]
-  19.30  TWL Elektra              1-1 (0-1)  SV Stripfing/Weiden
+▪ Matchday 18
+Fri Apr 8
+  19:30  TWL Elektra              1-1 (0-1)  SV Stripfing/Weiden
          FCM Traiskirchen         1-1 (0-0)  FC Marchfeld Donauauen
-  19.00  ASK-BSC Bruck/Leitha     2-0 (2-0)  SC Wiener Viktoria
+  19:00  ASK-BSC Bruck/Leitha     2-0 (2-0)  SC Wiener Viktoria
          First Vienna FC          1-0 (0-0)  SC Neusiedl/See 1919
-[Sat Apr/9]
-  19.00  1. Wiener Neustädter SC  1-1 (0-0)  FC Mauerwerk
-[Sun Apr/10]
-  14.00  FC Admira Wacker II      3-1 (1-1)  Wiener Sport-Club
-  15.00  SV Leobendorf            3-1 (1-1)  ASV Draßburg
+Sat Apr 9
+  19:00  1. Wiener Neustädter SC  1-1 (0-0)  FC Mauerwerk
+Sun Apr 10
+  14:00  FC Admira Wacker II      3-1 (1-1)  Wiener Sport-Club
+  15:00  SV Leobendorf            3-1 (1-1)  ASV Draßburg
 
 
-Matchday 15
-[Tue Apr/12]
-  19.00  SC Wiener Viktoria       4-4 (3-1)  FC Marchfeld Donauauen
-  19.30  FC Mauerwerk             1-0 (0-0)  FC Admira Wacker II
+▪ Matchday 15
+Tue Apr 12
+  19:00  SC Wiener Viktoria       4-4 (3-1)  FC Marchfeld Donauauen
+  19:30  FC Mauerwerk             1-0 (0-0)  FC Admira Wacker II
 
 
-Matchday 16
-[Tue Apr/12]
-  19.00  First Vienna FC          1-2 (0-1)  FCM Traiskirchen
+▪ Matchday 16
+Tue Apr 12
+  19:00  First Vienna FC          1-2 (0-1)  FCM Traiskirchen
 
 
-Matchday 19
-[Fri Apr/15]
-  19.30  FCM Traiskirchen         0-1 (0-0)  SV Leobendorf
+▪ Matchday 19
+Fri Apr 15
+  19:30  FCM Traiskirchen         0-1 (0-0)  SV Leobendorf
          ASV Draßburg             0-3 (0-0)  TWL Elektra
-  19.00  SC Neusiedl/See 1919     1-1 (1-1)  1. Wiener Neustädter SC
+  19:00  SC Neusiedl/See 1919     1-1 (1-1)  1. Wiener Neustädter SC
          First Vienna FC          4-1 (2-1)  FC Admira Wacker II
-  19.30  SC Wiener Viktoria       0-1 (0-0)  Wiener Sport-Club
-[Sat Apr/16]
-  16.30  SV Stripfing/Weiden      0-0  ASK-BSC Bruck/Leitha
-[Sun Apr/17]
-  16.30  FC Mauerwerk             0-0  FC Marchfeld Donauauen
+  19:30  SC Wiener Viktoria       0-1 (0-0)  Wiener Sport-Club
+Sat Apr 16
+  16:30  SV Stripfing/Weiden      0-0  ASK-BSC Bruck/Leitha
+Sun Apr 17
+  16:30  FC Mauerwerk             0-0  FC Marchfeld Donauauen
 
 
-Matchday 14
-[Tue Apr/19]
-  20.30  FC Admira Wacker II      0-3 (0-2)  TWL Elektra
+▪ Matchday 14
+Tue Apr 19
+  20:30  FC Admira Wacker II      0-3 (0-2)  TWL Elektra
 
 
-Matchday 20
-[Fri Apr/22]
-  20.00  1. Wiener Neustädter SC  0-1 (0-0)  First Vienna FC
-  19.30  TWL Elektra              2-2 (1-2)  FCM Traiskirchen
-  19.00  ASK-BSC Bruck/Leitha     4-0 (3-0)  ASV Draßburg
-  19.30  FC Marchfeld Donauauen   0-1 (0-0)  SC Neusiedl/See 1919
+▪ Matchday 20
+Fri Apr 22
+  20:00  1. Wiener Neustädter SC  0-1 (0-0)  First Vienna FC
+  19:30  TWL Elektra              2-2 (1-2)  FCM Traiskirchen
+  19:00  ASK-BSC Bruck/Leitha     4-0 (3-0)  ASV Draßburg
+  19:30  FC Marchfeld Donauauen   0-1 (0-0)  SC Neusiedl/See 1919
          Wiener Sport-Club        0-4 (0-1)  SV Stripfing/Weiden
-[Sat Apr/23]
-  16.30  SV Leobendorf            2-1 (1-1)  FC Mauerwerk
-[Sun Apr/24]
-  14.00  FC Admira Wacker II      3-2 (0-1)  SC Wiener Viktoria
+Sat Apr 23
+  16:30  SV Leobendorf            2-1 (1-1)  FC Mauerwerk
+Sun Apr 24
+  14:00  FC Admira Wacker II      3-2 (0-1)  SC Wiener Viktoria
 
 
-Matchday 21
-[Fri Apr/29]
-  19.00  SC Neusiedl/See 1919     2-2 (1-1)  SV Leobendorf
-  19.30  ASV Draßburg             1-1 (0-0)  Wiener Sport-Club
+▪ Matchday 21
+Fri Apr 29
+  19:00  SC Neusiedl/See 1919     2-2 (1-1)  SV Leobendorf
+  19:30  ASV Draßburg             1-1 (0-0)  Wiener Sport-Club
          First Vienna FC          2-0 (2-0)  FC Marchfeld Donauauen
-  20.00  1. Wiener Neustädter SC  3-1 (3-1)  FC Admira Wacker II
-  18.30  FCM Traiskirchen         1-3 (0-1)  ASK-BSC Bruck/Leitha
-[Sat Apr/30]
-  18.00  FC Mauerwerk             1-2 (0-2)  TWL Elektra
-  16.30  SV Stripfing/Weiden      4-0 (2-0)  SC Wiener Viktoria
+  20:00  1. Wiener Neustädter SC  3-1 (3-1)  FC Admira Wacker II
+  18:30  FCM Traiskirchen         1-3 (0-1)  ASK-BSC Bruck/Leitha
+Sat Apr 30
+  18:00  FC Mauerwerk             1-2 (0-2)  TWL Elektra
+  16:30  SV Stripfing/Weiden      4-0 (2-0)  SC Wiener Viktoria
 
 
-Matchday 15
-[Tue May/3]
-  19.30  FCM Traiskirchen         1-2 (0-2)  SC Neusiedl/See 1919
+▪ Matchday 15
+Tue May 3
+  19:30  FCM Traiskirchen         1-2 (0-2)  SC Neusiedl/See 1919
 
 
-Matchday 22
-[Fri May/6]
-  19.00  ASK-BSC Bruck/Leitha     2-2 (1-2)  FC Mauerwerk
-  19.30  FC Marchfeld Donauauen   4-3 (4-1)  1. Wiener Neustädter SC
+▪ Matchday 22
+Fri May 6
+  19:00  ASK-BSC Bruck/Leitha     2-2 (1-2)  FC Mauerwerk
+  19:30  FC Marchfeld Donauauen   4-3 (4-1)  1. Wiener Neustädter SC
          TWL Elektra              0-1 (0-0)  SC Neusiedl/See 1919
          Wiener Sport-Club        2-1 (1-1)  FCM Traiskirchen
-[Sat May/7]
-  16.30  SV Leobendorf            1-3 (0-2)  First Vienna FC
-  16.00  SC Wiener Viktoria       2-0 (1-0)  ASV Draßburg
-[Sun May/8]
-  14.00  FC Admira Wacker II      0-3 (0-2)  SV Stripfing/Weiden
+Sat May 7
+  16:30  SV Leobendorf            1-3 (0-2)  First Vienna FC
+  16:00  SC Wiener Viktoria       2-0 (1-0)  ASV Draßburg
+Sun May 8
+  14:00  FC Admira Wacker II      0-3 (0-2)  SV Stripfing/Weiden
 
 
-Matchday 23
-[Fri May/13]
-  19.00  First Vienna FC          2-0 (0-0)  TWL Elektra
+▪ Matchday 23
+Fri May 13
+  19:00  First Vienna FC          2-0 (0-0)  TWL Elektra
          SC Neusiedl/See 1919     4-2 (3-2)  ASK-BSC Bruck/Leitha
-  19.30  1. Wiener Neustädter SC  3-0 (1-0)  SV Leobendorf
+  19:30  1. Wiener Neustädter SC  3-0 (1-0)  SV Leobendorf
          FC Marchfeld Donauauen   2-2 (1-1)  FC Admira Wacker II
          FCM Traiskirchen         0-1 (0-0)  SC Wiener Viktoria
          ASV Draßburg             1-2 (0-1)  SV Stripfing/Weiden
-[Sun May/15]
-  16.30  FC Mauerwerk             0-1 (0-0)  Wiener Sport-Club
+Sun May 15
+  16:30  FC Mauerwerk             0-1 (0-0)  Wiener Sport-Club
 
 
-Matchday 24
-[Fri May/20]
-  19.00  ASK-BSC Bruck/Leitha     0-0  First Vienna FC
-  19.30  TWL Elektra              1-1 (1-0)  1. Wiener Neustädter SC
-  18.30  SV Leobendorf            2-0 (0-0)  FC Marchfeld Donauauen
-  19.30  Wiener Sport-Club        2-1 (1-1)  SC Neusiedl/See 1919
-[Sat May/21]
-  16.30  SV Stripfing/Weiden      3-1 (0-0)  FCM Traiskirchen
-  16.00  SC Wiener Viktoria       2-0 (2-0)  FC Mauerwerk
-[Sun May/22]
-  14.00  FC Admira Wacker II      3-4 (1-3)  ASV Draßburg
+▪ Matchday 24
+Fri May 20
+  19:00  ASK-BSC Bruck/Leitha     0-0  First Vienna FC
+  19:30  TWL Elektra              1-1 (1-0)  1. Wiener Neustädter SC
+  18:30  SV Leobendorf            2-0 (0-0)  FC Marchfeld Donauauen
+  19:30  Wiener Sport-Club        2-1 (1-1)  SC Neusiedl/See 1919
+Sat May 21
+  16:30  SV Stripfing/Weiden      3-1 (0-0)  FCM Traiskirchen
+  16:00  SC Wiener Viktoria       2-0 (2-0)  FC Mauerwerk
+Sun May 22
+  14:00  FC Admira Wacker II      3-4 (1-3)  ASV Draßburg
 
 
-Matchday 25
-[Fri May/27]
-  19.00  SV Leobendorf            2-1 (0-1)  FC Admira Wacker II
+▪ Matchday 25
+Fri May 27
+  19:00  SV Leobendorf            2-1 (0-1)  FC Admira Wacker II
          1. Wiener Neustädter SC  2-0 (0-0)  ASK-BSC Bruck/Leitha
          FC Marchfeld Donauauen   2-1 (0-0)  TWL Elektra
-  18.30  FC Mauerwerk             2-1 (2-1)  SV Stripfing/Weiden
-  19.10  First Vienna FC          2-2 (1-1)  Wiener Sport-Club
-  19.00  SC Neusiedl/See 1919     0-0  SC Wiener Viktoria
-[Sat May/28]
-  15.00  FCM Traiskirchen         1-0 (1-0)  ASV Draßburg
+  18:30  FC Mauerwerk             2-1 (2-1)  SV Stripfing/Weiden
+  19:10  First Vienna FC          2-2 (1-1)  Wiener Sport-Club
+  19:00  SC Neusiedl/See 1919     0-0  SC Wiener Viktoria
+Sat May 28
+  15:00  FCM Traiskirchen         1-0 (1-0)  ASV Draßburg

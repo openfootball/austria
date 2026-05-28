@@ -1,338 +1,338 @@
 = Österr. Erste Liga 2015/16
 
-# Date       Fri Jul/24 2015 - Wed May/25 2016 (306d)
+# Date       Fri Jul 24 2015 - Wed May 25 2016 (306d)
 # Teams      10
 # Matches    180
 
 
 
-» Matchday 1
-  Fri Jul/24 2015
-    18.30  LASK Linz               v Floridsdorfer AC         2-1 (2-0)
+▪ Matchday 1
+  Fri Jul 24 2015
+    18:30  LASK Linz               v Floridsdorfer AC         2-1 (2-0)
            FC Wacker Innsbruck     v Kapfenberger SV 1919     0-0
            Austria Lustenau        v 1. Wiener Neustädter SC  2-0 (1-0)
            SK Austria Klagenfurt   v FC Liefering             4-0 (3-0)
-    20.30  SKN St. Pölten          v Austria Salzburg         2-2 (2-2)
+    20:30  SKN St. Pölten          v Austria Salzburg         2-2 (2-2)
 
 
-» Matchday 2
-  Fri Jul/31
-    18.30  FC Liefering            v SKN St. Pölten           2-1 (1-1)
+▪ Matchday 2
+  Fri Jul 31
+    18:30  FC Liefering            v SKN St. Pölten           2-1 (1-1)
            Kapfenberger SV 1919    v Austria Lustenau         1-0 (0-0)
            Floridsdorfer AC        v FC Wacker Innsbruck      1-5 (1-2)
            Austria Salzburg        v SK Austria Klagenfurt    1-1 (0-1)
-    20.30  1. Wiener Neustädter SC v LASK Linz                0-0
+    20:30  1. Wiener Neustädter SC v LASK Linz                0-0
 
 
-» Matchday 3
-  Mon Aug/3
-    18.30  FC Wacker Innsbruck     v LASK Linz                1-2 (1-1)
-  Tue Aug/4
-    18.30  Kapfenberger SV 1919    v FC Liefering             5-2 (2-0)
+▪ Matchday 3
+  Mon Aug 3
+    18:30  FC Wacker Innsbruck     v LASK Linz                1-2 (1-1)
+  Tue Aug 4
+    18:30  Kapfenberger SV 1919    v FC Liefering             5-2 (2-0)
            Austria Lustenau        v SKN St. Pölten           0-1 (0-0)
            Austria Salzburg        v 1. Wiener Neustädter SC  3-0 (2-0)
            SK Austria Klagenfurt   v Floridsdorfer AC         1-0 (0-0)
 
 
-» Matchday 4
-  Fri Aug/7
-    18.30  1. Wiener Neustädter SC v Kapfenberger SV 1919     0-2 (0-0)
+▪ Matchday 4
+  Fri Aug 7
+    18:30  1. Wiener Neustädter SC v Kapfenberger SV 1919     0-2 (0-0)
            LASK Linz               v SK Austria Klagenfurt    2-0 (0-0)
            SKN St. Pölten          v FC Wacker Innsbruck      0-3 (0-2)
            Floridsdorfer AC        v Austria Lustenau         1-3 (0-2)
-    20.30  FC Liefering            v Austria Salzburg         5-3 (3-1)
+    20:30  FC Liefering            v Austria Salzburg         5-3 (3-1)
 
 
-» Matchday 5
-  Fri Aug/14
-    18.30  Kapfenberger SV 1919    v SKN St. Pölten           1-3 (0-3)
+▪ Matchday 5
+  Fri Aug 14
+    18:30  Kapfenberger SV 1919    v SKN St. Pölten           1-3 (0-3)
            FC Wacker Innsbruck     v FC Liefering             4-1 (2-0)
            Austria Lustenau        v LASK Linz                2-1 (1-1)
            Austria Salzburg        v Floridsdorfer AC         2-1 (0-0)
-    20.30  SK Austria Klagenfurt   v 1. Wiener Neustädter SC  1-0 (0-0)
+    20:30  SK Austria Klagenfurt   v 1. Wiener Neustädter SC  1-0 (0-0)
 
 
-» Matchday 6
-  Fri Aug/21
-    18.30  FC Liefering            v 1. Wiener Neustädter SC  0-1 (0-0)
+▪ Matchday 6
+  Fri Aug 21
+    18:30  FC Liefering            v 1. Wiener Neustädter SC  0-1 (0-0)
            SKN St. Pölten          v SK Austria Klagenfurt    1-1 (0-0)
            FC Wacker Innsbruck     v Austria Lustenau         1-0 (1-0)
            Floridsdorfer AC        v Kapfenberger SV 1919     0-3 (0-2)
-    20.30  LASK Linz               v Austria Salzburg         2-0 (2-0)
+    20:30  LASK Linz               v Austria Salzburg         2-0 (2-0)
 
 
-» Matchday 7
-  Fri Aug/28
-    18.30  1. Wiener Neustädter SC v Floridsdorfer AC         1-0 (1-0)
+▪ Matchday 7
+  Fri Aug 28
+    18:30  1. Wiener Neustädter SC v Floridsdorfer AC         1-0 (1-0)
            LASK Linz               v SKN St. Pölten           1-0 (0-0)
            Austria Lustenau        v FC Liefering             1-2 (1-2)
            SK Austria Klagenfurt   v Kapfenberger SV 1919     5-1 (1-1)
-    20.30  Austria Salzburg        v FC Wacker Innsbruck      3-4 (1-1)
+    20:30  Austria Salzburg        v FC Wacker Innsbruck      3-4 (1-1)
 
 
-» Matchday 8
-  Fri Sep/11
-    18.30  FC Liefering            v Floridsdorfer AC         4-1 (3-1)
+▪ Matchday 8
+  Fri Sep 11
+    18:30  FC Liefering            v Floridsdorfer AC         4-1 (3-1)
            SKN St. Pölten          v 1. Wiener Neustädter SC  2-0 (2-0)
            FC Wacker Innsbruck     v SK Austria Klagenfurt    4-2 (1-1)
            Austria Lustenau        v Austria Salzburg         0-2 (0-1)
-    20.30  Kapfenberger SV 1919    v LASK Linz                1-5 (0-3)
+    20:30  Kapfenberger SV 1919    v LASK Linz                1-5 (0-3)
 
 
-» Matchday 9
-  Mon Sep/14
-    18.30  Floridsdorfer AC        v SKN St. Pölten           0-1 (0-0)
-  Tue Sep/15
-    18.30  1. Wiener Neustädter SC v FC Wacker Innsbruck      1-2 (1-1)
+▪ Matchday 9
+  Mon Sep 14
+    18:30  Floridsdorfer AC        v SKN St. Pölten           0-1 (0-0)
+  Tue Sep 15
+    18:30  1. Wiener Neustädter SC v FC Wacker Innsbruck      1-2 (1-1)
            LASK Linz               v FC Liefering             1-2 (1-1)
            Austria Salzburg        v Kapfenberger SV 1919     0-2 (0-0)
            SK Austria Klagenfurt   v Austria Lustenau         1-1 (0-0)
 
 
-» Matchday 10
-  Fri Sep/18
-    18.30  Floridsdorfer AC        v LASK Linz                0-2 (0-0)
+▪ Matchday 10
+  Fri Sep 18
+    18:30  Floridsdorfer AC        v LASK Linz                0-2 (0-0)
            Austria Salzburg        v SKN St. Pölten           1-5 (0-3)
            1. Wiener Neustädter SC v Austria Lustenau         1-3 (0-2)
            FC Liefering            v SK Austria Klagenfurt    4-1 (0-0)
-    20.30  Kapfenberger SV 1919    v FC Wacker Innsbruck      1-4 (1-3)
+    20:30  Kapfenberger SV 1919    v FC Wacker Innsbruck      1-4 (1-3)
 
 
-» Matchday 11
-  Fri Sep/25
-    18.30  LASK Linz               v 1. Wiener Neustädter SC  0-0
+▪ Matchday 11
+  Fri Sep 25
+    18:30  LASK Linz               v 1. Wiener Neustädter SC  0-0
            SKN St. Pölten          v FC Liefering             1-0 (0-0)
            Austria Lustenau        v Kapfenberger SV 1919     1-2 (0-1)
            FC Wacker Innsbruck     v Floridsdorfer AC         1-1 (0-1)
-    20.30  SK Austria Klagenfurt   v Austria Salzburg         1-1 (0-1)
+    20:30  SK Austria Klagenfurt   v Austria Salzburg         1-1 (0-1)
 
 
-» Matchday 12
-  Fri Oct/2
-    18.30  FC Liefering            v Kapfenberger SV 1919     5-1 (1-1)
+▪ Matchday 12
+  Fri Oct 2
+    18:30  FC Liefering            v Kapfenberger SV 1919     5-1 (1-1)
            SKN St. Pölten          v Austria Lustenau         0-1 (0-0)
            1. Wiener Neustädter SC v Austria Salzburg         2-0 (1-0)
            Floridsdorfer AC        v SK Austria Klagenfurt    1-3 (1-2)
-    20.30  LASK Linz               v FC Wacker Innsbruck      0-1 (0-1)
+    20:30  LASK Linz               v FC Wacker Innsbruck      0-1 (0-1)
 
 
-» Matchday 13
-  Fri Oct/16
-    18.30  Kapfenberger SV 1919    v 1. Wiener Neustädter SC  0-1 (0-0)
+▪ Matchday 13
+  Fri Oct 16
+    18:30  Kapfenberger SV 1919    v 1. Wiener Neustädter SC  0-1 (0-0)
            Austria Salzburg        v FC Liefering             2-2 (1-2)
            FC Wacker Innsbruck     v SKN St. Pölten           1-3 (0-0)
            Austria Lustenau        v Floridsdorfer AC         1-0 (1-0)
-    20.30  SK Austria Klagenfurt   v LASK Linz                2-2 (1-1)
+    20:30  SK Austria Klagenfurt   v LASK Linz                2-2 (1-1)
 
 
-» Matchday 14
-  Mon Oct/19
-    18.30  SKN St. Pölten          v Kapfenberger SV 1919     1-2 (0-1)
-  Tue Oct/20
-    18.30  FC Liefering            v FC Wacker Innsbruck      0-1 (0-0)
+▪ Matchday 14
+  Mon Oct 19
+    18:30  SKN St. Pölten          v Kapfenberger SV 1919     1-2 (0-1)
+  Tue Oct 20
+    18:30  FC Liefering            v FC Wacker Innsbruck      0-1 (0-0)
            LASK Linz               v Austria Lustenau         2-1 (0-0)
            Floridsdorfer AC        v Austria Salzburg         2-2 (0-1)
            1. Wiener Neustädter SC v SK Austria Klagenfurt    1-1 (0-1)
 
 
-» Matchday 15
-  Fri Oct/23
-    18.30  1. Wiener Neustädter SC v FC Liefering             1-0 (1-0)
+▪ Matchday 15
+  Fri Oct 23
+    18:30  1. Wiener Neustädter SC v FC Liefering             1-0 (1-0)
            SK Austria Klagenfurt   v SKN St. Pölten           1-2 (0-1)
            Kapfenberger SV 1919    v Floridsdorfer AC         0-1 (0-1)
-    20.30  Austria Lustenau        v FC Wacker Innsbruck      2-1 (0-1)
-  Tue Nov/24
-    18.30  Austria Salzburg        v LASK Linz                0-2 (0-0)
+    20:30  Austria Lustenau        v FC Wacker Innsbruck      2-1 (0-1)
+  Tue Nov 24
+    18:30  Austria Salzburg        v LASK Linz                0-2 (0-0)
 
 
-» Matchday 16
-  Mon Nov/2
-    18.30  FC Wacker Innsbruck     v Austria Salzburg         1-1 (0-0)
-  Tue Nov/3
-    18.30  Floridsdorfer AC        v 1. Wiener Neustädter SC  1-2 (0-0)
+▪ Matchday 16
+  Mon Nov 2
+    18:30  FC Wacker Innsbruck     v Austria Salzburg         1-1 (0-0)
+  Tue Nov 3
+    18:30  Floridsdorfer AC        v 1. Wiener Neustädter SC  1-2 (0-0)
            SKN St. Pölten          v LASK Linz                1-0 (0-0)
            FC Liefering            v Austria Lustenau         2-1 (1-0)
            Kapfenberger SV 1919    v SK Austria Klagenfurt    1-1 (1-1)
 
 
-» Matchday 17
-  Fri Nov/6
-    18.30  Floridsdorfer AC        v FC Liefering             1-5 (0-3)
+▪ Matchday 17
+  Fri Nov 6
+    18:30  Floridsdorfer AC        v FC Liefering             1-5 (0-3)
            LASK Linz               v Kapfenberger SV 1919     4-2 (4-1)
            SK Austria Klagenfurt   v FC Wacker Innsbruck      1-2 (0-1)
            Austria Salzburg        v Austria Lustenau         1-3 (0-2)
-    20.30  1. Wiener Neustädter SC v SKN St. Pölten           2-3 (2-2)
+    20:30  1. Wiener Neustädter SC v SKN St. Pölten           2-3 (2-2)
 
 
-» Matchday 18
-  Fri Nov/20
-    18.30  FC Wacker Innsbruck     v 1. Wiener Neustädter SC  3-3 (1-0)
+▪ Matchday 18
+  Fri Nov 20
+    18:30  FC Wacker Innsbruck     v 1. Wiener Neustädter SC  3-3 (1-0)
            SKN St. Pölten          v Floridsdorfer AC         2-0 (0-0)
            Kapfenberger SV 1919    v Austria Salzburg         2-3 (0-2)
            Austria Lustenau        v SK Austria Klagenfurt    3-0 (3-0)
-    20.30  FC Liefering            v LASK Linz                4-0 (3-0)
+    20:30  FC Liefering            v LASK Linz                4-0 (3-0)
 
 
-» Matchday 19
-  Fri Nov/27
-    18.30  LASK Linz               v Floridsdorfer AC         4-0 (1-0)
+▪ Matchday 19
+  Fri Nov 27
+    18:30  LASK Linz               v Floridsdorfer AC         4-0 (1-0)
            SKN St. Pölten          v Austria Salzburg         6-2 (6-1)
            Austria Lustenau        v 1. Wiener Neustädter SC  1-1 (0-0)
            SK Austria Klagenfurt   v FC Liefering             0-0
-    20.30  FC Wacker Innsbruck     v Kapfenberger SV 1919     2-2 (2-0)
+    20:30  FC Wacker Innsbruck     v Kapfenberger SV 1919     2-2 (2-0)
 
 
-» Matchday 20
-  Fri Feb/26 2016
-    18.30  1. Wiener Neustädter SC v LASK Linz                2-1 (1-1)
+▪ Matchday 20
+  Fri Feb 26 2016
+    18:30  1. Wiener Neustädter SC v LASK Linz                2-1 (1-1)
            FC Liefering            v SKN St. Pölten           1-2 (1-0)
            Kapfenberger SV 1919    v Austria Lustenau         2-4 (1-2)
            Austria Salzburg        v SK Austria Klagenfurt    1-2 (1-2)
-    20.30  Floridsdorfer AC        v FC Wacker Innsbruck      0-1 (0-0)
+    20:30  Floridsdorfer AC        v FC Wacker Innsbruck      0-1 (0-0)
 
 
-» Matchday 21
-  Fri Mar/4
-    18.30  Kapfenberger SV 1919    v FC Liefering             2-1 (1-1)
+▪ Matchday 21
+  Fri Mar 4
+    18:30  Kapfenberger SV 1919    v FC Liefering             2-1 (1-1)
            Austria Lustenau        v SKN St. Pölten           4-2 (1-1)
            Austria Salzburg        v 1. Wiener Neustädter SC  2-2 (1-1)
            SK Austria Klagenfurt   v Floridsdorfer AC         1-2 (1-2)
-    20.30  FC Wacker Innsbruck     v LASK Linz                1-1 (1-0)
+    20:30  FC Wacker Innsbruck     v LASK Linz                1-1 (1-0)
 
 
-» Matchday 22
-  Fri Mar/11
-    18.30  1. Wiener Neustädter SC v Kapfenberger SV 1919     1-3 (0-1)
+▪ Matchday 22
+  Fri Mar 11
+    18:30  1. Wiener Neustädter SC v Kapfenberger SV 1919     1-3 (0-1)
            FC Liefering            v Austria Salzburg         4-0 (1-0)
            LASK Linz               v SK Austria Klagenfurt    2-1 (0-0)
            Floridsdorfer AC        v Austria Lustenau         1-1 (1-1)
-    20.30  SKN St. Pölten          v FC Wacker Innsbruck      1-0 (1-0)
+    20:30  SKN St. Pölten          v FC Wacker Innsbruck      1-0 (1-0)
 
 
-» Matchday 23
-  Mon Mar/14
-    18.30  Austria Lustenau        v LASK Linz                0-2 (0-0)
-  Tue Mar/15
-    18.30  Kapfenberger SV 1919    v SKN St. Pölten           0-1 (0-0)
+▪ Matchday 23
+  Mon Mar 14
+    18:30  Austria Lustenau        v LASK Linz                0-2 (0-0)
+  Tue Mar 15
+    18:30  Kapfenberger SV 1919    v SKN St. Pölten           0-1 (0-0)
            FC Wacker Innsbruck     v FC Liefering             1-2 (0-1)
            Austria Salzburg        v Floridsdorfer AC         0-1 (0-1)
            SK Austria Klagenfurt   v 1. Wiener Neustädter SC  0-2 (0-1)
 
 
-» Matchday 24
-  Fri Mar/18
-    18.30  FC Liefering            v 1. Wiener Neustädter SC  1-1 (1-0)
+▪ Matchday 24
+  Fri Mar 18
+    18:30  FC Liefering            v 1. Wiener Neustädter SC  1-1 (1-0)
            LASK Linz               v Austria Salzburg         2-1 (1-1)
            SKN St. Pölten          v SK Austria Klagenfurt    1-0 (1-0)
            Floridsdorfer AC        v Kapfenberger SV 1919     0-1 (0-0)
-    20.30  FC Wacker Innsbruck     v Austria Lustenau         1-0 (1-0)
+    20:30  FC Wacker Innsbruck     v Austria Lustenau         1-0 (1-0)
 
 
-» Matchday 25
-  Fri Apr/1
-    18.30  1. Wiener Neustädter SC v Floridsdorfer AC         1-0 (0-0)
+▪ Matchday 25
+  Fri Apr 1
+    18:30  1. Wiener Neustädter SC v Floridsdorfer AC         1-0 (0-0)
            Austria Lustenau        v FC Liefering             1-1 (1-0)
            Austria Salzburg        v FC Wacker Innsbruck      1-0 (1-0)
            SK Austria Klagenfurt   v Kapfenberger SV 1919     1-4 (0-1)
-    20.30  LASK Linz               v SKN St. Pölten           2-0 (1-0)
+    20:30  LASK Linz               v SKN St. Pölten           2-0 (1-0)
 
 
-» Matchday 26
-  Fri Apr/8
-    18.30  FC Liefering            v Floridsdorfer AC         3-1 (0-1)
+▪ Matchday 26
+  Fri Apr 8
+    18:30  FC Liefering            v Floridsdorfer AC         3-1 (0-1)
            Kapfenberger SV 1919    v LASK Linz                1-2 (1-1)
            FC Wacker Innsbruck     v SK Austria Klagenfurt    3-1 (1-1)
            Austria Lustenau        v Austria Salzburg         4-1 (1-1)
-    20.30  SKN St. Pölten          v 1. Wiener Neustädter SC  3-2 (1-1)
+    20:30  SKN St. Pölten          v 1. Wiener Neustädter SC  3-2 (1-1)
 
 
-» Matchday 27
-  Mon Apr/11
-    18.30  1. Wiener Neustädter SC v FC Wacker Innsbruck      0-2 (0-1)
-  Tue Apr/12
-    18.30  LASK Linz               v FC Liefering             1-0 (0-0)
+▪ Matchday 27
+  Mon Apr 11
+    18:30  1. Wiener Neustädter SC v FC Wacker Innsbruck      0-2 (0-1)
+  Tue Apr 12
+    18:30  LASK Linz               v FC Liefering             1-0 (0-0)
            Floridsdorfer AC        v SKN St. Pölten           0-3 (0-0)
            Austria Salzburg        v Kapfenberger SV 1919     0-4 (0-3)
            SK Austria Klagenfurt   v Austria Lustenau         0-2 (0-0)
 
 
-» Matchday 28
-  Fri Apr/15
-    18.30  Floridsdorfer AC        v LASK Linz                2-2 (1-1)
+▪ Matchday 28
+  Fri Apr 15
+    18:30  Floridsdorfer AC        v LASK Linz                2-2 (1-1)
            Kapfenberger SV 1919    v FC Wacker Innsbruck      2-2 (0-1)
            1. Wiener Neustädter SC v Austria Lustenau         1-1 (0-1)
            FC Liefering            v SK Austria Klagenfurt    3-1 (1-1)
-    20.30  Austria Salzburg        v SKN St. Pölten           0-1 (0-1)
+    20:30  Austria Salzburg        v SKN St. Pölten           0-1 (0-1)
 
 
-» Matchday 29
-  Fri Apr/22
-    18.30  LASK Linz               v 1. Wiener Neustädter SC  2-1 (2-1)
+▪ Matchday 29
+  Fri Apr 22
+    18:30  LASK Linz               v 1. Wiener Neustädter SC  2-1 (2-1)
            Austria Lustenau        v Kapfenberger SV 1919     2-2 (1-1)
            FC Wacker Innsbruck     v Floridsdorfer AC         3-0 (2-0)
            SK Austria Klagenfurt   v Austria Salzburg         0-2 (0-1)
-    20.30  SKN St. Pölten          v FC Liefering             1-2 (0-0)
+    20:30  SKN St. Pölten          v FC Liefering             1-2 (0-0)
 
 
-» Matchday 30
-  Mon Apr/25
-    18.30  LASK Linz               v FC Wacker Innsbruck      1-0 (1-0)
-  Tue Apr/26
-    18.30  FC Liefering            v Kapfenberger SV 1919     1-0 (0-0)
+▪ Matchday 30
+  Mon Apr 25
+    18:30  LASK Linz               v FC Wacker Innsbruck      1-0 (1-0)
+  Tue Apr 26
+    18:30  FC Liefering            v Kapfenberger SV 1919     1-0 (0-0)
            SKN St. Pölten          v Austria Lustenau         3-0 (1-0)
            1. Wiener Neustädter SC v Austria Salzburg         1-2 (0-1)
            Floridsdorfer AC        v SK Austria Klagenfurt    0-2 (0-0)
 
 
-» Matchday 31
-  Fri Apr/29
-    18.30  Kapfenberger SV 1919    v 1. Wiener Neustädter SC  4-2 (1-2)
+▪ Matchday 31
+  Fri Apr 29
+    18:30  Kapfenberger SV 1919    v 1. Wiener Neustädter SC  4-2 (1-2)
            Austria Salzburg        v FC Liefering             0-0
            SK Austria Klagenfurt   v LASK Linz                0-5 (0-1)
            Austria Lustenau        v Floridsdorfer AC         1-1 (1-1)
-    20.30  FC Wacker Innsbruck     v SKN St. Pölten           0-2 (0-1)
+    20:30  FC Wacker Innsbruck     v SKN St. Pölten           0-2 (0-1)
 
 
-» Matchday 32
-  Fri May/6
-    18.30  SKN St. Pölten          v Kapfenberger SV 1919     2-1 (0-0)
+▪ Matchday 32
+  Fri May 6
+    18:30  SKN St. Pölten          v Kapfenberger SV 1919     2-1 (0-0)
            FC Liefering            v FC Wacker Innsbruck      0-1 (0-0)
            Floridsdorfer AC        v Austria Salzburg         2-1 (1-1)
            1. Wiener Neustädter SC v SK Austria Klagenfurt    0-0
-    20.30  LASK Linz               v Austria Lustenau         0-2 (0-0)
+    20:30  LASK Linz               v Austria Lustenau         0-2 (0-0)
 
 
-» Matchday 33
-  Mon May/9
-    18.30  Austria Lustenau        v FC Wacker Innsbruck      3-0 (1-0)
-  Tue May/10
-    18.30  1. Wiener Neustädter SC v FC Liefering             1-0 (1-0)
+▪ Matchday 33
+  Mon May 9
+    18:30  Austria Lustenau        v FC Wacker Innsbruck      3-0 (1-0)
+  Tue May 10
+    18:30  1. Wiener Neustädter SC v FC Liefering             1-0 (1-0)
            Austria Salzburg        v LASK Linz                1-3 (0-1)
            SK Austria Klagenfurt   v SKN St. Pölten           0-2 (0-1)
            Kapfenberger SV 1919    v Floridsdorfer AC         4-1 (1-0)
 
 
-» Matchday 34
-  Fri May/13
-    18.30  Floridsdorfer AC        v 1. Wiener Neustädter SC  0-3 (0-1)
+▪ Matchday 34
+  Fri May 13
+    18:30  Floridsdorfer AC        v 1. Wiener Neustädter SC  0-3 (0-1)
            FC Liefering            v Austria Lustenau         2-2 (2-1)
            FC Wacker Innsbruck     v Austria Salzburg         2-2 (0-0)
            Kapfenberger SV 1919    v SK Austria Klagenfurt    2-2 (2-0)
-    20.30  SKN St. Pölten          v LASK Linz                3-2 (2-1)
+    20:30  SKN St. Pölten          v LASK Linz                3-2 (2-1)
 
 
-» Matchday 35
-  Fri May/20
-    18.30  Floridsdorfer AC        v FC Liefering             0-3 (0-2)
+▪ Matchday 35
+  Fri May 20
+    18:30  Floridsdorfer AC        v FC Liefering             0-3 (0-2)
            LASK Linz               v Kapfenberger SV 1919     1-1 (0-1)
            1. Wiener Neustädter SC v SKN St. Pölten           0-3 (0-0)
            SK Austria Klagenfurt   v FC Wacker Innsbruck      5-2 (2-1)
            Austria Salzburg        v Austria Lustenau         1-1 (0-0)
 
 
-» Matchday 36
-  Wed May/25
-    19.30  FC Wacker Innsbruck     v 1. Wiener Neustädter SC  1-2 (0-1)
+▪ Matchday 36
+  Wed May 25
+    19:30  FC Wacker Innsbruck     v 1. Wiener Neustädter SC  1-2 (0-1)
            FC Liefering            v LASK Linz                1-4 (1-1)
            SKN St. Pölten          v Floridsdorfer AC         3-0 (2-0)
            Kapfenberger SV 1919    v Austria Salzburg         1-1 (1-0)

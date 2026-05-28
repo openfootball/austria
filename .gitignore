@@ -6,7 +6,9 @@ sport.db
 
 
 ####
-#  all generated json output and in pages publish/deploy directory 
+#  all generated json output and in pages publish/deploy directory
 _site/
 *.json
 
+*.v26*.txt
+*.v2.txt
