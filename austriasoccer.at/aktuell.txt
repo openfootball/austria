@@ -3,18 +3,18 @@
 #   see http://www.austriasoccer.at/menu/aktuell.htm
 #
 #   note:
-#   - use english round abbrevations  
+#   - use english round abbrevations
 #          e.g. HF  =>  SF (semi-finals)
 #               VF  =>  QF (quarter-finals)
 #   - separate league code (e.g Ö1, Ö2) with pipe from official (native) name
-#          e.g. Ö2 (2. Liga)  => Ö2 | 2. Liga 
+#          e.g. Ö2 (2. Liga)  => Ö2 | 2. Liga
 #   - use english score lines
 #          e.g.  3:1 n.V.  =>  3-1 a.e.t.
 
 
 = Austria
 
-	
+
 == Cup 2025/26
 04.03.2026
   18:00 ▪SF  @ Salzburg    FC RB Salzburg - SC Rheindorf Altach   0-1
@@ -90,8 +90,7 @@
   18:00       @ Linz         Linzer ASK - Blau-Weiß Linz  3-2
   17:30       @ Ried im Innkreis  SV Ried im Innkreis - Rapid Wien  3-0
 
-== Europa League 2025/26, Ligaphase 
+== Europa League 2025/26, Ligaphase
 29.01.2026
   21:00 ▪8    @ Graz         Sturm Graz - Brann Bergen     1-0
               @ Birmingham   Aston Villa - FC RB Salzburg  3-2
-

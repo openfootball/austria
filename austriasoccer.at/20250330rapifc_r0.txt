@@ -3,18 +3,18 @@
 #   see http://www.austriasoccer.at/data/spiele/2025/20250330rapifc_r0.htm
 
 
-= Österreich 1 | Bundesliga 2024/25, Meistergruppe 
+= Österreich 1 | Bundesliga 2024/25, Meistergruppe
 
 ▪ Runde 23
-Sunday, 30.03.2025, 17:00 CET @ Wien, Weststadion  att: 11680 
+Sunday, 30.03.2025, 17:00 CET @ Wien, Weststadion  att: 11680
 
-RAPID WIEN	0-2 (0-1)	FC RB SALZBURG
-    (0-1 Yorbe Vertessen 37' 
-     0-2 Yorbe Vertessen 48') 
- 
+RAPID WIEN      0-2 (0-1)    FC RB SALZBURG
+    (0-1 Yorbe Vertessen 37'
+     0-2 Yorbe Vertessen 48')
+
 
 Rapid Wien: Niklas Hedl,
-            Bendeguz Bolla
+            Bendeguz Bolla,
             Nenad Cvetkovic [Y 90'],
             Serge-Philippe Raux-Yao,
             Jonas Auer [Y 80'],
@@ -40,7 +40,7 @@ FC RB Salzburg: Janis Blaswich,
 Ref: Alexander Harkam (Österreich)
 
 
-[NB: Das Weststadion war wegen der Vorfälle beim Hartbergspiel der letzten
+NB: Das Weststadion war wegen der Vorfälle beim Hartbergspiel der letzten
      Grunddurchgangsrunde nur für rund 16000 Zuschauer geöffnet
      (es kamen überraschend aber nur 11680)
     --------------------------------------------------------
@@ -50,6 +50,4 @@ Ref: Alexander Harkam (Österreich)
     unerlaubt wieder ins Spiel eintrat. Rapid durfte trotzdem zu elft weiterspielen,
     da der Ausschluß einen nicht am Spielfeld befindlichen Spieler betraf.
     Diese Gelbrote Karte wurde am 31.3.2025 annulliert, da dem Spieler nach einer
-    Verletzung nicht klar war, dass er soeben asugetauscht worden war]
- 
-
+    Verletzung nicht klar war, dass er soeben asugetauscht worden war.
