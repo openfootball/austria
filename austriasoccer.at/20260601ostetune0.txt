@@ -1,0 +1,36 @@
+##
+#  match report converted to Football.TXT format
+#   see http://www.austriasoccer.at/data/spiele/2026/20260601ostetune0.htm
+
+
+= Österreich | Friendlies
+
+Monday, 1.6.2026 20:45 CET @ Wien, Ernst Happel-Stadion,  Att: 35100
+         ÖSTERREICH   1-0 (0-0)  TUNESIEN
+           (1-0 Marcel Sabitzer 63')
+
+ÖSTERREICH: Alexander Schlager,
+  Stefan Posch (80' Alexander Prass),
+  Philipp Lienhart (46' Marco Friedl),
+  David Alaba [c] (46' Phillipp Mwene),
+  Konrad Laimer  [R 36'],
+  Nicolas Seiwald,
+  Xaver Schlager (62' Paul Wanner),
+  Romano Schmid  (46' Kevin Danso [Y 76']),
+  Michael Gregoritsch (46' Carney Chukwuemeka),
+  Marcel Sabitzer,
+  Marko Arnautovic (46' Sasa Kalajdzic)  -  Coach: Ralf Rangnick
+
+TUNESIEN: Abdelmouhib Chamakh,
+  Yan Valery,
+  Montassar Talbi,
+  Omar Rekik,
+  Ali Abdi,
+  Rani Khedira [c] (82' Elias Saad),
+  Ellyes Skhiri,
+  Anis Ben Slimane (62' Khalil Ayari),
+  Hannibal Mejbri (78' Hadj Mahmoud),
+  Ismaël Gharbi  [Y 57'] (62' Sebastian Tounekti),
+  Firas Chaouat (62' Rayan Elloumi)  - Coach: Sabri Lamouchi
+
+Ref: Jeremie Pignard (Frankreich)

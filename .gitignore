@@ -12,3 +12,5 @@ _site/
 
 *.v26*.txt
 *.v2.txt
+
+logs.txt
