@@ -1,0 +1,3368 @@
+= Austria | Bundesliga 2025/26
+
+# Dates    Fri Aug 1 2025 - Mon May 25 2026 (297d)
+# Teams    12
+# Matches  195
+
+▪ Regular Season - 1
+Fri Aug 1 20:30 UTC+2 @ Raiffeisen Arena, Linz, Att: 12670
+  LASK Linz v Sturm Graz  0-2 (0-2)
+     (Leon Grgic 9', Otari KITEISHVILI 12'(p))
+
+LASK Linz: Lukas Jungwirth - George BELLO [Y 86'], Andres ANDRADE, Kasper Jørgensen,
+      Modou Cissé [Y 53'] (66' Melayro BOGARDE) - Moses Usor (74' Valon Berisha),
+      Christoph Lang (66' Krystof Danek) - Lukas Kacavenda (74' Florian Flecker),
+      Samuel Adeniran [Y 45'], Ismaila COULIBALY [Y 79'] (83' Art SMAKAJ) - Sascha Horvath [c]
+Sturm Graz: Matteo Bignetti - Max JOHNSTON, Tim Oermann (45' Emanuel Aiwu), Emir Karic,
+      Dimitri Lavalée - Otari KITEISHVILI [Y 38'] (90+2' Filip Rózga) -
+      Tomi HORVAT (76' Jacob Hödl [Y 87']), Tochi Chukwuani -
+      William Bøving (76' Belmin Beganovic) - Leon Grgic (66' Seedy Jatta),
+      Jon GORENC STANKOVIC [c]
+
+Refs: Harald Lechner (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sat Aug 2 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1100
+  WSG Tirol v TSV Hartberg  4-2 (2-2)
+     (Moritz Wels 25', Valentino Müller 37'(p), 80', Tobias Anselm 68';
+      Lukas Spendlhofer 15', Elias Havel 45+2')
+
+WSG Tirol: Adam Stejskal - David Gugganig (86' David Jaunegg), Jamie Lawrence, Marco Boras -
+      Valentino Müller [c], Quincy Butler, Benjamin Böckle, Matthäus Taferner -
+      Thomas Sabitzer (73' Johannes Naschberger), Tobias Anselm (73' HINTERSEER Lukas),
+      Moritz Wels (90+2' Yannick Vötter)
+TSV Hartberg: Tom Hülsmann [Y 35'] - Habib Coulibaly, Fabian Wilfinger, Lukas Spendlhofer -
+      Benjamin Markus, Dominik PROKOP (45' Jed Drew), Tobias Kainz [c] (69' Dominic Vincze),
+      Maximilian Hennig - Damjan Kovacevic (84' Paul Bratschko) -
+      Elias Havel (84' David Korherr), Patrik Mijic (69' Marco Hoffmann [Y 73'])
+
+Refs: Sebastian Gishamer (AUT), Santino Schreiner (AUT), Amar Rekik (AUT)
+
+
+Sat Aug 2 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 3651
+  Wolfsberger AC v SCR Altach  0-2 (0-0)
+     (Ousmane Diawara 72', Alexander Gorgon 84')
+
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté [Y 29'], Dominik Baumgartner [c], Nicolas Wimmer -
+      Boris Matic, Alessandro SCHOEPF (82' Emmanuel Agyemang),
+      Dejan ZUKIC (64' Donis Avdijaj), Marco Sulzner [Y 44'] (45' Simon Piesinger [Y 78']) -
+      René Renner - Thierno BALLO (73' Angelo Gattermayer), Markus Pink (64' Erik Kojzek)
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller, Lukas Jäger [c], Benedikt Zech -
+      Vesel Demaku (90+5' Lukas GUGGANIG), Mike-Steven Bähre [Y 24'] (90+5' Yann Litawumba),
+      Patrick Greil [Y 59'] (79' Alexander Gorgon), Sandro Ingolitsch, Mohamed OUEDRAOGO -
+      Marlon Mustapha (85' Anteo Fetahu), Ousmane Diawara (79' Lukas Fridrikas)
+
+Refs: Isa Simsek (AUT), Maximilian Kolbitsch (AUT), Manuel Undesser (AUT)
+
+
+Sat Aug 2 19:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 6866
+  SV Ried v FC Salzburg  2-2 (1-1)
+     (Kingstone MUTANDWA 31', Oliver Steurer 53';
+      Sota Kitano 9', Yorbe Vertessen 90+6')
+
+SV Ried: Andreas Leitner [c] [Y 90+1'] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Martin Rasner (71' Yusuf Maart), Mark Grosse (85' Joris Boguo), Ante Bajic [Y 76'],
+      Philipp Pomer (70' Fabian Rossdorfer) - Christopher Wernitznig [Y 79'] -
+      Kingstone MUTANDWA, Antonio Van Wyk (65' Peter Kiedl)
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, Frans Krätzig [Y 52'] [Y/R 90+6'], S. Lainer,
+      Joane Gadou - Sota Kitano (71' Kerim ALAJBEGOVIC), Maurits KJAERGAARD -
+      Karim ONISIWO (57' Petar RATKOV), Edmund Baidoo (58' Yorbe Vertessen) -
+      Soumaïla Diabaté (65' Dorgeles NENE), Mads BIDSTRUP [c]
+
+Refs: Alexander Harkam (AUT), Martin Höfler (AUT), Philipp Duschek (AUT)
+
+
+Sun Aug 3 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 7995
+  Grazer AK v Austria Wien  2-2 (1-1)
+     (Ramiz Harakate 22', Tio Cipot 55';
+      Manprit Sarkaria 43', Dominik Fitz 86')
+
+Grazer AK: Jakob Meierhofer - Ludwig Vraa, Martin Kreuzriegler, Lukas Graf - Sadik FOFANA,
+      Tobias Koch (74' Thorsten Schriebl), Tio Cipot (68' Zétény Jánó),
+      Jacob ITALIANO (90+9' Yannick Oberleitner) -
+      Ramiz Harakate (74' Christian Lichtenberger), Dominik Frieser -
+      Daniel Maderner [c] (68' Alexander Hofleitner)
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic,
+      Philipp Wiesinger (61' Johannes Handl) - Abubakr BARRY (86' Sanel Saljic),
+      Manprit Sarkaria (76' Noah BOTIC), Hakim Guenouche, Reinhold Ranftl -
+      Manfred Fischer [c] (61' Lee Kang-Hee), Dominik Fitz -
+      Maurice MALONE (61' Johannes EGGESTEIN)
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Mario Diesenberger (AUT)
+
+
+Sun Aug 3 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 21204
+  Rapid Wien v Blau-Weiß Linz  1-0 (1-0)
+     (Petter Nosa Dahl 8')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jannes HORN, Nenad Cvetkovic, Bendeguz BOLLA -
+      Petter Nosa Dahl (79' Louis SCHAUB), Mamadou SANGARE [Y 40'],
+      Romeo Amané (78' Lukas Grgic), Andrija RADULOVIC (65' Claudy Mbuyi) -
+      Matthias SEIDL [c] (65' Dominik Weixelbraun), Janis Antiste (85' Ercan Kara)
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c], Martin Moormann [Y 12'] -
+      Oliver Wähling, Alem Pasic [Y 25'] (72' Christopher Cvetko),
+      Thomas Goiginger (72' João Luiz), Anderson (58' Simon Seidl) -
+      Nico Maier (83' Jakob Knollmüller), Simon Pirkl - Ronivaldo (83' Muharem Huskovic)
+
+Refs: Markus Hameter (AUT), Alexander Borucki (AUT), Thomas Kaplan (AUT)
+
+
+▪ Regular Season - 2
+Sat Aug 9 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 5229
+  SCR Altach v SV Ried  1-0 (0-0)
+     (Patrick Greil 65')
+
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller [Y 19'], Benedikt Zech, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO - Marlon Mustapha [Y 56'] (87' Erkin Yalcin),
+      Patrick Greil (72' Alexander Gorgon) - Yann Litawumba (80' Luca Kronberger),
+      Ousmane Diawara, Vesel Demaku - Mike-Steven Bähre [Y 53']
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Mark Grosse, Ante Bajic (79' Martin Rasner),
+      Philipp Pomer [Y 60'] (68' Jonathan Scherzer) -
+      Christopher Wernitznig (68' Fabian Rossdorfer) - Kingstone MUTANDWA (69' Joris Boguo),
+      Antonio Van Wyk (54' Peter Kiedl)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Aug 9 17:00 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 4900
+  Blau-Weiß Linz v TSV Hartberg  0-1 (0-1)
+     (Jed Drew 45+3')
+
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c], Martin Moormann -
+      Alem Pasic [Y 77'], Simon Seidl (89' Muharem Huskovic [Y 90+6']),
+      Thomas Goiginger (81' Paul Mensah), Anderson - Nico Maier (45' Christopher Cvetko),
+      Simon Pirkl (67' João Luiz) - Ronivaldo (67' Jakob Knollmüller)
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Elias Havel (81' Dominik PROKOP) - Tobias Kainz [c], Jed Drew (81' Julian Gölles),
+      Patrik Mijic (65' Marco Hoffmann), Maximilian Hennig (32' Habib Coulibaly) -
+      Damjan Kovacevic (65' Maximilian Fillafer)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+Sat Aug 9 19:30 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 7544
+  FC Salzburg v Grazer AK  5-0 (1-0)
+     (Kerim ALAJBEGOVIC 45+6', Maurits KJAERGAARD 56', Yorbe Vertessen 76', 82', Petar RATKOV 81'(p))
+
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, Aleksa TERZIC, S. Lainer (67' Tim Trummer),
+      Jannik Schuster - Sota Kitano (25' Maurits KJAERGAARD), Kerim ALAJBEGOVIC -
+      Petar RATKOV, Adam Daghim [Y 45+7'] (45' Yorbe Vertessen) -
+      Soumaïla Diabaté (45' Dorgeles NENE), Mads BIDSTRUP [c] (73' Mamady DIAMBOU)
+Grazer AK: Jakob Meierhofer - Ludwig Vraa (62' Donovan Pines), Lukas Graf, Beres Owusu -
+      Sadik FOFANA [R 23'], Tobias Koch, Jacob ITALIANO (84' Thomas Schiestl),
+      Dominik Frieser - Daniel Maderner [c] (27' Zétény Jánó), Tio Cipot (27' Murat Satin),
+      Ramiz Harakate (45' Alexander Hofleitner [Y 46'])
+
+Refs: Daniel Pfister (AUT), Stefan Pichler (AUT), Philip Gschliesser (AUT)
+
+
+Sun Aug 10 17:00 UTC+2 @ Generali Arena, Vienna, Att: 13053
+  Austria Wien v Wolfsberger AC  0-2 (0-2)
+     (Alessandro SCHOEPF 6', Lee Kang-Hee 23'(og))
+
+Austria Wien: Samuel RADLINGER - Lee Kang-Hee, Tin Plavotic (71' Sanel Saljic),
+      Johannes Handl (56' Abubakr BARRY) - Manprit Sarkaria [Y 58'],
+      Johannes EGGESTEIN (56' Maurice MALONE), Hakim Guenouche (45' LEE Taeseok),
+      Reinhold Ranftl - Manfred Fischer [c], Dominik Fitz [Y 75'] -
+      Noah BOTIC (45' Philipp Wiesinger)
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté, Dominik Baumgartner [c], Nicolas Wimmer -
+      Alessandro SCHOEPF (71' Simon Piesinger), Dejan ZUKIC (78' Donis Avdijaj),
+      Fabian Wohlmuth, Emmanuel Agyemang (45' Marco Sulzner [Y 90+7']) - René Renner -
+      Thierno BALLO [Y 59'] (71' Angelo Gattermayer), David ATANGA (88' Florent Hajdini)
+
+Refs: Chiristian-Petru Ciochirca (AUT), Michael Obritzberger (AUT), Mattias Hartl (AUT)
+
+
+Sun Aug 10 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 2250
+  WSG Tirol v LASK Linz  3-1 (2-0)
+     (Moritz Wels 13', Valentino Müller 25'(p), 85';
+      George BELLO 50')
+
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence, Marco Boras (65' David Jaunegg) -
+      Valentino Müller [c], Quincy Butler (84' Mahamadou DIARRA),
+      Thomas Sabitzer [Y 65'] (70' Johannes Naschberger), Benjamin Böckle -
+      Matthäus Taferner [Y 45+3'], Moritz Wels (84' Yannick Vötter) -
+      Tobias Anselm (70' HINTERSEER Lukas)
+LASK Linz: Lukas Jungwirth [Y 24'] - George BELLO, Melayro BOGARDE, Andres ANDRADE,
+      Kasper Jørgensen [Y 38'] - Moses Usor, Christoph Lang (45' Krystof Danek) -
+      Lukas Kacavenda (45' Florian Flecker), Samuel Adeniran (69' Maximilian Entrup),
+      Ismaila COULIBALY (83' Art SMAKAJ) - Sascha Horvath [c]
+
+Refs: Jakob Semler (AUT), Sebastian Gruber (AUT), Edin Kudic (AUT)
+
+
+Sun Aug 10 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 16259
+  Sturm Graz v Rapid Wien  1-2 (0-0)
+     (Otari KITEISHVILI 57';
+      Petter Nosa Dahl 67', Claudy Mbuyi 70')
+
+Sturm Graz: Oliver Christensen - Max JOHNSTON (87' Arjan MALIC), Emir Karic, Dimitri Lavalée,
+      Emanuel Aiwu - Otari KITEISHVILI - Tomi HORVAT (79' Jacob Hödl),
+      Tochi Chukwuani [Y 25'] (79' Filip Rózga) - William Bøving (72' Seedy Jatta) -
+      Leon Grgic (72' Belmin Beganovic), Jon GORENC STANKOVIC [c] [Y 43']
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jean MARCELIN [Y 45'],
+      Jannes HORN [Y 77'] (83' Ange Ahoussou), Bendeguz BOLLA -
+      Petter Nosa Dahl [Y 77'] (83' Louis SCHAUB [Y 90+3']),
+      Matthias SEIDL [c] (45' Claudy Mbuyi) - Andrija RADULOVIC (45' Dominik Weixelbraun),
+      Janis Antiste (83' Ercan Kara), Mamadou SANGARE - Romeo Amané
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+▪ Regular Season - 3
+Sat Aug 16 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 5079
+  Grazer AK v WSG Tirol  1-1 (0-1)
+     (Beres Owusu 60'; Beres Owusu 40'(og))
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Ludwig Vraa, Beres Owusu - Tobias Koch,
+      Jacob ITALIANO, Zétény Jánó [Y 21'] (45' Murat Satin), Dominik Frieser -
+      Daniel Maderner [c] (59' Alexander Hofleitner),
+      Tio Cipot (81' Christian Lichtenberger), Ramiz Harakate
+WSG Tirol: Adam Stejskal [Y 12'] - David Gugganig [Y 6'], Jamie Lawrence, Marco Boras -
+      Valentino Müller [c], Quincy Butler [Y 37'], Thomas Sabitzer (90+1' Mahamadou DIARRA),
+      Benjamin Böckle - Matthäus Taferner, Moritz Wels [Y 73'] (84' Johannes Naschberger) -
+      Tobias Anselm (72' HINTERSEER Lukas)
+
+Refs: Harald Lechner (AUT), Mattias Hartl (AUT), Stefan Kühr (AUT)
+
+
+Sat Aug 16 17:00 UTC+2 @ DATENPOL ARENA, Maria Enzersdorf, Att: 1653
+  TSV Hartberg v FC Salzburg  1-2 (0-1)
+     (Jed Drew 54';
+      S. Lainer 11', Petar RATKOV 67')
+
+TSV Hartberg: Tom Hülsmann [Y 78'] - Dominic Vincze, Fabian Wilfinger,
+      Lukas Spendlhofer (82' Dominik PROKOP), Benjamin Markus,
+      Julian Gölles (60' Jürgen Heil) - Tobias Kainz [c] [Y 14'] (82' Maximilian Fillafer),
+      Elias Havel (75' Patrik Mijic), Jed Drew (75' Marco Hoffmann) -
+      Maximilian Hennig [Y 40'], Damjan Kovacevic
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen (45' Joane Gadou [Y 49']), Aleksa TERZIC,
+      S. Lainer, Jannik Schuster - Maurits KJAERGAARD (60' Dorgeles NENE),
+      Kerim ALAJBEGOVIC (89' Soumaïla Diabaté) - Yorbe Vertessen (79' Adam Daghim [Y 84']),
+      Edmund Baidoo (45' Petar RATKOV) - Mamady DIAMBOU, Mads BIDSTRUP [c]
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+Sat Aug 16 19:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 6362
+  SV Ried v Sturm Graz  1-3 (1-3)
+     (Peter Kiedl 13';
+      Otari KITEISHVILI 16', 44', Max JOHNSTON 31')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart [Y 85'], Martin Rasner (45' Jonas Mayer [Y 71']), Mark Grosse,
+      Ante Bajic [Y 61'] - Philipp Pomer - Kingstone MUTANDWA (72' Joris Boguo),
+      Peter Kiedl [Y 8'] (65' Antonio Van Wyk)
+Sturm Graz: Oliver Christensen - Max JOHNSTON, Tim Oermann, Emir Karic (81' Arjan MALIC),
+      Dimitri Lavalée - Otari KITEISHVILI (87' Stefan HIERLAENDER) -
+      Tomi HORVAT (81' Jacob Hödl), Tochi Chukwuani [Y 5'] -
+      William Bøving (68' Belmin Beganovic) - Leon Grgic (68' Seedy Jatta),
+      Jon GORENC STANKOVIC [c]
+
+Refs: Arnes Talic (AUT), Alexander Borucki (AUT), Sebastian Gruber (AUT)
+
+
+Sun Aug 17 17:00 UTC+2 @ Raiffeisen Arena, Linz, Att: 12510
+  LASK Linz v Austria Wien  2-1 (1-1)
+     (Samuel Adeniran 34', Moses Usor 69'(p);
+      Modou Cissé 6'(og))
+
+LASK Linz: Lukas Jungwirth - George BELLO, Andres ANDRADE, Kasper Jørgensen,
+      Modou Cissé (90+4' Florian Flecker) - Ismaila COULIBALY [Y 50'],
+      Moses Usor (90+4' Melayro BOGARDE), Valon Berisha (70' Art SMAKAJ),
+      Sascha Horvath [c] - Samuel Adeniran, Maximilian Entrup (73' Krystof Danek [Y 90+8'])
+Austria Wien: Samuel RADLINGER - Lee Kang-Hee (58' Dejan Radonjic), Tin Plavotic [Y 87'],
+      Philipp Wiesinger [Y 84'] - Abubakr BARRY [Y 20'], LEE Taeseok [Y 39'],
+      Reinhold Ranftl [Y 68'] (77' Luca Pazourek),
+      Manfred Fischer [c] [Y 79'] (82' Sanel Saljic) - Dominik Fitz,
+      Maurice MALONE (78' Noah BOTIC) - Johannes EGGESTEIN (77' Manprit Sarkaria)
+
+Refs: Alexander Harkam (AUT), Andreas Heidenreich (AUT), Roland Brandner (AUT)
+
+
+Sun Aug 17 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 3641
+  Wolfsberger AC v Blau-Weiß Linz  3-0 (2-0)
+     (Dejan ZUKIC 11'(p), Markus Pink 14', 48')
+
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté, Dominik Baumgartner [c],
+      Chibuike Nwaiwu [Y 31'] [Y/R 37'] - Marco Sulzner, Fabian Wohlmuth,
+      Emmanuel Agyemang (61' Alessandro SCHOEPF), René Renner [Y 75'] (76' Adama Drame) -
+      David ATANGA, Dejan ZUKIC (75' Donis Avdijaj (82' Angelo Gattermayer)),
+      Markus Pink (61' Tobias Gruber)
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c] [Y 10'],
+      Martin Moormann (76' Muharem Huskovic) - Christopher Cvetko (61' Oliver Wähling),
+      Alem Pasic, Simon Seidl, Thomas Goiginger (45' Jakob Knollmüller) - Anderson [R 24'],
+      Simon Pirkl - Ronivaldo [Y 45+1'] (61' Paul Mensah)
+
+Refs: Josef Spurny (AUT), Thomas Kaplan (AUT), Stefan Pichler (AUT)
+
+
+Sun Aug 17 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 19686
+  Rapid Wien v SCR Altach  0-0 (0-0)
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao [c], Jean MARCELIN (24' Ange Ahoussou),
+      Jannes HORN, Bendeguz BOLLA (63' Furkan Demir) - Petter Nosa Dahl (83' Claudy Mbuyi),
+      Mamadou SANGARE, Romeo Amané (83' Lukas Grgic),
+      Andrija RADULOVIC (63' Nikolaus WURMBRAND) - Ercan Kara, Janis Antiste
+SCR Altach: Dejan Stojanovic [c] [Y 90'] - Paul-Friedrich Koller, Benedikt Zech, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO [Y 90'] - Vesel Demaku - Patrick Greil (78' Alexander Gorgon),
+      Yann Litawumba (86' Lukas GUGGANIG) - Marlon Mustapha (90+4' Anteo Fetahu) -
+      Ousmane Diawara, Mike-Steven Bähre [Y 45+2']
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Johannes Stögerer (AUT)
+
+
+▪ Regular Season - 4
+Sat Aug 23 17:00 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5500
+  Blau-Weiß Linz v SV Ried  0-2 (0-0)
+     (Philipp Pomer 51', 66')
+
+Blau-Weiß Linz: Viktor Baier - Fabio Strauss [c] [Y 23'], Elias Bakatukanda, Manuel Maranda [Y 35'] -
+      Oliver Wähling, Paul Mensah (73' Thomas Goiginger),
+      Christopher Cvetko [Y 64'] (65' Alexander Briedl), Alem Pasic [Y 77'] -
+      Simon Seidl (73' Muharem Huskovic), Simon Pirkl (65' João Luiz [Y 75']) -
+      Ronivaldo (9' Jakob Knollmüller)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Mark Grosse (45' Antonio Van Wyk), Ante Bajic,
+      Philipp Pomer [Y 36'] (82' Fabian Rossdorfer) - Jonas Mayer (67' Martin Rasner) -
+      Kingstone MUTANDWA (90+2' Ekain Azkune), Peter Kiedl (45' Jonathan Scherzer)
+
+Refs: Harald Lechner (AUT), Andreas Heidenreich (AUT), Sarah Amina Gutschi (AUT)
+
+
+Sat Aug 23 17:00 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 10545
+  FC Salzburg v LASK Linz  3-0 (2-0)
+     (Soumaïla Diabaté 24', Petar RATKOV 31', Edmund Baidoo 82')
+
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, S. Lainer, Joane Gadou,
+      Tim Trummer (81' Aleksa TERZIC) - Sota Kitano (55' Kerim ALAJBEGOVIC),
+      Maurits KJAERGAARD (70' Edmund Baidoo) - Yorbe Vertessen (82' Adam Daghim),
+      Petar RATKOV (70' Enrique Aguilar) - Soumaïla Diabaté, Mads BIDSTRUP [c]
+LASK Linz: Lukas Jungwirth - George BELLO [Y 36'] (87' Emmanuel Michael), Andres ANDRADE,
+      Kasper Jørgensen, Modou Cissé - Moses Usor (87' Florian Flecker),
+      Maximilian Entrup (76' Christoph Lang) - Valon Berisha,
+      Samuel Adeniran (58' Krystof Danek), Ismaila COULIBALY (76' Art SMAKAJ) -
+      Sascha Horvath [c] [Y 35'] [Y/R 35']
+
+Refs: Julian Weinberger (AUT), Alexander Borucki (AUT), Mohamed El Sadany (AUT)
+
+
+Sun Aug 24 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 6572
+  SCR Altach v Grazer AK  1-1 (1-1)
+     (Patrick Greil 11'; Daniel Maderner 17')
+
+SCR Altach: Dejan Stojanovic [c] [Y 66'] - Paul-Friedrich Koller, Pascal Estrada, Benedikt Zech -
+      Vesel Demaku (40' Yann Litawumba), Mike-Steven Bähre,
+      Patrick Greil (81' Alexander Gorgon), Sandro Ingolitsch - Mohamed OUEDRAOGO -
+      Marlon Mustapha (89' Erkin Yalcin), Ousmane Diawara
+Grazer AK: Jakob Meierhofer - Donovan Pines, Ludwig Vraa, Beres Owusu -
+      Murat Satin [Y 61'] (75' Thorsten Schriebl), Tobias Koch,
+      Tio Cipot (84' Christian Lichtenberger), Jacob ITALIANO -
+      Ramiz Harakate [Y 9'] (75' Alexander Hofleitner), Dominik Frieser - Daniel Maderner [c]
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+Sun Aug 24 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 6649
+  Wolfsberger AC v Rapid Wien  1-2 (0-2)
+     (Dejan ZUKIC 70'(p);
+      Nikolaus WURMBRAND 10', 41')
+
+Wolfsberger AC: Nikolas POLSTER - Tobias Gruber [Y 67'], Cheick Diabaté, Nicolas Wimmer [c] -
+      Alessandro SCHOEPF (71' Emmanuel Agyemang), Dejan ZUKIC [Y 38'], Marco Sulzner,
+      Fabian Wohlmuth - René Renner [Y 43'] - Angelo Gattermayer (78' Markus Pink),
+      Thierno BALLO (45' David ATANGA)
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou,
+      Furkan Demir [Y 83'] (89' Jannes HORN), Bendeguz BOLLA -
+      Petter Nosa Dahl (71' Dominik Weixelbraun), Nikolaus WURMBRAND (60' Nenad Cvetkovic) -
+      Janis Antiste [Y 70'] (89' Ercan Kara), Claudy Mbuyi (60' Andrija RADULOVIC),
+      Matthias SEIDL [c] - Romeo Amané
+
+Refs: Arnes Talic (AUT), Thomas Kaplan (AUT), Amar Rekik (AUT)
+
+
+Sun Aug 24 17:00 UTC+2 @ Generali Arena, Vienna, Att: 11858
+  Austria Wien v TSV Hartberg  1-3 (0-1)
+     (Habib Coulibaly 90+3'(og);
+      Elias Havel 12', Patrik Mijic 63', Lukas Fridrikas 73')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC (59' Sanel Saljic),
+      Tin Plavotic (29' Dejan Radonjic), Philipp Wiesinger -
+      Abubakr BARRY [Y 37'] (81' Luca Pazourek), Manprit Sarkaria (60' Noah BOTIC),
+      LEE Taeseok, Johannes EGGESTEIN - Reinhold Ranftl [Y 65'], Manfred Fischer [c] -
+      Maurice MALONE
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer [Y 75'],
+      Benjamin Markus, Elias Havel (66' Youba Diarra) - Tobias Kainz [c] (66' Jürgen Heil),
+      Jed Drew (78' Marco Hoffmann), Patrik Mijic (66' Lukas Fridrikas),
+      Maximilian Hennig (81' Habib Coulibaly) - Damjan Kovacevic
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+▪ Regular Season - 5
+Sat Aug 30 17:00 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 8450
+  FC Salzburg v Blau-Weiß Linz  2-2 (1-1)
+     (Petar RATKOV 37', 89'(p);
+      Simon Seidl 15', 73')
+
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen [Y 57'], S. Lainer, Joane Gadou,
+      Tim Trummer (45' Aleksa TERZIC) - Sota Kitano (71' Moussa Yeo), Maurits KJAERGAARD -
+      Yorbe Vertessen (71' Edmund Baidoo), Petar RATKOV -
+      Soumaïla Diabaté (45' Kerim ALAJBEGOVIC), Mads BIDSTRUP [c]
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c], Alem Pasic -
+      Paul Mensah (82' Muharem Huskovic), Christopher Cvetko (65' Mamadou Fofana),
+      Simon Seidl, Anderson [Y 82'] - Simon Pirkl - Jakob Knollmüller (45' Alexander Briedl),
+      Thomas Goiginger (65' Oliver Wähling)
+
+Refs: Isa Simsek (AUT), Manuel Undesser (AUT), Philip Gschliesser (AUT)
+
+
+Sat Aug 30 17:00 UTC+2 @ Raiffeisen Arena, Linz, Att: 13297
+  LASK Linz v SV Ried  1-3 (0-2)
+     (Alemão 65';
+      Mark Grosse 39'(p), 41', Peter Kiedl 52')
+
+LASK Linz: Lukas Jungwirth - George BELLO (63' Emmanuel Michael [Y 90+1']), Andres ANDRADE [c],
+      Kasper Jørgensen [Y 45+2'] (88' Florian Flecker), Alemão - Moses Usor,
+      Krystof Danek [Y 59'] - Lukas Kacavenda [Y 42'] (63' Christoph Lang),
+      Samuel Adeniran [Y 58'], Art SMAKAJ (88' Lenny PINTOR) - Valon Berisha [Y 90']
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart (85' Christopher Wernitznig), Mark Grosse,
+      Ante Bajic [Y 48'] (70' Fabian Rossdorfer), Philipp Pomer -
+      Jonas Mayer (57' Martin Rasner) - Kingstone MUTANDWA [Y 2'] (45' Antonio Van Wyk),
+      Peter Kiedl (70' Joris Boguo)
+
+Refs: Arnes Talic (AUT), Sebastian Gruber (AUT), Manuel Koller (AUT)
+
+
+Sat Aug 30 19:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 16400
+  Grazer AK v Sturm Graz  0-3 (0-1)
+     (Seedy Jatta 41', 90+6', Tomi HORVAT 64')
+
+Grazer AK: Jakob Meierhofer - Ludwig Vraa, Lukas Graf [Y 20'] (80' Christian Lichtenberger),
+      Beres Owusu - Sadik FOFANA, Tobias Koch [R 80'], Tio Cipot (70' Alexander Hofleitner),
+      Jacob ITALIANO - Ramiz Harakate (83' Martin Kreuzriegler),
+      Dominik Frieser (70' Murat Satin) - Daniel Maderner [c] (70' Zétény Jánó)
+Sturm Graz: Oliver Christensen - Tim Oermann (76' Gabriel Haider), Emir Karic [Y 30'],
+      Dimitri Lavalée, Emanuel Aiwu - Otari KITEISHVILI (45' Stefan HIERLAENDER),
+      Seedy Jatta [Y 67'], Leon Grgic (90+3' Belmin Beganovic) -
+      Jon GORENC STANKOVIC [c] (39' Jacob Hödl [Y 76']) - Tomi HORVAT, Tochi Chukwuani [Y 87']
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sun Aug 31 17:00 UTC+2 @ Generali Arena, Vienna, Att: 13588
+  Austria Wien v SCR Altach  1-0 (0-0)
+     (Dejan Radonjic 57')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger, Dejan Radonjic -
+      Abubakr BARRY, LEE Taeseok, Sanel Saljic (82' Philipp Maybach), Reinhold Ranftl,
+      Manfred Fischer [c] - Johannes EGGESTEIN (73' Noah BOTIC),
+      Maurice MALONE (82' Manprit Sarkaria)
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller, Lukas Jäger [c] [Y 68'], Pascal Estrada -
+      Mike-Steven Bähre [Y 77'], Patrick Greil (82' Filip Milojevic), Sandro Ingolitsch,
+      Erkin Yalcin - Yann Litawumba (90+1' Lukas GUGGANIG), Mohamed OUEDRAOGO -
+      Alexander Gorgon (69' Anteo Fetahu)
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+Sun Aug 31 17:00 UTC+2 @ DATENPOL ARENA, Maria Enzersdorf, Att: 5018
+  TSV Hartberg v Rapid Wien  0-1 (0-0)
+     (Ercan Kara 82')
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger,
+      Lukas Spendlhofer (88' Damjan Kovacevic), Benjamin Markus [Y 23'],
+      Julian Gölles (88' Dominik PROKOP) - Tobias Kainz (57' Marco Hoffmann),
+      Elias Havel (73' Patrik Mijic), Jed Drew (57' Lukas Fridrikas [Y 90+2']) -
+      Jürgen Heil [c] [Y 33'], Maximilian Hennig
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jannes HORN [Y 45'] (83' Furkan Demir),
+      Nenad Cvetkovic [c], Bendeguz BOLLA [Y 63'] - Marco TILIO (45' Andrija RADULOVIC),
+      Petter Nosa Dahl (78' Nikolaus WURMBRAND) - Janis Antiste (70' Ercan Kara),
+      Claudy Mbuyi [Y 46'], Martin Ndzie (71' Matthias SEIDL) - Romeo Amané [Y 11']
+
+Refs: Daniel Pfister (AUT), Maximilian Kolbitsch (AUT), Markus Reichholf (AUT)
+
+
+Sun Aug 31 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1750
+  WSG Tirol v Wolfsberger AC  1-1 (1-1)
+     (Benjamin Böckle 3'; Markus Pink 2')
+
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence, Marco Boras [Y 64'] -
+      Valentino Müller [c], Quincy Butler, Thomas Sabitzer (72' Johannes Naschberger),
+      Benjamin Böckle - Matthäus Taferner [Y 89'], Moritz Wels (85' Yannick Vötter) -
+      Tobias Anselm (72' Ademola Ola-Adebomi)
+Wolfsberger AC: Lukas Gütlbauer - Cheick Diabaté (45' Nicolas Wimmer), Dominik Baumgartner [c],
+      Chibuike Nwaiwu - Alessandro SCHOEPF, Dejan ZUKIC (58' Emmanuel Agyemang),
+      Marco Sulzner (58' Simon Piesinger), Fabian Wohlmuth [Y 90+2'] - René Renner -
+      Angelo Gattermayer (74' David ATANGA), Markus Pink
+
+Refs: Alain Sadikovski (AUT), Roland Riedel (AUT), Mohamed El Sadany (AUT)
+
+
+▪ Regular Season - 6
+Sat Sep 13 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 4657
+  SCR Altach v LASK Linz  1-0 (1-0)
+     (Ousmane Diawara 31'(p))
+
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller, Benedikt Zech, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO - Patrick Greil (71' Moritz Oswald),
+      Marlon Mustapha (90+1' Lukas GUGGANIG), Ousmane Diawara (71' Erkin Yalcin) -
+      Mike-Steven Bähre - Lukas Jäger [c], Yann Litawumba
+LASK Linz: Lukas Jungwirth - George BELLO (61' Emmanuel Michael), Kasper Jørgensen [Y 74'],
+      Alemão, Modou Cissé - Krystof Danek, Valon Berisha (83' Samuel Adeniran) -
+      Florian Flecker (83' Lenny PINTOR), Maximilian Entrup (61' Sasa KALAJDZIC),
+      Art SMAKAJ (23' Ismaila COULIBALY [Y 38']) - Sascha Horvath [c]
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Sep 13 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 4752
+  Wolfsberger AC v FC Salzburg  3-1 (2-0)
+     (Markus Pink 1', Alessandro SCHOEPF 33', Angelo Gattermayer 51';
+      Yorbe Vertessen 62')
+
+Wolfsberger AC: Lukas Gütlbauer - Dominik Baumgartner [c], Chibuike Nwaiwu, Nicolas Wimmer -
+      Boris Matic, Simon Piesinger (77' Emmanuel Chukwu), Alessandro SCHOEPF,
+      Dejan ZUKIC (86' Fabian Wohlmuth) - René Renner -
+      Angelo Gattermayer (77' Mickael Dosso), Markus Pink (63' Emmanuel Agyemang)
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, Frans Krätzig (63' Aleksa TERZIC), S. Lainer,
+      Joane Gadou - Sota Kitano (45' Moussa Yeo), Yorbe Vertessen (73' Soumaïla Diabaté) -
+      Kerim ALAJBEGOVIC (63' Clement Bischoff), Petar RATKOV,
+      Maurits KJAERGAARD (45' Edmund Baidoo) - Mads BIDSTRUP [c]
+
+Refs: Jakob Semler (AUT), Amar Rekik (AUT), Philipp Duschek (AUT)
+
+
+Sat Sep 13 17:00 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5312
+  Blau-Weiß Linz v Grazer AK  3-0 (2-0)
+     (Shon WEISSMAN 24', 48', Thomas Goiginger 31')
+
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c] [Y 44'] (75' Martin Moormann),
+      Alem Pasic - Christopher Cvetko, Alexander Briedl [Y 8'] (81' Mamadou Fofana),
+      Simon Seidl (90' João Luiz), Thomas Goiginger [Y 66'] (75' Paul Mensah) - Anderson,
+      Simon Pirkl - Shon WEISSMAN (81' Muharem Huskovic [Y 86'])
+Grazer AK: Jakob Meierhofer [c] - Donovan Pines, Ludwig Vraa (45' Martin Kreuzriegler),
+      Beres Owusu - Sadik FOFANA (60' Dominik Frieser),
+      Murat Satin [Y 76'] (79' Tim Paumgartner),
+      Christian Lichtenberger (60' Ramiz Harakate), Tio Cipot (60' Daniel Maderner) -
+      Jacob ITALIANO, Thorsten Schriebl [Y 66'] - Alexander Hofleitner
+
+Refs: Safak Barmaksiz (AUT), Andreas Heidenreich (AUT), Stefan Pichler (AUT)
+
+
+Sun Sep 14 14:30 UTC+2 @ Allianz Stadion, Vienna, Att: 20222
+  Rapid Wien v WSG Tirol  4-1 (2-0)
+     (Nikolaus WURMBRAND 21', Claudy Mbuyi 45', Nenad Cvetkovic 75', Marco TILIO 90+1';
+      Benjamin Böckle 53')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jannes HORN, Nenad Cvetkovic [c],
+      Bendeguz BOLLA [Y 26'] - Nikolaus WURMBRAND (71' Ercan Kara),
+      Dominik Weixelbraun (45' Marco TILIO) - Janis Antiste (71' Matthias SEIDL),
+      Claudy Mbuyi (86' Andrija RADULOVIC), Martin Ndzie (45' Tobias Gulliksen) - Romeo Amané
+WSG Tirol: Adam Stejskal - David Gugganig [Y 70'] (84' David Kubatta), Jamie Lawrence,
+      Marco Boras - Valentino Müller [c], Quincy Butler,
+      Thomas Sabitzer [Y 27'] (84' Yannick Vötter),
+      Johannes Naschberger (45' Ademola Ola-Adebomi) - Benjamin Böckle, Matthäus Taferner -
+      Tobias Anselm (68' HINTERSEER Lukas)
+
+Refs: Florian Jäger (AUT), Maximilian Kolbitsch (AUT), Patrick Csobadi (AUT)
+
+
+Sun Sep 14 14:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 3974
+  SV Ried v TSV Hartberg  0-2 (0-1)
+     (Marco Hoffmann 20', Lukas Fridrikas 90+4')
+
+SV Ried: Andreas Leitner [c] [Y 56'] - Nikki Havenaar,
+      Michael Sollbauer (83' Dominik Kirnbauer), Oliver Steurer - Yusuf Maart,
+      Kingstone MUTANDWA, Philipp Pomer, Fabian Rossdorfer -
+      Jonas Mayer (83' Christopher Wernitznig), Nicolas Bajlicz (63' Mark Grosse) -
+      Ekain Azkune (63' Saliou Sané)
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Tobias Kainz [Y 71'] (76' Julian Gölles) - Jürgen Heil [c],
+      Elias Havel [Y 77'] (82' Lukas Fridrikas), Marco Hoffmann - Maximilian Hennig,
+      Damjan Kovacevic (76' Maximilian Fillafer [Y 87'])
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+Sun Sep 14 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 16183
+  Sturm Graz v Austria Wien  0-1 (0-1)
+     (Johannes EGGESTEIN 22')
+
+Sturm Graz: Oliver Christensen - Tim Oermann (60' Kristjan Bendra), Emir Karic, Dimitri Lavalée,
+      Emanuel Aiwu - Tomi HORVAT - Stefan HIERLAENDER [c] (60' Filip Rózga),
+      Jacob Hödl (84' Julius Beck) - Seedy Jatta (60' Leon Grgic [Y 79']) -
+      Maurice MALONE (76' Belmin Beganovic), Tochi Chukwuani [Y 51']
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger, Dejan Radonjic -
+      Abubakr BARRY [Y 45'], LEE Taeseok, Reinhold Ranftl (88' Luca Pazourek),
+      Manfred Fischer [c] [Y 81'] - Manprit Sarkaria (88' Philipp Maybach),
+      Johannes EGGESTEIN (64' Noah BOTIC), Sanel Saljic [Y 69'] (73' Konstantin Aleksa)
+
+Refs: Markus Hameter (AUT), Alexander Borucki (AUT), Johannes Stögerer (AUT)
+
+
+▪ Regular Season - 7
+Sat Sep 20 17:00 UTC+2 @ DATENPOL ARENA, Maria Enzersdorf, Att: 1097
+  TSV Hartberg v Wolfsberger AC  2-2 (1-2)
+     (Elias Havel 27'(p), Maximilian Fillafer 77';
+      Markus Pink 14', Dejan ZUKIC 36')
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer,
+      Benjamin Markus (45' Dominik PROKOP), Tobias Kainz - Jürgen Heil [c] [Y 44'],
+      Elias Havel (84' Patrik Mijic), Marco Hoffmann (68' Lukas Fridrikas) -
+      Habib Coulibaly (45' Maximilian Hennig), Damjan Kovacevic (45' Maximilian Fillafer)
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c] [Y 11'] (76' Adama Drame),
+      Chibuike Nwaiwu [Y 25'], Nicolas Wimmer [Y 25'] (45' Cheick Diabaté) - Boris Matic,
+      Simon Piesinger (64' Emmanuel Chukwu), Alessandro SCHOEPF,
+      Dejan ZUKIC (76' Emmanuel Agyemang) - René Renner - Angelo Gattermayer,
+      Markus Pink (90+1' Mickael Dosso)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+Sat Sep 20 17:00 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 10938
+  FC Salzburg v Sturm Graz  0-2 (0-1)
+     (Tomi HORVAT 41', Seedy Jatta 50')
+
+FC Salzburg: Alexander SCHLAGER [Y 69'] - Jacob Rasmussen, Frans Krätzig (45' Clement Bischoff),
+      S. Lainer, Jannik Schuster - Maurits KJAERGAARD, Petar RATKOV (67' Karim ONISIWO) -
+      Moussa Yeo (45' Edmund Baidoo), Yorbe Vertessen (67' Kerim ALAJBEGOVIC),
+      Soumaïla Diabaté [R 22'] - Mads BIDSTRUP [c]
+Sturm Graz: Oliver Christensen - Tim Oermann, Emir Karic [Y 38'], Dimitri Lavalée, Emanuel Aiwu -
+      Filip Rózga (59' Otari KITEISHVILI) - Tomi HORVAT (77' Jacob Hödl),
+      Tochi Chukwuani (77' Stefan HIERLAENDER) - Seedy Jatta (59' Leon Grgic) -
+      Maurice MALONE [Y 86'], Jon GORENC STANKOVIC [c] (83' Niklas Geyrhofer)
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+Sat Sep 20 17:00 UTC+2 @ Generali Arena, Vienna, Att: 12077
+  Austria Wien v SV Ried  3-2 (0-2)
+     (Abubakr BARRY 49', Johannes EGGESTEIN 77'(p), Manfred Fischer 84';
+      Kingstone MUTANDWA 22', 45+2')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC (45' Luca Pazourek), Philipp Wiesinger,
+      Dejan Radonjic - Abubakr BARRY [Y 65'], LEE Taeseok, Reinhold Ranftl,
+      Manfred Fischer [c] (87' Philipp Maybach) - Manprit Sarkaria (66' Noah BOTIC),
+      Johannes EGGESTEIN (87' Kelvin BOATENG), Sanel Saljic (90+3' Marko Raguz [Y 90+4'])
+SV Ried: Andreas Leitner [c] - Nikki Havenaar [Y 57'],
+      Michael Sollbauer (77' Dominik Kirnbauer), Oliver Steurer - Yusuf Maart,
+      Ante Bajic (77' Fabian Rossdorfer), Philipp Pomer,
+      Jonas Mayer [Y 55'] (59' Martin Rasner) - Kingstone MUTANDWA [Y 78'],
+      Mark Grosse [Y 61'], Antonio Van Wyk (55' Saliou Sané)
+
+Refs: Alexander Harkam (AUT), Manuel Undesser (AUT), Sarah Amina Gutschi (AUT)
+
+
+Sun Sep 21 14:30 UTC+2 @ Raiffeisen Arena, Linz, Att: 18134
+  LASK Linz v Blau-Weiß Linz  2-0 (0-0)
+     (Christoph Lang 86', Krystof Danek 90+3')
+
+LASK Linz: Lukas Jungwirth - George BELLO [Y 57'], Kasper Jørgensen, Alemão, Modou Cissé -
+      Moses Usor, Valon Berisha (81' Christoph Lang [Y 87']), Sascha Horvath [c],
+      Lukas Kacavenda (70' Krystof Danek) - Samuel Adeniran [Y 63'] (70' Ismaila COULIBALY),
+      Sasa KALAJDZIC (57' Maximilian Entrup)
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c], Alem Pasic [Y 36'] - Paul Mensah,
+      Christopher Cvetko [Y 51'] (80' Mamadou Fofana), Alexander Briedl (28' Fabio Strauss),
+      Anderson - Simon Pirkl - Shon WEISSMAN (35' João Luiz (80' Ronivaldo)), Thomas Goiginger
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sun Sep 21 14:30 UTC+2 @ Stadion Schnabelholz, Altach, Att: 5341
+  SCR Altach v WSG Tirol  1-1 (0-1)
+     (Srdjan Hrstic 82'; Valentino Müller 45+2')
+
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller,
+      Lukas Jäger [c] (71' Lukas GUGGANIG (79' Filip Milojevic)), Benedikt Zech -
+      Patrick Greil [Y 9'] (79' Erkin Yalcin) - Sandro Ingolitsch (30' Moritz Oswald),
+      Yann Litawumba, Mohamed OUEDRAOGO, Marlon Mustapha -
+      Ousmane Diawara (71' Srdjan Hrstic), Mike-Steven Bähre [Y 72']
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta,
+      Marco Boras [Y 10'] (58' Johannes Naschberger [Y 70']) -
+      Valentino Müller [c] [Y 90+1'], Quincy Butler (45' David Jaunegg),
+      Thomas Sabitzer (74' HINTERSEER Lukas), Benjamin Böckle [Y 7'] - Matthäus Taferner,
+      Moritz Wels [Y 20'] (74' Yannick Vötter [Y 85']) -
+      Ademola Ola-Adebomi (89' Tobias Anselm)
+
+Refs: Emil Ristoskov (AUT), Alexander Borucki (AUT), Sebastian Gruber (AUT)
+
+
+Sun Sep 21 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 7482
+  Grazer AK v Rapid Wien  1-1 (0-1)
+     (Daniel Maderner 90+4'(p); Janis Antiste 22')
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Ludwig Vraa (81' Martin Kreuzriegler), Beres Owusu -
+      Sadik FOFANA, Tobias Koch [c] [Y 45+2'] (60' Murat Satin),
+      Tio Cipot [Y 2'] (81' Christian Lichtenberger), Jacob ITALIANO - Ramiz Harakate,
+      Dominik Frieser (81' Zétény Jánó) - Alexander Hofleitner (27' Daniel Maderner [Y 90+3'])
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao (77' Ange Ahoussou), Jannes HORN,
+      Nenad Cvetkovic, Furkan Demir (86' Jonas Auer) -
+      Nikolaus WURMBRAND (65' Marco TILIO [Y 90+2']), Tobias Gulliksen (77' Martin Ndzie),
+      Matthias SEIDL [c] [Y 88'], Romeo Amané - Claudy Mbuyi (78' Ercan Kara),
+      Janis Antiste [Y 90+3']
+
+Refs: Harald Lechner (AUT), Mattias Hartl (AUT), Mohamed El Sadany (AUT)
+
+
+▪ Regular Season - 8
+Sat Sep 27 17:00 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 5019
+  SV Ried v Grazer AK  0-0 (0-0)
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic, Philipp Pomer (82' Christopher Wernitznig), Jonas Mayer -
+      Kingstone MUTANDWA (73' Peter Kiedl), Mark Grosse [Y 56'],
+      Antonio Van Wyk (73' Joris Boguo)
+Grazer AK: Jakob Meierhofer - Donovan Pines, Ludwig Vraa, Beres Owusu [Y 63'] - Sadik FOFANA,
+      Tobias Koch, Tio Cipot (77' Christian Lichtenberger), Jacob ITALIANO -
+      Ramiz Harakate (64' Alexander Hofleitner), Dominik Frieser - Daniel Maderner [c] [Y 56']
+
+Refs: Sebastian Gishamer (AUT), Santino Schreiner (AUT), Markus Reichholf (AUT)
+
+
+Sat Sep 27 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 3875
+  Wolfsberger AC v LASK Linz  1-0 (0-0)
+     (René Renner 84')
+
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Chibuike Nwaiwu, Nicolas Wimmer -
+      Boris Matic, Simon Piesinger (65' Cheick Diabaté), Dejan ZUKIC (88' Emmanuel Chukwu),
+      Emmanuel Agyemang [Y 44'] (80' Marco Sulzner) - René Renner -
+      Angelo Gattermayer (65' Donis Avdijaj), Markus Pink (65' Erik Kojzek)
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão (45' Melayro BOGARDE), Modou Cissé -
+      George BELLO (74' Emmanuel Michael), Ismaila COULIBALY [Y 64'], Kasper Jørgensen,
+      Sascha Horvath [c] - Moses Usor (66' Christoph Lang),
+      Maximilian Entrup (66' Samuel Adeniran), Valon Berisha (66' Krystof Danek)
+
+Refs: Markus Hameter (AUT), Johannes Stögerer (AUT), Patrick Csobadi (AUT)
+
+
+Sat Sep 27 17:00 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 4614
+  Blau-Weiß Linz v SCR Altach  1-0 (1-0)
+     (Ronivaldo 42')
+
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c], Martin Moormann -
+      Ronivaldo (63' Nico Maier [Y 66']), Christopher Cvetko [Y 8'] (56' Mamadou Fofana),
+      Alem Pasic [Y 87'], Dominik Reiter (85' Oliver Wähling) - Simon Pirkl - Shon WEISSMAN,
+      Thomas Goiginger
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller, Benedikt Zech,
+      Filip Milojevic [Y 75'] (83' Moritz Oswald) - Marlon Mustapha (63' Srdjan Hrstic),
+      Lukas Jäger [c], Patrick Greil (74' Erkin Yalcin),
+      Sandro Ingolitsch (83' Anteo Fetahu) - Yann Litawumba,
+      Mohamed OUEDRAOGO [Y 29'] [Y/R 69'] - Ousmane Diawara [Y 18'] (74' Leonardo Lukacevic)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+Sun Sep 28 14:30 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 4122
+  WSG Tirol v FC Salzburg  1-2 (0-1)
+     (HINTERSEER Lukas 90';
+      Kerim ALAJBEGOVIC 34', Petar RATKOV 74')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras - Valentino Müller [c],
+      Quincy Butler (88' Johannes Naschberger), Thomas Sabitzer (85' HINTERSEER Lukas),
+      Benjamin Böckle - Matthäus Taferner [Y 78'], Moritz Wels (88' Yannick Vötter) -
+      Tobias Anselm (76' Ademola Ola-Adebomi)
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, Aleksa TERZIC, S. Lainer, Joane Gadou -
+      Kerim ALAJBEGOVIC (61' Sota Kitano), Moussa Yeo (61' Maurits KJAERGAARD) -
+      Edmund Baidoo (61' Yorbe Vertessen), Petar RATKOV -
+      Mamady DIAMBOU (89' Jannik Schuster),
+      Mads BIDSTRUP [c] (45' Lucas GOURNA-DOUATH [Y 46'])
+
+Refs: Josef Spurny (AUT), Stefan Pichler (AUT), Manuel Koller (AUT)
+
+
+Sun Sep 28 14:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 14817
+  Sturm Graz v TSV Hartberg  1-0 (0-0)
+     (Dominic Vincze 90+5'(og))
+
+Sturm Graz: Oliver Christensen - Tim Oermann (71' Kristjan Bendra), Emir Karic, Dimitri Lavalée,
+      Emanuel Aiwu [Y 80'] - Tomi HORVAT - Tochi Chukwuani [Y 42'] (83' Stefan HIERLAENDER),
+      Jacob Hödl (60' Julius Beck) - Seedy Jatta (71' Belmin Beganovic) -
+      Leon Grgic (60' Maurice MALONE), Jon GORENC STANKOVIC [c]
+TSV Hartberg: Tom Hülsmann [Y 90+2'] - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer,
+      Benjamin Markus, Tobias Kainz (83' Julian Gölles) - Jürgen Heil [c],
+      Elias Havel (83' Patrik Mijic),
+      Marco Hoffmann (67' Lukas Fridrikas (90+12' Dominik PROKOP)) - Maximilian Fillafer,
+      Maximilian Hennig
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Mario Diesenberger (AUT)
+
+
+Sun Sep 28 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 26000
+  Rapid Wien v Austria Wien  1-3 (0-1)
+     (Claudy Mbuyi 48'(p);
+      LEE Taeseok 24', Abubakr BARRY 49', Noah BOTIC 58')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jannes HORN, Nenad Cvetkovic [c],
+      Bendeguz BOLLA - Martin Ndzie (45' Tobias Gulliksen),
+      Nikolaus WURMBRAND (66' Ercan Kara [Y 71']), Romeo Amané,
+      Andrija RADULOVIC (66' Marco TILIO) - Claudy Mbuyi, Janis Antiste
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger [R 74'], Dejan Radonjic,
+      Abubakr BARRY [Y 36'] (90+4' Manprit Sarkaria), Sanel Saljic (78' Philipp Maybach) -
+      Manfred Fischer [c], Noah BOTIC (67' Kelvin BOATENG),
+      Johannes EGGESTEIN (78' Luca Pazourek) - LEE Taeseok, Reinhold Ranftl
+
+Refs: Walter Altmann (AUT), Roland Riedel (AUT), Thomas Kaplan (AUT)
+
+
+▪ Regular Season - 9
+Sat Oct 4 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 4651
+  Grazer AK v Wolfsberger AC  1-3 (1-1)
+     (Daniel Maderner 43';
+      Markus Pink 19', Alessandro SCHOEPF 62', Donis Avdijaj 90')
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Ludwig Vraa (88' Lukas Graf), Beres Owusu -
+      Murat Satin - Tobias Koch, Jacob ITALIANO,
+      Dominik Frieser (75' Christian Lichtenberger),
+      Daniel Maderner [c] (59' Tio Cipot [Y 87']) -
+      Alexander Hofleitner [Y 45+1'] (75' Arbnor Prenqi), Sadik FOFANA (76' Zétény Jánó)
+Wolfsberger AC: Nikolas POLSTER [Y 85'] - Cheick Diabaté, Chibuike Nwaiwu [Y 80'], Nicolas Wimmer [c] -
+      Boris Matic (88' Fabian Wohlmuth), Simon Piesinger (63' Emmanuel Chukwu),
+      Alessandro SCHOEPF [Y 68'], Dejan ZUKIC (75' Donis Avdijaj) - René Renner -
+      Angelo Gattermayer (75' Ryan Ogam), Markus Pink (45' Erik Kojzek)
+
+Refs: Alain Sadikovski (AUT), Alexander Borucki (AUT), Mohamed El Sadany (AUT)
+
+
+Sat Oct 4 17:00 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 4310
+  SV Ried v WSG Tirol  2-0 (1-0)
+     (Mark Grosse 15'(p), Antonio Van Wyk 80')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer [Y 55'], Oliver Steurer -
+      Yusuf Maart, Ante Bajic (89' Fabian Rossdorfer), Philipp Pomer,
+      Jonas Mayer (89' Martin Rasner) - Kingstone MUTANDWA [Y 58'] (60' Peter Kiedl),
+      Mark Grosse (86' Nicolas Bajlicz), Antonio Van Wyk (88' Joris Boguo)
+WSG Tirol: Adam Stejskal - Jamie Lawrence [Y 58'], David Kubatta [Y 55'] (65' David Gugganig),
+      Marco Boras - Valentino Müller [c] [Y 33'], Quincy Butler [Y 53'], Benjamin Böckle,
+      Matthäus Taferner - Ademola Ola-Adebomi (65' HINTERSEER Lukas),
+      Thomas Sabitzer (65' Tobias Anselm), Moritz Wels (65' Nikolai Baden Frederiksen)
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sat Oct 4 17:00 UTC+2 @ Generali Arena, Vienna, Att: 12857
+  Austria Wien v Blau-Weiß Linz  0-1 (0-0)
+     (Shon WEISSMAN 79'(p))
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Reinhold Ranftl,
+      Dejan Radonjic (82' Marko Raguz) - Luca Pazourek (87' Hakim Guenouche),
+      Manprit Sarkaria (75' Philipp Maybach), LEE Taeseok, Sanel Saljic,
+      Manfred Fischer [c] - Noah BOTIC (74' Kelvin BOATENG), Johannes EGGESTEIN
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c] [Y 71'],
+      Martin Moormann (69' Fabio Strauss [Y 86']) - Mamadou Fofana,
+      Shon WEISSMAN (87' Oliver Wähling), Alexander Briedl, Thomas Goiginger [Y 42'] -
+      Dominik Reiter, Simon Pirkl - Ronivaldo (61' Paul Mensah)
+
+Refs: Daniel Pfister (AUT), Stefan Kühr (AUT), Philip Gschliesser (AUT)
+
+
+Sun Oct 5 14:30 UTC+2 @ Raiffeisen Arena, Linz, Att: 10981
+  LASK Linz v TSV Hartberg  3-3 (0-1)
+     (Christoph Lang 89', Kasper Jørgensen 90+2', Andres ANDRADE 90+4';
+      Fabian Wilfinger 45+2', Elias Havel 63', Marco Hoffmann 70')
+
+LASK Linz: Lukas Jungwirth - Melayro BOGARDE [Y 21'], Andres ANDRADE, Modou Cissé -
+      Ismaila COULIBALY [Y 54'] (77' Adetunji Adeshina),
+      Florian Flecker (77' Kasper Jørgensen), Sascha Horvath [c],
+      Emmanuel Michael (60' Krystof Danek) - Moses Usor,
+      Sasa KALAJDZIC (60' Maximilian Entrup [Y 90']), Valon Berisha (45' Christoph Lang)
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Habib Coulibaly, Fabian Wilfinger, Benjamin Markus,
+      Tobias Kainz (89' Julian Gölles) - Jürgen Heil [c] (85' Dominik PROKOP),
+      Elias Havel (77' Damjan Kovacevic), Marco Hoffmann (85' Patrik Mijic) -
+      Maximilian Fillafer, Maximilian Hennig
+
+Refs: Harald Lechner (AUT), Mattias Hartl (AUT), Sebastian Gruber (AUT)
+
+
+Sun Oct 5 14:30 UTC+2 @ Stadion Schnabelholz, Altach, Att: 6542
+  SCR Altach v Sturm Graz  0-2 (0-0)
+     (Otari KITEISHVILI 85'(p), Belmin Beganovic 90+5')
+
+SCR Altach: Dejan Stojanovic - Leonardo Lukacevic (90' Lukas GUGGANIG), Paul-Friedrich Koller,
+      Benedikt Zech, Sandro Ingolitsch [Y 79'] - Mike-Steven Bähre,
+      Lukas Jäger [c] [Y 4'] (90' Moritz Oswald), Patrick Greil (76' Erkin Yalcin),
+      Yann Litawumba - Marlon Mustapha (73' Srdjan Hrstic), Ousmane Diawara [Y 75']
+Sturm Graz: Oliver Christensen [Y 90+3'] - Tim Oermann (61' Jeyland MITCHELL [Y 86']), Emir Karic,
+      Dimitri Lavalée [Y 28'], Emanuel Aiwu [Y 63'] -
+      Otari KITEISHVILI (90+1' Stefan HIERLAENDER) - Tomi HORVAT,
+      Jacob Hödl (72' Julius Beck [Y 88']) - Seedy Jatta (61' Leon Grgic) -
+      Maurice MALONE (72' Belmin Beganovic), Jon GORENC STANKOVIC [c]
+
+Refs: Isa Simsek (AUT), Robert Steinacher (AUT), Manuel Undesser (AUT)
+
+
+Sun Oct 5 17:00 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 12395
+  FC Salzburg v Rapid Wien  2-1 (1-1)
+     (Soumaïla Diabaté 38', Sota Kitano 57';
+      Andrija RADULOVIC 45')
+
+FC Salzburg: Alexander SCHLAGER [c] - Jacob Rasmussen, Frans Krätzig [Y 81'], S. Lainer [Y 79'],
+      Joane Gadou - Clement Bischoff (53' Sota Kitano [Y 90+5']),
+      Kerim ALAJBEGOVIC [Y 20'] (88' Mamady DIAMBOU) - Edmund Baidoo (66' Karim ONISIWO),
+      Petar RATKOV (66' Moussa Yeo) - Soumaïla Diabaté, Lucas GOURNA-DOUATH [Y 78']
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao [Y 83'], Jannes HORN (61' Furkan Demir),
+      Nenad Cvetkovic, Bendeguz BOLLA - Nikolaus WURMBRAND (69' Marco TILIO),
+      Tobias Gulliksen [Y 66'] (69' Louis SCHAUB) - Andrija RADULOVIC,
+      Claudy Mbuyi (69' Ercan Kara), Matthias SEIDL [c] [Y 65'] -
+      Romeo Amané (87' Dominik Weixelbraun)
+
+Refs: Jakob Semler (AUT), Martin Höfler (AUT), Philipp Duschek (AUT)
+
+
+▪ Regular Season - 10
+Sat Oct 18 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 5002
+  Grazer AK v TSV Hartberg  0-0 (0-0)
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Yannick Oberleitner [Y 31'], Beres Owusu -
+      Murat Satin (82' Thorsten Schriebl), Tobias Koch [c] (90' Sadik FOFANA),
+      Jacob ITALIANO (82' Thomas Schiestl), Zétény Jánó (69' Christian Lichtenberger),
+      Dominik Frieser - Tio Cipot (69' Daniel Maderner), Ramiz Harakate [Y 11']
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Tobias Kainz [Y 72'] - Jürgen Heil [c], Elias Havel (90+1' David Korherr),
+      Marco Hoffmann - Maximilian Fillafer [Y 4'], Maximilian Hennig
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Markus Reichholf (AUT)
+
+
+Sat Oct 18 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 3646
+  Wolfsberger AC v SV Ried  1-2 (1-0)
+     (Dejan ZUKIC 20';
+      Kingstone MUTANDWA 53', 90+4'(p))
+
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Chibuike Nwaiwu [Y 65'], Nicolas Wimmer -
+      Boris Matic (45' Fabian Wohlmuth [Y 86']), Simon Piesinger,
+      Alessandro SCHOEPF (63' Cheick Diabaté [R 90+3']), Dejan ZUKIC (70' Donis Avdijaj) -
+      René Renner - Angelo Gattermayer, Markus Pink (70' Erik Kojzek)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic, Philipp Pomer, Jonas Mayer [Y 62'] -
+      Peter Kiedl (53' Kingstone MUTANDWA [Y 90+5']),
+      Nicolas Bajlicz (72' Fabian Rossdorfer), Antonio Van Wyk (84' Joris Boguo)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Stefan Pichler (AUT)
+
+
+Sat Oct 18 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1670
+  WSG Tirol v Austria Wien  2-3 (1-2)
+     (Moritz Wels 45', Valentino Müller 69';
+      Noah BOTIC 2', 24', Johannes EGGESTEIN 55')
+
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence, Marco Boras [Y 79'] -
+      Quincy Butler (45' Johannes Naschberger) - Benjamin Böckle,
+      Matthäus Taferner (89' Ademola Ola-Adebomi), Moritz Wels,
+      Thomas Sabitzer (62' HINTERSEER Lukas [R 90+4']) -
+      Tobias Anselm (62' Nikolai Baden Frederiksen [Y 87']), Valentino Müller [c]
+Austria Wien: Samuel RADLINGER [Y 90+5'] - Aleksandar DRAGOVIC, Philipp Wiesinger [Y 79'],
+      Dejan Radonjic (75' Tin Plavotic) - Abubakr BARRY (90' Philipp Maybach),
+      LEE Taeseok [Y 45+2'], Sanel Saljic (17' Manprit Sarkaria), Reinhold Ranftl,
+      Manfred Fischer [c] - Noah BOTIC (75' Kelvin BOATENG),
+      Johannes EGGESTEIN (90' Marko Raguz)
+
+Refs: Markus Greinecker (AUT), Roland Brandner (AUT), Mario Diesenberger (AUT)
+
+
+Sun Oct 19 14:30 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 8173
+  FC Salzburg v SCR Altach  2-2 (1-1)
+     (Kerim ALAJBEGOVIC 41', Edmund Baidoo 56';
+      Patrick Greil 34'(p), Ousmane Diawara 80')
+
+FC Salzburg: Alexander SCHLAGER [c] [Y 60'] - Jacob Rasmussen [Y 34'], Frans Krätzig, S. Lainer,
+      Joane Gadou [Y 20'] [Y/R 22'] - Kerim ALAJBEGOVIC [Y 77'] (78' Sota Kitano),
+      Moussa Yeo [Y 53'] (78' Lucas GOURNA-DOUATH) - Karim ONISIWO (78' Petar RATKOV),
+      Edmund Baidoo (88' Yorbe Vertessen [Y 90+6']) - Soumaïla Diabaté [Y 64'],
+      Mamady DIAMBOU (26' Douglas Mendes)
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller, Benedikt Zech,
+      Sandro Ingolitsch (73' Alexander Gorgon), Mohamed OUEDRAOGO (67' Leonardo Lukacevic) -
+      Moritz Oswald - Patrick Greil (85' Erkin Yalcin), Yann Litawumba (73' Blendi Idrizi) -
+      Marlon Mustapha [Y 49'] (67' Srdjan Hrstic) - Ousmane Diawara, Mike-Steven Bähre [Y 62']
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+Sun Oct 19 14:30 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5595
+  Blau-Weiß Linz v Sturm Graz  3-4 (1-1)
+     (Ronivaldo 17', Shon WEISSMAN 75', Mamadou Fofana 84';
+      Tochi Chukwuani 8', Maurice MALONE 63', Leon Grgic 73', Otari KITEISHVILI 87')
+
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda [Y 30'] (78' Muharem Huskovic), Manuel Maranda [c],
+      Martin Moormann [Y 90+2'] - Mamadou Fofana, Shon WEISSMAN, Alexander Briedl,
+      Simon Seidl - Thomas Goiginger (78' Alem Pasic), Simon Pirkl -
+      Ronivaldo (63' Paul Mensah)
+Sturm Graz: Oliver Christensen (57' Matteo Bignetti) - Tim Oermann (69' Jeyland MITCHELL),
+      Emir Karic [Y 45'], Dimitri Lavalée, Emanuel Aiwu - Otari KITEISHVILI -
+      Tomi HORVAT (79' Filip Rózga [Y 90+2']), Tochi Chukwuani -
+      Seedy Jatta (70' Leon Grgic) - Maurice MALONE (79' Jacob Hödl),
+      Jon GORENC STANKOVIC [c] [Y 28']
+
+Refs: Walter Altmann (AUT), Luka Katholnig (AUT), Sarah Amina Gutschi (AUT)
+
+
+Sun Oct 19 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 23337
+  Rapid Wien v LASK Linz  0-2 (0-2)
+     (Moses Usor 12', Samuel Adeniran 42')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Jannes HORN, Nenad Cvetkovic,
+      Bendeguz BOLLA (45' Furkan Demir [Y 74']) - Nikolaus WURMBRAND (78' Marco TILIO),
+      Andrija RADULOVIC (45' Dominik Weixelbraun) - Janis Antiste (45' Ercan Kara),
+      Claudy Mbuyi, Matthias SEIDL [c] (64' Tobias Gulliksen) - Romeo Amané
+LASK Linz: Lukas Jungwirth [Y 90+5'] - Andres ANDRADE, Alemão, Modou Cissé - George BELLO [Y 50'],
+      Melayro BOGARDE, Krystof Danek (80' Maximilian Entrup), Kasper Jørgensen -
+      Sascha Horvath [c] - Samuel Adeniran (67' Christoph Lang),
+      Moses Usor (89' Florian Flecker)
+
+Refs: Alexander Harkam (AUT), Maximilian Kolbitsch (AUT), Philipp Duschek (AUT)
+
+
+▪ Regular Season - 11
+Sat Oct 25 17:00 UTC+2 @ Raiffeisen Arena, Linz, Att: 10781
+  LASK Linz v Grazer AK  1-0 (0-0)
+     (Sascha Horvath 71')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé - George BELLO, Melayro BOGARDE,
+      Krystof Danek (62' Christoph Lang), Kasper Jørgensen - Sascha Horvath [c] -
+      Samuel Adeniran (61' Maximilian Entrup), Moses Usor (77' Valon Berisha)
+Grazer AK: Jakob Meierhofer - Donovan Pines, Martin Kreuzriegler, Beres Owusu -
+      Murat Satin (68' Sadik FOFANA) - Jacob ITALIANO, Zétény Jánó (81' Arbnor Prenqi),
+      Dominik Frieser [Y 54'], Christian Lichtenberger (62' Ramiz Harakate) -
+      Tio Cipot (62' Alexander Hofleitner), Tobias Koch [c] [Y 45+2'] (81' Daniel Maderner)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Oct 25 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1250
+  WSG Tirol v Blau-Weiß Linz  2-0 (1-0)
+     (Marco Boras 45', Valentino Müller 83'(p))
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta [Y 90+4'], Marco Boras -
+      Valentino Müller [c], Nikolai Baden Frederiksen (58' Thomas Sabitzer),
+      Johannes Naschberger [Y 79'], Thomas Geris (66' Benjamin Böckle) - Matthäus Taferner,
+      Moritz Wels (90+3' Christian Huetz) - Tobias Anselm (66' Yannick Vötter)
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c],
+      Martin Moormann [Y 81'] (89' Muharem Huskovic) - Mamadou Fofana (84' Oliver Wähling),
+      Alem Pasic (68' Alexander Briedl), Shon WEISSMAN, Simon Seidl -
+      Thomas Goiginger (84' Jakob Knollmüller), Simon Pirkl - Ronivaldo (69' Nico Maier)
+
+Refs: Alain Sadikovski (AUT), Sebastian Gruber (AUT), Patrick Csobadi (AUT)
+
+
+Sat Oct 25 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 4137
+  SCR Altach v TSV Hartberg  2-2 (0-0)
+     (Erkin Yalcin 86', Anteo Fetahu 90+4';
+      Elias Havel 46', Dominik PROKOP 77')
+
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller [Y 61'], Benedikt Zech, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO (77' Leonardo Lukacevic) - Marlon Mustapha (77' Erkin Yalcin),
+      Patrick Greil (77' Alexander Gorgon) - Yann Litawumba,
+      Srdjan Hrstic (84' Anteo Fetahu [Y 90+4']), Mike-Steven Bähre [R 90+8'] -
+      Lukas Jäger [c] (59' Moritz Oswald)
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer,
+      Benjamin Markus [Y 90+8'], Tobias Kainz (70' Dominik PROKOP [Y 90+8']) -
+      Jürgen Heil [c], Elias Havel (82' Lukas Fridrikas),
+      Marco Hoffmann (90+5' Patrik Mijic) - Maximilian Fillafer (70' Damjan Kovacevic),
+      Maximilian Hennig (81' Habib Coulibaly)
+
+Refs: Safak Barmaksiz (AUT), Mohamed El Sadany (AUT), Johannes Stögerer (AUT)
+
+
+Sun Oct 26 14:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 15672
+  Sturm Graz v Wolfsberger AC  1-3 (0-3)
+     (Filip Rózga 54';
+      Dejan ZUKIC 12', Simon Piesinger 19', René Renner 32')
+
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL (37' Arjan MALIC), Emir Karic,
+      Dimitri Lavalée [Y 9'] (57' Otari KITEISHVILI), Emanuel Aiwu - Tomi HORVAT,
+      Seedy Jatta (56' Maurice MALONE) - Jacob Hödl (37' Filip Rózga),
+      Leon Grgic (57' Axel Kayombo), Jon GORENC STANKOVIC [c] [Y 90+5'] - Tochi Chukwuani
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c] [Y 17'] [Y/R 75'], Chibuike Nwaiwu [Y 90+6'],
+      Nicolas Wimmer - Boris Matic, Simon Piesinger (63' Marco Sulzner), Alessandro SCHOEPF,
+      Dejan ZUKIC [Y 90'] - René Renner - Angelo Gattermayer (77' Emmanuel Chukwu),
+      Markus Pink (90+3' Erik Kojzek [Y 90+4'])
+
+Refs: Josef Spurny (AUT), Alexander Borucki (AUT), Stefan Kühr (AUT)
+
+
+Sun Oct 26 14:30 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 7000
+  SV Ried v Rapid Wien  0-2 (0-2)
+     (Nikolaus WURMBRAND 17', Ercan Kara 34')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic [Y 85'], Fabian Rossdorfer (45' Philipp Pomer),
+      Jonas Mayer (45' Mark Grosse) - Kingstone MUTANDWA (69' Peter Kiedl),
+      Nicolas Bajlicz [Y 79'], Antonio Van Wyk
+Rapid Wien: Paul Gartler - Serge-Philippe Raux-Yao [Y 81'], Ange Ahoussou, Nenad Cvetkovic -
+      Matthias SEIDL [c] (87' Tobias Gulliksen), Romeo Amané, Furkan Demir [Y 66'],
+      Bendeguz BOLLA, Janis Antiste - Ercan Kara [Y 71'] (82' Martin Ndzie),
+      Nikolaus WURMBRAND (82' Dominik Weixelbraun)
+
+Refs: Arnes Talic (AUT), Michael Obritzberger (AUT), Amar Rekik (AUT)
+
+
+Sun Oct 26 17:00 UTC+1 @ Generali Arena, Vienna, Att: 14479
+  Austria Wien v FC Salzburg  0-3 (0-2)
+     (Sota Kitano 8', Kerim ALAJBEGOVIC 16', Tim Trummer 56')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger,
+      Dejan Radonjic (66' Tin Plavotic) - Abubakr BARRY, LEE Taeseok,
+      Reinhold Ranftl (73' Luca Pazourek [Y 78']),
+      Manfred Fischer [c] (84' Dominik Nisandzic) - Noah BOTIC (66' Kelvin BOATENG),
+      Manprit Sarkaria (66' Lee Kang-Hee), Johannes EGGESTEIN
+FC Salzburg: Alexander SCHLAGER [c] - Jacob Rasmussen, Frans Krätzig (45' Aleksa TERZIC), S. Lainer,
+      Jannik Schuster - Sota Kitano (84' Clement Bischoff),
+      Yorbe Vertessen (45' Tim Trummer) - Kerim ALAJBEGOVIC (60' Moussa Yeo),
+      Edmund Baidoo (69' Petar RATKOV [Y 89']), Soumaïla Diabaté - Mamady DIAMBOU
+
+Refs: Walter Altmann (AUT), Mattias Hartl (AUT), Manuel Undesser (AUT)
+
+
+▪ Regular Season - 12
+Sat Nov 1 17:00 UTC+1 @ DATENPOL ARENA, Maria Enzersdorf, Att: 4386
+  TSV Hartberg v Austria Wien  2-1 (2-0)
+     (Dominic Vincze 13', Elias Havel 16';
+      Philipp Wiesinger 74')
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer - Benjamin Markus,
+      Dominik PROKOP (79' Youba Diarra), Jürgen Heil [c] [Y 45+1'] (83' Tobias Kainz),
+      Maximilian Hennig - Damjan Kovacevic (79' Maximilian Fillafer) -
+      Elias Havel (88' Lukas Fridrikas), Marco Hoffmann
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC [Y 55'], Tin Plavotic (84' Marko Raguz),
+      Philipp Wiesinger - Abubakr BARRY, LEE Taeseok [Y 43'] (78' Hakim Guenouche),
+      Reinhold Ranftl, Manfred Fischer [c] - Noah BOTIC (60' Kelvin BOATENG),
+      Manprit Sarkaria (45' Lee Kang-Hee [Y 90+6']), Johannes EGGESTEIN
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Nov 1 17:00 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 5600
+  Blau-Weiß Linz v LASK Linz  0-1 (0-0)
+     (Samuel Adeniran 54')
+
+Blau-Weiß Linz: Viktor Baier [c] - Elias Bakatukanda, Manuel Maranda, Martin Moormann -
+      Mamadou Fofana (90' Alem Pasic), Shon WEISSMAN, Alexander Briedl,
+      Simon Seidl (67' Oliver Wähling) - Thomas Goiginger [Y 57'] (90' Jakob Knollmüller),
+      Simon Pirkl - Ronivaldo (78' Nico Maier)
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé - George BELLO, Melayro BOGARDE,
+      Krystof Danek (72' Christoph Lang), Kasper Jørgensen (90+6' Valon Berisha) -
+      Sascha Horvath [c] - Samuel Adeniran (72' Maximilian Entrup),
+      Moses Usor (88' Florian Flecker)
+
+Refs: Isa Simsek (AUT), Roland Brandner (AUT), Manuel Undesser (AUT)
+
+
+Sat Nov 1 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 4738
+  Grazer AK v SCR Altach  3-1 (1-1)
+     (Alexander Hofleitner 38', Srdjan Hrstic 50'(og), Ramiz Harakate 90+5';
+      Patrick Greil 42')
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Martin Kreuzriegler (79' Lukas Graf), Beres Owusu -
+      Murat Satin [Y 41'] (90+1' Ludwig Vraa) - Thomas Schiestl,
+      Zétény Jánó (66' Dominik Frieser), Thorsten Schriebl (66' Sadik FOFANA),
+      Ramiz Harakate - Alexander Hofleitner (45' Daniel Maderner), Tobias Koch [c] [Y 88']
+SCR Altach: Dejan Stojanovic [Y 86'] - Paul-Friedrich Koller, Benedikt Zech, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO [Y 18'] (63' Leonardo Lukacevic [Y 88']) -
+      Ousmane Diawara (83' Erkin Yalcin), Patrick Greil (86' Alexander Gorgon) -
+      Yann Litawumba, Srdjan Hrstic (62' Marlon Mustapha), Moritz Oswald -
+      Lukas Jäger [c] (83' Lukas GUGGANIG)
+
+Refs: Daniel Pfister (AUT), Luka Katholnig (AUT), Njegos Vucanovic (AUT)
+
+
+Sun Nov 2 14:30 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 3770
+  Wolfsberger AC v WSG Tirol  0-0 (0-0)
+
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Chibuike Nwaiwu, Nicolas Wimmer -
+      Boris Matic, Simon Piesinger [Y 39'] (45' Marco Sulzner), Alessandro SCHOEPF,
+      Dejan ZUKIC (81' David ATANGA) - René Renner [Y 8'] -
+      Angelo Gattermayer (45' Erik Kojzek), Markus Pink (89' Donis Avdijaj)
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras - Valentino Müller [c],
+      Johannes Naschberger, Benjamin Böckle, Matthäus Taferner -
+      Nikolai Baden Frederiksen (82' Yannick Vötter),
+      Thomas Sabitzer (90+3' Christian Huetz), Moritz Wels (67' Tobias Anselm)
+
+Refs: Alexander Harkam (AUT), Edin Kudic (AUT), Jakob Bogner (AUT)
+
+
+Sun Nov 2 14:30 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 8352
+  FC Salzburg v SV Ried  4-1 (2-1)
+     (Clement Bischoff 1', Sota Kitano 45', Edmund Baidoo 72', Petar RATKOV 81';
+      Kingstone MUTANDWA 34')
+
+FC Salzburg: Christian Zawieschitzky - Jacob Rasmussen [c], Aleksa TERZIC, Joane Gadou,
+      Tim Trummer - Clement Bischoff (82' S. Lainer), Sota Kitano (68' Yorbe Vertessen) -
+      Moussa Yeo (68' Edmund Baidoo), Petar RATKOV, Mamady DIAMBOU (45' Soumaïla Diabaté) -
+      Lucas GOURNA-DOUATH (45' Maurits KJAERGAARD)
+SV Ried: Andreas Leitner - Nikki Havenaar [R 49'], Michael Sollbauer [c], Oliver Steurer -
+      Yusuf Maart (79' Martin Rasner), Mark Grosse (54' Jonathan Scherzer), Ante Bajic,
+      Philipp Pomer (60' Fabian Rossdorfer) - Jonas Mayer -
+      Kingstone MUTANDWA (60' Peter Kiedl (79' Joris Boguo)), Antonio Van Wyk
+
+Refs: Julian Weinberger (AUT), Maximilian Kolbitsch (AUT), Stefan Pichler (AUT)
+
+
+Sun Nov 2 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 24766
+  Rapid Wien v Sturm Graz  2-1 (0-1)
+     (Matthias SEIDL 66', Dimitri Lavalée 75'(og);
+      Maurice MALONE 39')
+
+Rapid Wien: Paul Gartler [Y 90+5'] - Serge-Philippe Raux-Yao, Ange Ahoussou, Nenad Cvetkovic -
+      Matthias SEIDL [c] (90' Lukas Grgic), Romeo Amané [Y 86'],
+      Furkan Demir (45' Jonas Auer), Bendeguz BOLLA [Y 77'] -
+      Janis Antiste (45' Tobias Gulliksen [Y 90+6']) - Ercan Kara,
+      Nikolaus WURMBRAND (78' Marco TILIO)
+Sturm Graz: Oliver Christensen - Tim Oermann, Emir Karic, Arjan MALIC (80' Stefan HIERLAENDER),
+      Dimitri Lavalée [Y 65'] (90' Jeyland MITCHELL) - Otari KITEISHVILI,
+      Axel Kayombo (58' Seedy Jatta) - Tomi HORVAT, Maurice MALONE (80' Leon Grgic),
+      Jon GORENC STANKOVIC [c] (80' Filip Rózga) - Tochi Chukwuani
+
+Refs: Markus Hameter (AUT), Maximilian Weiss (AUT), Sebastian Gruber (AUT)
+
+
+▪ Regular Season - 13
+Sat Nov 8 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 5360
+  SV Ried v Blau-Weiß Linz  2-1 (0-0)
+     (Ante Bajic 49', Kingstone MUTANDWA 90+7';
+      Shon WEISSMAN 71')
+
+SV Ried: Andreas Leitner [c] - Fabian Rossdorfer, Michael Sollbauer [Y 37'], Oliver Steurer -
+      Yusuf Maart, Ante Bajic, Philipp Pomer, Jonas Mayer (81' Martin Rasner) -
+      Nicolas Bajlicz (76' Mark Grosse) - Kingstone MUTANDWA, Antonio Van Wyk
+Blau-Weiß Linz: Viktor Baier - Manuel Maranda [c] [Y 83'], Martin Moormann, Alem Pasic [Y 22'] -
+      Mamadou Fofana (82' Christopher Cvetko), Shon WEISSMAN, Alexander Briedl,
+      Simon Seidl (82' Oliver Wähling) - Thomas Goiginger [Y 80'], Simon Pirkl -
+      Ronivaldo (90+4' Muharem Huskovic)
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sat Nov 8 17:00 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 3457
+  Wolfsberger AC v TSV Hartberg  1-2 (0-1)
+     (Dominic Vincze 86'(og);
+      Maximilian Hennig 28', Elias Havel 74')
+
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c] (80' Emmanuel Agyemang), Chibuike Nwaiwu,
+      Nicolas Wimmer - Boris Matic, Alessandro SCHOEPF, Dejan ZUKIC,
+      Marco Sulzner (62' David ATANGA) - René Renner [R 90+6'] -
+      Donis Avdijaj (80' Angelo Gattermayer), Markus Pink (55' Erik Kojzek [Y 68'])
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer - Benjamin Markus,
+      Tobias Kainz [c], Maximilian Hennig, Damjan Kovacevic -
+      Elias Havel (78' Lukas Fridrikas), Dominik PROKOP [Y 13'] (56' Youba Diarra),
+      Marco Hoffmann [Y 45+1'] [Y/R 49']
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Philip Gschliesser (AUT)
+
+
+Sat Nov 8 17:00 UTC+1 @ Generali Arena, Vienna, Att: 12465
+  Austria Wien v Grazer AK  2-1 (1-0)
+     (Tin Plavotic 24', Marko Raguz 90+1';
+      Daniel Maderner 52')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC [Y 7'],
+      Tin Plavotic (64' Dejan Radonjic [Y 75']), Philipp Wiesinger [Y 67'] - Abubakr BARRY,
+      Lee Kang-Hee (74' Kelvin BOATENG), LEE Taeseok, Reinhold Ranftl -
+      Manprit Sarkaria (83' Marko Raguz), Johannes EGGESTEIN, Manfred Fischer [c]
+Grazer AK: Jakob Meierhofer - Donovan Pines, Martin Kreuzriegler, Beres Owusu -
+      Sadik FOFANA (90+6' Lukas Graf), Murat Satin (45' Daniel Maderner [Y 67']),
+      Tobias Koch [c], Thomas Schiestl (90+6' Christian Lichtenberger) -
+      Zétény Jánó [Y 58'] (63' Tio Cipot), Thorsten Schriebl [Y 86'] (88' Ludwig Vraa) -
+      Ramiz Harakate [Y 90+4']
+
+Refs: Harald Lechner (AUT), Stefan Kühr (AUT), Onur Yayar (AUT)
+
+
+Sun Nov 9 14:30 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 4435
+  WSG Tirol v Rapid Wien  1-1 (1-0)
+     (Nikolai Baden Frederiksen 7'; Ercan Kara 73')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras - Valentino Müller [c],
+      Nikolai Baden Frederiksen (58' Ademola Ola-Adebomi [Y 80']),
+      Johannes Naschberger [Y 90+3'], Benjamin Böckle - Matthäus Taferner,
+      Moritz Wels [Y 16'] (87' Yannick Vötter) - Thomas Sabitzer (79' Tobias Anselm)
+Rapid Wien: Paul Gartler [Y 68'] - Serge-Philippe Raux-Yao, Ange Ahoussou (61' Louis SCHAUB),
+      Nenad Cvetkovic - Tobias Gulliksen (61' Ercan Kara),
+      Matthias SEIDL [c] (87' Martin Ndzie), Romeo Amané, Jannes HORN (87' Furkan Demir),
+      Bendeguz BOLLA - Nikolaus WURMBRAND (79' Andrija RADULOVIC), Janis Antiste
+
+Refs: Florian Jäger (AUT), Sarah Amina Gutschi (AUT), Mario Diesenberger (AUT)
+
+
+Sun Nov 9 14:30 UTC+1 @ Raiffeisen Arena, Linz, Att: 10105
+  LASK Linz v SCR Altach  1-0 (1-0)
+     (Erkin Yalcin 30'(og))
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé - George BELLO, Melayro BOGARDE,
+      Krystof Danek (64' Christoph Lang), Kasper Jørgensen (72' Florian Flecker) -
+      Sascha Horvath [c] - Samuel Adeniran (72' Sasa KALAJDZIC),
+      Moses Usor (86' Maximilian Entrup)
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller, Benedikt Zech, Filip Milojevic -
+      Mike-Steven Bähre, Erkin Yalcin [Y 60'], Yann Litawumba (89' Lukas GUGGANIG),
+      Mohamed OUEDRAOGO - Marlon Mustapha (72' Anteo Fetahu),
+      Ousmane Diawara (83' Srdjan Hrstic), Patrick Greil (83' Alexander Gorgon)
+
+Refs: Alain Sadikovski (AUT), Alexander Borucki (AUT), Patrick Csobadi (AUT)
+
+
+Sun Nov 9 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 15517
+  Sturm Graz v FC Salzburg  1-1 (0-0)
+     (Leon Grgic 46'; Yorbe Vertessen 65')
+
+Sturm Graz: Oliver Christensen - Tim Oermann, Emir Karic,
+      Arjan MALIC (82' Jeyland MITCHELL [Y 90+4']), Dimitri Lavalée -
+      Otari KITEISHVILI (82' Jacob Hödl) - Tomi HORVAT, Tochi Chukwuani (75' Filip Rózga) -
+      Leon Grgic (75' Seedy Jatta) - Maurice MALONE (61' Axel Kayombo),
+      Jon GORENC STANKOVIC [c]
+FC Salzburg: Alexander SCHLAGER [c] - Jacob Rasmussen, Aleksa TERZIC,
+      S. Lainer [Y 66'] (72' Tim Trummer), Jannik Schuster -
+      Clement Bischoff (62' Yorbe Vertessen), Sota Kitano (62' Moussa Yeo) -
+      Edmund Baidoo (83' Enrique Aguilar), Petar RATKOV [Y 44'], Soumaïla Diabaté [Y 81'] -
+      Maurits KJAERGAARD (83' Mads BIDSTRUP)
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+▪ Regular Season - 14
+Sat Nov 22 17:00 UTC+1 @ Stadion Schnabelholz, Altach, Att: 4112
+  SCR Altach v Wolfsberger AC  3-1 (1-0)
+     (Patrick Greil 30', 70', Anteo Fetahu 84'(p);
+      Marco Sulzner 90+4')
+
+SCR Altach: Dejan Stojanovic - Paul-Friedrich Koller, Lukas Jäger [c], Filip Milojevic -
+      Mike-Steven Bähre (88' Moritz Oswald), Sandro Ingolitsch (85' Erkin Yalcin),
+      Yann Litawumba, Mohamed OUEDRAOGO - Marlon Mustapha (88' Srdjan Hrstic),
+      Ousmane Diawara [Y 22'] (73' Anteo Fetahu), Patrick Greil (88' Blendi Idrizi)
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Chibuike Nwaiwu [Y 80'], Nicolas Wimmer -
+      Boris Matic, Simon Piesinger [Y 54'] (69' Marco Sulzner), Alessandro SCHOEPF [Y 8'],
+      Dejan ZUKIC (85' Emmanuel Agyemang) - Fabian Wohlmuth -
+      Erik Kojzek (85' Angelo Gattermayer), Donis Avdijaj (69' Markus Pink)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Nov 22 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 3057
+  TSV Hartberg v SV Ried  2-0 (1-0)
+     (Elias Havel 22'(p), Lukas Fridrikas 56')
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Tobias Kainz - Jürgen Heil [c] [Y 60'] (90' Youba Diarra),
+      Elias Havel (90+4' Dominik PROKOP), Lukas Fridrikas [Y 67'] (72' Patrik Mijic) -
+      Maximilian Hennig, Damjan Kovacevic
+SV Ried: Andreas Leitner [c] - Nikki Havenaar [Y 12'], Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart, Ante Bajic [Y 90+2'], Philipp Pomer [Y 60'] (86' Christopher Wernitznig),
+      Jonas Mayer (74' Saliou Sané [Y 84']) - Kingstone MUTANDWA,
+      Nicolas Bajlicz (74' Jonathan Scherzer), Antonio Van Wyk
+
+Refs: Safak Barmaksiz (AUT), Andreas Heidenreich (AUT), Mattias Hartl (AUT)
+
+
+Sat Nov 22 17:00 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 5557
+  Blau-Weiß Linz v Austria Wien  2-3 (1-2)
+     (Simon Seidl 20', 76';
+      Manprit Sarkaria 13', 52', Johannes EGGESTEIN 45+2'(p))
+
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Martin Moormann, Alem Pasic [Y 80'],
+      Simon Pirkl [c] - Mamadou Fofana (72' Christopher Cvetko),
+      Oliver Wähling (45' Ronivaldo), Alexander Briedl - Shon WEISSMAN, Simon Seidl,
+      Thomas Goiginger (28' Nico Maier)
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic, Philipp Wiesinger -
+      Abubakr BARRY, Lee Kang-Hee (73' Philipp Maybach), LEE Taeseok,
+      Reinhold Ranftl [Y 59'] - Manprit Sarkaria (90+2' Konstantin Aleksa),
+      Johannes EGGESTEIN (84' Noah BOTIC), Manfred Fischer [c]
+
+Refs: Alexander Harkam (AUT), Thomas Kaplan (AUT), Philipp Duschek (AUT)
+
+
+Sun Nov 23 14:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 14800
+  Sturm Graz v LASK Linz  1-3 (1-2)
+     (Otari KITEISHVILI 7';
+      Kasper Jørgensen 25', Moses Usor 27', Krystof Danek 60')
+
+Sturm Graz: Oliver Christensen - Tim Oermann, Emir Karic, Arjan MALIC (68' Stefan HIERLAENDER),
+      Dimitri Lavalée - Otari KITEISHVILI - Tomi HORVAT, Tochi Chukwuani (68' Filip Rózga) -
+      Leon Grgic (69' Seedy Jatta) - Maurice MALONE (45' Axel Kayombo),
+      Jon GORENC STANKOVIC [c]
+LASK Linz: Lukas Jungwirth - Andres ANDRADE [Y 42'], Alemão, Modou Cissé (73' Florian Flecker) -
+      George BELLO, Melayro BOGARDE, Krystof Danek, Kasper Jørgensen -
+      Sascha Horvath [c] [Y 81'] (85' Ismaila COULIBALY [Y 90+5']) -
+      Samuel Adeniran (73' Sasa KALAJDZIC), Moses Usor (90+2' Christoph Lang)
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Stefan Pichler (AUT)
+
+
+Sun Nov 23 14:30 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 6123
+  FC Salzburg v WSG Tirol  2-3 (2-0)
+     (Moussa Yeo 11', Edmund Baidoo 37';
+      Nikolai Baden Frederiksen 64', Jamie Lawrence 74', Valentino Müller 90+6'(p))
+
+FC Salzburg: Alexander SCHLAGER [c] [Y 90+6'] - Jacob Rasmussen, Aleksa TERZIC, S. Lainer,
+      Jannik Schuster - Soumaïla Diabaté [Y 90+4'], Maurits KJAERGAARD,
+      Moussa Yeo (78' Sota Kitano) - Yorbe Vertessen (78' Petar RATKOV),
+      Edmund Baidoo (61' Clement Bischoff), Kerim ALAJBEGOVIC [Y 5'] (61' Mads BIDSTRUP)
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras - Johannes Naschberger -
+      Benjamin Böckle [Y 78'], Matthäus Taferner [Y 80'] [Y/R 87'],
+      Moritz Wels (86' Yannick Vötter),
+      Nikolai Baden Frederiksen [Y 71'] (86' HINTERSEER Lukas) -
+      Thomas Sabitzer (60' Ademola Ola-Adebomi), Valentino Müller [c] [Y 26']
+
+Refs: Achim Untergasser (AUT), Mohamed El Sadany (AUT), Manuel Koller (AUT)
+
+
+Sun Nov 23 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 19124
+  Rapid Wien v Grazer AK  1-2 (0-0)
+     (Ercan Kara 74';
+      Daniel Maderner 67'(p), Ramiz Harakate 84')
+
+Rapid Wien: Paul Gartler - Serge-Philippe Raux-Yao (45' Jannes HORN [Y 90+6']), Ange Ahoussou,
+      Nenad Cvetkovic - Lukas Grgic [Y 18'], Petter Nosa Dahl (45' Marco TILIO),
+      Tobias Gulliksen (79' Louis SCHAUB), Matthias SEIDL [c] (86' Romeo Amané),
+      Bendeguz BOLLA - Ercan Kara, Nikolaus WURMBRAND (62' Janis Antiste)
+Grazer AK: Jakob Meierhofer - Donovan Pines [Y 24'], Martin Kreuzriegler, Beres Owusu [Y 76'] -
+      Tobias Koch (80' Christian Lichtenberger) - Thomas Schiestl (87' Yannick Oberleitner),
+      Zétény Jánó (42' Murat Satin), Thorsten Schriebl [Y 53'] (80' Dominik Frieser),
+      Daniel Maderner [c] - Ramiz Harakate (87' Tio Cipot), Sadik FOFANA
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Martin Höfler (AUT)
+
+
+▪ Regular Season - 15
+Sat Nov 29 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 5092
+  Grazer AK v Blau-Weiß Linz  3-1 (1-0)
+     (Murat Satin 4', Ramiz Harakate 75', Alexander Hofleitner 90+3'(p);
+      Martin Moormann 88')
+
+Grazer AK: Jakob Meierhofer - Donovan Pines,
+      Martin Kreuzriegler [Y 31'] (45' Yannick Oberleitner), Beres Owusu -
+      Murat Satin [Y 45'] (77' Christian Lichtenberger) - Tobias Koch, Thomas Schiestl,
+      Thorsten Schriebl (83' Dominik Frieser),
+      Daniel Maderner [c] (83' Alexander Hofleitner) -
+      Ramiz Harakate [Y 60'] (90+4' Lukas Graf), Sadik FOFANA
+Blau-Weiß Linz: Viktor Baier - Elias Bakatukanda, Manuel Maranda [c] [Y 90+2'],
+      Martin Moormann [Y 44'] - Christopher Cvetko (83' Muharem Huskovic), Shon WEISSMAN,
+      Alexander Briedl, Simon Seidl - Dominik Reiter [Y 11'] (64' Oliver Wähling),
+      Simon Pirkl (83' David Bumberger) - Ronivaldo (72' Nico Maier)
+
+Refs: Markus Hameter (AUT), Stefan Pichler (AUT), Mohamed El Sadany (AUT)
+
+
+Sat Nov 29 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 2750
+  SV Ried v Wolfsberger AC  1-0 (0-0)
+     (Kingstone MUTANDWA 90+3')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Philipp Pomer, Fabian Rossdorfer, Jonas Mayer - Kingstone MUTANDWA,
+      Nicolas Bajlicz (59' Mark Grosse), Antonio Van Wyk (75' Joris Boguo)
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté [Y 56'],
+      Dominik Baumgartner [c] (89' Tobias Gruber [Y 90+5']), Nicolas Wimmer -
+      Boris Matic (66' Fabian Wohlmuth), Simon Piesinger, Alessandro SCHOEPF, Dejan ZUKIC -
+      René Renner [Y 90+6'] - Angelo Gattermayer (45' Markus Pink),
+      Erik Kojzek (45' David ATANGA)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+Sat Nov 29 17:00 UTC+1 @ Generali Arena, Vienna, Att: 13008
+  Austria Wien v WSG Tirol  0-0 (0-0)
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic, Dejan Radonjic -
+      Abubakr BARRY [Y 49'], Manprit Sarkaria (66' Kelvin BOATENG),
+      Lee Kang-Hee [Y 45'] (85' Konstantin Aleksa), LEE Taeseok - Reinhold Ranftl,
+      Manfred Fischer [c] - Johannes EGGESTEIN (85' Marko Raguz)
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras [Y 49'] -
+      Johannes Naschberger [Y 90+3'], Benjamin Böckle, Moritz Wels,
+      Nikolai Baden Frederiksen (89' Tobias Anselm) -
+      Ademola Ola-Adebomi (80' HINTERSEER Lukas), Thomas Sabitzer (80' Yannick Vötter),
+      Valentino Müller [c]
+
+Refs: Jakob Semler (AUT), Roland Brandner (AUT), Mario Diesenberger (AUT)
+
+
+Sun Nov 30 14:30 UTC+1 @ Stadion Schnabelholz, Altach, Att: 4826
+  SCR Altach v FC Salzburg  1-1 (1-1)
+     (Paul-Friedrich Koller 26'; Petar RATKOV 12')
+
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller, Benedikt Zech [Y 85'], Sandro Ingolitsch,
+      Mohamed OUEDRAOGO - Mike-Steven Bähre - Moritz Oswald (73' Vesel Demaku),
+      Yann Litawumba - Marlon Mustapha (73' Srdjan Hrstic) -
+      Ousmane Diawara (73' Anteo Fetahu), Filip Milojevic (60' Lukas Jäger)
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig, Joane Gadou, Tim Trummer, Jannik Schuster -
+      Clement Bischoff (45' Moussa Yeo), Kerim ALAJBEGOVIC (59' Edmund Baidoo) -
+      Yorbe Vertessen (76' Karim ONISIWO), Petar RATKOV -
+      Soumaïla Diabaté [Y 23'] (83' Karim KONATE), Mads BIDSTRUP [c] [Y 80']
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sun Nov 30 14:30 UTC+1 @ PROfertil ARENA, Hartberg, Att: 5085
+  TSV Hartberg v Sturm Graz  0-1 (0-0)
+     (Otari KITEISHVILI 81'(p))
+
+TSV Hartberg: Tom Hülsmann [Y 79'] - Dominic Vincze [Y 44'], Fabian Wilfinger,
+      Lukas Spendlhofer [Y 79'] (85' Youba Diarra), Benjamin Markus,
+      Tobias Kainz (89' Dominik PROKOP) - Jürgen Heil [c] [Y 79'] (85' Patrik Mijic),
+      Elias Havel [Y 90+6'], Marco Hoffmann (59' Lukas Fridrikas) - Maximilian Hennig,
+      Damjan Kovacevic (85' Maximilian Fillafer)
+Sturm Graz: Oliver Christensen - Tim Oermann [Y 11'], Arjan MALIC [Y 90+3'],
+      Dimitri Lavalée (65' Emir Karic), Emanuel Aiwu [Y 27'] (45' Niklas Geyrhofer) -
+      Filip Rózga (54' Otari KITEISHVILI), Tomi HORVAT -
+      Seedy Jatta (74' Axel Kayombo [Y 79']), Leon Grgic (54' Maurice MALONE) -
+      Jon GORENC STANKOVIC [c], Tochi Chukwuani
+
+Refs: Daniel Pfister (AUT), Johannes Stögerer (AUT), Philip Gschliesser (AUT)
+
+
+Sun Nov 30 17:00 UTC+1 @ Raiffeisen Arena, Linz, Att: 16263
+  LASK Linz v Rapid Wien  3-0 (1-0)
+     (Kasper Jørgensen 45+13', Moses Usor 55', Christoph Lang 83')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé - George BELLO,
+      Melayro BOGARDE (89' Ismaila COULIBALY), Krystof Danek (81' Christoph Lang),
+      Kasper Jørgensen (89' Florian Flecker) - Sascha Horvath [c] [Y 62'] -
+      Samuel Adeniran (88' Maximilian Entrup), Moses Usor (72' Sasa KALAJDZIC)
+Rapid Wien: Paul Gartler - Ange Ahoussou, Jannes HORN (81' Jonas Auer), Nenad Cvetkovic,
+      Furkan Demir - Marco TILIO (61' Louis SCHAUB),
+      Petter Nosa Dahl (61' Dominik Weixelbraun) - Tobias Gulliksen (68' Nikolaus WURMBRAND),
+      Janis Antiste (68' Claudy Mbuyi), Matthias SEIDL [c] - Romeo Amané [Y 85']
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Markus Reichholf (AUT)
+
+
+▪ Regular Season - 4
+Wed Dec 3 20:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 10021
+  Sturm Graz v WSG Tirol  1-3 (1-0)
+     (Jon GORENC STANKOVIC 38';
+      Nikolai Baden Frederiksen 53', 75', Matthäus Taferner 67')
+
+Sturm Graz: Oliver Christensen - Tim Oermann, Emir Karic, Arjan MALIC (84' Leon Grgic),
+      Emanuel Aiwu [R 44'] - Jon GORENC STANKOVIC [c], Filip Rózga (68' Otari KITEISHVILI),
+      Tomi HORVAT (45' Niklas Geyrhofer [Y 73']), Tochi Chukwuani -
+      Seedy Jatta (45' Jacob Hödl), Maurice MALONE (68' Axel Kayombo)
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta,
+      Marco Boras [Y 37'] (88' David Jaunegg) - Valentino Müller [c] [Y 56'],
+      Nikolai Baden Frederiksen (80' Tobias Anselm),
+      Johannes Naschberger (88' Christian Huetz), Benjamin Böckle - Matthäus Taferner,
+      Moritz Wels [Y 65'] (80' Thomas Sabitzer) -
+      Ademola Ola-Adebomi [Y 53'] (65' HINTERSEER Lukas)
+
+Refs: Harald Lechner (AUT), Roland Riedel (AUT), Mattias Hartl (AUT)
+
+
+▪ Regular Season - 16
+Sat Dec 6 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 13537
+  Rapid Wien v SV Ried  1-2 (1-1)
+     (Louis SCHAUB 31';
+      Oliver Steurer 40', Philipp Pomer 54'(p))
+
+Rapid Wien: Paul Gartler [Y 53'] - Ange Ahoussou, Jonas Auer (15' Amìn-Elias Gröller),
+      Nenad Cvetkovic [Y 45+6'], Furkan Demir (61' Janis Antiste) - Petter Nosa Dahl [Y 88'],
+      Tobias Gulliksen (61' Nikolaus WURMBRAND) - Louis SCHAUB (76' Dominik Weixelbraun),
+      Claudy Mbuyi (61' Ercan Kara), Matthias SEIDL [c] - Romeo Amané
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Fabian Rossdorfer, Michael Sollbauer,
+      Oliver Steurer - Ante Bajic [Y 80'] - Philipp Pomer [Y 58'] (89' Jonathan Scherzer),
+      Jonas Mayer (90' Christopher Wernitznig) - Peter Kiedl -
+      Antonio Van Wyk (50' Joris Boguo (89' Ekain Azkune)),
+      Martin Rasner (71' Nicolas Bajlicz [Y 88'])
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sat Dec 6 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 2182
+  TSV Hartberg v LASK Linz  2-2 (2-1)
+     (Tobias Kainz 6', Elias Havel 25';
+      Kasper Jørgensen 32', Moses Usor 90+2')
+
+TSV Hartberg: Tom Hülsmann [Y 55'] [R 74'] - Dominic Vincze, Fabian Wilfinger [Y 23'],
+      Lukas Spendlhofer, Benjamin Markus, Youba Diarra (68' Dominik PROKOP) -
+      Tobias Kainz [c] [Y 90+1'], Elias Havel, Marco Hoffmann (76' Ammar Helac) -
+      Maximilian Hennig (45' Maximilian Fillafer [Y 49']),
+      Damjan Kovacevic (90' Julian Gölles)
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão [R 41'], Modou Cissé - George BELLO [Y 84'],
+      Melayro BOGARDE [Y 82'], Krystof Danek (60' Maximilian Entrup), Kasper Jørgensen -
+      Sascha Horvath [c] - Samuel Adeniran (60' Sasa KALAJDZIC), Moses Usor
+
+Refs: Isa Simsek (AUT), Manuel Undesser (AUT), Luka Katholnig (AUT)
+
+
+Sat Dec 6 17:00 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 4672
+  Blau-Weiß Linz v FC Salzburg  0-2 (0-1)
+     (Petar RATKOV 19', Edmund Baidoo 70')
+
+Blau-Weiß Linz: Viktor Baier - Fabio Strauss [c] [Y 75'] (86' Matthias Wetschka), Manuel Maranda,
+      Alem Pasic [Y 65'] - Christopher Cvetko (78' Mamadou Fofana), Alexander Briedl,
+      Simon Seidl, Dominik Reiter (69' David Bumberger) - Nico Maier (86' Muharem Huskovic),
+      Simon Pirkl - Shon WEISSMAN (70' Ronivaldo)
+FC Salzburg: Alexander SCHLAGER [Y 90+3'] - Frans Krätzig (90' Jacob Rasmussen), S. Lainer,
+      Joane Gadou, Jannik Schuster - Yorbe Vertessen (45' Clement Bischoff),
+      Edmund Baidoo (83' Tim Trummer) - Moussa Yeo (76' Sota Kitano),
+      Petar RATKOV (83' Karim ONISIWO), Soumaïla Diabaté - Mads BIDSTRUP [c]
+
+Refs: Jakob Semler (AUT), Philipp Duschek (AUT), Edin Kudic (AUT)
+
+
+Sun Dec 7 14:30 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 3145
+  Wolfsberger AC v Austria Wien  2-1 (2-0)
+     (Donis Avdijaj 17', Alessandro SCHOEPF 21';
+      LEE Taeseok 73')
+
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté, Fabian Wohlmuth, Nicolas Wimmer [c] -
+      Alessandro SCHOEPF (38' Emmanuel Agyemang), Dejan ZUKIC,
+      Chibuike Nwaiwu [Y 55'] [Y/R 60'], Marco Sulzner - René Renner -
+      Donis Avdijaj (78' Erik Kojzek), Markus Pink (65' Simon Piesinger [Y 90+4'])
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic [Y 62'],
+      Philipp Wiesinger [Y 51'] - Abubakr BARRY, Philipp Maybach (58' Kelvin BOATENG),
+      Lee Kang-Hee (70' Marko Raguz), LEE Taeseok (87' Matteo Schablas) -
+      Reinhold Ranftl (87' Marijan Österreicher), Manfred Fischer [c] - Johannes EGGESTEIN
+
+Refs: Markus Greinecker (AUT), Robert Steinacher (AUT), Alexander Borucki (AUT)
+
+
+Sun Dec 7 14:30 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 1980
+  WSG Tirol v SCR Altach  0-3 (0-2)
+     (Ousmane Diawara 10', 54', Patrick Greil 31')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence [Y 43'], David Kubatta [Y 45+2'],
+      David Jaunegg (45' David Gugganig) - Valentino Müller [c],
+      Nikolai Baden Frederiksen (83' Yannick Vötter),
+      Johannes Naschberger (83' Christian Huetz), Benjamin Böckle - Matthäus Taferner,
+      Moritz Wels (63' HINTERSEER Lukas [Y 75']) - Ademola Ola-Adebomi (63' Tobias Anselm)
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller, Benedikt Zech, Filip Milojevic -
+      Mike-Steven Bähre (86' Lukas Jäger), Marlon Mustapha (66' Srdjan Hrstic),
+      Patrick Greil (77' Vesel Demaku), Sandro Ingolitsch - Yann Litawumba,
+      Mohamed OUEDRAOGO [Y 43'] (66' Leonardo Lukacevic) - Ousmane Diawara (66' Anteo Fetahu)
+
+Refs: Josef Spurny (AUT), Sebastian Gruber (AUT), Patrick Csobadi (AUT)
+
+
+Sun Dec 7 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 17425
+  Sturm Graz v Grazer AK  2-1 (1-0)
+     (Jeyland MITCHELL 7', Maurice MALONE 66';
+      Christian Lichtenberger 90+10')
+
+Sturm Graz: Oliver Christensen - Jeyland MITCHELL (88' Gabriel Haider), Emir Karic, Arjan MALIC,
+      Niklas Geyrhofer - Filip Rózga (80' Jacob Hödl) - Otari KITEISHVILI, Tomi HORVAT -
+      Leon Grgic (63' Seedy Jatta) - Maurice MALONE [Y 85'] (89' Axel Kayombo),
+      Jon GORENC STANKOVIC [c] (81' Tochi Chukwuani [Y 90+7'])
+Grazer AK: Jakob Meierhofer - Donovan Pines, Yannick Oberleitner (82' Martin Kreuzriegler),
+      Beres Owusu - Murat Satin (82' Alexander Hofleitner) - Tobias Koch [Y 74'],
+      Thomas Schiestl (82' Tio Cipot), Thorsten Schriebl (70' Dominik Frieser),
+      Daniel Maderner [c] - Ramiz Harakate, Sadik FOFANA (90+5' Christian Lichtenberger)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+▪ Regular Season - 17
+Sat Dec 13 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 2062
+  TSV Hartberg v WSG Tirol  2-1 (0-0)
+     (Jürgen Heil 64', Elias Havel 70'(p);
+      Moritz Wels 48')
+
+TSV Hartberg: Ammar Helac - Habib Coulibaly [Y 61'], Lukas Spendlhofer, Jürgen Heil [c],
+      Benjamin Markus, Youba Diarra [Y 71'] - Tobias Kainz (66' Dominik PROKOP),
+      Elias Havel (88' Patrik Mijic), Marco Hoffmann (66' Lukas Fridrikas) - Dominic Vincze,
+      Damjan Kovacevic (66' Jed Drew)
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta [R 45+6'], Marco Boras -
+      Valentino Müller [c], Nikolai Baden Frederiksen (78' HINTERSEER Lukas),
+      Johannes Naschberger, Benjamin Böckle -
+      Matthäus Taferner (28' Yannick Vötter [Y 45+6']), Moritz Wels -
+      Ademola Ola-Adebomi [Y 45+1'] (59' Tobias Anselm)
+
+Refs: Stefan Ebner (AUT), Robert Steinacher (AUT), Stefan Kühr (AUT)
+
+
+Sat Dec 13 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 3220
+  SV Ried v SCR Altach  3-0 (1-0)
+     (Ante Bajic 43', Fabian Rossdorfer 61', Nikki Havenaar 79')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar [Y 41'] (90+1' Dominik Kirnbauer),
+      Michael Sollbauer [Y 37'], Oliver Steurer - Martin Rasner (78' Joris Boguo),
+      Ante Bajic (90+1' Philip Weissenbacher), Philipp Pomer,
+      Jonas Mayer (90+1' Christopher Wernitznig) - Nicolas Bajlicz - Peter Kiedl,
+      Fabian Rossdorfer (86' Jonathan Scherzer)
+SCR Altach: Dejan Stojanovic [c] - Paul-Friedrich Koller [Y 18'] (85' Lukas Jäger), Benedikt Zech,
+      Sandro Ingolitsch, Mohamed OUEDRAOGO [Y 90+5'] - Marlon Mustapha (77' Srdjan Hrstic),
+      Patrick Greil [Y 65'] - Yann Litawumba [Y 37'] [Y/R 73'],
+      Ousmane Diawara [Y 39'] (77' Erkin Yalcin),
+      Mike-Steven Bähre [Y 68'] (85' Moritz Oswald) -
+      Filip Milojevic [Y 55'] (60' Vesel Demaku)
+
+Refs: Emil Ristoskov (AUT), Michael Obritzberger (AUT), Manuel Koller (AUT)
+
+
+Sat Dec 13 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 4767
+  Grazer AK v LASK Linz  1-2 (1-2)
+     (Donovan Pines 17';
+      Moses Usor 4', Samuel Adeniran 25')
+
+Grazer AK: Jakob Meierhofer - Donovan Pines, Yannick Oberleitner (82' Martin Kreuzriegler),
+      Beres Owusu [Y 39'] - Murat Satin (62' Christian Lichtenberger) - Tobias Koch,
+      Thomas Schiestl (82' Tio Cipot), Thorsten Schriebl (28' Dominik Frieser),
+      Daniel Maderner [c] (62' Alexander Hofleitner) - Ramiz Harakate, Sadik FOFANA
+LASK Linz: Lukas Jungwirth - Melayro BOGARDE, Andres ANDRADE, Modou Cissé -
+      Ismaila COULIBALY (72' Christoph Lang), Krystof Danek, Kasper Jørgensen,
+      Sascha Horvath [c] - Emmanuel Michael (66' Florian Flecker) -
+      Samuel Adeniran (66' Sasa KALAJDZIC), Moses Usor (87' Maximilian Entrup)
+
+Refs: Walter Altmann (AUT), Mattias Hartl (AUT), Sarah Amina Gutschi (AUT)
+
+
+Sun Dec 14 14:30 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 5760
+  FC Salzburg v Wolfsberger AC  2-1 (1-1)
+     (Kerim ALAJBEGOVIC 7', 86';
+      Dejan ZUKIC 35'(p))
+
+FC Salzburg: Alexander SCHLAGER - Jacob Rasmussen, Frans Krätzig [Y 75'], S. Lainer, Joane Gadou -
+      Edmund Baidoo (58' Yorbe Vertessen), Kerim ALAJBEGOVIC (89' Clement Bischoff) -
+      Moussa Yeo (73' Karim ONISIWO), Petar RATKOV,
+      Soumaïla Diabaté [Y 23'] (45' Valentin Sulzbacher [Y 51'] [Y/R 90+6']) -
+      Mads BIDSTRUP [c]
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté, Fabian Wohlmuth [Y 77'] (85' Boris Matic),
+      Nicolas Wimmer [c], René Renner - Simon Piesinger (61' Emmanuel Chukwu), Marco Sulzner,
+      Emmanuel Agyemang - Donis Avdijaj (76' David ATANGA), Dejan ZUKIC,
+      Markus Pink (61' Erik Kojzek)
+
+Refs: Alain Sadikovski (AUT), Stefan Pichler (AUT), Mohamed El Sadany (AUT)
+
+
+Sun Dec 14 14:30 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 5000
+  Blau-Weiß Linz v Rapid Wien  1-1 (1-1)
+     (Christopher Cvetko 29'; Nenad Cvetkovic 16')
+
+Blau-Weiß Linz: Viktor Baier - Fabio Strauss [c] (73' Alem Pasic), Manuel Maranda, Martin Moormann -
+      Christopher Cvetko, Alexander Briedl (61' Mamadou Fofana), Simon Seidl,
+      Dominik Reiter (73' David Bumberger) - Nico Maier (73' Ronivaldo), Simon Pirkl -
+      Shon WEISSMAN
+Rapid Wien: Niklas HEDL - Jakob Schöller (45' Bendeguz BOLLA), Ange Ahoussou, Nenad Cvetkovic,
+      Furkan Demir (64' Amìn-Elias Gröller) - Lukas Grgic [Y 70'] (77' Marco TILIO),
+      Matthias SEIDL [c] [Y 81'], Romeo Amané -
+      Ercan Kara [Y 25'] (64' Claudy Mbuyi [Y 81']), Nikolaus WURMBRAND [Y 74'],
+      Louis SCHAUB [Y 71'] (78' Janis Antiste)
+
+Refs: Achim Untergasser (AUT), Roland Brandner (AUT), Thomas Kaplan (AUT)
+
+
+Sun Dec 14 17:00 UTC+1 @ Generali Arena, Vienna, Att: 13463
+  Austria Wien v Sturm Graz  3-1 (2-1)
+     (Reinhold Ranftl 19', Johannes EGGESTEIN 37'(p), Kelvin BOATENG 90+9';
+      Arjan MALIC 7')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic, Philipp Wiesinger [Y 81'] -
+      Abubakr BARRY [Y 74'], Philipp Maybach (71' Sanel Saljic), Lee Kang-Hee, LEE Taeseok -
+      Reinhold Ranftl, Manfred Fischer [c] (90+6' Marko Raguz) -
+      Johannes EGGESTEIN (90+3' Kelvin BOATENG)
+Sturm Graz: Oliver Christensen - Jeyland MITCHELL, Emir Karic (63' Stefan HIERLAENDER),
+      Arjan MALIC (80' Kristjan Bendra), Niklas Geyrhofer - Otari KITEISHVILI [Y 90+5'] -
+      Tomi HORVAT, Jacob Hödl (74' Filip Rózga) -
+      Seedy Jatta [Y 45+5'] (45' Belmin Beganovic) - Maurice MALONE,
+      Jon GORENC STANKOVIC [c] (80' Tochi Chukwuani)
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Njegos Vucanovic (AUT)
+
+
+▪ Regular Season - 18
+Fri Feb 6 20:30 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 7559
+  FC Salzburg v Austria Wien  0-2 (0-2)
+     (Abubakr BARRY 21', Johannes EGGESTEIN 24')
+
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (71' Karim ONISIWO), Joane Gadou,
+      Tim Trummer (54' Clement Bischoff), Jannik Schuster - Sota Kitano, Kerim ALAJBEGOVIC -
+      Karim KONATE (45' Moussa Yeo), Edmund Baidoo - Mamady DIAMBOU (45' Maurits KJAERGAARD),
+      Mads BIDSTRUP [c]
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Lee Kang-Hee (81' Vasilije Markovic),
+      Tin Plavotic - Abubakr BARRY (89' Johannes Handl [Y 90']),
+      Philipp Maybach (62' Dejan Radonjic), LEE Taeseok,
+      Sanel Saljic (62' Konstantin Aleksa) - Reinhold Ranftl, Manfred Fischer [c] -
+      Johannes EGGESTEIN
+
+Refs: Harald Lechner (AUT), Sebastian Gruber (AUT), Mario Diesenberger (AUT)
+
+
+Sat Feb 7 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 16690
+  Rapid Wien v TSV Hartberg  1-1 (0-1)
+     (Bendeguz BOLLA 70'; Marco Hoffmann 15')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou, Nenad Cvetkovic [Y 52'] -
+      Lukas Grgic (72' Martin Ndzie), Tobias Gulliksen (89' Tobias BORKEEIET [Y 90']),
+      Romeo Amané, Bendeguz BOLLA - Nikolaus WURMBRAND (62' Daniel Nunoo),
+      Matthias SEIDL [c], Andreas Weimann (72' Ercan Kara)
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Tobias Kainz (62' Youba Diarra [Y 81']) - Jürgen Heil [c], Elias Havel (80' Jed Drew),
+      Marco Hoffmann (80' Lukas Fridrikas) - Luca Pazourek,
+      Maximilian Hennig (80' Damjan Kovacevic)
+
+Refs: Walter Altmann (AUT), Manuel Undesser (AUT), Luka Katholnig (AUT)
+
+
+Sat Feb 7 17:00 UTC+1 @ Raiffeisen Arena, Linz, Att: 9013
+  LASK Linz v WSG Tirol  1-0 (1-0)
+     (Samuel Adeniran 17')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé (66' Xavier Mbuyamba) -
+      George BELLO, Melayro BOGARDE, Krystof Danek (66' Lukas Kacavenda), Kasper Jørgensen -
+      Sascha Horvath [c] - Samuel Adeniran (66' Moses Usor),
+      Sasa KALAJDZIC (81' Maximilian Entrup)
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence, Marco Boras - Valentino Müller [c],
+      Nikolai Baden Frederiksen (71' Christian Huetz [Y 84']), Johannes Naschberger,
+      Benjamin Böckle - Matthäus Taferner, Moritz Wels (71' HINTERSEER Lukas [Y 87']) -
+      Ademola Ola-Adebomi
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sun Feb 8 14:30 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 4296
+  Wolfsberger AC v Grazer AK  2-2 (1-1)
+     (David ATANGA 39', Erik Kojzek 87';
+      Ramiz Harakate 30', 67')
+
+Wolfsberger AC: Nikolas POLSTER [Y 15'] - Boris Matic (80' Jessic NGANKAM), Dominik Baumgartner [c],
+      Nicolas Wimmer, René Renner [Y 70'] - Dejan ZUKIC,
+      Angelo Gattermayer (66' Erik Kojzek), David ATANGA (66' Fabian Wohlmuth) -
+      Simon Piesinger - Donis Avdijaj (29' Emmanuel Agyemang), Marco Sulzner [R 11']
+Grazer AK: Franz Stolz - Donovan Pines, Martin Kreuzriegler, Beres Owusu -
+      Mathias OLESEN (83' Thorsten Schriebl), Murat Satin,
+      Tobias Koch (45' Christian Lichtenberger), Dominik Frieser [Y 74'],
+      Leon Klassen (87' Yannick Oberleitner) -
+      Daniel Maderner [c] (63' Alexander Hofleitner), Ramiz Harakate [Y 15']
+
+Refs: Safak Barmaksiz (AUT), Alexander Borucki (AUT), Patrick Csobadi (AUT)
+
+
+Sun Feb 8 14:30 UTC+1 @ Stadion Schnabelholz, Altach, Att: 5039
+  SCR Altach v Blau-Weiß Linz  1-0 (1-0)
+     (Mohamed OUEDRAOGO 28')
+
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech, Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre, Srdjan Hrstic (78' Erkin Yalcin),
+      Patrick Greil (86' Lukas GUGGANIG) - Sandro Ingolitsch [Y 34'],
+      Mohamed OUEDRAOGO [Y 41'] [Y/R 75'] - Ousmane Diawara (69' Precious Benjamin)
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c] [Y 74'], Martin Moormann, Alem Pasic [Y 71'] -
+      Isak Dahlqvist, Christopher Cvetko (64' Cheick Omar CONDE),
+      Alexander Briedl (78' Mamadou Fofana), Simon Pirkl (84' David Bumberger) -
+      Shon WEISSMAN, Simon Seidl (78' Paul Mensah [Y 90+5']), Thomas Goiginger (64' Ronivaldo)
+
+Refs: Florian Jäger (AUT), Amar Rekik (AUT), Philip Gschliesser (AUT)
+
+
+Sun Feb 8 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 13527
+  Sturm Graz v SV Ried  1-0 (0-0)
+     (Jacob Hödl 86')
+
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL, Emir Karic, Jusuf GAZIBEGOVIC,
+      Paul-Friedrich Koller - Filip Rózga (89' Seedy Jatta), Otari KITEISHVILI -
+      Maurice MALONE (63' Belmin Beganovic), Axel Kayombo (77' Jacob Hödl),
+      Jon GORENC STANKOVIC [c] - Ryan Fosso (76' Gizo Mamageishvili)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic (80' Joris Boguo), Fabian Rossdorfer, Jonas Mayer (88' Martin Rasner) -
+      Nicolas Bajlicz [Y 14'] (80' Philipp Pomer) - Kingstone MUTANDWA (59' Peter Kiedl),
+      Antonio Van Wyk (59' Evan Aisowieren)
+
+Refs: Josef Spurny (AUT), Michael Obritzberger (AUT), Stefan Pichler (AUT)
+
+
+▪ Regular Season - 19
+Sat Feb 14 17:00 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 1870
+  WSG Tirol v Sturm Graz  1-0 (0-0)
+     (Jamie Lawrence 78')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta (89' David Gugganig), Marco Boras -
+      Valentino Müller [c], Nikolai Baden Frederiksen (69' Thomas Sabitzer),
+      Johannes Naschberger, Benjamin Böckle - Matthäus Taferner,
+      Moritz Wels (90' Christian Huetz) - Ademola Ola-Adebomi (75' HINTERSEER Lukas)
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL [Y 53'], Albert Vallci, Paul-Friedrich Koller -
+      Jon GORENC STANKOVIC [c], Otari KITEISHVILI (42' Jacob Hödl), Emir Karic,
+      Jusuf GAZIBEGOVIC (75' Arjan MALIC) - Maurice MALONE (65' Seedy Jatta),
+      Ryan Fosso (65' Luca Weinhandl) - Axel Kayombo (65' Belmin Beganovic)
+
+Refs: Isa Simsek (AUT), Andreas Heidenreich (AUT), Mohamed El Sadany (AUT)
+
+
+Sat Feb 14 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 7300
+  SV Ried v LASK Linz  1-1 (1-0)
+     (Antonio Van Wyk 35'; Moses Usor 90+13'(p))
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer [Y 78'] -
+      Yusuf Maart, Ante Bajic, Fabian Rossdorfer (90' Philipp Pomer),
+      Jonas Mayer [Y 78'] (90' Martin Rasner [Y 90+12']) -
+      Nicolas Bajlicz [Y 22'] (77' Jussef Nasrawe) - Kingstone MUTANDWA (77' Peter Kiedl),
+      Antonio Van Wyk (77' Evan Aisowieren)
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba [Y 90+12'], Andres ANDRADE, Alemão - George BELLO -
+      Krystof Danek (77' Lukas Kacavenda [Y 83']), Kasper Jørgensen,
+      Sascha Horvath [c] (74' Christoph Lang), Samuel Adeniran (74' Moses Usor) -
+      Sasa KALAJDZIC, Melayro BOGARDE [Y 34']
+
+Refs: Chiristian-Petru Ciochirca (AUT), Philipp Duschek (AUT), Jakob Bogner (AUT)
+
+
+Sat Feb 14 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 2867
+  TSV Hartberg v SCR Altach  0-0 (0-0)
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Youba Diarra (83' Musibau Aziz) - Tobias Kainz, Elias Havel (66' Lukas Fridrikas),
+      Marco Hoffmann [Y 65'] (74' Jed Drew) - Jürgen Heil [c],
+      Maximilian Hennig (66' Damjan Kovacevic)
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c] [Y 70'], Benedikt Zech, Filip Milojevic -
+      Vesel Demaku, Mike-Steven Bähre, Rassa Rahmani, Patrick Greil -
+      Sandro Ingolitsch (68' Moritz Oswald [Y 77']), Yann Litawumba (80' Anteo Fetahu) -
+      Ousmane Diawara [Y 52'] (58' Srdjan Hrstic)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sun Feb 15 14:30 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 4495
+  Blau-Weiß Linz v Wolfsberger AC  2-1 (1-0)
+     (Shon WEISSMAN 44'(p), Ronivaldo 80';
+      Emmanuel Chukwu 90+4')
+
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c], Martin Moormann, David Riegler -
+      Alexander Briedl [Y 27'], Simon Seidl, David Bumberger [Y 55'] (79' Simon Pirkl),
+      Cheick Omar CONDE [Y 53'] (59' Mamadou Fofana) - Dominik Reiter [Y 22'] -
+      Shon WEISSMAN [Y 38'] (88' Oliver Wähling), Thomas Goiginger (79' Ronivaldo)
+Wolfsberger AC: Nikolas POLSTER - Boris Matic [Y 43'] (45' Emmanuel Chukwu),
+      Dominik Baumgartner [c] [Y 82'], Fabian Wohlmuth, Nicolas Wimmer - Dejan ZUKIC,
+      Angelo Gattermayer, David ATANGA (45' Erik Kojzek) -
+      Simon Piesinger (72' Cheick Diabaté [Y 90+1']) - Donis Avdijaj (75' Emmanuel Agyemang),
+      Alessandro SCHOEPF
+
+Refs: Arnes Talic (AUT), Amar Rekik (AUT), Thomas Kaplan (AUT)
+
+
+Sun Feb 15 14:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 5739
+  Grazer AK v FC Salzburg  1-1 (1-1)
+     (Leon Klassen 16'; Karim KONATE 40')
+
+Grazer AK: Franz Stolz - Donovan Pines, Martin Kreuzriegler (87' Lukas Graf),
+      Beres Owusu [Y 90+3'] - Murat Satin (80' Dominik Frieser) -
+      Tobias Koch [Y 47'] (60' Tim Paumgartner),
+      Jacob ITALIANO (80' Christian Lichtenberger), Leon Klassen,
+      Daniel Maderner [c] [Y 90+3'] - Alexander Hofleitner (60' Mark Grosse), Mathias OLESEN
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig, Tim Drexler, S. Lainer, Joane Gadou -
+      Sota Kitano (45' Maurits KJAERGAARD), Edmund Baidoo (66' Karim ONISIWO) -
+      Kerim ALAJBEGOVIC, Karim KONATE (66' Damir Redzic), Soumaïla Diabaté -
+      Mads BIDSTRUP [c] (74' Clement Bischoff)
+
+Refs: Daniel Pfister (AUT), Maximilian Kolbitsch (AUT), Johannes Stögerer (AUT)
+
+
+Sun Feb 15 17:00 UTC+1 @ Generali Arena, Vienna, Att: 15600
+  Austria Wien v Rapid Wien  2-0 (2-0)
+     (Johannes EGGESTEIN 15', Reinhold Ranftl 34')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC (87' Johannes Handl), Tin Plavotic,
+      Philipp Wiesinger - Abubakr BARRY, Lee Kang-Hee (87' Kelvin BOATENG),
+      LEE Taeseok [Y 83'], Sanel Saljic (62' Philipp Maybach) - Reinhold Ranftl,
+      Manfred Fischer [c] - Johannes EGGESTEIN
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou, Nenad Cvetkovic,
+      Bendeguz BOLLA (82' Moulaye Haïdara) - Martin Ndzie (21' Lukas Grgic [Y 55']),
+      Tobias Gulliksen (45' Tobias BORKEEIET), Romeo Amané (71' Daniel Nunoo [Y 73']) -
+      Nikolaus WURMBRAND, Matthias SEIDL [c] (71' Ercan Kara [Y 74']), Andreas Weimann
+
+Refs: Markus Hameter (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+▪ Regular Season - 20
+Sat Feb 21 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 3474
+  TSV Hartberg v Grazer AK  1-0 (0-0)
+     (Fabian Wilfinger 59')
+
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly (45' Maximilian Hennig), Fabian Wilfinger,
+      Lukas Spendlhofer [Y 65'], Benjamin Markus,
+      Youba Diarra [Y 72'] (87' Konstantin Schopp) - Tobias Kainz (81' Julian Halwachs),
+      Elias Havel (90+1' Lukas Fridrikas), Marco Hoffmann (45' Jed Drew) - Dominic Vincze,
+      Jürgen Heil [c]
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa (77' Christian Lichtenberger), Beres Owusu -
+      Murat Satin (66' Tim Paumgartner [Y 85']) - Mark Grosse (66' Alexander Hofleitner),
+      Jacob ITALIANO (90+4' Lukas Graf), Leon Klassen, Daniel Maderner [c] - Ramiz Harakate,
+      Mathias OLESEN
+
+Refs: Markus Greinecker (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+Sat Feb 21 17:00 UTC+1 @ Stadion Schnabelholz, Altach, Att: 3655
+  SCR Altach v Austria Wien  2-1 (2-1)
+     (Filip Milojevic 31', Mohamed OUEDRAOGO 34';
+      Johannes EGGESTEIN 33')
+
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c] [Y 90+4'], Benedikt Zech, Filip Milojevic -
+      Vesel Demaku, Mike-Steven Bähre, Moritz Oswald (75' Erkin Yalcin), Mohamed OUEDRAOGO -
+      Srdjan Hrstic (65' Anteo Fetahu), Patrick Greil (87' Lukas GUGGANIG),
+      Yann Litawumba (87' Alexander Gorgon)
+Austria Wien: Samuel RADLINGER - Lee Kang-Hee (76' Kelvin BOATENG), Tin Plavotic,
+      Philipp Wiesinger [Y 80'] - Abubakr BARRY [Y 62'],
+      Philipp Maybach (65' Johannes Handl [Y 90+4']), LEE Taeseok,
+      Reinhold Ranftl (84' Marijan Österreicher) - Johannes EGGESTEIN [Y 90+4'],
+      Sanel Saljic (65' Romeo Vucic), Manfred Fischer [c]
+
+Refs: Jakob Semler (AUT), Alexander Borucki (AUT), Edin Kudic (AUT)
+
+
+Sat Feb 21 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 10400
+  Rapid Wien v Wolfsberger AC  2-0 (0-0)
+     (Matthias SEIDL 72', Daniel Nunoo 90+2')
+
+Rapid Wien: Niklas HEDL [Y 90+1'] - Serge-Philippe Raux-Yao, Jannes HORN (62' Ange Ahoussou),
+      Nenad Cvetkovic, Bendeguz BOLLA - Nikolaus WURMBRAND [Y 25'] (62' Daniel Nunoo),
+      Tobias Gulliksen (45' Matthias SEIDL) - Andreas Weimann [c] [Y 90'],
+      Ercan Kara [Y 36'] (72' Petter Nosa Dahl), Lukas Grgic (82' Tobias BORKEEIET) -
+      Romeo Amané [Y 57']
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté [Y 26'] (45' Boris Matic), Dominik Baumgartner [c],
+      Nicolas Wimmer - Alessandro SCHOEPF (80' David ATANGA) - Marco Sulzner,
+      Fabian Wohlmuth (87' Emmanuel Chukwu), René Renner,
+      Erik Kojzek (68' Angelo Gattermayer) - Dejan ZUKIC [Y 88'],
+      Simon Piesinger (80' Emin Kujovic)
+
+Refs: Stefan Ebner (AUT), Sarah Amina Gutschi (AUT), Stefan Kühr (AUT)
+
+
+Sun Feb 22 14:30 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 1150
+  WSG Tirol v SV Ried  1-1 (0-1)
+     (Valentino Müller 71'; Antonio Van Wyk 22')
+
+WSG Tirol: Alexander Eckmayr - Jamie Lawrence, David Kubatta [Y 90'], Marco Boras -
+      Valentino Müller [c], Nikolai Baden Frederiksen (78' Thomas Sabitzer),
+      Johannes Naschberger, Benjamin Böckle (67' Lukas Sulzbacher) -
+      Matthäus Taferner (43' Yannick Vötter [Y 45+2']), Moritz Wels [Y 77'] -
+      Ademola Ola-Adebomi (67' HINTERSEER Lukas)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Ante Bajic [Y 81'] (85' Joris Boguo [Y 88']) - Philipp Pomer (60' Jonathan Scherzer),
+      Jonas Mayer (84' Martin Rasner), Nicolas Bajlicz (60' Jussef Nasrawe),
+      Kingstone MUTANDWA [Y 57'] (69' Peter Kiedl [Y 90']) - Antonio Van Wyk, Yusuf Maart
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+Sun Feb 22 14:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 14217
+  Sturm Graz v Blau-Weiß Linz  1-0 (1-0)
+     (Belmin Beganovic 34'(p))
+
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL [R 90'], Albert Vallci [Y 62'],
+      Paul-Friedrich Koller - Jon GORENC STANKOVIC [c] [Y 89'],
+      Gizo Mamageishvili (67' Filip Rózga (90+2' Emanuel Aiwu)), Arjan MALIC [Y 83'],
+      Belmin Beganovic (68' Maurice MALONE) - Jacob Hödl [Y 45+4'] (79' Emir Karic),
+      Ryan Fosso [Y 81'] - Seedy Jatta (67' Axel Kayombo)
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c], Martin Moormann [Y 90+6'], David Riegler [Y 90'] -
+      Isak Dahlqvist [Y 73'], Alexander Briedl, David Bumberger,
+      Cheick Omar CONDE (70' Ronivaldo) - Mamadou Fofana, Shon WEISSMAN, Simon Seidl
+
+Refs: Alain Sadikovski (AUT), Mattias Hartl (AUT), Manuel Undesser (AUT)
+
+
+Sun Feb 22 17:00 UTC+1 @ Raiffeisen Arena, Linz, Att: 13669
+  LASK Linz v FC Salzburg  1-5 (1-3)
+     (Sasa KALAJDZIC 18';
+      Kerim ALAJBEGOVIC 6', Karim KONATE 10', 64', Sota Kitano 37', Damir Redzic 90+4')
+
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba, Andres ANDRADE, Alemão -
+      George BELLO (90' Lukas Kacavenda), Melayro BOGARDE (90' Ismaila COULIBALY),
+      Kasper Jørgensen, Christoph Lang (67' Samuel Adeniran) - Sascha Horvath [c] -
+      Moses Usor (81' Florian Flecker), Sasa KALAJDZIC (80' Maximilian Entrup)
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (90' Aleksa TERZIC), Tim Drexler, S. Lainer [Y 50'],
+      Joane Gadou - Soumaïla Diabaté, Sota Kitano (67' Moussa Yeo), Mads BIDSTRUP [c] -
+      Karim KONATE (84' Karim ONISIWO), Edmund Baidoo (84' Damir Redzic),
+      Kerim ALAJBEGOVIC (90' Clement Bischoff)
+
+Refs: Alexander Harkam (AUT), Stefan Pichler (AUT), Sebastian Gruber (AUT)
+
+
+▪ Regular Season - 21
+Sun Mar 1 17:00 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 5038
+  Blau-Weiß Linz v WSG Tirol  2-3 (1-3)
+     (Nico Maier 16', Simon Seidl 50';
+      Nikolai Baden Frederiksen 15', 19', 45+1')
+
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c], Alem Pasic [Y 28'] (45' Fabio Strauss),
+      David Riegler - Isak Dahlqvist, Alexander Briedl, Simon Seidl,
+      David Bumberger (82' Paul Mensah) - Cheick Omar CONDE (45' Mamadou Fofana),
+      Nico Maier (72' Thomas Goiginger) - Shon WEISSMAN (72' Ronivaldo [Y 90+2'])
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras [Y 89'] -
+      Valentino Müller [c] [Y 68'], Lukas Sulzbacher (71' David Jaunegg),
+      Johannes Naschberger, Benjamin Böckle - Nikolai Baden Frederiksen (79' Tobias Anselm),
+      Ademola Ola-Adebomi (45' HINTERSEER Lukas), Thomas Sabitzer [Y 42'] (45' Yannick Vötter)
+
+Refs: Jakob Semler (AUT), Johannes Stögerer (AUT), Philipp Duschek (AUT)
+
+
+Sun Mar 1 17:00 UTC+1 @ Generali Arena, Vienna, Att: 14165
+  Austria Wien v LASK Linz  2-2 (0-1)
+     (Aleksandar DRAGOVIC 47', Johannes EGGESTEIN 87'(p);
+      Moses Usor 23', Christoph Lang 73')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic [Y 6'] (63' Johannes Handl),
+      Philipp Wiesinger [Y 41'] - Abubakr BARRY, Philipp Maybach (71' Vasilije Markovic),
+      Lee Kang-Hee (71' Romeo Vucic), LEE Taeseok - Reinhold Ranftl,
+      Manfred Fischer [c] [Y 52'] (84' Marko Raguz) - Johannes EGGESTEIN
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé - George BELLO,
+      Melayro BOGARDE (74' Ismaila COULIBALY), Krystof Danek (62' Christoph Lang),
+      Kasper Jørgensen - Sascha Horvath [c] (83' Xavier Mbuyamba) -
+      Moses Usor (74' Maximilian Entrup), Sasa KALAJDZIC (62' Samuel Adeniran)
+
+Refs: Arnes Talic (AUT), Mattias Hartl (AUT), Amar Rekik (AUT)
+
+
+Sun Mar 1 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 5467
+  Grazer AK v SV Ried  2-1 (2-0)
+     (Alexander Hofleitner 7', Ramiz Harakate 26';
+      Ante Bajic 90+1')
+
+Grazer AK: Franz Stolz [Y 89'] - Donovan Pines, Ludwig Vraa, Beres Owusu [Y 85'] -
+      Christian Lichtenberger (71' Mark Grosse [R 90+3']) -
+      Jacob ITALIANO [Y 86'] (89' Lukas Graf), Thorsten Schriebl [c] [Y 44'], Leon Klassen,
+      Ramiz Harakate (81' Dominik Frieser) - Alexander Hofleitner [Y 53'], Mathias OLESEN
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer [Y 82'], Oliver Steurer -
+      Ante Bajic - Philipp Pomer [Y 33'] (77' Saliou Sané), Jonas Mayer (45' Jussef Nasrawe),
+      Nicolas Bajlicz (65' Christopher Wernitznig [Y 88']), Peter Kiedl -
+      Antonio Van Wyk (77' Joris Boguo), Yusuf Maart (65' Martin Rasner)
+
+Refs: Markus Hameter (AUT), Mohamed El Sadany (AUT), Philip Gschliesser (AUT)
+
+
+Sun Mar 1 17:00 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 6355
+  Wolfsberger AC v Sturm Graz  2-2 (1-0)
+     (Boris Matic 19', Erik Kojzek 51';
+      Otari KITEISHVILI 68'(p), 73')
+
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté [R 61'], Dominik Baumgartner [c], Nicolas Wimmer -
+      Boris Matic, Dejan ZUKIC (90+4' Emmanuel Agyemang),
+      Emin Kujovic [Y 49'] (87' Emmanuel Chukwu), Marco Sulzner - René Renner [Y 80'] -
+      Erik Kojzek (87' Simon Piesinger), David ATANGA (69' Fabian Wohlmuth)
+Sturm Graz: Matteo Bignetti - Albert Vallci, Arjan MALIC, Paul-Friedrich Koller -
+      Jon GORENC STANKOVIC [c] [Y 82'], Emir Karic (59' Filip Rózga [Y 69']),
+      Belmin Beganovic (59' Axel Kayombo [Y 73']), Jacob Hödl -
+      Maurice MALONE (67' Otari KITEISHVILI), Ryan Fosso [Y 59'] (86' Luca Weinhandl) -
+      Seedy Jatta [Y 2'] (86' Rory Wilson)
+
+Refs: Harald Lechner (AUT), Stefan Pichler (AUT), Sebastian Gruber (AUT)
+
+
+Sun Mar 1 17:00 UTC+1 @ Stadion Schnabelholz, Altach, Att: 7067
+  SCR Altach v Rapid Wien  1-1 (0-0)
+     (Yann Litawumba 86'; Andreas Weimann 51')
+
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech, Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre, Moritz Oswald (67' Sandro Ingolitsch [Y 78']), Mohamed OUEDRAOGO -
+      Srdjan Hrstic (45' Ousmane Diawara), Patrick Greil (83' Precious Benjamin),
+      Yann Litawumba [Y 45+2']
+Rapid Wien: Niklas HEDL [Y 90+4'] - Serge-Philippe Raux-Yao,
+      Jannes HORN (77' Jakob Schöller [R 90+1']), Nenad Cvetkovic -
+      Nikolaus WURMBRAND (77' Tobias BORKEEIET), Tobias Gulliksen (65' Petter Nosa Dahl),
+      Matthias SEIDL [c], Romeo Amané [Y 85'] (90+2' Ange Ahoussou) -
+      Daniel Nunoo (77' Furkan Demir), Bendeguz BOLLA - Andreas Weimann
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sun Mar 1 17:00 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 7458
+  FC Salzburg v TSV Hartberg  0-0 (0-0)
+
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig, Tim Drexler (35' Anrie CHASE), Joane Gadou,
+      Tim Trummer (67' Aleksa TERZIC) - Edmund Baidoo (68' Damir Redzic), Kerim ALAJBEGOVIC -
+      Moussa Yeo (68' Oliver Lukic), Karim KONATE [Y 59'],
+      Soumaïla Diabaté [Y 57'] (84' Karim ONISIWO) - Mads BIDSTRUP [c]
+TSV Hartberg: Tom Hülsmann - Dominic Vincze [Y 90+4'], Fabian Wilfinger, Lukas Spendlhofer,
+      Benjamin Markus, Youba Diarra (81' Julian Halwachs) - Tobias Kainz [c],
+      Elias Havel (64' Jed Drew), Lukas Fridrikas (45' Marco Hoffmann) - Luca Pazourek,
+      Maximilian Hennig
+
+Refs: Isa Simsek (AUT), Thomas Kaplan (AUT), Manuel Undesser (AUT)
+
+
+▪ Regular Season - 22
+Sun Mar 8 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 14570
+  Rapid Wien v FC Salzburg  1-0 (1-0)
+     (Janis Antiste 38')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou, Nenad Cvetkovic - Lukas Grgic,
+      Nikolaus WURMBRAND (69' Petter Nosa Dahl [Y 90+6']), Matthias SEIDL [c],
+      Jannes HORN (80' Amìn-Elias Gröller) - Daniel Nunoo (22' Tobias Gulliksen),
+      Janis Antiste (70' Tobias BORKEEIET) - Andreas Weimann (81' Ercan Kara)
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (68' Aleksa TERZIC), Tim Drexler,
+      Joane Gadou [Y 48'], Jannik Schuster - Damir Redzic,
+      Kerim ALAJBEGOVIC (80' Clement Bischoff) - Moussa Yeo (69' Yorbe Vertessen),
+      Edmund Baidoo (60' Karim KONATE), Mamady DIAMBOU [Y 50'] (60' Oliver Lukic) -
+      Mads BIDSTRUP [c] [Y 75']
+
+Refs: Harald Lechner (AUT), Maximilian Kolbitsch (AUT), Sebastian Gruber (AUT)
+
+
+Sun Mar 8 17:00 UTC+1 @ PROfertil ARENA, Hartberg, Att: 3892
+  TSV Hartberg v Blau-Weiß Linz  1-1 (1-1)
+     (David Riegler 1'(og); David Bumberger 11')
+
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Fabian Wilfinger, Lukas Spendlhofer, Benjamin Markus,
+      Youba Diarra - Tobias Kainz (62' Luca Pazourek), Elias Havel (77' Lukas Fridrikas),
+      Marco Hoffmann (62' Jed Drew) - Jürgen Heil [c], Maximilian Hennig
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c], Martin Moormann, David Riegler - Isak Dahlqvist,
+      Christopher Cvetko, Alexander Briedl (77' Mamadou Fofana), Simon Seidl -
+      David Bumberger, Nico Maier (77' Ronivaldo) - Shon WEISSMAN (86' Dominik Reiter)
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Patrick Csobadi (AUT)
+
+
+Sun Mar 8 17:00 UTC+1 @ Raiffeisen Arena, Linz, Att: 10717
+  LASK Linz v Wolfsberger AC  3-1 (1-1)
+     (Samuel Adeniran 36', Kasper Jørgensen 69', Maximilian Entrup 90+3';
+      Dominik Baumgartner 42')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão (45' Xavier Mbuyamba), Modou Cissé -
+      George BELLO, Melayro BOGARDE, Kasper Jørgensen (87' Florian Flecker),
+      Christoph Lang (66' Sasa KALAJDZIC) - Sascha Horvath [c] -
+      Samuel Adeniran (87' Maximilian Entrup), Moses Usor (77' Lukas Kacavenda)
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Fabian Wohlmuth (87' Emmanuel Agyemang),
+      Nicolas Wimmer - Boris Matic, Dejan ZUKIC [Y 66'],
+      Emin Kujovic [Y 63'] (67' Simon Piesinger), Marco Sulzner (87' Angelo Gattermayer) -
+      René Renner [Y 45+2'] - Erik Kojzek, David ATANGA (60' Alessandro SCHOEPF)
+
+Refs: Safak Barmaksiz (AUT), Robert Steinacher (AUT), Mohamed El Sadany (AUT)
+
+
+Sun Mar 8 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 5870
+  SV Ried v Austria Wien  0-2 (0-0)
+     (Abubakr BARRY 56', Aleksandar DRAGOVIC 73')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart (76' Martin Rasner), Ante Bajic (86' Jussef Nasrawe),
+      Fabian Rossdorfer [Y 67'] (76' Jonathan Scherzer), Jonas Mayer -
+      Nicolas Bajlicz (86' Evan Aisowieren), Antonio Van Wyk (76' Joris Boguo) -
+      Kingstone MUTANDWA
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC [Y 41'], Tin Plavotic, Philipp Wiesinger -
+      Abubakr BARRY (85' Romeo Vucic), Philipp Maybach (81' Johannes Handl), Lee Kang-Hee,
+      LEE Taeseok [Y 76'] - Reinhold Ranftl (81' Marijan Österreicher),
+      Manfred Fischer [c] (65' Vasilije Markovic [Y 90+4']) -
+      Johannes EGGESTEIN (86' Marko Raguz)
+
+Refs: Alexander Harkam (AUT), Maximilian Weiss (AUT), Alexander Borucki (AUT)
+
+
+Sun Mar 8 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 15007
+  Sturm Graz v SCR Altach  2-0 (0-0)
+     (Jacob Hödl 58', Belmin Beganovic 84')
+
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL, Albert Vallci,
+      Paul-Friedrich Koller (87' Niklas Geyrhofer) - Filip Rózga (78' Maurice MALONE),
+      Otari KITEISHVILI [c] (78' Gizo Mamageishvili [Y 86']),
+      Jusuf GAZIBEGOVIC (72' Emir Karic), Luca Weinhandl - Jacob Hödl, Ryan Fosso -
+      Seedy Jatta (72' Belmin Beganovic)
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech [Y 2'] [Y/R 77'],
+      Filip Milojevic [Y 29'] - Vesel Demaku, Mike-Steven Bähre,
+      Sandro Ingolitsch (90+1' Alexander Gorgon), Mohamed OUEDRAOGO (90+1' Rassa Rahmani) -
+      Ousmane Diawara (69' Srdjan Hrstic), Patrick Greil (79' Lukas GUGGANIG),
+      Yann Litawumba (69' Erkin Yalcin)
+
+Refs: Stefan Ebner (AUT), Martin Höfler (AUT), Michael Obritzberger (AUT)
+
+
+Sun Mar 8 17:00 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 2250
+  WSG Tirol v Grazer AK  2-0 (2-0)
+     (David Kubatta 10', Ademola Ola-Adebomi 43')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence [c], David Kubatta [Y 38'] (59' David Jaunegg),
+      Marco Boras - Lukas Sulzbacher, Johannes Naschberger, Benjamin Böckle,
+      Moritz Wels (90+2' David Falkner) - Nikolai Baden Frederiksen (87' Christian Huetz),
+      Ademola Ola-Adebomi [Y 21'] (45' HINTERSEER Lukas),
+      Thomas Sabitzer [Y 55'] (59' Yannick Vötter)
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa, Martin Kreuzriegler [R 42'] -
+      Christian Lichtenberger (45' Mukhran Bagrationi) -
+      Jacob ITALIANO (79' Dominik Frieser), Thorsten Schriebl [c],
+      Leon Klassen (69' Thomas Schiestl), Ramiz Harakate -
+      Alexander Hofleitner (69' Daniel Maderner), Mathias OLESEN [Y 61'] (69' Tim Paumgartner)
+
+Refs: Florian Jäger (AUT), Mattias Hartl (AUT), Thomas Kaplan (AUT)
+
+
+▪ Championship Round - 1
+Fri Mar 13 19:30 UTC+1 @ Raiffeisen Arena, Linz, Att: 9554
+  LASK Linz v TSV Hartberg  0-0 (0-0)
+
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba, Andres ANDRADE [c], Modou Cissé [Y 78'] -
+      George BELLO, Melayro BOGARDE, Moses Usor, Kasper Jørgensen -
+      Christoph Lang (79' Lukas Kacavenda) - Samuel Adeniran (66' Maximilian Entrup),
+      Sasa KALAJDZIC
+TSV Hartberg: Tom Hülsmann - Dominic Vincze, Habib Coulibaly, Fabian Wilfinger, Benjamin Markus,
+      Youba Diarra [R 90+1'] - Jürgen Heil [c] (45' Tobias Kainz [Y 81']),
+      Elias Havel [Y 31'] (61' Lukas Fridrikas [Y 75'] (90+2' Julian Halwachs)),
+      Musibau Aziz (45' Marco Hoffmann) - Luca Pazourek (79' Damjan Kovacevic),
+      Maximilian Hennig [Y 57']
+
+Refs: Alain Sadikovski (AUT), Alexander Borucki (AUT), Mattias Hartl (AUT)
+
+
+▪ Relegation Round - 1
+Sat Mar 14 17:00 UTC+1 @ Stadion Schnabelholz, Altach, Att: 3730
+  SCR Altach v Blau-Weiß Linz  3-1 (1-0)
+     (Srdjan Hrstic 41', Mohamed OUEDRAOGO 71', Manuel Maranda 86'(og);
+      Ronivaldo 90')
+
+SCR Altach: Dejan Stojanovic - Lukas GUGGANIG, Lukas Jäger [c], Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre, Sandro Ingolitsch (88' Precious Benjamin),
+      Mohamed OUEDRAOGO [Y 61'] - Srdjan Hrstic (66' Ousmane Diawara),
+      Patrick Greil [Y 82'] (83' Erkin Yalcin), Yann Litawumba (83' Moritz Oswald)
+Blau-Weiß Linz: Nico Mantl [Y 26'] - Manuel Maranda [c], Martin Moormann, David Riegler -
+      Isak Dahlqvist (80' Dominik Reiter), Christopher Cvetko (81' Cheick Omar CONDE),
+      Alexander Briedl, Simon Seidl [Y 49'] (70' Ronivaldo) -
+      David Bumberger [Y 51'] (80' Simon Pirkl), Nico Maier (80' Mamadou Fofana) -
+      Shon WEISSMAN [Y 11']
+
+Refs: Daniel Pfister (AUT), Philip Gschliesser (AUT), Onur Yayar (AUT)
+
+
+Sat Mar 14 17:00 UTC+1 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 3150
+  SV Ried v WSG Tirol  2-1 (1-0)
+     (Kingstone MUTANDWA 45+6'(p), Philipp Pomer 85'(p);
+      Ademola Ola-Adebomi 81')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer [Y 73'], Oliver Steurer -
+      Yusuf Maart (74' Martin Rasner), Ante Bajic, Philipp Pomer, Fabian Rossdorfer -
+      Jonas Mayer, Antonio Van Wyk (45' Joris Boguo) -
+      Kingstone MUTANDWA (82' Peter Kiedl [Y 86'])
+WSG Tirol: Adam Stejskal - Jamie Lawrence, Marco Boras [Y 89'], David Jaunegg -
+      Valentino Müller [c], Lukas Sulzbacher, Nikolai Baden Frederiksen,
+      Johannes Naschberger (67' Yannick Vötter) - Benjamin Böckle,
+      Moritz Wels (79' HINTERSEER Lukas) - Ademola Ola-Adebomi
+
+Refs: Jakob Semler (AUT), Philipp Duschek (AUT), Edin Kudic (AUT)
+
+
+Sat Mar 14 17:00 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 5032
+  Grazer AK v Wolfsberger AC  2-0 (1-0)
+     (Mathias OLESEN 25', Daniel Maderner 80')
+
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa, Beres Owusu -
+      Christian Lichtenberger (82' Mark Grosse) - Jacob ITALIANO (45' Dominik Frieser),
+      Thorsten Schriebl [c] (75' Murat Satin), Leon Klassen, Ramiz Harakate -
+      Alexander Hofleitner (74' Daniel Maderner), Mathias OLESEN
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté [Y 46'] (85' Tobias Gruber),
+      Dominik Baumgartner [c] [Y 56'], Nicolas Wimmer [Y 73'] - Boris Matic,
+      Simon Piesinger (45' Jessic NGANKAM), Alessandro SCHOEPF,
+      Dejan ZUKIC (85' David ATANGA) - Marco Sulzner [Y 87'], René Renner -
+      Erik Kojzek (77' Donis Avdijaj)
+
+Refs: Julian Weinberger (AUT), Mario Diesenberger (AUT), Njegos Vucanovic (AUT)
+
+
+▪ Championship Round - 1
+Sun Mar 15 14:30 UTC+1 @ Red Bull Arena, Wals-Siezenheim, Att: 9957
+  FC Salzburg v Rapid Wien  0-1 (0-0)
+     (Matthias SEIDL 69')
+
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig, Tim Drexler, Joane Gadou [R 67'], Jannik Schuster -
+      Damir Redzic (63' Yorbe Vertessen [Y 76']), Oliver Lukic (70' Tim Trummer) -
+      Kerim ALAJBEGOVIC (62' Clement Bischoff), Karim KONATE (83' Karim ONISIWO),
+      Soumaïla Diabaté (83' Aleksa TERZIC) - Mads BIDSTRUP [c]
+Rapid Wien: Niklas HEDL - Jakob Schöller (53' Ange Ahoussou), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic [Y 76'] - Lukas Grgic [Y 22'] (52' Petter Nosa Dahl),
+      Nikolaus WURMBRAND (83' Tobias Gulliksen), Matthias SEIDL [c],
+      Romeo Amané [Y 79'] (90+3' Tobias BORKEEIET) - Jannes HORN [Y 19'], Bendeguz BOLLA -
+      Andreas Weimann (83' Janis Antiste)
+
+Refs: Markus Hameter (AUT), Thomas Kaplan (AUT), Mohamed El Sadany (AUT)
+
+
+Sun Mar 15 17:00 UTC+1 @ Generali Arena, Vienna, Att: 13848
+  Austria Wien v Sturm Graz  2-5 (1-2)
+     (Matteo Schablas 1', Manfred Fischer 84';
+      Filip Rózga 6', Otari KITEISHVILI 45+1', 55'(p), Ryan Fosso 60', Aleksandar DRAGOVIC 66'(og))
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC [Y 90+3'], Tin Plavotic [Y 43'] [Y/R 55'],
+      Philipp Wiesinger [Y 70'] - Abubakr BARRY [Y 30'] (82' Romeo Mörth),
+      Philipp Maybach (62' Vasilije Markovic), Lee Kang-Hee (62' Johannes Handl [Y 89']),
+      Reinhold Ranftl - Manfred Fischer [c], Matteo Schablas (82' Marijan Österreicher) -
+      Johannes EGGESTEIN (88' Abdoulaye Kanté)
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL, Albert Vallci, Emir Karic,
+      Paul-Friedrich Koller [R 76'] - Filip Rózga [Y 56'] (63' Gizo Mamageishvili),
+      Otari KITEISHVILI (72' Maurice MALONE) - Jacob Hödl (72' Arjan MALIC),
+      Seedy Jatta (62' Belmin Beganovic), Jon GORENC STANKOVIC [c] -
+      Ryan Fosso (88' Luca Weinhandl)
+
+Refs: Walter Altmann (AUT), Luka Katholnig (AUT), Stefan Kühr (AUT)
+
+
+▪ Championship Round - 2
+Fri Mar 20 19:30 UTC+1 @ Stadion Graz-Liebenau, Graz, Att: 14817
+  Sturm Graz v FC Salzburg  1-1 (1-1)
+     (Jon GORENC STANKOVIC 45+5'; Yorbe Vertessen 32')
+
+Sturm Graz: Matteo Bignetti - Jeyland MITCHELL (39' Emanuel Aiwu), Albert Vallci, Emir Karic,
+      Arjan MALIC - Otari KITEISHVILI [Y 51'] - Jacob Hödl (70' Filip Rózga),
+      Ryan Fosso [Y 74'] (87' Luca Weinhandl) -
+      Gizo Mamageishvili [Y 13'] (70' Maurice MALONE) - Seedy Jatta (87' Axel Kayombo),
+      Jon GORENC STANKOVIC [c]
+FC Salzburg: Alexander SCHLAGER - Aleksa TERZIC, Tim Drexler [Y 74'], Jannik Schuster,
+      Anrie CHASE [Y 77'] [Y/R 90+1'] - Yorbe Vertessen [Y 37'] (75' Sota Kitano),
+      Karim KONATE (85' Karim ONISIWO), Edmund Baidoo (75' Damir Redzic) -
+      Soumaïla Diabaté [Y 86'] - Frans Krätzig (83' Moussa Yeo), Mads BIDSTRUP [c]
+
+Refs: Julian Weinberger (AUT), Mattias Hartl (AUT), Stefan Pichler (AUT)
+
+
+▪ Relegation Round - 2
+Sat Mar 21 17:00 UTC+1 @ Hofmann Personal Stadion, Linz, Att: 5595
+  Blau-Weiß Linz v SV Ried  3-2 (0-2)
+     (Alexander Briedl 54', Simon Seidl 64', Ronivaldo 83'(p);
+      Peter Kiedl 3'(p), 18')
+
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c] (76' Thomas Goiginger (90+3' Mamadou Fofana)),
+      Manuel Maranda, Alem Pasic - Christopher Cvetko (40' Ronivaldo), Alexander Briedl,
+      Simon Seidl, David Bumberger (76' David Riegler) -
+      Dominik Reiter [Y 20'] (90+2' Simon Pirkl), Nico Maier - Shon WEISSMAN
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Dominik Kirnbauer, Oliver Steurer -
+      Martin Rasner [Y 23'] (58' Yusuf Maart), Fabian Rossdorfer (57' Ante Bajic),
+      Jussef Nasrawe (45' Jonathan Scherzer), Jonas Mayer - Nicolas Bajlicz [R 30'] -
+      Peter Kiedl [Y 45+3'] (71' Kingstone MUTANDWA),
+      Joris Boguo [Y 76'] (80' Antonio Van Wyk)
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+Sat Mar 21 17:00 UTC+1 @ Tivoli Stadion Tirol, Innsbruck, Att: 1180
+  WSG Tirol v Grazer AK  1-5 (1-2)
+     (Nikolai Baden Frederiksen 19';
+      Jacob ITALIANO 23', 65', 85'(p), Ramiz Harakate 39', 58'(p))
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta [Y 26'] (68' David Jaunegg),
+      Marco Boras - Valentino Müller [c], Lukas Sulzbacher (59' Thomas Sabitzer),
+      Nikolai Baden Frederiksen (68' Christian Huetz [Y 90+3']), Johannes Naschberger -
+      Benjamin Böckle, Moritz Wels - Ademola Ola-Adebomi (59' HINTERSEER Lukas)
+Grazer AK: Franz Stolz - Donovan Pines [Y 88'], Ludwig Vraa, Beres Owusu - Mathias OLESEN,
+      Christian Lichtenberger [Y 21'] (74' Tobias Koch),
+      Jacob ITALIANO (87' Dominik Frieser), Thorsten Schriebl [c] (87' Murat Satin),
+      Alexander Hofleitner (74' Daniel Maderner [Y 90']) - Leon Klassen -
+      Ramiz Harakate (81' Mark Grosse)
+
+Refs: Harald Lechner (AUT), Maximilian Kolbitsch (AUT), Markus Reichholf (AUT)
+
+
+Sat Mar 21 17:00 UTC+1 @ Lavanttal Arena, Wolfsberg, Att: 2480
+  Wolfsberger AC v SCR Altach  1-1 (1-1)
+     (Nicolas Wimmer 45+1'; Patrick Greil 38')
+
+Wolfsberger AC: Nikolas POLSTER - Boris Matic, Fabian Wohlmuth, Nicolas Wimmer [c] [Y 90'],
+      René Renner - Angelo Gattermayer, Donis Avdijaj (63' Emmanuel Agyemang) - Dejan ZUKIC,
+      Jessic NGANKAM [Y 18'] (74' Erik Kojzek), Emin Kujovic - Marco Sulzner
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech, Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre, Srdjan Hrstic (61' Ousmane Diawara),
+      Sandro Ingolitsch (82' Rassa Rahmani), Erkin Yalcin (45' Moritz Oswald [Y 58']) -
+      Patrick Greil (82' Alexander Gorgon), Yann Litawumba (61' Marlon Mustapha)
+
+Refs: Isa Simsek (AUT), Manuel Undesser (AUT), Jakob Bogner (AUT)
+
+
+▪ Championship Round - 2
+Sun Mar 22 14:30 UTC+1 @ PROfertil ARENA, Hartberg, Att: 4126
+  TSV Hartberg v Austria Wien  0-1 (0-1)
+     (Manfred Fischer 45+1')
+
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly, Fabian Wilfinger, Konstantin Schopp [R 38'],
+      Benjamin Markus, Julian Halwachs (77' Musibau Aziz) -
+      Jürgen Heil [c] (77' Lukas Fridrikas), Elias Havel, Jed Drew (43' Damjan Kovacevic) -
+      Luca Pazourek (77' Maximilian Fillafer), Dominic Vincze (53' Marco Hoffmann)
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger,
+      Johannes Handl [Y 71'] (79' Dejan Radonjic) -
+      Philipp Maybach (63' Romeo Mörth [Y 64']), Lee Kang-Hee [Y 1'],
+      LEE Taeseok [Y 49'] (63' Matteo Schablas), Reinhold Ranftl - Manfred Fischer [c],
+      Vasilije Markovic [Y 57'] (79' Romeo Vucic) - Johannes EGGESTEIN
+
+Refs: Stefan Ebner (AUT), Martin Höfler (AUT), Sarah Amina Gutschi (AUT)
+
+
+Sun Mar 22 17:00 UTC+1 @ Allianz Stadion, Vienna, Att: 13591
+  Rapid Wien v LASK Linz  4-2 (2-1)
+     (Jakob Schöller 3', Bendeguz BOLLA 33', 65'(p), Matthias SEIDL 85';
+      Samuel Adeniran 1', Moses Usor 79')
+
+Rapid Wien: Niklas HEDL - Jakob Schöller (54' Ange Ahoussou), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic - Nikolaus WURMBRAND (66' Petter Nosa Dahl), Matthias SEIDL [c],
+      Romeo Amané, Jannes HORN [Y 77'] (83' Lukas Grgic) -
+      Bendeguz BOLLA (83' Furkan Demir [Y 90+1']), Janis Antiste (66' Tobias Gulliksen) -
+      Andreas Weimann
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba, Andres ANDRADE [c], Alemão -
+      George BELLO (45' Emmanuel Michael), Melayro BOGARDE, Kasper Jørgensen,
+      Christoph Lang (63' Sasa KALAJDZIC) - Lukas Kacavenda (75' Ismaila COULIBALY) -
+      Samuel Adeniran (83' Maximilian Entrup), Moses Usor
+
+Refs: Arnes Talic (AUT), Andreas Heidenreich (AUT), Amar Rekik (AUT)
+
+
+▪ Relegation Round - 3
+Fri Apr 3 19:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 5122
+  SV Ried v SCR Altach  3-2 (0-1)
+     (Kingstone MUTANDWA 62', 69', 90+3'(p);
+      Patrick Greil 27', Mohamed OUEDRAOGO 46')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart [Y 90+9'], Martin Rasner (64' Evan Aisowieren), Philipp Pomer [Y 90+10'],
+      Fabian Rossdorfer (85' Jussef Nasrawe) - Ante Bajic (90+7' Dominik Kirnbauer),
+      Peter Kiedl (45' Kingstone MUTANDWA [Y 50']), Antonio Van Wyk (90+6' Jonas Mayer)
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c] (90+4' Srdjan Hrstic), Benedikt Zech,
+      Filip Milojevic - Vesel Demaku (90+4' Alexander Gorgon), Mike-Steven Bähre,
+      Sandro Ingolitsch [Y 74'] (90+4' Erkin Yalcin), Mohamed OUEDRAOGO -
+      Ousmane Diawara [R 58'], Patrick Greil (70' Marlon Mustapha),
+      Yann Litawumba (80' Lukas GUGGANIG)
+
+Refs: Alain Sadikovski (AUT), Andreas Heidenreich (AUT), Sebastian Gruber (AUT)
+
+
+Sat Apr 4 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck
+  WSG Tirol v Wolfsberger AC  3-1 (0-1)
+     (Valentino Müller 59'(p), Ademola Ola-Adebomi 77', Moritz Wels 90+4';
+      Jessic NGANKAM 9')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta, Marco Boras - Valentino Müller [c],
+      Johannes Naschberger (60' Lukas Sulzbacher), Benjamin Böckle, Matthäus Taferner -
+      Moritz Wels - Nikolai Baden Frederiksen (78' Thomas Sabitzer),
+      Ademola Ola-Adebomi (90' HINTERSEER Lukas)
+Wolfsberger AC: Nikolas POLSTER - Boris Matic, Fabian Wohlmuth, Nicolas Wimmer [c], René Renner -
+      Angelo Gattermayer (83' Erik Kojzek), Donis Avdijaj (69' David ATANGA) - Dejan ZUKIC,
+      Jessic NGANKAM, Emin Kujovic - Marco Sulzner (83' Emmanuel Agyemang)
+
+Refs: Alexander Harkam (AUT), Thomas Kaplan (AUT), Gerald Bognar (AUT)
+
+
+Sat Apr 4 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 6327
+  Grazer AK v Blau-Weiß Linz  2-1 (1-0)
+     (Alexander Hofleitner 39'(p), Ramiz Harakate 79';
+      Ronivaldo 62')
+
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa, Beres Owusu -
+      Christian Lichtenberger (72' Murat Satin) - Jacob ITALIANO (89' Dominik Frieser),
+      Thorsten Schriebl [c] (61' Tobias Koch), Leon Klassen (89' Martin Kreuzriegler),
+      Ramiz Harakate [Y 79'] - Alexander Hofleitner [Y 45+1'] (72' Mark Grosse),
+      Mathias OLESEN
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c], Manuel Maranda, Alem Pasic [Y 90+5'],
+      Christopher Cvetko (45' Ronivaldo), Alexander Briedl - Nico Maier (83' João Luiz),
+      Shon WEISSMAN [Y 62'], Simon Seidl (73' Mamadou Fofana) -
+      David Bumberger (45' Simon Pirkl), Dominik Reiter
+
+Refs: Markus Hameter (AUT), Mohamed El Sadany (AUT), Patrick Csobadi (AUT)
+
+
+▪ Championship Round - 3
+Sun Apr 5 14:30 UTC+2 @ PROfertil ARENA, Hartberg, Att: 2777
+  TSV Hartberg v FC Salzburg  1-2 (1-0)
+     (Elias Havel 30';
+      Karim KONATE 57', Sota Kitano 58')
+
+TSV Hartberg: Tom Hülsmann [Y 74'] - Habib Coulibaly, Fabian Wilfinger [Y 69'],
+      Lukas Spendlhofer [R 83'], Benjamin Markus, Tobias Kainz (79' Youba Diarra) -
+      Lukas Fridrikas (62' Musibau Aziz), Elias Havel, Jed Drew (62' Marco Hoffmann) -
+      Jürgen Heil [c], Maximilian Hennig (62' Luca Pazourek)
+FC Salzburg: Alexander SCHLAGER - Aleksa TERZIC [Y 70'], Tim Drexler (45' S. Lainer [Y 50']),
+      Joane Gadou, Jannik Schuster - Sota Kitano (90+4' Soumaïla Diabaté), Yorbe Vertessen -
+      Edmund Baidoo (71' Maurits KJAERGAARD), Karim KONATE [Y 36'] (89' Karim ONISIWO),
+      Frans Krätzig (45' Kerim ALAJBEGOVIC) - Mads BIDSTRUP [c]
+
+Refs: Safak Barmaksiz (AUT), Robert Steinacher (AUT), Stefan Kühr (AUT)
+
+
+Sun Apr 5 14:30 UTC+2 @ Raiffeisen Arena, Linz, Att: 12849
+  LASK Linz v Austria Wien  4-1 (4-1)
+     (Modou Cissé 4', Kasper Jørgensen 12', Moses Usor 13', Sasa KALAJDZIC 32';
+      LEE Taeseok 16')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE (87' Xavier Mbuyamba), Alemão, Modou Cissé -
+      Ismaila COULIBALY, Melayro BOGARDE, Moses Usor (71' Lukas Kacavenda),
+      Kasper Jørgensen (78' Florian Flecker) - Sascha Horvath [c] (86' Christoph Lang) -
+      Samuel Adeniran (78' Maximilian Entrup), Sasa KALAJDZIC
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC (71' Johannes Handl), Tin Plavotic [R 11'],
+      Philipp Wiesinger (61' Dejan Radonjic) - Abubakr BARRY,
+      Philipp Maybach (61' Vasilije Markovic), Lee Kang-Hee, LEE Taeseok - Reinhold Ranftl,
+      Manfred Fischer [c] (72' Sanel Saljic) - Johannes EGGESTEIN (85' Kelvin BOATENG)
+
+Refs: Jakob Semler (AUT), Maximilian Kolbitsch (AUT), Alexander Borucki (AUT)
+
+
+Sun Apr 5 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 16110
+  Rapid Wien v Sturm Graz  0-2 (0-1)
+     (Albert Vallci 13', Seedy Jatta 52')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou [Y 68'] (71' Ercan Kara),
+      Nenad Cvetkovic - Nikolaus WURMBRAND (71' Yusuf Demir),
+      Tobias Gulliksen [Y 56'] (57' Petter Nosa Dahl), Matthias SEIDL [c], Romeo Amané -
+      Bendeguz BOLLA [Y 34'], Janis Antiste (71' Marco TILIO [Y 90+1']) - Andreas Weimann
+Sturm Graz: Daniil Khudyakov - Jeyland MITCHELL [Y 68'], Albert Vallci, Paul-Friedrich Koller -
+      Jon GORENC STANKOVIC [c], Filip Rózga [Y 80'] (81' Stefan HIERLAENDER),
+      Gizo Mamageishvili [Y 34'] (73' Otari KITEISHVILI),
+      Jusuf GAZIBEGOVIC (59' Arjan MALIC) - Luca Weinhandl,
+      Jacob Hödl [Y 36'] (73' Ryan Fosso) - Seedy Jatta (73' Maurice MALONE)
+
+Refs: Sebastian Gishamer (AUT), Santino Schreiner (AUT), Roland Brandner (AUT)
+
+
+▪ Championship Round - 4
+Fri Apr 10 19:30 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 8737
+  FC Salzburg v LASK Linz  2-3 (1-1)
+     (Karim KONATE 28', Maurits KJAERGAARD 90+1';
+      Modou Cissé 8', Sasa KALAJDZIC 61', Xavier Mbuyamba 90+5')
+
+FC Salzburg: Alexander SCHLAGER - Aleksa TERZIC (68' Maurits KJAERGAARD), S. Lainer,
+      Jannik Schuster (86' Karim ONISIWO), Anrie CHASE - Sota Kitano - Frans Krätzig,
+      Kerim ALAJBEGOVIC - Yorbe Vertessen (68' Edmund Baidoo) - Karim KONATE,
+      Mads BIDSTRUP [c]
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé -
+      Ismaila COULIBALY [Y 57'] (90' Xavier Mbuyamba), Melayro BOGARDE,
+      Sasa KALAJDZIC (81' Maximilian Entrup), Kasper Jørgensen (90+4' Florian Flecker) -
+      Sascha Horvath [c] - Samuel Adeniran (81' Christoph Lang), Moses Usor
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+▪ Relegation Round - 4
+Sat Apr 11 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 2625
+  Wolfsberger AC v SV Ried  0-0 (0-0)
+
+Wolfsberger AC: Nikolas POLSTER - Cheick Diabaté, Dominik Baumgartner [c], Nicolas Wimmer -
+      Angelo Gattermayer, Simon Piesinger, Marco Sulzner (57' Emin Kujovic),
+      René Renner (19' David Djuric) - Donis Avdijaj (57' Erik Kojzek),
+      Dejan ZUKIC (80' Fabian Wohlmuth), Jessic NGANKAM (57' David ATANGA)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Martin Rasner [Y 44'] (45' Jonas Mayer), Ante Bajic - Philipp Pomer [Y 61'],
+      Nicolas Bajlicz (67' Jussef Nasrawe), Antonio Van Wyk (50' Joris Boguo) -
+      Kingstone MUTANDWA
+
+Refs: Julian Weinberger (AUT), Mattias Hartl (AUT), Mario Diesenberger (AUT)
+
+
+Sat Apr 11 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 4760
+  SCR Altach v Grazer AK  1-0 (0-0)
+     (Patrick Greil 77')
+
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech, Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre [Y 43'], Patrick Greil (87' Erkin Yalcin), Sandro Ingolitsch -
+      Yann Litawumba (90+1' Lukas GUGGANIG), Mohamed OUEDRAOGO -
+      Srdjan Hrstic (45' Marlon Mustapha)
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa (83' Martin Kreuzriegler), Beres Owusu -
+      Christian Lichtenberger (69' Murat Satin) - Jacob ITALIANO,
+      Thorsten Schriebl [c] (83' Tobias Koch), Leon Klassen,
+      Mark Grosse (56' Alexander Hofleitner) - Ramiz Harakate, Mathias OLESEN
+
+Refs: Emil Ristoskov (AUT), Alexander Borucki (AUT), Roland Brandner (AUT)
+
+
+Sat Apr 11 19:30 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5195
+  Blau-Weiß Linz v WSG Tirol  5-0 (2-0)
+     (Shon WEISSMAN 41'(p), 61', Ronivaldo 45+5'(p), 67', Nico Maier 87')
+
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c] (75' David Riegler), Manuel Maranda, Alem Pasic -
+      Alexander Briedl [Y 51'] (85' Christopher Cvetko), Simon Seidl,
+      Dominik Reiter (84' Isak Dahlqvist), Nico Maier - Simon Pirkl (84' David Bumberger) -
+      Ronivaldo (75' João Luiz), Shon WEISSMAN
+WSG Tirol: Adam Stejskal - Jamie Lawrence [Y 40'], David Kubatta (68' David Gugganig),
+      Marco Boras - Valentino Müller [c], Johannes Naschberger,
+      Benjamin Böckle [Y 45+1'] (68' Thomas Geris), Matthäus Taferner -
+      Nikolai Baden Frederiksen [Y 54'] (81' Yannick Vötter),
+      Thomas Sabitzer (45' HINTERSEER Lukas), Moritz Wels (68' Tobias Anselm)
+
+Refs: Arnes Talic (AUT), Santino Schreiner (AUT), Amar Rekik (AUT)
+
+
+▪ Championship Round - 4
+Sun Apr 12 14:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 15119
+  Sturm Graz v TSV Hartberg  0-0 (0-0)
+
+Sturm Graz: Daniil Khudyakov - Jeyland MITCHELL, Albert Vallci [Y 22'], Paul-Friedrich Koller -
+      Jon GORENC STANKOVIC [c] [Y 82'], Otari KITEISHVILI,
+      Gizo Mamageishvili (60' Maurice MALONE), Jusuf GAZIBEGOVIC (90+2' Stefan HIERLAENDER) -
+      Luca Weinhandl (60' Ryan Fosso), Jacob Hödl - Seedy Jatta (86' Rory Wilson)
+TSV Hartberg: Ammar Helac - Habib Coulibaly [Y 82'], Fabian Wilfinger,
+      Konstantin Schopp (90' Julian Halwachs) - Luca Pazourek, Benjamin Markus,
+      Tobias Kainz [Y 67'], Jürgen Heil [c] (77' Maximilian Hennig) -
+      Elias Havel (90' Damjan Kovacevic), Marco Hoffmann (64' Musibau Aziz),
+      Lukas Fridrikas (90' Youba Diarra)
+
+Refs: Isa Simsek (AUT), Roland Riedel (AUT), Manuel Undesser (AUT)
+
+
+Sun Apr 12 17:00 UTC+2 @ Generali Arena, Vienna, Att: 14130
+  Austria Wien v Rapid Wien  1-1 (1-0)
+     (Kelvin BOATENG 34'; Ercan Kara 83')
+
+Austria Wien: Samuel RADLINGER [Y 43'] - Aleksandar DRAGOVIC, Philipp Wiesinger, Johannes Handl -
+      Abubakr BARRY, Philipp Maybach (61' Florian Wustinger), LEE Taeseok, Reinhold Ranftl -
+      Manfred Fischer [c] (90+1' Marijan Österreicher),
+      Vasilije Markovic [Y 19'] (84' Matteo Schablas) - Kelvin BOATENG (62' Sanel Saljic)
+Rapid Wien: Niklas HEDL - Jakob Schöller (45' Ange Ahoussou), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic - Petter Nosa Dahl (62' Yusuf Demir),
+      Nikolaus WURMBRAND [Y 43'] (62' Ercan Kara), Matthias SEIDL [c],
+      Romeo Amané (63' Janis Antiste) - Jannes HORN [Y 88'], Bendeguz BOLLA -
+      Andreas Weimann (89' Lukas Grgic)
+
+Refs: Harald Lechner (AUT), Martin Höfler (AUT), Stefan Pichler (AUT)
+
+
+▪ Relegation Round - 5
+Fri Apr 17 19:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 7850
+  Grazer AK v SV Ried  1-1 (0-0)
+     (Ramiz Harakate 47'; Nikki Havenaar 69')
+
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa, Beres Owusu [Y 38'] -
+      Christian Lichtenberger (76' Murat Satin) - Jacob ITALIANO,
+      Thorsten Schriebl [c] [Y 65'] (66' Tobias Koch), Leon Klassen, Ramiz Harakate -
+      Alexander Hofleitner, Mathias OLESEN
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Philipp Pomer, Michael Sollbauer,
+      Oliver Steurer [Y 45+1'] - Ante Bajic [Y 45+4'] (77' Joris Boguo),
+      Jonas Mayer (62' Jussef Nasrawe) - Antonio Van Wyk (88' Evan Aisowieren),
+      Kingstone MUTANDWA, Yusuf Maart - Nicolas Bajlicz
+
+Refs: Florian Jäger (AUT), Robert Steinacher (AUT), Patrick Csobadi (AUT)
+
+
+Sat Apr 18 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1560
+  WSG Tirol v SCR Altach  2-2 (1-2)
+     (Marco Boras 43', HINTERSEER Lukas 88';
+      Sandro Ingolitsch 2', Yann Litawumba 32')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta (45' David Gugganig), Marco Boras -
+      Valentino Müller [c], Johannes Naschberger (45' Lukas Sulzbacher [Y 65']),
+      Benjamin Böckle, Matthäus Taferner - Nikolai Baden Frederiksen, HINTERSEER Lukas,
+      Moritz Wels
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c] [Y 73'] [Y/R 90'], Benedikt Zech, Filip Milojevic -
+      Vesel Demaku, Mike-Steven Bähre, Patrick Greil (79' Marlon Mustapha),
+      Sandro Ingolitsch - Yann Litawumba (79' Erkin Yalcin), Mohamed OUEDRAOGO -
+      Ousmane Diawara (65' Srdjan Hrstic)
+
+Refs: Isa Simsek (AUT), Mattias Hartl (AUT), Manuel Undesser (AUT)
+
+
+Sat Apr 18 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 6348
+  Wolfsberger AC v Blau-Weiß Linz  0-0 (0-0)
+
+Wolfsberger AC: Nikolas POLSTER - Dominik Baumgartner [c], Fabian Wohlmuth (45' Cheick Diabaté),
+      Nicolas Wimmer - Angelo Gattermayer, Simon Piesinger,
+      Marco Sulzner [Y 22'] (45' Emmanuel Agyemang), David Djuric (61' Boris Matic) -
+      Erik Kojzek (77' Markus Pink), Donis Avdijaj [Y 62'] (61' David ATANGA), Dejan ZUKIC
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c], Manuel Maranda,
+      Alem Pasic [Y 52'] (74' David Riegler) - Alexander Briedl, Simon Seidl, Dominik Reiter,
+      Nico Maier [Y 63'] (81' Mamadou Fofana) - Simon Pirkl (90+1' David Bumberger) -
+      Ronivaldo (90+2' Christopher Cvetko), Shon WEISSMAN
+
+Refs: Chiristian-Petru Ciochirca (AUT), Michael Obritzberger (AUT), Philipp Duschek (AUT)
+
+
+▪ Championship Round - 5
+Sun Apr 19 14:30 UTC+2 @ PROfertil ARENA, Hartberg, Att: 5085
+  TSV Hartberg v Rapid Wien  2-2 (1-0)
+     (Lukas Spendlhofer 45', Luca Pazourek 52';
+      Bendeguz BOLLA 48', Petter Nosa Dahl 67')
+
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly, Lukas Spendlhofer, Konstantin Schopp,
+      Benjamin Markus [Y 70'], Elias Havel (90+1' David Korherr) - Fabian Wilfinger,
+      Marco Hoffmann (77' Musibau Aziz), Lukas Fridrikas (64' Youba Diarra),
+      Luca Pazourek (77' Maximilian Hennig [Y 82']) - Jürgen Heil [c]
+Rapid Wien: Niklas HEDL - Jakob Schöller (53' Petter Nosa Dahl), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic - Nikolaus WURMBRAND (77' Yusuf Demir), Matthias SEIDL [c],
+      Ange Ahoussou, Andreas Weimann [Y 74'] - Romeo Amané (85' Lukas Grgic),
+      Bendeguz BOLLA - Ercan Kara [Y 46'] (85' Janis Antiste)
+
+Refs: Julian Weinberger (AUT), Stefan Pichler (AUT), Sebastian Gruber (AUT)
+
+
+Sun Apr 19 14:30 UTC+2 @ Generali Arena, Vienna, Att: 14532
+  Austria Wien v FC Salzburg  1-3 (0-2)
+     (Kelvin BOATENG 61';
+      Kerim ALAJBEGOVIC 3', Karim KONATE 28', Karim ONISIWO 77')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger,
+      Johannes Handl (45' Tin Plavotic) - Abubakr BARRY, LEE Taeseok (70' Matteo Schablas),
+      Sanel Saljic [Y 35'] (70' Florian Wustinger), Reinhold Ranftl -
+      Manfred Fischer [c] (82' Lee Kang-Hee), Vasilije Markovic (82' Romeo Vucic) -
+      Kelvin BOATENG [Y 62']
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig [Y 50'], Tim Drexler, S. Lainer [Y 45+1'],
+      Jannik Schuster - Sota Kitano, Maurits KJAERGAARD [Y 14'] (90' Soumaïla Diabaté),
+      Mads BIDSTRUP [c] - Yorbe Vertessen (90+1' Enrique Aguilar),
+      Karim KONATE (74' Karim ONISIWO), Kerim ALAJBEGOVIC (82' Moussa Yeo [Y 86'])
+
+Refs: Markus Hameter (AUT), Maximilian Weiss (AUT), Alexander Borucki (AUT)
+
+
+Sun Apr 19 17:00 UTC+2 @ Raiffeisen Arena, Linz, Att: 19000
+  LASK Linz v Sturm Graz  1-1 (0-1)
+     (Sasa KALAJDZIC 68'; Otari KITEISHVILI 10'(p))
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé -
+      Ismaila COULIBALY (65' George BELLO), Melayro BOGARDE, Sasa KALAJDZIC,
+      Kasper Jørgensen - Sascha Horvath [c] - Samuel Adeniran, Moses Usor (86' Christoph Lang)
+Sturm Graz: Daniil Khudyakov [Y 59'] - Jeyland MITCHELL (49' Niklas Geyrhofer),
+      Albert Vallci [Y 51'], Paul-Friedrich Koller - Jon GORENC STANKOVIC [c],
+      Otari KITEISHVILI, Jusuf GAZIBEGOVIC (80' Emir Karic),
+      Jacob Hödl [Y 44'] (70' Arjan MALIC) - Maurice MALONE (70' Gizo Mamageishvili),
+      Ryan Fosso - Seedy Jatta
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+▪ Relegation Round - 6
+Tue Apr 21 18:30 UTC+2 @ Stadion Schnabelholz, Altach, Att: 4130
+  SCR Altach v WSG Tirol  0-0 (0-0)
+
+SCR Altach: Dejan Stojanovic [c] - Rassa Rahmani, Benedikt Zech, Filip Milojevic - Vesel Demaku,
+      Mike-Steven Bähre, Sandro Ingolitsch, Mohamed OUEDRAOGO -
+      Ousmane Diawara (62' Precious Benjamin [Y 90+4']), Srdjan Hrstic (86' Marlon Mustapha),
+      Yann Litawumba
+WSG Tirol: Adam Stejskal - David Gugganig (79' David Kubatta), Jamie Lawrence, Marco Boras -
+      Valentino Müller [c], Lukas Sulzbacher,
+      Nikolai Baden Frederiksen [Y 36'] (58' Thomas Sabitzer), Benjamin Böckle -
+      Matthäus Taferner [Y 90+4'], Moritz Wels [Y 15'] (68' Christian Huetz) -
+      HINTERSEER Lukas (68' Ademola Ola-Adebomi)
+
+Refs: Markus Greinecker (AUT), Mohamed El Sadany (AUT), Njegos Vucanovic (AUT)
+
+
+Tue Apr 21 18:30 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5595
+  Blau-Weiß Linz v Wolfsberger AC  3-0 (1-0)
+     (Shon WEISSMAN 29', Nico Maier 66', 90+4')
+
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c] [Y 81'], Manuel Maranda, Alem Pasic,
+      Shon WEISSMAN (80' Christopher Cvetko), Alexander Briedl -
+      Simon Seidl (88' Paul Mensah), Nico Maier, Ronivaldo [Y 40'] (57' Mamadou Fofana),
+      Dominik Reiter (88' Isak Dahlqvist) - Simon Pirkl
+Wolfsberger AC: Nikolas POLSTER - Simon Piesinger (77' Alessandro SCHOEPF),
+      Dominik Baumgartner [c] (69' Fabian Wohlmuth), Nicolas Wimmer [Y 62'] -
+      Boris Matic [Y 76'], Angelo Gattermayer, Dejan ZUKIC (69' Donis Avdijaj),
+      Marco Sulzner - Emmanuel Agyemang, David Djuric (45' Markus Pink) -
+      Erik Kojzek (45' Jessic NGANKAM [Y 72'])
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Tue Apr 21 20:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 4023
+  SV Ried v Grazer AK  2-1 (2-0)
+     (Ante Bajic 28', Kingstone MUTANDWA 35';
+      Mark Grosse 67')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic [Y 83'], Philipp Pomer - Jussef Nasrawe (72' Jonas Mayer),
+      Nicolas Bajlicz (72' Martin Rasner [Y 90+1']), Antonio Van Wyk (78' Evan Aisowieren) -
+      Kingstone MUTANDWA
+Grazer AK: Franz Stolz - Donovan Pines [Y 45+1'], Ludwig Vraa (45' Martin Kreuzriegler),
+      Beres Owusu - Tobias Koch [c] [Y 12'] (75' Tim Paumgartner) -
+      Christian Lichtenberger (45' Murat Satin), Mukhran Bagrationi (45' Dominik Frieser),
+      Leon Klassen [Y 38'], Ramiz Harakate - Alexander Hofleitner (62' Mark Grosse),
+      Mathias OLESEN [Y 38']
+
+Refs: Daniel Pfister (AUT), Mario Diesenberger (AUT), Manuel Koller (AUT)
+
+
+▪ Championship Round - 6
+Wed Apr 22 18:30 UTC+2 @ Allianz Stadion, Vienna, Att: 18420
+  Rapid Wien v TSV Hartberg  0-2 (0-1)
+     (Jürgen Heil 34', Elias Havel 82')
+
+Rapid Wien: Niklas HEDL - Serge-Philippe Raux-Yao, Ange Ahoussou (70' Yusuf Demir),
+      Nenad Cvetkovic [Y 66'] - Ercan Kara,
+      Nikolaus WURMBRAND (70' Tobias Gulliksen [Y 81']), Matthias SEIDL [c],
+      Romeo Amané [Y 60'] (81' Janis Antiste [Y 86']) - Bendeguz BOLLA -
+      Petter Nosa Dahl (81' Jonas Auer), Andreas Weimann
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly, Fabian Wilfinger, Lukas Spendlhofer, Jürgen Heil [c] -
+      Luca Pazourek - Tobias Kainz (77' Musibau Aziz),
+      Lukas Fridrikas (90+2' Emmanuel Ojukwu), Damjan Kovacevic (78' Maximilian Hennig),
+      Marco Hoffmann (63' Elias Havel) - Benjamin Markus
+
+Refs: Stefan Ebner (AUT), Martin Höfler (AUT), Sarah Amina Gutschi (AUT)
+
+
+Wed Apr 22 18:30 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 7154
+  FC Salzburg v Austria Wien  3-1 (2-1)
+     (Yorbe Vertessen 16', Jannik Schuster 22', Samuel RADLINGER 76'(og);
+      Reinhold Ranftl 34')
+
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (80' Aleksa TERZIC), Tim Drexler, Tim Trummer,
+      Jannik Schuster - Sota Kitano - Yorbe Vertessen (80' Enrique Aguilar),
+      Maurits KJAERGAARD [Y 6'] (87' Soumaïla Diabaté),
+      Kerim ALAJBEGOVIC [Y 72'] (72' Moussa Yeo), Karim KONATE (73' Karim ONISIWO) -
+      Mads BIDSTRUP [c]
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Philipp Wiesinger,
+      Johannes Handl (59' Tin Plavotic [Y 90']) -
+      Philipp Maybach [Y 41'] (59' Florian Wustinger), Lee Kang-Hee [Y 78'],
+      LEE Taeseok (80' Matteo Schablas), Reinhold Ranftl - Manfred Fischer [c],
+      Vasilije Markovic (59' Sanel Saljic) - Kelvin BOATENG (82' Abdoulaye Kanté)
+
+Refs: Harald Lechner (AUT), Maximilian Kolbitsch (AUT), Thomas Kaplan (AUT)
+
+
+Wed Apr 22 20:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 15187
+  Sturm Graz v LASK Linz  1-1 (0-0)
+     (Otari KITEISHVILI 78'(p); Moses Usor 52')
+
+Sturm Graz: Daniil Khudyakov - Albert Vallci [Y 69'], Paul-Friedrich Koller,
+      Emanuel Aiwu (66' Gizo Mamageishvili) - Jon GORENC STANKOVIC [c], Otari KITEISHVILI,
+      Emir Karic, Arjan MALIC (45' Jusuf GAZIBEGOVIC) - Maurice MALONE, Ryan Fosso -
+      Seedy Jatta [Y 56'] (85' Rory Wilson)
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão [Y 6'] [Y/R 18'], Modou Cissé [Y 69'] -
+      Ismaila COULIBALY (88' Lukas Kacavenda), Melayro BOGARDE,
+      Sasa KALAJDZIC (45' Xavier Mbuyamba), Kasper Jørgensen -
+      Sascha Horvath [c] (90+4' Cheikne Kebe) - Samuel Adeniran [Y 57'] [Y/R 67'],
+      Moses Usor (72' George BELLO)
+
+Refs: Arnes Talic (AUT), Andreas Heidenreich (AUT), Amar Rekik (AUT)
+
+
+▪ Relegation Round - 7
+Fri Apr 24 19:30 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5595
+  Blau-Weiß Linz v SCR Altach  3-0 (0-0)
+     (Simon Seidl 66', Ronivaldo 68', Dominik Reiter 90+2')
+
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c], Manuel Maranda, Alem Pasic -
+      Isak Dahlqvist (82' Dominik Reiter), Alexander Briedl, Simon Seidl,
+      David Bumberger (45' Simon Pirkl) - Nico Maier (90+5' Christopher Cvetko) -
+      Ronivaldo (83' Mamadou Fofana), Shon WEISSMAN (90+4' Paul Mensah)
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c] (90+4' Lukas GUGGANIG), Benedikt Zech,
+      Filip Milojevic - Vesel Demaku, Mike-Steven Bähre, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO - Ousmane Diawara (56' Precious Benjamin),
+      Moritz Oswald (74' Erkin Yalcin), Yann Litawumba (74' Srdjan Hrstic)
+
+Refs: Alexander Harkam (AUT), Michael Obritzberger (AUT), Maximilian Weiss (AUT)
+
+
+Sat Apr 25 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 5071
+  Wolfsberger AC v Grazer AK  1-0 (0-0)
+     (Markus Pink 84')
+
+Wolfsberger AC: Nikolas POLSTER - Simon Piesinger, Dominik Baumgartner [c], Nicolas Wimmer -
+      Angelo Gattermayer, Alessandro SCHOEPF (78' Donis Avdijaj), Marco Sulzner,
+      Fabian Wohlmuth (86' Tobias Gruber) - Emmanuel Agyemang (62' Dejan ZUKIC),
+      René Renner (62' David ATANGA) - Jessic NGANKAM (62' Markus Pink)
+Grazer AK: Franz Stolz - Donovan Pines, Ludwig Vraa (87' Christian Lichtenberger),
+      Beres Owusu [Y 65'] - Murat Satin - Jacob ITALIANO,
+      Thorsten Schriebl [c] (68' Tobias Koch), Leon Klassen,
+      Ramiz Harakate (79' Dominik Frieser) - Alexander Hofleitner [Y 67'],
+      Mathias OLESEN (87' Mark Grosse)
+
+Refs: Alain Sadikovski (AUT), Mattias Hartl (AUT), Robert Steinacher (AUT)
+
+
+Sat Apr 25 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 1400
+  WSG Tirol v SV Ried  1-0 (0-0)
+     (Peter Kiedl 55'(og))
+
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence, Marco Boras [Y 28'] -
+      Valentino Müller [c], Lukas Sulzbacher (79' Johannes Naschberger), Benjamin Böckle,
+      Matthäus Taferner - Nikolai Baden Frederiksen (80' Christian Huetz),
+      HINTERSEER Lukas (45' Ademola Ola-Adebomi [Y 58'] (90+3' David Kubatta)), Moritz Wels
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer -
+      Yusuf Maart (56' Martin Rasner), Joris Boguo [Y 27'] (45' Jussef Nasrawe),
+      Philipp Pomer, Nicolas Bajlicz (56' Jonas Mayer) - Antonio Van Wyk (64' Saliou Sané),
+      Evan Aisowieren (11' Peter Kiedl) - Kingstone MUTANDWA
+
+Refs: Jakob Semler (AUT), Philipp Duschek (AUT), Edin Kudic (AUT)
+
+
+▪ Championship Round - 7
+Sun Apr 26 14:30 UTC+2 @ PROfertil ARENA, Hartberg, Att: 3237
+  TSV Hartberg v LASK Linz  1-5 (0-2)
+     (Elias Havel 48';
+      Xavier Mbuyamba 5', Sasa KALAJDZIC 30', 90+5', Moses Usor 46', Christoph Lang 90+2')
+
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly (45' Musibau Aziz [Y 59']), Fabian Wilfinger,
+      Lukas Spendlhofer - Luca Pazourek (45' Maximilian Hennig),
+      Benjamin Markus (84' Julian Halwachs), Tobias Kainz (75' David Korherr),
+      Jürgen Heil [c], Lukas Fridrikas (45' Elias Havel) - Damjan Kovacevic -
+      Marco Hoffmann [Y 89']
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba, Andres ANDRADE,
+      Modou Cissé [Y 52'] (87' Cheikne Kebe) - George BELLO (87' Florian Flecker),
+      Melayro BOGARDE (64' Ismaila COULIBALY), Sasa KALAJDZIC [Y 57'], Kasper Jørgensen -
+      Sascha Horvath [c] - Moses Usor (64' Christoph Lang),
+      Maximilian Entrup (75' Krystof Danek)
+
+Refs: Markus Hameter (AUT), Maximilian Kolbitsch (AUT), Mohamed El Sadany (AUT)
+
+
+Sun Apr 26 14:30 UTC+2 @ Allianz Stadion, Vienna, Att: 24166
+  Rapid Wien v FC Salzburg  1-0 (0-0)
+     (Ercan Kara 88')
+
+Rapid Wien: Niklas HEDL - Jakob Schöller (79' Tobias BORKEEIET), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic [Y 2'] (51' Nikolaus WURMBRAND) - Petter Nosa Dahl (79' Lukas Grgic),
+      Matthias SEIDL [c], Ange Ahoussou, Romeo Amané - Bendeguz BOLLA,
+      Janis Antiste (69' Yusuf Demir) - Andreas Weimann (69' Ercan Kara [Y 89'])
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (90' Aleksa TERZIC), Tim Drexler, S. Lainer [Y 78'],
+      Jannik Schuster - Sota Kitano, Yorbe Vertessen (84' Damir Redzic), Maurits KJAERGAARD,
+      Mads BIDSTRUP [c] (90' Enrique Aguilar) - Kerim ALAJBEGOVIC (57' Moussa Yeo) -
+      Karim KONATE (57' Karim ONISIWO)
+
+Refs: Chiristian-Petru Ciochirca (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+Sun Apr 26 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 15697
+  Sturm Graz v Austria Wien  1-1 (0-0)
+     (Paul-Friedrich Koller 85'; Tin Plavotic 54')
+
+Sturm Graz: Daniil Khudyakov - Albert Vallci, Paul-Friedrich Koller,
+      Emanuel Aiwu (80' Jusuf GAZIBEGOVIC [Y 90+7']) - Otari KITEISHVILI -
+      Gizo Mamageishvili, Emir Karic (81' Rory Wilson), Jacob Hödl,
+      Seedy Jatta (67' Axel Kayombo [Y 70']) - Maurice MALONE (68' Ryan Fosso),
+      Jon GORENC STANKOVIC [c]
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic, Philipp Wiesinger -
+      Philipp Maybach (64' Florian Wustinger), Lee Kang-Hee (90+1' Johannes Handl),
+      LEE Taeseok (90+1' Matteo Schablas), Sanel Saljic (77' Vasilije Markovic) -
+      Reinhold Ranftl, Manfred Fischer [c] (77' Johannes EGGESTEIN [Y 90+3']) -
+      Kelvin BOATENG [Y 80']
+
+Refs: Stefan Ebner (AUT), Martin Höfler (AUT), Sarah Amina Gutschi (AUT)
+
+
+▪ Relegation Round - 8
+Sat May 2 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 7052
+  Grazer AK v WSG Tirol  4-0 (2-0)
+     (Jacob ITALIANO 32', Mark Grosse 42', 54', Christian Lichtenberger 70')
+
+Grazer AK: Franz Stolz - Donovan Pines, Martin Kreuzriegler (75' Ludwig Vraa), Beres Owusu -
+      Christian Lichtenberger [Y 45+3'] (86' Tim Paumgartner) - Jacob ITALIANO,
+      Thorsten Schriebl [c], Leon Klassen, Mark Grosse (86' Dominik Frieser) -
+      Ramiz Harakate (58' Murat Satin), Mathias OLESEN (86' Tobias Koch)
+WSG Tirol: Adam Stejskal - David Gugganig, Jamie Lawrence [Y 49'] (62' David Kubatta),
+      Marco Boras (67' David Jaunegg [Y 90+1']) - Valentino Müller [c], Lukas Sulzbacher,
+      Nikolai Baden Frederiksen (62' Thomas Sabitzer), Johannes Naschberger -
+      Matthäus Taferner (62' Yannick Vötter), Moritz Wels -
+      HINTERSEER Lukas (76' Christian Huetz)
+
+Refs: Achim Untergasser (AUT), Roland Brandner (AUT), Mario Diesenberger (AUT)
+
+
+Sat May 2 17:00 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 6328
+  SV Ried v Blau-Weiß Linz  2-0 (1-0)
+     (Ante Bajic 29', Kingstone MUTANDWA 81'(p))
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Philipp Pomer, Michael Sollbauer,
+      Oliver Steurer [Y 89'] - Ante Bajic [Y 33'] (83' Dominik Kirnbauer),
+      Joris Boguo [Y 45'] (59' Fabian Rossdorfer) - Jussef Nasrawe (59' Jonas Mayer),
+      Kingstone MUTANDWA (89' Saliou Sané), Yusuf Maart - Nicolas Bajlicz (59' Martin Rasner)
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c] [Y 78'], Manuel Maranda, Alem Pasic - Alexander Briedl,
+      Simon Seidl [Y 71'] (77' Mamadou Fofana), Dominik Reiter (68' Isak Dahlqvist),
+      Nico Maier (84' João Luiz), Simon Pirkl (77' David Bumberger) -
+      Ronivaldo (84' Paul Mensah), Shon WEISSMAN
+
+Refs: Arnes Talic (AUT), Mattias Hartl (AUT), Amar Rekik (AUT)
+
+
+▪ Championship Round - 8
+Sun May 3 14:30 UTC+2 @ Generali Arena, Vienna, Att: 13900
+  Austria Wien v TSV Hartberg  1-0 (0-0)
+     (Kelvin BOATENG 69')
+
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC, Tin Plavotic, Philipp Wiesinger -
+      Abubakr BARRY [Y 65'] (80' Johannes Handl), Philipp Maybach (58' Kelvin BOATENG),
+      LEE Taeseok, Sanel Saljic (35' Vasilije Markovic) - Reinhold Ranftl,
+      Manfred Fischer [c] - Johannes EGGESTEIN
+TSV Hartberg: Tom Hülsmann - Fabian Wilfinger, Lukas Spendlhofer (77' Maximilian Fillafer),
+      Konstantin Schopp (89' Habib Coulibaly), Benjamin Markus,
+      Tobias Kainz (45' Elias Havel) - Jürgen Heil [c], Marco Hoffmann,
+      Lukas Fridrikas (77' David Korherr) - Luca Pazourek,
+      Maximilian Hennig (77' Damjan Kovacevic)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sun May 3 17:00 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 17318
+  FC Salzburg v Sturm Graz  1-1 (1-0)
+     (Yorbe Vertessen 22'; Axel Kayombo 90+3')
+
+FC Salzburg: Alexander SCHLAGER [c] - Frans Krätzig, Tim Drexler, S. Lainer, Jannik Schuster -
+      Yorbe Vertessen (74' Edmund Baidoo), Kerim ALAJBEGOVIC (80' Moussa Yeo) -
+      Sota Kitano (87' Aleksa TERZIC), Karim ONISIWO (80' Karim KONATE) - Soumaïla Diabaté,
+      Maurits KJAERGAARD
+Sturm Graz: Daniil Khudyakov - Jeyland MITCHELL (59' Paul-Friedrich Koller), Albert Vallci,
+      Emir Karic (73' Niklas Geyrhofer), Jusuf GAZIBEGOVIC [Y 90+9'] -
+      Gizo Mamageishvili [Y 5'] (73' Otari KITEISHVILI) - Jacob Hödl,
+      Ryan Fosso (73' Luca Weinhandl), Seedy Jatta - Maurice MALONE (88' Axel Kayombo),
+      Jon GORENC STANKOVIC [c]
+
+Refs: Harald Lechner (AUT), Maximilian Kolbitsch (AUT), Maximilian Weiss (AUT)
+
+
+▪ Relegation Round - 8
+Mon May 4 18:30 UTC+2 @ Stadion Schnabelholz, Altach, Att: 5029
+  SCR Altach v Wolfsberger AC  1-4 (1-2)
+     (Srdjan Hrstic 10';
+      Dominik Baumgartner 28', René Renner 32', Angelo Gattermayer 70', Simon Piesinger 77')
+
+SCR Altach: Dejan Stojanovic (45' Daniel Antosch) - Lukas Jäger [c], Benedikt Zech,
+      Filip Milojevic [Y 86'] - Vesel Demaku, Mike-Steven Bähre (78' Precious Benjamin),
+      Sandro Ingolitsch (84' Moritz Oswald), Mohamed OUEDRAOGO -
+      Ousmane Diawara (68' Patrick Greil), Srdjan Hrstic,
+      Yann Litawumba (84' Alexander Gorgon)
+Wolfsberger AC: Nikolas POLSTER - Simon Piesinger,
+      Dominik Baumgartner [c] [Y 15'] (45' Cheick Diabaté), Nicolas Wimmer -
+      Angelo Gattermayer, Alessandro SCHOEPF (85' Emin Kujovic),
+      Marco Sulzner [Y 56'] (85' Tobias Gruber), Fabian Wohlmuth -
+      Emmanuel Agyemang (65' Donis Avdijaj [Y 67']), René Renner -
+      Jessic NGANKAM (23' Markus Pink [Y 36'])
+
+Refs: Safak Barmaksiz (AUT), Martin Höfler (AUT), Thomas Kaplan (AUT)
+
+
+▪ Championship Round - 8
+Mon May 4 20:30 UTC+2 @ Raiffeisen Arena, Linz, Att: 16289
+  LASK Linz v Rapid Wien  3-1 (0-1)
+     (Sascha Horvath 52', Samuel Adeniran 63'(p), Moses Usor 75';
+      Janis Antiste 12')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé, Melayro BOGARDE,
+      Krystof Danek (70' Moses Usor) - Sascha Horvath [c] (90+1' Christoph Lang),
+      Samuel Adeniran (90+1' Ismaila COULIBALY),
+      Sasa KALAJDZIC [Y 90+9'] (82' Xavier Mbuyamba) - George BELLO,
+      Kasper Jørgensen (83' Florian Flecker [Y 90+9'])
+Rapid Wien: Niklas HEDL - Jakob Schöller (81' Tobias Gulliksen), Serge-Philippe Raux-Yao,
+      Ange Ahoussou (81' Tobias BORKEEIET [Y 90+9']) -
+      Petter Nosa Dahl (71' Nikolaus WURMBRAND), Matthias SEIDL [c] [R 90+7'], Romeo Amané,
+      Jannes HORN - Bendeguz BOLLA, Janis Antiste (63' Yusuf Demir) -
+      Ercan Kara (71' Andreas Weimann)
+
+Refs: Alexander Harkam (AUT), Andreas Heidenreich (AUT), Sarah Amina Gutschi (AUT)
+
+
+▪ Relegation Round - 9
+Sat May 9 17:00 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 4700
+  SV Ried v Wolfsberger AC  0-1 (0-1)
+     (Alessandro SCHOEPF 31'(p))
+
+SV Ried: Andreas Leitner [c] [Y 88'] - Nikki Havenaar [Y 87'], Michael Sollbauer,
+      Oliver Steurer - Yusuf Maart, Ante Bajic, Philipp Pomer,
+      Jussef Nasrawe (82' Saliou Sané) - Jonas Mayer (55' Martin Rasner),
+      Nicolas Bajlicz (69' Antonio Van Wyk) - Kingstone MUTANDWA
+Wolfsberger AC: Nikolas POLSTER [Y 56'] - Simon Piesinger, Cheick Diabaté, Nicolas Wimmer [c] -
+      Angelo Gattermayer (90+3' Emmanuel Chukwu), Donis Avdijaj (45' Dejan ZUKIC),
+      Alessandro SCHOEPF, Fabian Wohlmuth [Y 53'] - Emmanuel Agyemang (90+3' Emin Kujovic),
+      René Renner (82' Boris Matic) - Markus Pink (73' Erik Kojzek)
+
+Refs: Jakob Semler (AUT), Luka Katholnig (AUT), Stefan Kühr (AUT)
+
+
+Sat May 9 17:00 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 7221
+  Grazer AK v SCR Altach  2-2 (0-1)
+     (Daniel Maderner 87', Murat Satin 90+8';
+      Patrick Greil 37', Vesel Demaku 59')
+
+Grazer AK: Franz Stolz [Y 63'] - Donovan Pines, Martin Kreuzriegler [Y 81'], Beres Owusu -
+      Christian Lichtenberger (45' Alexander Hofleitner) - Jacob ITALIANO (82' Lukas Graf),
+      Thorsten Schriebl [c] [Y 52'] (62' Murat Satin), Leon Klassen [Y 77'],
+      Mark Grosse (62' Daniel Maderner) - Ramiz Harakate [Y 83'],
+      Mathias OLESEN (19' Tobias Koch)
+SCR Altach: Dejan Stojanovic - Lukas Jäger [c], Benedikt Zech, Filip Milojevic [Y 25'] -
+      Vesel Demaku (85' Alexander Gorgon), Mike-Steven Bähre,
+      Patrick Greil (73' Lukas GUGGANIG), Sandro Ingolitsch - Yann Litawumba,
+      Mohamed OUEDRAOGO - Srdjan Hrstic (79' Ousmane Diawara)
+
+Refs: Isa Simsek (AUT), Manuel Undesser (AUT), Patrick Csobadi (AUT)
+
+
+Sat May 9 17:00 UTC+2 @ Tivoli Stadion Tirol, Innsbruck, Att: 3550
+  WSG Tirol v Blau-Weiß Linz  1-1 (1-0)
+     (Nikolai Baden Frederiksen 16'; Simon Seidl 71')
+
+WSG Tirol: Adam Stejskal - Jamie Lawrence, David Kubatta [Y 42'], Marco Boras [Y 75'] -
+      Valentino Müller [c], Lukas Sulzbacher,
+      Nikolai Baden Frederiksen (60' HINTERSEER Lukas), Johannes Naschberger -
+      Matthäus Taferner [Y 14'], Moritz Wels (87' Thomas Sabitzer) -
+      Ademola Ola-Adebomi (84' Tobias Anselm)
+Blau-Weiß Linz: Nico Mantl - Manuel Maranda [c], Martin Moormann (90' David Bumberger), Alem Pasic -
+      Isak Dahlqvist, Alexander Briedl, Simon Seidl [Y 75'], Nico Maier - Simon Pirkl -
+      Ronivaldo (90' Paul Mensah), Shon WEISSMAN (81' Christopher Cvetko)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+▪ Championship Round - 9
+Sun May 10 17:00 UTC+2 @ Raiffeisen Arena, Linz, Att: 19000
+  LASK Linz v FC Salzburg  2-1 (2-0)
+     (Samuel Adeniran 33', Kasper Jørgensen 36';
+      Karim KONATE 87')
+
+LASK Linz: Lukas Jungwirth - Andres ANDRADE, Alemão, Modou Cissé [Y 90+2'], Melayro BOGARDE,
+      Samuel Adeniran (90' Xavier Mbuyamba) - Moses Usor (64' Christoph Lang),
+      Sascha Horvath [c], Sasa KALAJDZIC (61' Krystof Danek [Y 88']), George BELLO -
+      Kasper Jørgensen (90' Florian Flecker)
+FC Salzburg: Alexander SCHLAGER - Frans Krätzig (86' Enrique Aguilar), Tim Drexler, S. Lainer,
+      Jannik Schuster [c] - Soumaïla Diabaté (70' Edmund Baidoo), Sota Kitano,
+      Maurits KJAERGAARD - Karim ONISIWO, Yorbe Vertessen (70' Karim KONATE),
+      Damir Redzic (55' Kerim ALAJBEGOVIC)
+
+Refs: Markus Hameter (AUT), Alexander Borucki (AUT), Mohamed El Sadany (AUT)
+
+
+Sun May 10 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 25500
+  Rapid Wien v Austria Wien  0-2 (0-1)
+     (Sanel Saljic 9', Serge-Philippe Raux-Yao 60'(og))
+
+Rapid Wien: Niklas HEDL - Jakob Schöller (65' Yusuf Demir), Serge-Philippe Raux-Yao,
+      Nenad Cvetkovic - Lukas Grgic (82' Tobias Gulliksen), Petter Nosa Dahl, Romeo Amané,
+      Jannes HORN (25' Nikolaus WURMBRAND) - Bendeguz BOLLA, Janis Antiste (65' Ercan Kara) -
+      Andreas Weimann [c]
+Austria Wien: Samuel RADLINGER - Aleksandar DRAGOVIC [Y 27'], Tin Plavotic,
+      Philipp Wiesinger (56' Johannes Handl) - Abubakr BARRY (90+3' Ifeanyi Ndukwe),
+      Philipp Maybach (80' Florian Wustinger), LEE Taeseok,
+      Sanel Saljic (56' Kelvin BOATENG) - Reinhold Ranftl [Y 19'], Manfred Fischer [c] -
+      Johannes EGGESTEIN (80' Vasilije Markovic)
+
+Refs: Julian Weinberger (AUT), Maximilian Kolbitsch (AUT), Amar Rekik (AUT)
+
+
+Sun May 10 17:00 UTC+2 @ PROfertil ARENA, Hartberg, Att: 5085
+  TSV Hartberg v Sturm Graz  2-4 (1-3)
+     (Luca Pazourek 9', Lukas Fridrikas 56'(p);
+      Albert Vallci 2', Benjamin Markus 14'(og), Otari KITEISHVILI 25', Luca Weinhandl 80')
+
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly, Fabian Wilfinger,
+      Konstantin Schopp [Y 26'] (71' Paul Komposch [Y 85']), Benjamin Markus,
+      Maximilian Fillafer (45' Damjan Kovacevic) - Marco Hoffmann (71' David Korherr),
+      Tobias Kainz (71' Lukas Spendlhofer), Lukas Fridrikas (79' Jonas Karner),
+      Luca Pazourek - Jürgen Heil [c]
+Sturm Graz: Daniil Khudyakov - Jeyland MITCHELL, Albert Vallci, Emir Karic, Jusuf GAZIBEGOVIC -
+      Otari KITEISHVILI (85' Gizo Mamageishvili), Axel Kayombo (59' Luca Weinhandl [Y 71']) -
+      Jacob Hödl [Y 44'], Seedy Jatta (63' Maurice MALONE),
+      Jon GORENC STANKOVIC [c] [Y 51'] (59' Paul-Friedrich Koller) -
+      Ryan Fosso [Y 82'] (85' Stefan HIERLAENDER)
+
+Refs: Alain Sadikovski (AUT), Robert Steinacher (AUT), Thomas Kaplan (AUT)
+
+
+▪ Relegation Round - 10
+Sat May 16 17:00 UTC+2 @ Lavanttal Arena, Wolfsberg, Att: 5375
+  Wolfsberger AC v WSG Tirol  2-0 (1-0)
+     (Dejan ZUKIC 2', Jamie Lawrence 77'(og))
+
+Wolfsberger AC: Lukas Gütlbauer - Simon Piesinger (84' Cheick Diabaté), Dominik Baumgartner [c],
+      Nicolas Wimmer - Boris Matic, Alessandro SCHOEPF (84' Emin Kujovic),
+      Dejan ZUKIC (80' Emmanuel Agyemang), Marco Sulzner - Fabian Wohlmuth -
+      Angelo Gattermayer (62' Donis Avdijaj), Markus Pink (45' Erik Kojzek)
+WSG Tirol: Adam Stejskal - David Gugganig (80' Lukas Schweighofer), Jamie Lawrence [Y 6'],
+      David Jaunegg (45' David Kubatta [Y 53']) - Valentino Müller [c],
+      Lukas Sulzbacher (60' Yannick Vötter), Nikolai Baden Frederiksen,
+      Johannes Naschberger [Y 67'] - Thomas Geris, Moritz Wels (60' Thomas Sabitzer) -
+      Ademola Ola-Adebomi (45' HINTERSEER Lukas)
+
+Refs: Alexander Harkam (AUT), Mattias Hartl (AUT), Manuel Koller (AUT)
+
+
+Sat May 16 17:00 UTC+2 @ Stadion Schnabelholz, Altach, Att: 4700
+  SCR Altach v SV Ried  2-0 (1-0)
+     (Patrick Greil 45+6'(p), Yann Litawumba 75'(p))
+
+SCR Altach: Dejan Stojanovic - Rassa Rahmani, Lukas Jäger [c], Benedikt Zech -
+      Vesel Demaku (80' Lukas GUGGANIG), Mike-Steven Bähre, Sandro Ingolitsch,
+      Mohamed OUEDRAOGO - Srdjan Hrstic (80' Alexander Gorgon),
+      Patrick Greil [Y 31'] (90+1' Precious Benjamin), Yann Litawumba (90+1' Moritz Oswald)
+SV Ried: Andreas Leitner [c] - Jonathan Scherzer, Philip Weissenbacher (57' Nicolas Bajlicz),
+      Michael Sollbauer [Y 45+7'] (67' Nikki Havenaar), Oliver Steurer [Y 90+4'] -
+      Joris Boguo (45' Kingstone MUTANDWA), Jussef Nasrawe - Christopher Wernitznig,
+      Saliou Sané (45' Antonio Van Wyk), Yusuf Maart (57' Leonit Zeqiri) -
+      Martin Rasner [Y 26'] [Y/R 68']
+
+Refs: Markus Greinecker (AUT), Sarah Amina Gutschi (AUT), Fatih Tekeli (AUT)
+
+
+Sat May 16 17:00 UTC+2 @ Hofmann Personal Stadion, Linz, Att: 5595
+  Blau-Weiß Linz v Grazer AK  0-3 (0-1)
+     (Christian Lichtenberger 6', Alexander Hofleitner 51', Daniel Maderner 90+1')
+
+Blau-Weiß Linz: Nico Mantl - Fabio Strauss [c] (63' Elias Bakatukanda), Manuel Maranda,
+      Alem Pasic (85' David Riegler) - Alexander Briedl, Simon Seidl, Dominik Reiter [Y 75'],
+      Nico Maier (63' Christopher Cvetko) - Simon Pirkl (45' Isak Dahlqvist) - Ronivaldo,
+      Shon WEISSMAN (78' Paul Mensah)
+Grazer AK: Franz Stolz - Donovan Pines, Martin Kreuzriegler [Y 5'] (45' Ludwig Vraa),
+      Beres Owusu - Christian Lichtenberger (65' Murat Satin) - Jacob ITALIANO,
+      Thorsten Schriebl [c] (21' Tobias Koch [Y 45+3']), Leon Klassen,
+      Ramiz Harakate (87' Dominik Frieser) - Alexander Hofleitner (65' Daniel Maderner),
+      Mathias OLESEN
+
+Refs: Julian Weinberger (AUT), Andreas Heidenreich (AUT), Maximilian Kolbitsch (AUT)
+
+
+▪ Championship Round - 10
+Sun May 17 14:30 UTC+2 @ Stadion Graz-Liebenau, Graz, Att: 16150
+  Sturm Graz v Rapid Wien  2-0 (0-0)
+     (Gizo Mamageishvili 88', Stefan HIERLAENDER 90+1')
+
+Sturm Graz: Daniil Khudyakov - Jeyland MITCHELL, Albert Vallci, Paul-Friedrich Koller -
+      Jon GORENC STANKOVIC [c], Otari KITEISHVILI, Emir Karic (84' Stefan HIERLAENDER),
+      Luca Weinhandl (62' Gizo Mamageishvili) - Jacob Hödl (72' Jusuf GAZIBEGOVIC) -
+      Seedy Jatta (72' Belmin Beganovic), Maurice MALONE (62' Axel Kayombo)
+Rapid Wien: Niklas HEDL - Jakob Schöller, Serge-Philippe Raux-Yao, Nenad Cvetkovic -
+      Petter Nosa Dahl (60' Lukas Grgic), Nikolaus WURMBRAND (60' Ange Ahoussou),
+      Yusuf Demir [R 22'], Andreas Weimann [c] (86' Tobias Gulliksen) - Romeo Amané,
+      Bendeguz BOLLA - Ercan Kara
+
+Refs: Harald Lechner (AUT), Alexander Borucki (AUT), Sebastian Gruber (AUT)
+
+
+Sun May 17 14:30 UTC+2 @ Generali Arena, Vienna, Att: 15600
+  Austria Wien v LASK Linz  0-3 (0-1)
+     (Xavier Mbuyamba 38', Samuel Adeniran 49'(p), Melayro BOGARDE 76')
+
+Austria Wien: Samuel RADLINGER - Tin Plavotic, Philipp Wiesinger, Johannes Handl [Y 60'] -
+      Abubakr BARRY [Y 44'] (85' Lee Kang-Hee), Philipp Maybach (77' Kelvin BOATENG),
+      LEE Taeseok (85' Matteo Schablas), Sanel Saljic (69' Vasilije Markovic) -
+      Reinhold Ranftl, Manfred Fischer [c] (69' Florian Wustinger) - Johannes EGGESTEIN
+LASK Linz: Lukas Jungwirth - Xavier Mbuyamba, Andres ANDRADE, Alemão,
+      Melayro BOGARDE (90' Cheikne Kebe), Krystof Danek (82' Lukas Kacavenda) -
+      Sascha Horvath [c] (82' Christoph Lang), Samuel Adeniran,
+      Sasa KALAJDZIC (77' Ismaila COULIBALY) - George BELLO [Y 59'],
+      Kasper Jørgensen (90' Florian Flecker)
+
+Refs: Sebastian Gishamer (AUT), Roland Riedel (AUT), Santino Schreiner (AUT)
+
+
+Sun May 17 14:30 UTC+2 @ Red Bull Arena, Wals-Siezenheim, Att: 7653
+  FC Salzburg v TSV Hartberg  1-3 (0-2)
+     (Kerim ALAJBEGOVIC 83';
+      Marco Hoffmann 22', Fabian Wilfinger 42', Damjan Kovacevic 90')
+
+FC Salzburg: Alexander SCHLAGER [c] - Frans Krätzig (71' Aleksa TERZIC), Tim Drexler, S. Lainer,
+      Anrie CHASE - Sota Kitano - Yorbe Vertessen [Y 36'] (45' Edmund Baidoo),
+      Damir Redzic (61' Enrique Aguilar), Kerim ALAJBEGOVIC,
+      Karim ONISIWO (45' Karim KONATE) - Soumaïla Diabaté
+TSV Hartberg: Tom Hülsmann - Habib Coulibaly (76' Julian Gölles),
+      Paul Komposch (73' Konstantin Schopp), Lukas Spendlhofer [Y 78'], Benjamin Markus,
+      Fabian Wilfinger - Tobias Kainz, Marco Hoffmann (73' Maximilian Fillafer),
+      Lukas Fridrikas (87' Emmanuel Ojukwu) - Luca Pazourek (73' Damjan Kovacevic),
+      Jürgen Heil [c]
+
+Refs: Stefan Ebner (AUT), Martin Höfler (AUT), Gökhan Orhan (AUT)
+
+
+▪ Conference League Play-offs - 1st Round
+Tue May 19 18:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 2607
+  SV Ried v Wolfsberger AC  2-1 (0-0)
+     (Kingstone MUTANDWA 80', 90+3';
+      Marco Sulzner 87')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Michael Sollbauer, Oliver Steurer - Yusuf Maart,
+      Ante Bajic, Philipp Pomer, Jussef Nasrawe [Y 61'] - Nicolas Bajlicz,
+      Antonio Van Wyk (84' Joris Boguo) - Kingstone MUTANDWA
+Wolfsberger AC: Nikolas POLSTER - Simon Piesinger, Dominik Baumgartner [c] (84' Cheick Diabaté),
+      Nicolas Wimmer [Y 58'] - Boris Matic (84' René Renner), Dejan ZUKIC, Marco Sulzner,
+      Fabian Wohlmuth [Y 37'] - Emmanuel Agyemang (70' Alessandro SCHOEPF) -
+      Angelo Gattermayer [Y 72'] (84' Donis Avdijaj), Erik Kojzek (45' Emmanuel Chukwu)
+
+Refs: Markus Hameter (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+
+▪ Conference League Play-offs - Final
+Fri May 22 19:30 UTC+2 @ BWT X Oberösterreichische Arena, Ried im Innkreis, Att: 4638
+  SV Ried v Rapid Wien  2-1 (1-0)
+     (Nikki Havenaar 14', Joris Boguo 77';
+      Romeo Amané 75')
+
+SV Ried: Andreas Leitner [c] - Nikki Havenaar,
+      Michael Sollbauer (48' Fabian Rossdorfer (72' Martin Rasner)), Oliver Steurer -
+      Yusuf Maart, Ante Bajic, Joris Boguo (83' Evan Aisowieren), Philipp Pomer -
+      Jussef Nasrawe, Nicolas Bajlicz [Y 4'] - Kingstone MUTANDWA
+Rapid Wien: Niklas HEDL - Jakob Schöller, Serge-Philippe Raux-Yao,
+      Ange Ahoussou (85' Louis SCHAUB) - Petter Nosa Dahl,
+      Nikolaus WURMBRAND (71' Marco TILIO), Matthias SEIDL [c],
+      Jonas Auer (71' Furkan Demir [Y 86']) - Andreas Weimann (71' Tobias BORKEEIET),
+      Romeo Amané - Ercan Kara
+
+Refs: Walter Altmann (AUT), Roland Brandner (AUT), Luka Katholnig (AUT)
+
+
+Mon May 25 17:00 UTC+2 @ Allianz Stadion, Vienna, Att: 14604
+  Rapid Wien v SV Ried  3-0 (1-0)
+     (Jakob Schöller 26', 66', Louis SCHAUB 90+2')
+
+Rapid Wien: Niklas HEDL - Jakob Schöller, Serge-Philippe Raux-Yao, Nenad Cvetkovic,
+      Bendeguz BOLLA - Marco TILIO (75' Andreas Weimann),
+      Petter Nosa Dahl (87' Louis SCHAUB [Y 90+4']) - Nikolaus WURMBRAND,
+      Ercan Kara (87' Tobias BORKEEIET), Matthias SEIDL [c] -
+      Romeo Amané (55' Tobias Gulliksen)
+SV Ried: Andreas Leitner [c] - Nikki Havenaar, Philipp Pomer,
+      Fabian Rossdorfer (58' Martin Rasner), Oliver Steurer - Jussef Nasrawe,
+      Kingstone MUTANDWA, Joris Boguo (70' Evan Aisowieren) - Yusuf Maart - Ante Bajic,
+      Nicolas Bajlicz
+
+Refs: Chiristian-Petru Ciochirca (AUT), Maximilian Weiss (AUT), Michael Obritzberger (AUT)
+
+

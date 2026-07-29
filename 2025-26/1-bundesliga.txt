@@ -1,245 +1,644 @@
-= Österr. Bundesliga 2025/26
+= Austria | Bundesliga 2025/26
 
-# Date       Fri Aug 1 2025 - Sat Mar 7 2026 (218d)
-# Teams      12
-# Matches    132
-
-
-
-▪ 1. Round
-  Fri Aug 1 2025
-    19:30  LASK                    v Sturm Graz               0-2 (0-2)
-  Sat Aug 2
-    16:00  Wolfsberger AC          v SCR Altach               0-2 (0-0)
-           WSG Tirol               v TSV Hartberg             4-2 (2-2)
-    18:30  SV Ried                 v RB Salzburg              2-2 (1-1)
-  Sun Aug 3
-    16:00  Rapid Wien              v FC Blau Weiß Linz        1-0 (1-0)
-           Grazer AK               v Austria Wien             2-2 (1-1)
+# Dates    Fri Aug 1 2025 - Mon May 25 2026 (297d)
+# Teams    12
+# Matches  195
 
 
-▪ 2. Round
-  Sat Aug 9
-    16:00  FC Blau Weiß Linz       v TSV Hartberg             0-1 (0-1)
-           SCR Altach              v SV Ried                  1-0 (0-0)
-    18:30  RB Salzburg             v Grazer AK                5-0 (1-0)
-  Sun Aug 10
-    16:00  WSG Tirol               v LASK                     3-1 (2-0)
-           Sturm Graz              v Rapid Wien               1-2 (0-0)
-           Austria Wien            v Wolfsberger AC           0-2 (0-2)
+▪ Regular Season - 1
+Fri Aug 1 2025
+  20:30   LASK Linz  0-2 (0-2)  Sturm Graz   
+                  (Leon Grgic 9', Otari KITEISHVILI 12'(p))
+Sat Aug 2
+  17:00   WSG Tirol  4-2 (2-2)  TSV Hartberg   
+                  (Moritz Wels 25', Valentino Müller 37'(p), 80', Tobias Anselm 68';
+                   Lukas Spendlhofer 15', Elias Havel 45+2')
+  17:00   Wolfsberger AC  0-2 (0-0)  SCR Altach   
+                  (Ousmane Diawara 72', Alexander Gorgon 84')
+  19:30   SV Ried  2-2 (1-1)  FC Salzburg   
+                  (Kingstone MUTANDWA 31', Oliver Steurer 53';
+                   Sota Kitano 9', Yorbe Vertessen 90+6')
+Sun Aug 3
+  17:00   Grazer AK  2-2 (1-1)  Austria Wien   
+                  (Ramiz Harakate 22', Tio Cipot 55';
+                   Manprit Sarkaria 43', Dominik Fitz 86')
+  17:00   Rapid Wien  1-0 (1-0)  Blau-Weiß Linz   
+                  (Petter Nosa Dahl 8')
 
+▪ Regular Season - 2
+Sat Aug 9
+  17:00   SCR Altach  1-0 (0-0)  SV Ried   
+                  (Patrick Greil 65')
+  17:00   Blau-Weiß Linz  0-1 (0-1)  TSV Hartberg   
+                  (Jed Drew 45+3')
+  19:30   FC Salzburg  5-0 (1-0)  Grazer AK   
+                  (Kerim ALAJBEGOVIC 45+6', Maurits KJAERGAARD 56', Yorbe Vertessen 76', 82', Petar RATKOV 81'(p))
+Sun Aug 10
+  17:00   Austria Wien  0-2 (0-2)  Wolfsberger AC   
+                  (Alessandro SCHOEPF 6', Lee Kang-Hee 23'(og))
+  17:00   WSG Tirol  3-1 (2-0)  LASK Linz   
+                  (Moritz Wels 13', Valentino Müller 25'(p), 85';
+                   George BELLO 50')
+  17:00   Sturm Graz  1-2 (0-0)  Rapid Wien   
+                  (Otari KITEISHVILI 57';
+                   Petter Nosa Dahl 67', Claudy Mbuyi 70')
 
-▪ 3. Round
-  Sat Aug 16
-    16:00  TSV Hartberg            v RB Salzburg              1-2 (0-1)
-           Grazer AK               v WSG Tirol                1-1 (0-1)
-    18:30  SV Ried                 v Sturm Graz               1-3 (1-3)
-  Sun Aug 17
-    16:00  LASK                    v Austria Wien             2-1 (1-1)
-           Rapid Wien              v SCR Altach               0-0
-           Wolfsberger AC          v FC Blau Weiß Linz        3-0 (3-0)
+▪ Regular Season - 3
+Sat Aug 16
+  17:00   Grazer AK  1-1 (0-1)  WSG Tirol   
+                  (Beres Owusu 60'; Beres Owusu 40'(og))
+  17:00   TSV Hartberg  1-2 (0-1)  FC Salzburg   
+                  (Jed Drew 54';
+                   S. Lainer 11', Petar RATKOV 67')
+  19:30   SV Ried  1-3 (1-3)  Sturm Graz   
+                  (Peter Kiedl 13';
+                   Otari KITEISHVILI 16', 44', Max JOHNSTON 31')
+Sun Aug 17
+  17:00   LASK Linz  2-1 (1-1)  Austria Wien   
+                  (Samuel Adeniran 34', Moses Usor 69'(p);
+                   Modou Cissé 6'(og))
+  17:00   Wolfsberger AC  3-0 (2-0)  Blau-Weiß Linz   
+                  (Dejan ZUKIC 11'(p), Markus Pink 14', 48')
+  17:00   Rapid Wien  0-0 (0-0)  SCR Altach   
 
+▪ Regular Season - 4
+Sat Aug 23
+  17:00   Blau-Weiß Linz  0-2 (0-0)  SV Ried   
+                  (Philipp Pomer 51', 66')
+  17:00   FC Salzburg  3-0 (2-0)  LASK Linz   
+                  (Soumaïla Diabaté 24', Petar RATKOV 31', Edmund Baidoo 82')
+Sun Aug 24
+  17:00   SCR Altach  1-1 (1-1)  Grazer AK   
+                  (Patrick Greil 11'; Daniel Maderner 17')
+  17:00   Wolfsberger AC  1-2 (0-2)  Rapid Wien   
+                  (Dejan ZUKIC 70'(p);
+                   Nikolaus WURMBRAND 10', 41')
+  17:00   Austria Wien  1-3 (0-1)  TSV Hartberg   
+                  (Habib Coulibaly 90+3'(og);
+                   Elias Havel 12', Patrik Mijic 63', Lukas Fridrikas 73')
 
-▪ 4. Round
-  Sat Aug 23
-    16:00  RB Salzburg             v LASK                     3-0 (2-0)
-           FC Blau Weiß Linz       v SV Ried                  0-2 (0-0)
-  Sun Aug 24
-    16:00  SCR Altach              v Grazer AK                1-1 (1-1)
-           Wolfsberger AC          v Rapid Wien               1-2 (0-2)
-           Austria Wien            v TSV Hartberg             1-3 (0-1)
-  Wed Dec 3
-    19:30  Sturm Graz              v WSG Tirol
+▪ Regular Season - 5
+Sat Aug 30
+  17:00   FC Salzburg  2-2 (1-1)  Blau-Weiß Linz   
+                  (Petar RATKOV 37', 89'(p);
+                   Simon Seidl 15', 73')
+  17:00   LASK Linz  1-3 (0-2)  SV Ried   
+                  (Alemão 65';
+                   Mark Grosse 39'(p), 41', Peter Kiedl 52')
+  19:30   Grazer AK  0-3 (0-1)  Sturm Graz   
+                  (Seedy Jatta 41', 90+6', Tomi HORVAT 64')
+Sun Aug 31
+  17:00   Austria Wien  1-0 (0-0)  SCR Altach   
+                  (Dejan Radonjic 57')
+  17:00   TSV Hartberg  0-1 (0-0)  Rapid Wien   
+                  (Ercan Kara 82')
+  17:00   WSG Tirol  1-1 (1-1)  Wolfsberger AC   
+                  (Benjamin Böckle 3'; Markus Pink 2')
 
+▪ Regular Season - 6
+Sat Sep 13
+  17:00   SCR Altach  1-0 (1-0)  LASK Linz   
+                  (Ousmane Diawara 31'(p))
+  17:00   Wolfsberger AC  3-1 (2-0)  FC Salzburg   
+                  (Markus Pink 1', Alessandro SCHOEPF 33', Angelo Gattermayer 51';
+                   Yorbe Vertessen 62')
+  17:00   Blau-Weiß Linz  3-0 (2-0)  Grazer AK   
+                  (Shon WEISSMAN 24', 48', Thomas Goiginger 31')
+Sun Sep 14
+  14:30   Rapid Wien  4-1 (2-0)  WSG Tirol   
+                  (Nikolaus WURMBRAND 21', Claudy Mbuyi 45', Nenad Cvetkovic 75', Marco TILIO 90+1';
+                   Benjamin Böckle 53')
+  14:30   SV Ried  0-2 (0-1)  TSV Hartberg   
+                  (Marco Hoffmann 20', Lukas Fridrikas 90+4')
+  17:00   Sturm Graz  0-1 (0-1)  Austria Wien   
+                  (Johannes EGGESTEIN 22')
 
-▪ 5. Round
-  Sat Aug 30
-    16:00  RB Salzburg             v FC Blau Weiß Linz        2-2 (1-1)
-           LASK                    v SV Ried                  1-3 (0-2)
-    18:30  Grazer AK               v Sturm Graz               0-3 (0-1)
-  Sun Aug 31
-    16:00  TSV Hartberg            v Rapid Wien               0-1 (0-0)
-           Austria Wien            v SCR Altach               1-0 (0-0)
-           WSG Tirol               v Wolfsberger AC           1-1 (1-1)
+▪ Regular Season - 7
+Sat Sep 20
+  17:00   TSV Hartberg  2-2 (1-2)  Wolfsberger AC   
+                  (Elias Havel 27'(p), Maximilian Fillafer 77';
+                   Markus Pink 14', Dejan ZUKIC 36')
+  17:00   FC Salzburg  0-2 (0-1)  Sturm Graz   
+                  (Tomi HORVAT 41', Seedy Jatta 50')
+  17:00   Austria Wien  3-2 (0-2)  SV Ried   
+                  (Abubakr BARRY 49', Johannes EGGESTEIN 77'(p), Manfred Fischer 84';
+                   Kingstone MUTANDWA 22', 45+2')
+Sun Sep 21
+  14:30   LASK Linz  2-0 (0-0)  Blau-Weiß Linz   
+                  (Christoph Lang 86', Krystof Danek 90+3')
+  14:30   SCR Altach  1-1 (0-1)  WSG Tirol   
+                  (Srdjan Hrstic 82'; Valentino Müller 45+2')
+  17:00   Grazer AK  1-1 (0-1)  Rapid Wien   
+                  (Daniel Maderner 90+4'(p); Janis Antiste 22')
 
+▪ Regular Season - 8
+Sat Sep 27
+  17:00   SV Ried  0-0 (0-0)  Grazer AK   
+  17:00   Wolfsberger AC  1-0 (0-0)  LASK Linz   
+                  (René Renner 84')
+  17:00   Blau-Weiß Linz  1-0 (1-0)  SCR Altach   
+                  (Ronivaldo 42')
+Sun Sep 28
+  14:30   WSG Tirol  1-2 (0-1)  FC Salzburg   
+                  (HINTERSEER Lukas 90';
+                   Kerim ALAJBEGOVIC 34', Petar RATKOV 74')
+  14:30   Sturm Graz  1-0 (0-0)  TSV Hartberg   
+                  (Dominic Vincze 90+5'(og))
+  17:00   Rapid Wien  1-3 (0-1)  Austria Wien   
+                  (Claudy Mbuyi 48'(p);
+                   LEE Taeseok 24', Abubakr BARRY 49', Noah BOTIC 58')
 
-▪ 6. Round
-  Sat Sep 13
-    16:00  Wolfsberger AC          v RB Salzburg              3-1 (2-0)
-           FC Blau Weiß Linz       v Grazer AK                3-0 (2-0)
-           SCR Altach              v LASK                     1-0 (1-0)
-  Sun Sep 14
-    13:30  Rapid Wien              v WSG Tirol                4-1 (2-0)
-           SV Ried                 v TSV Hartberg             0-2 (0-1)
-    16:00  Sturm Graz              v Austria Wien             0-1 (0-1)
+▪ Regular Season - 9
+Sat Oct 4
+  17:00   Grazer AK  1-3 (1-1)  Wolfsberger AC   
+                  (Daniel Maderner 43';
+                   Markus Pink 19', Alessandro SCHOEPF 62', Donis Avdijaj 90')
+  17:00   SV Ried  2-0 (1-0)  WSG Tirol   
+                  (Mark Grosse 15'(p), Antonio Van Wyk 80')
+  17:00   Austria Wien  0-1 (0-0)  Blau-Weiß Linz   
+                  (Shon WEISSMAN 79'(p))
+Sun Oct 5
+  14:30   LASK Linz  3-3 (0-1)  TSV Hartberg   
+                  (Christoph Lang 89', Kasper Jørgensen 90+2', Andres ANDRADE 90+4';
+                   Fabian Wilfinger 45+2', Elias Havel 63', Marco Hoffmann 70')
+  14:30   SCR Altach  0-2 (0-0)  Sturm Graz   
+                  (Otari KITEISHVILI 85'(p), Belmin Beganovic 90+5')
+  17:00   FC Salzburg  2-1 (1-1)  Rapid Wien   
+                  (Soumaïla Diabaté 38', Sota Kitano 57';
+                   Andrija RADULOVIC 45')
 
+▪ Regular Season - 10
+Sat Oct 18
+  17:00   Grazer AK  0-0 (0-0)  TSV Hartberg   
+  17:00   Wolfsberger AC  1-2 (1-0)  SV Ried   
+                  (Dejan ZUKIC 20';
+                   Kingstone MUTANDWA 53', 90+4'(p))
+  17:00   WSG Tirol  2-3 (1-2)  Austria Wien   
+                  (Moritz Wels 45', Valentino Müller 69';
+                   Noah BOTIC 2', 24', Johannes EGGESTEIN 55')
+Sun Oct 19
+  14:30   FC Salzburg  2-2 (1-1)  SCR Altach   
+                  (Kerim ALAJBEGOVIC 41', Edmund Baidoo 56';
+                   Patrick Greil 34'(p), Ousmane Diawara 80')
+  14:30   Blau-Weiß Linz  3-4 (1-1)  Sturm Graz   
+                  (Ronivaldo 17', Shon WEISSMAN 75', Mamadou Fofana 84';
+                   Tochi Chukwuani 8', Maurice MALONE 63', Leon Grgic 73', Otari KITEISHVILI 87')
+  17:00   Rapid Wien  0-2 (0-2)  LASK Linz   
+                  (Moses Usor 12', Samuel Adeniran 42')
 
-▪ 7. Round
-  Sat Sep 20
-    16:00  RB Salzburg             v Sturm Graz               0-2 (0-1)
-           TSV Hartberg            v Wolfsberger AC           2-2 (1-2)
-           Austria Wien            v SV Ried                  3-2 (0-2)
-  Sun Sep 21
-    13:30  LASK                    v FC Blau Weiß Linz        2-0 (0-0)
-           SCR Altach              v WSG Tirol                1-1 (0-1)
-    16:00  Grazer AK               v Rapid Wien               1-1 (0-1)
+▪ Regular Season - 11
+Sat Oct 25
+  17:00   LASK Linz  1-0 (0-0)  Grazer AK   
+                  (Sascha Horvath 71')
+  17:00   WSG Tirol  2-0 (1-0)  Blau-Weiß Linz   
+                  (Marco Boras 45', Valentino Müller 83'(p))
+  17:00   SCR Altach  2-2 (0-0)  TSV Hartberg   
+                  (Erkin Yalcin 86', Anteo Fetahu 90+4';
+                   Elias Havel 46', Dominik PROKOP 77')
+Sun Oct 26
+  14:30   Sturm Graz  1-3 (0-3)  Wolfsberger AC   
+                  (Filip Rózga 54';
+                   Dejan ZUKIC 12', Simon Piesinger 19', René Renner 32')
+  14:30   SV Ried  0-2 (0-2)  Rapid Wien   
+                  (Nikolaus WURMBRAND 17', Ercan Kara 34')
+  17:00   Austria Wien  0-3 (0-2)  FC Salzburg   
+                  (Sota Kitano 8', Kerim ALAJBEGOVIC 16', Tim Trummer 56')
 
+▪ Regular Season - 12
+Sat Nov 1
+  17:00   TSV Hartberg  2-1 (2-0)  Austria Wien   
+                  (Dominic Vincze 13', Elias Havel 16';
+                   Philipp Wiesinger 74')
+  17:00   Blau-Weiß Linz  0-1 (0-0)  LASK Linz   
+                  (Samuel Adeniran 54')
+  17:00   Grazer AK  3-1 (1-1)  SCR Altach   
+                  (Alexander Hofleitner 38', Srdjan Hrstic 50'(og), Ramiz Harakate 90+5';
+                   Patrick Greil 42')
+Sun Nov 2
+  14:30   Wolfsberger AC  0-0 (0-0)  WSG Tirol   
+  14:30   FC Salzburg  4-1 (2-1)  SV Ried   
+                  (Clement Bischoff 1', Sota Kitano 45', Edmund Baidoo 72', Petar RATKOV 81';
+                   Kingstone MUTANDWA 34')
+  17:00   Rapid Wien  2-1 (0-1)  Sturm Graz   
+                  (Matthias SEIDL 66', Dimitri Lavalée 75'(og);
+                   Maurice MALONE 39')
 
-▪ 8. Round
-  Sat Sep 27
-    16:00  SV Ried                 v Grazer AK                0-0
-           Wolfsberger AC          v LASK                     1-0 (0-0)
-           FC Blau Weiß Linz       v SCR Altach               1-0 (1-0)
-  Sun Sep 28
-    13:30  Sturm Graz              v TSV Hartberg             1-0 (0-0)
-           WSG Tirol               v RB Salzburg              1-2 (0-1)
-    16:00  Rapid Wien              v Austria Wien             1-3 (0-1)
+▪ Regular Season - 13
+Sat Nov 8
+  17:00   SV Ried  2-1 (0-0)  Blau-Weiß Linz   
+                  (Ante Bajic 49', Kingstone MUTANDWA 90+7';
+                   Shon WEISSMAN 71')
+  17:00   Wolfsberger AC  1-2 (0-1)  TSV Hartberg   
+                  (Dominic Vincze 86'(og);
+                   Maximilian Hennig 28', Elias Havel 74')
+  17:00   Austria Wien  2-1 (1-0)  Grazer AK   
+                  (Tin Plavotic 24', Marko Raguz 90+1';
+                   Daniel Maderner 52')
+Sun Nov 9
+  14:30   WSG Tirol  1-1 (1-0)  Rapid Wien   
+                  (Nikolai Baden Frederiksen 7'; Ercan Kara 73')
+  14:30   LASK Linz  1-0 (1-0)  SCR Altach   
+                  (Erkin Yalcin 30'(og))
+  17:00   Sturm Graz  1-1 (0-0)  FC Salzburg   
+                  (Leon Grgic 46'; Yorbe Vertessen 65')
 
+▪ Regular Season - 14
+Sat Nov 22
+  17:00   SCR Altach  3-1 (1-0)  Wolfsberger AC   
+                  (Patrick Greil 30', 70', Anteo Fetahu 84'(p);
+                   Marco Sulzner 90+4')
+  17:00   TSV Hartberg  2-0 (1-0)  SV Ried   
+                  (Elias Havel 22'(p), Lukas Fridrikas 56')
+  17:00   Blau-Weiß Linz  2-3 (1-2)  Austria Wien   
+                  (Simon Seidl 20', 76';
+                   Manprit Sarkaria 13', 52', Johannes EGGESTEIN 45+2'(p))
+Sun Nov 23
+  14:30   Sturm Graz  1-3 (1-2)  LASK Linz   
+                  (Otari KITEISHVILI 7';
+                   Kasper Jørgensen 25', Moses Usor 27', Krystof Danek 60')
+  14:30   FC Salzburg  2-3 (2-0)  WSG Tirol   
+                  (Moussa Yeo 11', Edmund Baidoo 37';
+                   Nikolai Baden Frederiksen 64', Jamie Lawrence 74', Valentino Müller 90+6'(p))
+  17:00   Rapid Wien  1-2 (0-0)  Grazer AK   
+                  (Ercan Kara 74';
+                   Daniel Maderner 67'(p), Ramiz Harakate 84')
 
-▪ 9. Round
-  Sat Oct 4
-    16:00  SV Ried                 v WSG Tirol                2-0 (1-0)
-           Austria Wien            v FC Blau Weiß Linz        0-1 (0-0)
-           Grazer AK               v Wolfsberger AC           1-3 (1-1)
-  Sun Oct 5
-    13:30  LASK                    v TSV Hartberg             3-3 (0-1)
-           SCR Altach              v Sturm Graz               0-2 (0-0)
-    16:00  RB Salzburg             v Rapid Wien               2-1 (1-1)
+▪ Regular Season - 15
+Sat Nov 29
+  17:00   Grazer AK  3-1 (1-0)  Blau-Weiß Linz   
+                  (Murat Satin 4', Ramiz Harakate 75', Alexander Hofleitner 90+3'(p);
+                   Martin Moormann 88')
+  17:00   SV Ried  1-0 (0-0)  Wolfsberger AC   
+                  (Kingstone MUTANDWA 90+3')
+  17:00   Austria Wien  0-0 (0-0)  WSG Tirol   
+Sun Nov 30
+  14:30   SCR Altach  1-1 (1-1)  FC Salzburg   
+                  (Paul-Friedrich Koller 26'; Petar RATKOV 12')
+  14:30   TSV Hartberg  0-1 (0-0)  Sturm Graz   
+                  (Otari KITEISHVILI 81'(p))
+  17:00   LASK Linz  3-0 (1-0)  Rapid Wien   
+                  (Kasper Jørgensen 45+13', Moses Usor 55', Christoph Lang 83')
 
+▪ Regular Season - 4
+Wed Dec 3
+  20:30   Sturm Graz  1-3 (1-0)  WSG Tirol   
+                  (Jon GORENC STANKOVIC 38';
+                   Nikolai Baden Frederiksen 53', 75', Matthäus Taferner 67')
 
-▪ 10. Round
-  Sat Oct 18
-    16:00  Wolfsberger AC          v SV Ried                  1-2 (1-0)
-           WSG Tirol               v Austria Wien             2-3 (1-2)
-           Grazer AK               v TSV Hartberg             0-0
-  Sun Oct 19
-    13:30  RB Salzburg             v SCR Altach               2-2 (1-1)
-           FC Blau Weiß Linz       v Sturm Graz               3-4 (1-1)
-    16:00  Rapid Wien              v LASK                     0-2 (0-2)
+▪ Regular Season - 16
+Sat Dec 6
+  17:00   Rapid Wien  1-2 (1-1)  SV Ried   
+                  (Louis SCHAUB 31';
+                   Oliver Steurer 40', Philipp Pomer 54'(p))
+  17:00   TSV Hartberg  2-2 (2-1)  LASK Linz   
+                  (Tobias Kainz 6', Elias Havel 25';
+                   Kasper Jørgensen 32', Moses Usor 90+2')
+  17:00   Blau-Weiß Linz  0-2 (0-1)  FC Salzburg   
+                  (Petar RATKOV 19', Edmund Baidoo 70')
+Sun Dec 7
+  14:30   Wolfsberger AC  2-1 (2-0)  Austria Wien   
+                  (Donis Avdijaj 17', Alessandro SCHOEPF 21';
+                   LEE Taeseok 73')
+  14:30   WSG Tirol  0-3 (0-2)  SCR Altach   
+                  (Ousmane Diawara 10', 54', Patrick Greil 31')
+  17:00   Sturm Graz  2-1 (1-0)  Grazer AK   
+                  (Jeyland MITCHELL 7', Maurice MALONE 66';
+                   Christian Lichtenberger 90+10')
 
+▪ Regular Season - 17
+Sat Dec 13
+  17:00   TSV Hartberg  2-1 (0-0)  WSG Tirol   
+                  (Jürgen Heil 64', Elias Havel 70'(p);
+                   Moritz Wels 48')
+  17:00   SV Ried  3-0 (1-0)  SCR Altach   
+                  (Ante Bajic 43', Fabian Rossdorfer 61', Nikki Havenaar 79')
+  17:00   Grazer AK  1-2 (1-2)  LASK Linz   
+                  (Donovan Pines 17';
+                   Moses Usor 4', Samuel Adeniran 25')
+Sun Dec 14
+  14:30   FC Salzburg  2-1 (1-1)  Wolfsberger AC   
+                  (Kerim ALAJBEGOVIC 7', 86';
+                   Dejan ZUKIC 35'(p))
+  14:30   Blau-Weiß Linz  1-1 (1-1)  Rapid Wien   
+                  (Christopher Cvetko 29'; Nenad Cvetkovic 16')
+  17:00   Austria Wien  3-1 (2-1)  Sturm Graz   
+                  (Reinhold Ranftl 19', Johannes EGGESTEIN 37'(p), Kelvin BOATENG 90+9';
+                   Arjan MALIC 7')
 
-▪ 11. Round
-  Sat Oct 25
-    16:00  LASK                    v Grazer AK                1-0 (0-0)
-           SCR Altach              v TSV Hartberg             2-2 (0-0)
-           WSG Tirol               v FC Blau Weiß Linz        2-0 (1-0)
-  Sun Oct 26
-    13:30  Sturm Graz              v Wolfsberger AC           1-3 (0-3)
-           SV Ried                 v Rapid Wien               0-2 (0-2)
-    16:00  Austria Wien            v RB Salzburg              0-3 (0-2)
+▪ Regular Season - 18
+Fri Feb 6 2026
+  20:30   FC Salzburg  0-2 (0-2)  Austria Wien   
+                  (Abubakr BARRY 21', Johannes EGGESTEIN 24')
+Sat Feb 7
+  17:00   Rapid Wien  1-1 (0-1)  TSV Hartberg   
+                  (Bendeguz BOLLA 70'; Marco Hoffmann 15')
+  17:00   LASK Linz  1-0 (1-0)  WSG Tirol   
+                  (Samuel Adeniran 17')
+Sun Feb 8
+  14:30   Wolfsberger AC  2-2 (1-1)  Grazer AK   
+                  (David ATANGA 39', Erik Kojzek 87';
+                   Ramiz Harakate 30', 67')
+  14:30   SCR Altach  1-0 (1-0)  Blau-Weiß Linz   
+                  (Mohamed OUEDRAOGO 28')
+  17:00   Sturm Graz  1-0 (0-0)  SV Ried   
+                  (Jacob Hödl 86')
 
+▪ Regular Season - 19
+Sat Feb 14
+  17:00   WSG Tirol  1-0 (0-0)  Sturm Graz   
+                  (Jamie Lawrence 78')
+  17:00   SV Ried  1-1 (1-0)  LASK Linz   
+                  (Antonio Van Wyk 35'; Moses Usor 90+13'(p))
+  17:00   TSV Hartberg  0-0 (0-0)  SCR Altach   
+Sun Feb 15
+  14:30   Blau-Weiß Linz  2-1 (1-0)  Wolfsberger AC   
+                  (Shon WEISSMAN 44'(p), Ronivaldo 80';
+                   Emmanuel Chukwu 90+4')
+  14:30   Grazer AK  1-1 (1-1)  FC Salzburg   
+                  (Leon Klassen 16'; Karim KONATE 40')
+  17:00   Austria Wien  2-0 (2-0)  Rapid Wien   
+                  (Johannes EGGESTEIN 15', Reinhold Ranftl 34')
 
-▪ 12. Round
-  Sat Nov 1
-    16:00  Grazer AK               v SCR Altach               3-1 (1-1)
-           TSV Hartberg            v Austria Wien             2-1 (2-0)
-           FC Blau Weiß Linz       v LASK                     0-1 (0-0)
-  Sun Nov 2
-    13:30  RB Salzburg             v SV Ried                  4-1 (2-1)
-           Wolfsberger AC          v WSG Tirol                0-0
-    16:00  Rapid Wien              v Sturm Graz               2-1 (0-1)
+▪ Regular Season - 20
+Sat Feb 21
+  17:00   TSV Hartberg  1-0 (0-0)  Grazer AK   
+                  (Fabian Wilfinger 59')
+  17:00   SCR Altach  2-1 (2-1)  Austria Wien   
+                  (Filip Milojevic 31', Mohamed OUEDRAOGO 34';
+                   Johannes EGGESTEIN 33')
+  17:00   Rapid Wien  2-0 (0-0)  Wolfsberger AC   
+                  (Matthias SEIDL 72', Daniel Nunoo 90+2')
+Sun Feb 22
+  14:30   WSG Tirol  1-1 (0-1)  SV Ried   
+                  (Valentino Müller 71'; Antonio Van Wyk 22')
+  14:30   Sturm Graz  1-0 (1-0)  Blau-Weiß Linz   
+                  (Belmin Beganovic 34'(p))
+  17:00   LASK Linz  1-5 (1-3)  FC Salzburg   
+                  (Sasa KALAJDZIC 18';
+                   Kerim ALAJBEGOVIC 6', Karim KONATE 10', 64', Sota Kitano 37', Damir Redzic 90+4')
 
+▪ Regular Season - 21
+Sun Mar 1
+  17:00   Blau-Weiß Linz  2-3 (1-3)  WSG Tirol   
+                  (Nico Maier 16', Simon Seidl 50';
+                   Nikolai Baden Frederiksen 15', 19', 45+1')
+  17:00   Austria Wien  2-2 (0-1)  LASK Linz   
+                  (Aleksandar DRAGOVIC 47', Johannes EGGESTEIN 87'(p);
+                   Moses Usor 23', Christoph Lang 73')
+  17:00   Grazer AK  2-1 (2-0)  SV Ried   
+                  (Alexander Hofleitner 7', Ramiz Harakate 26';
+                   Ante Bajic 90+1')
+  17:00   Wolfsberger AC  2-2 (1-0)  Sturm Graz   
+                  (Boris Matic 19', Erik Kojzek 51';
+                   Otari KITEISHVILI 68'(p), 73')
+  17:00   SCR Altach  1-1 (0-0)  Rapid Wien   
+                  (Yann Litawumba 86'; Andreas Weimann 51')
+  17:00   FC Salzburg  0-0 (0-0)  TSV Hartberg   
 
-▪ 13. Round
-  Sat Nov 8
-    16:00  Austria Wien            v Grazer AK
-           SV Ried                 v FC Blau Weiß Linz
-           Wolfsberger AC          v TSV Hartberg
-  Sun Nov 9
-    13:30  WSG Tirol               v Rapid Wien
-           LASK                    v SCR Altach
-    16:00  Sturm Graz              v RB Salzburg
+▪ Regular Season - 22
+Sun Mar 8
+  17:00   Rapid Wien  1-0 (1-0)  FC Salzburg   
+                  (Janis Antiste 38')
+  17:00   TSV Hartberg  1-1 (1-1)  Blau-Weiß Linz   
+                  (David Riegler 1'(og); David Bumberger 11')
+  17:00   LASK Linz  3-1 (1-1)  Wolfsberger AC   
+                  (Samuel Adeniran 36', Kasper Jørgensen 69', Maximilian Entrup 90+3';
+                   Dominik Baumgartner 42')
+  17:00   SV Ried  0-2 (0-0)  Austria Wien   
+                  (Abubakr BARRY 56', Aleksandar DRAGOVIC 73')
+  17:00   Sturm Graz  2-0 (0-0)  SCR Altach   
+                  (Jacob Hödl 58', Belmin Beganovic 84')
+  17:00   WSG Tirol  2-0 (2-0)  Grazer AK   
+                  (David Kubatta 10', Ademola Ola-Adebomi 43')
 
+▪ Championship Round - 1
+Fri Mar 13
+  19:30   LASK Linz  0-0 (0-0)  TSV Hartberg   
 
-▪ 14. Round
-  Sat Nov 22
-    16:00  SCR Altach              v Wolfsberger AC
-           TSV Hartberg            v SV Ried
-           FC Blau Weiß Linz       v Austria Wien
-  Sun Nov 23
-    13:30  Sturm Graz              v LASK
-           RB Salzburg             v WSG Tirol
-    16:00  Rapid Wien              v Grazer AK
+▪ Relegation Round - 1
+Sat Mar 14
+  17:00   SCR Altach  3-1 (1-0)  Blau-Weiß Linz   
+                  (Srdjan Hrstic 41', Mohamed OUEDRAOGO 71', Manuel Maranda 86'(og);
+                   Ronivaldo 90')
+  17:00   SV Ried  2-1 (1-0)  WSG Tirol   
+                  (Kingstone MUTANDWA 45+6'(p), Philipp Pomer 85'(p);
+                   Ademola Ola-Adebomi 81')
+  17:00   Grazer AK  2-0 (1-0)  Wolfsberger AC   
+                  (Mathias OLESEN 25', Daniel Maderner 80')
 
+▪ Championship Round - 1
+Sun Mar 15
+  14:30   FC Salzburg  0-1 (0-0)  Rapid Wien   
+                  (Matthias SEIDL 69')
+  17:00   Austria Wien  2-5 (1-2)  Sturm Graz   
+                  (Matteo Schablas 1', Manfred Fischer 84';
+                   Filip Rózga 6', Otari KITEISHVILI 45+1', 55'(p), Ryan Fosso 60', Aleksandar DRAGOVIC 66'(og))
 
-▪ 15. Round
-  Sat Nov 29
-    16:00  Grazer AK               v FC Blau Weiß Linz
-           SV Ried                 v Wolfsberger AC
-           Austria Wien            v WSG Tirol
-  Sun Nov 30
-    13:30  TSV Hartberg            v Sturm Graz
-           SCR Altach              v RB Salzburg
-    16:00  LASK                    v Rapid Wien
+▪ Championship Round - 2
+Fri Mar 20
+  19:30   Sturm Graz  1-1 (1-1)  FC Salzburg   
+                  (Jon GORENC STANKOVIC 45+5'; Yorbe Vertessen 32')
 
+▪ Relegation Round - 2
+Sat Mar 21
+  17:00   Blau-Weiß Linz  3-2 (0-2)  SV Ried   
+                  (Alexander Briedl 54', Simon Seidl 64', Ronivaldo 83'(p);
+                   Peter Kiedl 3'(p), 18')
+  17:00   WSG Tirol  1-5 (1-2)  Grazer AK   
+                  (Nikolai Baden Frederiksen 19';
+                   Jacob ITALIANO 23', 65', 85'(p), Ramiz Harakate 39', 58'(p))
+  17:00   Wolfsberger AC  1-1 (1-1)  SCR Altach   
+                  (Nicolas Wimmer 45+1'; Patrick Greil 38')
 
-▪ 16. Round
-  Sat Dec 6
-    16:00  FC Blau Weiß Linz       v RB Salzburg
-           TSV Hartberg            v LASK
-           Rapid Wien              v SV Ried
-  Sun Dec 7
-    13:30  Wolfsberger AC          v Austria Wien
-           WSG Tirol               v SCR Altach
-    16:00  Sturm Graz              v Grazer AK
+▪ Championship Round - 2
+Sun Mar 22
+  14:30   TSV Hartberg  0-1 (0-1)  Austria Wien   
+                  (Manfred Fischer 45+1')
+  17:00   Rapid Wien  4-2 (2-1)  LASK Linz   
+                  (Jakob Schöller 3', Bendeguz BOLLA 33', 65'(p), Matthias SEIDL 85';
+                   Samuel Adeniran 1', Moses Usor 79')
 
+▪ Relegation Round - 3
+Fri Apr 3
+  19:30   SV Ried  3-2 (0-1)  SCR Altach   
+                  (Kingstone MUTANDWA 62', 69', 90+3'(p);
+                   Patrick Greil 27', Mohamed OUEDRAOGO 46')
+Sat Apr 4
+  17:00   WSG Tirol  3-1 (0-1)  Wolfsberger AC   
+                  (Valentino Müller 59'(p), Ademola Ola-Adebomi 77', Moritz Wels 90+4';
+                   Jessic NGANKAM 9')
+  17:00   Grazer AK  2-1 (1-0)  Blau-Weiß Linz   
+                  (Alexander Hofleitner 39'(p), Ramiz Harakate 79';
+                   Ronivaldo 62')
 
-▪ 17. Round
-  Sat Dec 13
-    16:00  TSV Hartberg            v WSG Tirol
-           SV Ried                 v SCR Altach
-           Grazer AK               v LASK
-  Sun Dec 14
-    13:30  FC Blau Weiß Linz       v Rapid Wien
-           RB Salzburg             v Wolfsberger AC
-    16:00  Austria Wien            v Sturm Graz
+▪ Championship Round - 3
+Sun Apr 5
+  14:30   TSV Hartberg  1-2 (1-0)  FC Salzburg   
+                  (Elias Havel 30';
+                   Karim KONATE 57', Sota Kitano 58')
+  14:30   LASK Linz  4-1 (4-1)  Austria Wien   
+                  (Modou Cissé 4', Kasper Jørgensen 12', Moses Usor 13', Sasa KALAJDZIC 32';
+                   LEE Taeseok 16')
+  17:00   Rapid Wien  0-2 (0-1)  Sturm Graz   
+                  (Albert Vallci 13', Seedy Jatta 52')
 
+▪ Championship Round - 4
+Fri Apr 10
+  19:30   FC Salzburg  2-3 (1-1)  LASK Linz   
+                  (Karim KONATE 28', Maurits KJAERGAARD 90+1';
+                   Modou Cissé 8', Sasa KALAJDZIC 61', Xavier Mbuyamba 90+5')
 
-▪ 18. Round
-  Fri Feb 6 2026
-           LASK                    v WSG Tirol
-           Sturm Graz              v SV Ried
-           Rapid Wien              v TSV Hartberg
-           SCR Altach              v FC Blau Weiß Linz
-           Wolfsberger AC          v Grazer AK
-           RB Salzburg             v Austria Wien
+▪ Relegation Round - 4
+Sat Apr 11
+  17:00   Wolfsberger AC  0-0 (0-0)  SV Ried   
+  17:00   SCR Altach  1-0 (0-0)  Grazer AK   
+                  (Patrick Greil 77')
+  19:30   Blau-Weiß Linz  5-0 (2-0)  WSG Tirol   
+                  (Shon WEISSMAN 41'(p), 61', Ronivaldo 45+5'(p), 67', Nico Maier 87')
 
+▪ Championship Round - 4
+Sun Apr 12
+  14:30   Sturm Graz  0-0 (0-0)  TSV Hartberg   
+  17:00   Austria Wien  1-1 (1-0)  Rapid Wien   
+                  (Kelvin BOATENG 34'; Ercan Kara 83')
 
-▪ 19. Round
-  Sat Feb 14
-           Grazer AK               v RB Salzburg
-           FC Blau Weiß Linz       v Wolfsberger AC
-           WSG Tirol               v Sturm Graz
-           SV Ried                 v LASK
-           Austria Wien            v Rapid Wien
-           TSV Hartberg            v SCR Altach
+▪ Relegation Round - 5
+Fri Apr 17
+  19:30   Grazer AK  1-1 (0-0)  SV Ried   
+                  (Ramiz Harakate 47'; Nikki Havenaar 69')
+Sat Apr 18
+  17:00   WSG Tirol  2-2 (1-2)  SCR Altach   
+                  (Marco Boras 43', HINTERSEER Lukas 88';
+                   Sandro Ingolitsch 2', Yann Litawumba 32')
+  17:00   Wolfsberger AC  0-0 (0-0)  Blau-Weiß Linz   
 
+▪ Championship Round - 5
+Sun Apr 19
+  14:30   TSV Hartberg  2-2 (1-0)  Rapid Wien   
+                  (Lukas Spendlhofer 45', Luca Pazourek 52';
+                   Bendeguz BOLLA 48', Petter Nosa Dahl 67')
+  14:30   Austria Wien  1-3 (0-2)  FC Salzburg   
+                  (Kelvin BOATENG 61';
+                   Kerim ALAJBEGOVIC 3', Karim KONATE 28', Karim ONISIWO 77')
+  17:00   LASK Linz  1-1 (0-1)  Sturm Graz   
+                  (Sasa KALAJDZIC 68'; Otari KITEISHVILI 10'(p))
 
-▪ 20. Round
-  Sat Feb 21
-           LASK                    v RB Salzburg
-           Rapid Wien              v Wolfsberger AC
-           SCR Altach              v Austria Wien
-           WSG Tirol               v SV Ried
-           Sturm Graz              v FC Blau Weiß Linz
-           TSV Hartberg            v Grazer AK
+▪ Relegation Round - 6
+Tue Apr 21
+  18:30   SCR Altach  0-0 (0-0)  WSG Tirol   
+  18:30   Blau-Weiß Linz  3-0 (1-0)  Wolfsberger AC   
+                  (Shon WEISSMAN 29', Nico Maier 66', 90+4')
+  20:30   SV Ried  2-1 (2-0)  Grazer AK   
+                  (Ante Bajic 28', Kingstone MUTANDWA 35';
+                   Mark Grosse 67')
 
+▪ Championship Round - 6
+Wed Apr 22
+  18:30   Rapid Wien  0-2 (0-1)  TSV Hartberg   
+                  (Jürgen Heil 34', Elias Havel 82')
+  18:30   FC Salzburg  3-1 (2-1)  Austria Wien   
+                  (Yorbe Vertessen 16', Jannik Schuster 22', Samuel RADLINGER 76'(og);
+                   Reinhold Ranftl 34')
+  20:30   Sturm Graz  1-1 (0-0)  LASK Linz   
+                  (Otari KITEISHVILI 78'(p); Moses Usor 52')
 
-▪ 21. Round
-  Sat Feb 28
-           RB Salzburg             v TSV Hartberg
-           Austria Wien            v LASK
-           SCR Altach              v Rapid Wien
-           Grazer AK               v SV Ried
-           Wolfsberger AC          v Sturm Graz
-           FC Blau Weiß Linz       v WSG Tirol
+▪ Relegation Round - 7
+Fri Apr 24
+  19:30   Blau-Weiß Linz  3-0 (0-0)  SCR Altach   
+                  (Simon Seidl 66', Ronivaldo 68', Dominik Reiter 90+2')
+Sat Apr 25
+  17:00   Wolfsberger AC  1-0 (0-0)  Grazer AK   
+                  (Markus Pink 84')
+  17:00   WSG Tirol  1-0 (0-0)  SV Ried   
+                  (Peter Kiedl 55'(og))
 
+▪ Championship Round - 7
+Sun Apr 26
+  14:30   TSV Hartberg  1-5 (0-2)  LASK Linz   
+                  (Elias Havel 48';
+                   Xavier Mbuyamba 5', Sasa KALAJDZIC 30', 90+5', Moses Usor 46', Christoph Lang 90+2')
+  14:30   Rapid Wien  1-0 (0-0)  FC Salzburg   
+                  (Ercan Kara 88')
+  17:00   Sturm Graz  1-1 (0-0)  Austria Wien   
+                  (Paul-Friedrich Koller 85'; Tin Plavotic 54')
 
-▪ 22. Round
-  Sat Mar 7
-           TSV Hartberg            v FC Blau Weiß Linz
-           WSG Tirol               v Grazer AK
-           SV Ried                 v Austria Wien
-           LASK                    v Wolfsberger AC
-           Rapid Wien              v RB Salzburg
-           Sturm Graz              v SCR Altach
+▪ Relegation Round - 8
+Sat May 2
+  17:00   Grazer AK  4-0 (2-0)  WSG Tirol   
+                  (Jacob ITALIANO 32', Mark Grosse 42', 54', Christian Lichtenberger 70')
+  17:00   SV Ried  2-0 (1-0)  Blau-Weiß Linz   
+                  (Ante Bajic 29', Kingstone MUTANDWA 81'(p))
+
+▪ Championship Round - 8
+Sun May 3
+  14:30   Austria Wien  1-0 (0-0)  TSV Hartberg   
+                  (Kelvin BOATENG 69')
+  17:00   FC Salzburg  1-1 (1-0)  Sturm Graz   
+                  (Yorbe Vertessen 22'; Axel Kayombo 90+3')
+
+▪ Relegation Round - 8
+Mon May 4
+  18:30   SCR Altach  1-4 (1-2)  Wolfsberger AC   
+                  (Srdjan Hrstic 10';
+                   Dominik Baumgartner 28', René Renner 32', Angelo Gattermayer 70', Simon Piesinger 77')
+
+▪ Championship Round - 8
+Mon May 4
+  20:30   LASK Linz  3-1 (0-1)  Rapid Wien   
+                  (Sascha Horvath 52', Samuel Adeniran 63'(p), Moses Usor 75';
+                   Janis Antiste 12')
+
+▪ Relegation Round - 9
+Sat May 9
+  17:00   SV Ried  0-1 (0-1)  Wolfsberger AC   
+                  (Alessandro SCHOEPF 31'(p))
+  17:00   Grazer AK  2-2 (0-1)  SCR Altach   
+                  (Daniel Maderner 87', Murat Satin 90+8';
+                   Patrick Greil 37', Vesel Demaku 59')
+  17:00   WSG Tirol  1-1 (1-0)  Blau-Weiß Linz   
+                  (Nikolai Baden Frederiksen 16'; Simon Seidl 71')
+
+▪ Championship Round - 9
+Sun May 10
+  17:00   LASK Linz  2-1 (2-0)  FC Salzburg   
+                  (Samuel Adeniran 33', Kasper Jørgensen 36';
+                   Karim KONATE 87')
+  17:00   Rapid Wien  0-2 (0-1)  Austria Wien   
+                  (Sanel Saljic 9', Serge-Philippe Raux-Yao 60'(og))
+  17:00   TSV Hartberg  2-4 (1-3)  Sturm Graz   
+                  (Luca Pazourek 9', Lukas Fridrikas 56'(p);
+                   Albert Vallci 2', Benjamin Markus 14'(og), Otari KITEISHVILI 25', Luca Weinhandl 80')
+
+▪ Relegation Round - 10
+Sat May 16
+  17:00   Wolfsberger AC  2-0 (1-0)  WSG Tirol   
+                  (Dejan ZUKIC 2', Jamie Lawrence 77'(og))
+  17:00   SCR Altach  2-0 (1-0)  SV Ried   
+                  (Patrick Greil 45+6'(p), Yann Litawumba 75'(p))
+  17:00   Blau-Weiß Linz  0-3 (0-1)  Grazer AK   
+                  (Christian Lichtenberger 6', Alexander Hofleitner 51', Daniel Maderner 90+1')
+
+▪ Championship Round - 10
+Sun May 17
+  14:30   Sturm Graz  2-0 (0-0)  Rapid Wien   
+                  (Gizo Mamageishvili 88', Stefan HIERLAENDER 90+1')
+  14:30   Austria Wien  0-3 (0-1)  LASK Linz   
+                  (Xavier Mbuyamba 38', Samuel Adeniran 49'(p), Melayro BOGARDE 76')
+  14:30   FC Salzburg  1-3 (0-2)  TSV Hartberg   
+                  (Kerim ALAJBEGOVIC 83';
+                   Marco Hoffmann 22', Fabian Wilfinger 42', Damjan Kovacevic 90')
+
+▪ Conference League Play-offs - 1st Round
+Tue May 19
+  18:30   SV Ried  2-1 (0-0)  Wolfsberger AC   
+                  (Kingstone MUTANDWA 80', 90+3';
+                   Marco Sulzner 87')
+
+▪ Conference League Play-offs - Final
+Fri May 22
+  19:30   SV Ried  2-1 (1-0)  Rapid Wien   
+                  (Nikki Havenaar 14', Joris Boguo 77';
+                   Romeo Amané 75')
+Mon May 25
+  17:00   Rapid Wien  3-0 (1-0)  SV Ried   
+                  (Jakob Schöller 26', 66', Louis SCHAUB 90+2')
