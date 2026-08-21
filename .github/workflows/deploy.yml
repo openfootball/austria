@@ -11,8 +11,11 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
-      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflows/Gemfile
+      BUNDLE_GEMFILE: ${{ github.workspace }}/source/.github/workflows/Gemfile
 
+
+##
+##  note -  github.workspace is /home/runner/work/austria/austria !!
 
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -31,10 +34,10 @@ jobs:
 
     - name: check workspace layout
       run: |
+         pwd
          ls -la
          ls -la sport.db.v2
          ls -la source
-         pwd
 
 
 
